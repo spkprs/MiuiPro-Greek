@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="press_color_to_apply">Πατήστε στο χρώμα για επιλογή</string> 
+    <string name="auto_app_launch">Εφαρμογή έναρξης</string>
+    <string name="cat_1">Ο καθαρισμός είναι σε εξέλιξη...</string>
+    <string name="cat_2">Bluetooth  Ανενεργό</string>
+    <string name="cat_3">Bluetooth Ενεργό</string>
+    <string name="cat_4">Τα δεδομένα κινητής είναι Ανενεργά</string>
+    <string name="cat_5">Τα δεδομένα κινητής είναι Ενεργά</string>
+    <string name="cat_6">Ανενεργό Wi-Fi</string>
+    <string name="cat_7">Ενεργό Wi-Fi</string>	
+</resources>

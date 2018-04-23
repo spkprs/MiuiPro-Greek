@@ -1,0 +1,7 @@
+{
+  "uri": "assets://fonts/files/DroidSansMono.ttf",
+  "iconUri": "com.miui.gallery:drawable/video_editor_font_fzse",
+  "package": "com.miui.gallery",
+  "extra": true,
+  "name": "Droid Sans Mono"
+}

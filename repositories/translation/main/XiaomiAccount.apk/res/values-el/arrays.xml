@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="account_user_gender_name">
+    <item>Άνδρας</item>
+    <item>Γυναίκα</item>
+  </string-array>
+  <string-array name="education">
+    <item>Γυμνάσιο</item>
+    <item>Δημοτικό</item>
+    <item>Λύκειο</item>
+    <item>Επαγγελματική σχολή</item>
+    <item>Κολέγιο</item>
+    <item>Πτυχίο μάστερ</item>
+    <item>Διδακτορικό</item>
+  </string-array>
+  </resources>

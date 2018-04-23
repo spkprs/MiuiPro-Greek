@@ -1,0 +1,120 @@
+{
+  "data": {
+    "hintinfo": {
+      "array_data": [
+        {
+          "key": "web_all",
+          "data": [
+            {
+              "text": "Поиск в Интернете, настройки, приложения, видео ...",
+              "ex": "web_all-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "local_all",
+          "data": [
+            {
+              "text": "Поиск в Интернете, настройки, приложения, видео ...",
+              "ex": "local_all-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "baidu",
+          "data": [
+            {
+              "text": "Поиск в Интернете",
+              "ex": "baidu-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "local_app",
+          "data": [
+            {
+              "text": "Поиск приложений",
+              "ex": "local_app-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "video",
+          "data": [
+            {
+              "text": "Поиск видео",
+              "ex": "video-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "book",
+          "data": [
+            {
+              "text": "Поиск книг",
+              "ex": "book-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "news",
+          "data": [
+            {
+              "text": "Поиск новостей",
+              "ex": "news-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "local_mms",
+          "data": [
+            {
+              "text": "Поиск сообщений",
+              "ex": "local_mms-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "local_contact",
+          "data": [
+            {
+              "text": "Поиск контактов",
+              "ex": "local_contact-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "local_file",
+          "data": [
+            {
+              "text": "Поиск файлов",
+              "ex": "local_file-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "local_settings",
+          "data": [
+            {
+              "text": "Поиск настроек",
+              "ex": "local_settings-default-ru-RU"
+            }
+          ]
+        },
+        {
+          "key": "default",
+          "data": [
+            {
+              "text": "Поиск",
+              "ex": "default-default-ru-RU"
+            }
+          ]
+        }
+      ],
+      "polling": -1
+    },
+    "input": [],
+    "search_guide": []
+  },
+  "hash": "20170523clientruru"
+}

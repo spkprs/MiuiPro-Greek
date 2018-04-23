@@ -1,0 +1,120 @@
+{
+  "data": {
+    "hintinfo": {
+      "array_data": [
+        {
+          "key": "web_all",
+          "data": [
+            {
+              "text": "Пошук у Інтэрнэце, налады, дадаткi, відэа ...",
+              "ex": "web_all-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "local_all",
+          "data": [
+            {
+              "text": "Пошук у Інтэрнэце, налады, дадаткi, відэа ...",
+              "ex": "local_all-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "baidu",
+          "data": [
+            {
+              "text": "Пошук у Інтэрнэце",
+              "ex": "baidu-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "local_app",
+          "data": [
+            {
+              "text": "Пошук дадаткаў",
+              "ex": "local_app-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "video",
+          "data": [
+            {
+              "text": "Пошук відэа",
+              "ex": "video-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "book",
+          "data": [
+            {
+              "text": "Пошук кніг",
+              "ex": "book-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "news",
+          "data": [
+            {
+              "text": "Пошук навін",
+              "ex": "news-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "local_mms",
+          "data": [
+            {
+              "text": "Пошук паведамленняў",
+              "ex": "local_mms-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "local_contact",
+          "data": [
+            {
+              "text": "Пошук кантактаў",
+              "ex": "local_contact-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "local_file",
+          "data": [
+            {
+              "text": "Пошук файлаў",
+              "ex": "local_file-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "local_settings",
+          "data": [
+            {
+              "text": "Пошук налад",
+              "ex": "local_settings-default-be-BY"
+            }
+          ]
+        },
+        {
+          "key": "default",
+          "data": [
+            {
+              "text": "Пошук",
+              "ex": "default-default-be-BY"
+            }
+          ]
+        }
+      ],
+      "polling": -1
+    },
+    "input": [],
+    "search_guide": []
+  },
+  "hash": "20170523clientbeby"
+}

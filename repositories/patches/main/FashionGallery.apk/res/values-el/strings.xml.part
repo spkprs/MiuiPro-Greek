@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="cat_1">Ταξίδια</string>
+  <string name="cat_2">Εικονογράφηση</string>
+  <string name="cat_3">Σπίτι</string>
+  <string name="cat_4">Sport</string>
+  <string name="cat_5">Επικεφαλίδες</string>
+  <string name="cat_6">Ψυχαγωγία</string>
+  <string name="cat_7">Αυτοκίνητα</string>
+  <string name="cat_8">Βιβλιογραφία</string>
+  <string name="cat_9">Μόδα</string>
+  <string name="cat_10">Ζωή</string>
+  <string name="cat_11">Τεχνολογία</string>
+  <string name="cat_12">Τέχνη</string>
+  <string name="cat_13">Κουζίνα</string>
+  <string name="cat_14">Στυλ</string>
+  <string name="cat_15">Ηθοποιοί</string>
+  <string name="cat_16">Σέξυ</string>
+  <string name="cat_17">Ταινίες</string>
+  <string name="platform_unavailable_qq">Εγκατάσταση του VK Kate Pro</string>
+  <string name="platform_unavailable_qzone">Εγκατάσταση Telegram</string>
+  <string name="platform_unavailable_weibo">Εγκατάσταση  WhatsApp</string>
+</resources>

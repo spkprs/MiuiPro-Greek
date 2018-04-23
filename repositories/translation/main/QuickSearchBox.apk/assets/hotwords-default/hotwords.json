@@ -1,0 +1,32 @@
+{
+    "message": "success",
+    "random_color": true,
+    "result": [
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Xiaomi",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "MIUI",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Android",
+            "type": "unknown",
+            "url": ""
+        }
+    ],
+    "status": 0,
+    "track_id": ""
+}

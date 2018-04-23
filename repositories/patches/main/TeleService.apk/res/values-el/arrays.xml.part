@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="call_backlight_entries">
+    <item>Μόνο εισερχόμενη κλήση</item>
+    <item>Μετά την απάντηση στην κλήση</item>
+    <item>Πάντα με τις εισερχόμενες</item>
+    <item>Πάντα με εξερχόμενες</item>
+  </string-array>
+    <string-array name="call_entries">
+        <item>Καμιά</item>
+        <item>Άνοιγμα Πληκτρολογίου</item>
+        <item>Έξοδος/Επιφάνεια εργασίας</item>
+        <item>Έξοδος/Κλείδωμα τηλεφώνου</item>
+    </string-array>
+  <string-array name="call_home_entries">
+    <item>Αποδοχή κλήσης</item>
+    <item>Απόρριψη κλήσης</item>
+    <item>Χωρίς ήχο</item>
+    <item>Ανενεργό</item>
+  </string-array>
+  <string-array name="incall_background_entries">
+    <item>Προκαθορισμένο</item>
+    <item>Κραυγή</item>
+    <item>Ματωμένα χέρια</item>
+    <item>Ο άνθρωπος με την κουκούλα</item>
+    <item>Hitman</item>
+    <item>Το χέρι πίσω από το γυαλί</item>
+  </string-array>
+  <string-array name="incall_small_background_entries">
+    <item>Προεπιλογή</item>
+    <item>Πράκτορας</item>
+    <item>Κουνέλι</item>
+    <item>Μάσκα</item>
+    <item>MI λογότυπο</item>
+    <item>Άγνωστο</item>
+  </string-array>
+  <string-array name="key_call_entries">
+    <item>Απόκρυψη</item>
+    <item>Εμφάνιση</item>
+  </string-array>
+  <string-array name="set_bitrate_entries">
+    <item>Προεπιλογή (8 kbps)</item>
+    <item>24 kbps</item>
+    <item>32 kbps</item>
+    <item>48 kbps</item>
+    <item>64 kbps</item>
+    <item>96 kbps</item>
+    <item>128 kbps</item>
+  </string-array>
+  <string-array name="set_samplingrate_entries">
+    <item>Προεπιλογή (8000 Hz)</item>
+    <item>16000 Hz</item>
+    <item>22050 Hz</item>
+    <item>44100 Hz</item>
+  </string-array>
+  <string-array name="show_search_entries">
+    <item>Εμφάνιση</item>
+    <item>Εμφάνιση σε επαφές</item>
+    <item>Εμφάνιση στην οθόνη κλήσης</item>
+    <item>Απόκρυψη</item>
+  </string-array>
+</resources>

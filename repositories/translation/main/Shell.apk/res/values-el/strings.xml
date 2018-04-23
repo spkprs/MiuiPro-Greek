@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_label">Shell</string>
+  <string name="bugreport_add_details_to_zip_failed">Δεν ήταν δυνατή η προσθήκη λεπτομερειών αναφοράς σφάλματος στο αρχείο zip</string>
+  <string name="bugreport_confirm">Οι αναφορές σφαλμάτων περιέχουν στοιχεία από διάφορα αρχεία καταγραφής του συστήματος, συμπεριλαμβανομένων των προσωπικών και ιδιωτικών πληροφοριών. Μοιραστείτε τις αναφορές σφαλμάτων μόνο με τις εφαρμογές και τα άτομα που εμπιστεύεστε.</string>
+  <string name="bugreport_confirm_dont_repeat">Μην εμφανίζετε ξανά</string>
+  <string name="bugreport_finished_pending_screenshot_text">Πατήστε για να μοιραστείτε την αναφορά σφάλματος χωρίς στιγμιότυπο οθόνης ή περιμένετε να τελειώσει το στιγμιότυπο οθόνης</string>
+  <string name="bugreport_finished_text">Πατήστε για κοινή χρήση της αναφοράς</string>
+  <string name="bugreport_finished_title">Έκθεση σφαλμάτων #%d συλληφθεί</string>
+  <string name="bugreport_in_progress_title">Έκθεση σφαλμάτων #%d δημιουργείται</string>
+  <string name="bugreport_info_action">Λεπτομέριες</string>
+  <string name="bugreport_info_description">Σύνοψη σφαλμάτων</string>
+  <string name="bugreport_info_dialog_title">Έκθεση σφαλμάτων #%d λεπτομέριες</string>
+  <string name="bugreport_info_name">Ονομα αρχείου</string>
+  <string name="bugreport_info_title">Ο τίτλος σφάλματος</string>
+  <string name="bugreport_screenshot_action">Screenshot</string>
+  <string name="bugreport_screenshot_failed">Δεν ήταν δυνατή η λήψη της οθόνης.</string>
+  <string name="bugreport_screenshot_taken">Το στιγμιότυπο λήψης έγινε με επιτυχία.</string>
+  <string name="bugreport_storage_title">Αναφορές σφαλμάτων</string>
+  <string name="bugreport_unnamed">ανώνυμα</string>
+  <string name="bugreport_unreadable_text">Δεν ήταν δυνατή η ανάγνωση του αρχείου αναφοράς σφαλμάτων</string>
+  <string name="bugreport_updating_title">Προσθήκη λεπτομερειών στην αναφορά σφάλματος</string>
+  <string name="bugreport_updating_wait">Παρακαλώ περιμένετε…</string>
+  <string name="save">Αποθηκεύσετε</string>
+</resources>

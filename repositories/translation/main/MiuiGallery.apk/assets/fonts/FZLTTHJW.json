@@ -1,0 +1,7 @@
+{
+  "uri": "assets://fonts/files/ComingSoon.ttf",
+  "iconUri": "com.miui.gallery:drawable/video_editor_font_fzlt",
+  "package": "com.miui.gallery",
+  "extra": true,
+  "name": "Coming Soon"
+}

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">Περιορισμένη σύνδεση για %s εφαρμογές</item>
+        <item quantity="one">Περιορισμένη σύνδεση για %s εφαρμογή</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d εφαρμογές μπορούν να συνδεθούν στο δίκτυο</item>
+        <item quantity="one">%d εφαρμογή μπορεί να συνδεθεί στο δίκτυο</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d εφαρμογές δεν μπορούν να συνδεθούν στο δίκτυο</item>
+        <item quantity="one">%d εφαρμογή δεν μπορεί να συνδεθεί στο δίκτυο</item>
+    </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%d εφαρμογές δεν μπορούν να εμφανίσουν ειδοποιήσεις</item>
+        <item quantity="one">%d εφαρμογή δεν μπορεί να εμφανίσει ειδοποιήσεις</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%d εφαρμογές μπορούν να εμφανίζουν ειδοποιήσεις</item>
+        <item quantity="one">%d εφαρμογή μπορεί να εμφανίζει ειδοποιήσεις</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d εναλλαγές διακοπτών θα εμφανιστούν στον πίνακα ειδοποίησης</item>
+        <item quantity="one">%1$d εναλλαγή διακοπτών θα εμφανιστεί στον πίνακα ειδοποίησης</item>
+        <item quantity="few"></item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Απομένουν %1$d βήματα να γίνετε προγραμματιστής.</item>
+        <item quantity="one">Απομένει %1$d βήμα να γίνετε προγραμματιστής.</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d δακτυλικά αποτυπώματα ρυθμίστηκαν</item>
+        <item quantity="one">%1$d δακτυλικό αποτύπωμα ρυθμίστηκε</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d γράμματα.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 γράμμα.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d πεζά γράμματα.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 πεζό γράμμα.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d κεφαλαία γράμματα.</item>
+        <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα κεφαλαίο γράμμα.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d αριθμητικά ψηφία.</item>
+        <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα αριθμητικό ψηφίο.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d ειδικά σύμβολα.</item>
+        <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα ειδικό σύμβολο.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d σύμβολα</item>
+        <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον 1 σύμβολο.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Λανθασμένος κωδικός PIN SIM, έχετε %d υπόλοιπες προσπάθειες.</item>
+        <item quantity="one">Λανθασμένος κωδικός PIN SIM, έχετε %d υπόλοιπες προσπάθειες προτού επικοινωνήσετε με τον πάροχό σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d εφαρμογές μπορούν να διαβάσουν τις ειδοποιήσεις</item>
+        <item quantity="one">%d εφαρμογή μπορεί να διαβάσει τις ειδοποιήσεις</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Αλλαγή αφυπνήσεων για %1$d λεπτά (μέχρι %2$s)</item>
+        <item quantity="one">Αλλαγή αφυπνήσεων για ένα λεπτό μέχρι %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Αλλαγή αφυπνήσεων για %1$d ώρες έως %2$s</item>
+        <item quantity="one">Αλλαγή αφυπνήσεων για μία ώρα μέχρι %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d άδειες</item>
+        <item quantity="one">%d άδεια</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d άδειες του %2$d χορηγήθηκαν</item>
+        <item quantity="one">%1$d άδεια του %2$d χορηγήθηκε</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d πρόσθετες άδειες</item>
+        <item quantity="one">%d πρόσθετη άδεια</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d εφαρμογές μπορούν να ανοίξουν τους υποστηριζόμενους συνδέσμους</item>
+        <item quantity="zero">Καμία εφαρμογή δεν μπορεί να ανοίξει κανένα υποστηριζόμενο σύνδεσμο</item>
+        <item quantity="one">Μια εφαρμογή μπορεί να ανοίξει τους υποστηριζόμενους συνδέσμους</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d εφαρμογές επιτρέπεται να αγνοούν τη βελτιστοποίηση της μπαταρίας</item>
+        <item quantity="one">Επιτρέπει μια εφαρμογή να αγνοήσει τη βελτιστοποίηση της μπαταρίας</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d εφαρμογές χρησιμοποίησαν τη μνήμη τα τελευταία %2$s</item>
+        <item quantity="one">1 εφαρμογή χρησιμοποίησε μνήμη το τελευταίο %2$s</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d κίνδυνοι βρέθηκαν</item>
+        <item quantity="one">%d κίνδυνος βρέθηκε</item>
+        <item quantity="few"></item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d εφαρμογές επιτρέπεται να πραγματοποιούν αυτόματη εκκίνηση</item>
+        <item quantity="one">%d εφαρμογή επιτρέπεται να πραγματοποιεί αυτόματη εκκίνηση</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">Το PIN πρέπει να είναι %d ψηφία</item>
+        <item quantity="one">Το PIN πρέπει να είναι %d ψηφίο</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">Κοινόχρηστα %d δίκτυα</item>
+        <item quantity="one">Κοινόχρηστο %d δίκτυο</item>
+        <item quantity="few"></item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d συσκευές</item>
+        <item quantity="one">%d συσκευή</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d συνδεδεμένα άτομα</item>
+        <item quantity="one">%1$d συνδεδεμένο άτομα</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Απομένουν %1$d βήματα για είσοδο στις πληροφορίες τηλεφώνου.</item>
+        <item quantity="one">Απομένει %1$d βήμα για είσοδο στις πληροφορίες τηλεφώνου.</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Είσται %1$d βήματα μακριά από την είσοδο CIT.</item>
+        <item quantity="one">Είσται %1$d βήμα μακριά από την είσοδο CIT.</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Είσαι %1$d βήματα μακριά από την αναφορά σφαλμάτων.</item>
+        <item quantity="one">Είσαι %1$d βήμα μακριά από την αναφορά σφαλμάτων.</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Απενεργοποιείτε πάντα για %d εφαρμογές</item>
+        <item quantity="one">Απενεργοποιείτε πάντα για 1 εφαρμογή</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Ποτέ μην απενεργοποιήτε %d εφαρμογές</item>
+        <item quantity="one">Μην απενεργοποιείτε ποτέ για 1 εφαρμογή</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">Το PIN πρέπει να είναι %d ψήφια</item>
+        <item quantity="one">Το PIN πρέπει να είναι %d ψήφιο</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">Το PIN μπορεί να περιέχει έως και %d ψηφία</item>
+        <item quantity="one">Το PIN μπορεί να περιέχει έως και %d ψηφίο</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Συνδέστε τουλάχιστον %d τελείες. Προσπαθήστε ξανά.</item>
+        <item quantity="one">Συνδέστε τουλάχιστον %d τελεία. Προσπαθήστε ξανά.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Πολλές αποτυχημένες προσπάθειες. Δοκιμάστε ξανά σε %d δευτ.</item>
+        <item quantity="one">Πολλές αποτυχημένες προσπάθειες. Δοκιμάστε ξανά σε %d δεύτ.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Περιμένετε για %d και προσπαθήστε ξανά.</item>
+        <item quantity="one">Περιμένετε για %d και δοκιμάστε ξανά.</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Να καταργηθούν επιλεγμένες γλώσσες;</item>
+        <item quantity="one">Κατάργηση επιλεγμένης γλώσσας;</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d αντικείμενα</item>
+        <item quantity="one">1 αντικείμενο</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Εξαιρετικά μικρή καθυστέρηση (%1$d ms)</item>
+        <item quantity="one">Εξαιρετικά μικρή καθυστέρηση (%1$d ms)</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Πολύ μικρή καθυστέρηση (%1$d ms)</item>
+        <item quantity="one">Πολύ μικρή καθυστέρηση (%1$d ms)</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Μικρή καθυστέρηση (%1$d ms)</item>
+        <item quantity="one">Μικρή καθυστέρηση (%1$d ms)</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Μεγάλη καθυστέρηση (%1$d ms)</item>
+        <item quantity="one">Μεγάλη καθυστέρηση (%1$d ms)</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Πολύ μεγάλη καθυστέρηση (%1$d ms)</item>
+        <item quantity="one">Πολύ μεγάλη καθυστέρηση (%1$d ms)</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d εργασίες εκτύπωσης</item>
+        <item quantity="one">1 εργασία εκτύπωσης</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Εμπιστευθείτε ή καταργήστε τα πιστοποιητικά</item>
+        <item quantity="one">Εμπιστευθείτε ή καταργήστε το πιστοποιητικό</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s έχει εγκαταστήσει έκδοση πιστοποιητικών στη συσκευή σας, η οποία μπορεί να τους επιτρέπει να παρακολουθούν δραστηριότητα δικτύου της συσκευής σας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, εφαρμογές και ασφαλείς τοποθεσίες web.
+
+Για περισσότερες πληροφορίες σχετικά με τα πιστοποιητικά αυτά, επικοινωνήστε με το διαχειριστή."</item>
+        <item quantity="one">"%s έχει εγκαταστήσει έκδοση πιστοποιητικών στη συσκευή σας, η οποία μπορεί να τους επιτρέπει να παρακολουθούν δραστηριότητα δικτύου της συσκευής σας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, εφαρμογές και ασφαλείς τοποθεσίες web.
+
+Για περισσότερες πληροφορίες σχετικά με αυτό το πιστοποιητικό, επικοινωνήστε με το διαχειριστή."</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s έχει εγκαταστήσει έκδοση πιστοποιητικών για το προφίλ εργασίας σας, γεγονός που μπορεί να τους επιτρέψει να παρακολουθούν τη δραστηριότητα του δικτύου εργασίας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, των εφαρμογών και των ασφαλών ιστότοπων.
+
+Για περισσότερες πληροφορίες σχετικά με αυτά τα πιστοποιητικά, επικοινωνήστε με το διαχειριστή σας."</item>
+        <item quantity="one">"%s έχει εγκαταστήσει έκδοσης πιστοποιητικών για το προφίλ εργασίας σας, η οποία μπορεί να τους επιτρέψει να παρακολουθεί τη δραστηριότητα του δικτύου εργασίας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, των εφαρμογών και των ασφαλών ιστότοπων.
+
+Για περισσότερες πληροφορίες σχετικά με αυτό το πιστοποιητικό, επικοινωνήστε με το διαχειριστή σας."</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Ελέγξτε τα πιστοποιητικά</item>
+        <item quantity="one">Ελέγξτε το πιστοποιητικό</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d εφαρμογές έχουν αποκλειστεί από την αποστολή</item>
+        <item quantity="one">%d η εφαρμογή έχει αποκλειστεί από την αποστολή</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d εφαρμογές επιτρέπεται να χρησιμοποιούν απεριόριστα δεδομένα όταν η λειτουργία Εξοικονόμηση δεδομένων είναι ενεργοποιημένη</item>
+        <item quantity="one">1 εφαρμογή επιτρέπεται να χρησιμοποιεί απεριόριστα δεδομένα όταν είναι ενεργοποιημένη η Εξοικονόμηση δεδομένων</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+</resources>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="stat_volume_button_behaviors">
+        <item>Καμία ενέργεια</item>
+        <item>Αναβολή αφύπνισης</item>
+        <item>Διακοπή αφύπνισης</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Αφύπνιση σε λιγότερο από ένα λεπτό</item>
+        <item>Αφύπνιση σε %1$s</item>
+        <item>Αφύπνιση σε %2$s</item>
+        <item>Αφύπνιση σε %1$s %2$s</item>
+        <item>Αφύπνιση σε %3$s</item>
+        <item>Αφύπνιση σε %1$s %3$s</item>
+        <item>Αφύπνιση σε %2$s %3$s</item>
+        <item>Αφύπνιση σε %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Xθές</item>
+        <item>Σήμερα</item>
+        <item>Αύριο</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Μία φορά</item>
+        <item>Κάθε μέρα</item>
+        <item>Εργάσιμες ημέρες</item>
+        <item>Αργίες</item>
+        <item>Δευτέρα έως Παρασκευή</item>
+        <item>Προσαρμογή</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Μία φορά</item>
+        <item>Καθημερινά</item>
+        <item>Δευτέρα έως Παρασκευή</item>
+        <item>Προσαρμογή</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Καλός</item>
+        <item>Ικανοποιητικός</item>
+        <item>Μέτρια μόλυνση</item>
+        <item>Φτωχός</item>
+        <item>Πολύ φτωχός</item>
+        <item>Δριμύς</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Μειώστε τις υπαίθριες δραστηριότητες</item>
+        <item>Οι δρόμοι είναι ολισθηροί</item>
+        <item>Ο καιρός είναι θυελλώδης, προσέξτε!</item>
+        <item>Ο αέρας είναι μολυσμένος, να φοράς μάσκα.</item>
+        <item>Πάρτε μια ομπρέλα όταν βγαίνετε έξω</item>
+        <item>Να είστε προσεκτικοί στο δρόμο</item>
+        <item>Αμμοθύελλα έρχεται, να φοράς μάσκα.</item>
+        <item>Να εχεις μια ωραια μερα!</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Επόμενη Αφύπνιση σε λιγότερο από ένα λεπτό.</item>
+        <item>Αφύπνιση σε %1$s</item>
+        <item>Αφύπνιση σε %2$s</item>
+        <item>Αφύπνιση σε %1$s και %2$s</item>
+        <item>Αφύπνιση σε %3$s</item>
+        <item>Αφύπνιση σε %1$s και %3$s</item>
+        <item>Αφύπνιση σε %2$s και %3$s</item>
+        <item>Αφύπνιση σε %1$s , %2$s και %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 λεπτό</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>20 λεπτά</item>
+        <item>25 λεπτά</item>
+        <item>30 λεπτά</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Ανενεργό</item>
+        <item>1 λεπτό</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>20 λεπτά</item>
+        <item>25 λεπτά</item>
+        <item>30 λεπτά</item>
+    </string-array>
+    <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Καμία ενέργεια</item>
+        <item>Αναβολή αφύπνισης</item>
+        <item>Διακοπή αφύπνισης</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

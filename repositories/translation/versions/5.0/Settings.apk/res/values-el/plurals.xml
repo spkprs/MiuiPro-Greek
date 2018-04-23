@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="auto_disable_screenbuttons_disabled_header_title">
+    <item quantity="other">Ποτέ μην απενεργοποιήτε %d εφαρμογές</item>
+    <item quantity="one">Μην απενεργοποιείτε ποτέ για 1 εφαρμογή</item>
+  </plurals>
+  <plurals name="auto_disable_screenbuttons_enabled_header_title">
+    <item quantity="other">Απενεργοποιείτε πάντα για %d εφαρμογές</item>
+    <item quantity="one">Απενεργοποιείτε πάντα για 1 εφαρμογή</item>
+  </plurals>
+  <plurals name="auto_startup_count">
+    <item quantity="other">%d εφαρμογές επιτρέπεται να πραγματοποιούν αυτόματη εκκίνηση</item>
+    <item quantity="one">%d εφαρμογή επιτρέπεται να πραγματοποιεί αυτόματη εκκίνηση</item>
+  </plurals>
+  <plurals name="connected_devices_number">
+    <item quantity="other">%d συσκευές</item>
+    <item quantity="one">%d συσκευή</item>
+  </plurals>
+  <plurals name="free_wifi_connected_count">
+    <item quantity="other">%1$d άτομα συνδεδεμένα</item>
+    <item quantity="one">%1$d συνδεδεμένο πρόσωπο</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d γράμματα.</item>
+    <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 γράμμα.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d πεζά γράμματα.</item>
+    <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 πεζό γράμμα.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d σύμβολα</item>
+    <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον 1 σύμβολο.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d αριθμητικά ψηφία.</item>
+    <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα αριθμητικό ψηφίο.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d ειδικά σύμβολα.</item>
+    <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα ειδικό σύμβολο.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="other">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον %d κεφαλαία γράμματα.</item>
+    <item quantity="one">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον ένα κεφαλαίο γράμμα.</item>
+  </plurals>
+  <plurals name="lockpassword_pin_fixed_length">
+    <item quantity="other">Το PIN πρέπει να είναι %d ψηφία</item>
+    <item quantity="one">Το PIN πρέπει να είναι %d ψηφίο</item>
+  </plurals>
+  <plurals name="lockpassword_pin_too_long">
+    <item quantity="other">Το PIN μπορεί να περιέχει έως και %d ψηφία</item>
+    <item quantity="one">Το PIN μπορεί να περιέχει έως και %d ψηφίο</item>
+  </plurals>
+  <plurals name="lockpassword_pin_too_short">
+    <item quantity="other">Το PIN πρέπει να είναι %d ψήφια</item>
+    <item quantity="one">Το PIN πρέπει να είναι %d ψήφιο</item>
+  </plurals>
+  <plurals name="lockpattern_recording_incorrect_too_short">
+    <item quantity="other">Συνδέστε τουλάχιστον %d τελείες. Προσπαθήστε ξανά.</item>
+    <item quantity="one">Συνδέστε τουλάχιστον %d τελεία. Προσπαθήστε ξανά.</item>
+  </plurals>
+  <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+    <item quantity="other">Πάρα πολλές αποτυχημένες προσπάθειες. Δοκιμάστε ξανά σε %d δευτ.</item>
+    <item quantity="one">Πάρα πολλές αποτυχημένες προσπάθειες. Δοκιμάστε ξανά σε %d δεύτ.</item>
+  </plurals>
+  <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+    <item quantity="other">Περίμενε για %d και προσπαθήστε ξανά.</item>
+    <item quantity="one">Περίμενε για %d και δοκιμάστε ξανά.</item>
+  </plurals>
+  <plurals name="manage_condition_providers_summary_nonzero">
+    <item quantity="other">%d οι εφαρμογές παρέχουν όρους</item>
+    <item quantity="one">%d app παρέχει τις προϋποθέσεις</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="other">%d εφαρμογές μπορούν να διαβάσουν τις ειδοποιήσεις</item>
+    <item quantity="one">%d εφαρμογή μπορεί να διαβάσει τις ειδοποιήσεις</item>
+  </plurals>
+  <plurals name="settings_toggle_position_divider_page">
+    <item quantity="other">%1$d οι εναλλαγές διακοπτών θα εμφανιστούν στην κουρτίνα ειδοποίησης</item>
+    <item quantity="one">%1$d η εναλλαγή διακοπτών θα εμφανιστεί στην κουρτίνα ειδοποίησης</item>
+  </plurals>
+  <plurals name="show_cit_countdown">
+    <item quantity="other">Είσαι %1$d βήματα μακριά από την είσοδο CIT.</item>
+    <item quantity="one">Είσαι %1$d βήμα μακριά από την είσοδο CIT.</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="other">Απομένουν %1$d βήματα να γίνετε προγραμματιστής.</item>
+    <item quantity="one">Απομένει %1$d βήμα να γίνετε προγραμματιστής.</item>
+  </plurals>
+  <plurals name="show_pho_countdown">
+    <item quantity="other">Απομένουν %1$d βήματα από τις πληροφορίες τηλεφώνου.</item>
+    <item quantity="one">Απομένει %1$d βήμα από τις πληροφορίες τηλεφώνου.</item>
+  </plurals>
+  <plurals name="show_rep_countdown">
+    <item quantity="other">Είσαι %1$d βήματα μακριά από την αναφορά σφαλμάτων.</item>
+    <item quantity="one">Είσαι %1$d βήμα μακριά από την αναφορά σφαλμάτων.</item>
+  </plurals>
+  <plurals name="status_bar_settings_disabled_header_title">
+    <item quantity="other">%d εφαρμογές δεν μπορούν να εμφανίσουν ειδοποιήσεις</item>
+    <item quantity="one">%d εφαρμογή δεν μπορεί να εμφανίσει ειδοποιήσεις</item>
+  </plurals>
+  <plurals name="status_bar_settings_enabled_header_title">
+    <item quantity="other">%d εφαρμογές μπορούν να εμφανίζουν ειδοποιήσεις</item>
+    <item quantity="one">%d εφαρμογή μπορεί να εμφανίζει ειδοποιήσεις</item>
+  </plurals>
+  <plurals name="wifi_share_count">
+    <item quantity="other">Κοινόχρηστα %d δίκτυα</item>
+    <item quantity="one">Κοινόχρηστο %d δίκτυο</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="other">Λανθασμένος κωδικός PIN SIM, έχετε %d υπόλοιπες προσπάθειες.</item>
+    <item quantity="one">Λανθασμένος κωδικός PIN SIM, έχετε %d υπόλοιπες προσπάθειες προτού επικοινωνήσετε με τον πάροχό σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+  </plurals>
+</resources>

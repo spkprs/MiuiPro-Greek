@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="lang_detect">
+    <item>中</item>
+    <item>繁</item>
+    <item>英</item>
+    <item>韩</item>
+    <item>日</item>
+    <item>法</item>
+  </string-array>
+  <string-array name="lang_fast_detect">
+    <item />
+    <item>德</item>
+    <item>英</item>
+    <item>西</item>
+    <item>ελλάδα</item>
+    <item>法</item>
+    <item>κροατία</item>
+    <item>意</item>
+    <item>荷</item>
+    <item>πολωνία</item>
+    <item>πορτογαλία</item>
+    <item>俄</item>
+    <item>ρουμανία</item>
+    <item>σουηδία</item>
+    <item>αραβικά</item>
+    <item>中</item>
+    <item>日</item>
+    <item>韩</item>
+    <item>περσικά</item>
+    <item>φινλανδία</item>
+    <item>νορβηγία</item>
+  </string-array>
+  <string-array name="lang_fast_internal_language">
+    <item>αγγλικά και κινέζικα</item>
+    <item>κινέζικα και αγγλικά</item>
+  </string-array>
+  <string-array name="lang_fast_internal_language_codes">
+    <item>αγγλικά στο επόμενο</item>
+    <item>γιούκαρι νακαγκάμι</item>
+  </string-array>
+  <string-array name="version_list_entries">
+    <item>Stable</item>
+    <item>Alpha</item>
+  </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="led_color_entries">
+        <item>Κίτρινος</item>
+        <item>Κυανό</item>
+        <item>Άσπρο</item>
+        <item>Βιολέτα</item>
+    </string-array>
+</resources>

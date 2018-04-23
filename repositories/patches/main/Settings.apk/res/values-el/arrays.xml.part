@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="battery_indicator_style_entries">
+    <item>Γραφικά</item>
+    <item>Ποσοστό και γραφικά</item>
+    <item>Μπάρα στην Κορυφή</item>
+    <item>Ποσοστό μόνο</item>
+    <item>Κλειστό</item>
+  </string-array>
+  <string-array name="battery_off_entries">
+    <item>Ανενεργό LED</item>
+    <item>Ενεργό LED</item>
+  </string-array>
+  <string-array name="crt_animation_entries">
+    <item>Ανενεργή</item>
+    <item>Παρα πολύ Αργή</item>
+    <item>Πολύ αργή</item>
+    <item>Αργή</item>
+    <item>Κανονική</item>
+    <item>Γρήγορη</item>
+    <item>Πολύ γρήγορη</item>
+    <item>Πάρα πολύ γρήγορη</item>
+  </string-array>
+  <string-array name="crt_animation_framing_entries">
+    <item>Σταθερό</item>
+    <item>50 fps</item>
+    <item>25 fps</item>
+    <item>10 fps</item>
+    <item>5 fps</item>
+  </string-array>
+  <string-array name="crt_fade_entries">
+    <item>Προεπιλογή</item>
+    <item>Υπερφωτισμός</item>
+  </string-array>
+  <string-array name="gesture_anywhere_position_entries">
+    <item>Αριστερά</item>
+    <item>Δεξιά</item>
+  </string-array>
+  <string-array name="launcher_gesture_entries">
+    <item>Απενεργοποίηση της οθόνης</item>
+    <item>Μενού ενέργειας</item>
+    <item>Πρόσφατες Εφαρμογές</item>
+    <item>Τηλέφωνο</item>
+    <item>Λειτουργία ήχου: Ήχος/Δόνηση</item>
+    <item>Πίνακας ειδοποιήσεων</item>
+    <item>Ενεργοποίηση Wi-Fi</item>
+    <item>Ενεργοποίηση Bluetooth</item>
+    <item>Ενεργοποίηση Δεδομένων κινητής</item>
+    <item>Εκκαθάριση μνήμης</item>
+    <item>Εκτέλεση εφαρμογής</item>
+    <item>Απενεργοποίηση</item>
+  </string-array>
+  <string-array name="listview_animation_entries">
+    <item>Προεπιλογή</item>
+    <item>Κύμα (αριστερά)</item>
+    <item>Κύμα (δεξιά)</item>
+    <item>Alpha</item>
+    <item>Κλίμακα</item>
+    <item>Στοίβα (επάνω)</item>
+    <item>Στοίβα (κάτω)</item>
+    <item>Ξεδίπλωμα</item>
+    <item>Δίπλωμα</item>
+    <item>Μεταφορά (αριστερά)</item>
+    <item>Μεταφορά (δεξιά)</item>
+  </string-array>
+  <string-array name="listview_interpolator_entries">
+    <item>Προεπιλογή</item>
+    <item>Επιτάχυνση</item>
+    <item>Επιβράδυνση</item>
+    <item>Επιτάχυνση επιβράδυνση</item>
+    <item>Πρόβλεψη</item>
+    <item>Υπέρβαση</item>
+    <item>Πρόβλεψη υπέρβασης</item>
+    <item>Αναπήδηση</item>
+    <item>Κυκλική</item>
+    <item>Γραμμική</item>
+  </string-array>
+  <string-array name="low_battery_warning_entries">
+    <item>Μήνυμα και ήχο</item>
+    <item>Μήνυμα μόνο</item>
+    <item>Ήχος μόνο</item>
+    <item>Ανενεργό</item>
+  </string-array>
+  <string-array name="mtp_default_entries">
+    <item>Φόρτιση Πάντα</item>
+    <item>MTP Πάντα</item>
+    <item>MTP, αν η οθόνη δεν είναι κλειδωμένη με κωδικό πρόσβασης</item>
+  </string-array>
+  <string-array name="policy_control_entries">
+    <item>Επιβλητική OFF (Προεπιλογή)</item>
+    <item>Επιβλητική ON (Πλήρη οθόνη)</item>
+    <item>Απόκρυψη Γραμμής κατάστασης</item>
+    <item>Απόκρυψη Πλοήγησης</item>
+  </string-array>
+  <string-array name="set_haptic_entries">
+    <item>Ανενεργή</item>
+    <item>Χαμηλή</item>
+    <item>Ισχυρή</item>
+  </string-array>
+  <string-array name="sim_select_entries">
+    <item>SΙΜ 1</item>
+    <item>SΙΜ 2</item>
+    <item>SΙΜ 1 / SΙΜ 2</item>
+  </string-array>
+  <string-array name="smart_mobiledata_entries">
+    <item>Χωρίς αλλαγή</item>
+    <item>Μόνο 2G</item>
+    <item>Μόνο 3G</item>
+    <item>Μόνο 4G</item>
+    <item>Κατά προτίμηση 3G</item>
+    <item>Κατά προτίμηση 4G</item>
+    <item>2G/3G (GSM/WCDMA)</item>
+    <item>4G/3G (LTE/WCDMA)</item>
+    <item>2G/3G/4G (GSM/WCDMA/LTE)</item>
+  </string-array>
+  <string-array name="smart_timer_entries">
+    <item>Χωρίς αλλαγή</item>
+    <item>10 λεπτά</item>
+    <item>20 λεπτά</item>
+    <item>30 λεπτά</item>
+    <item>1 ώρα</item>
+    <item>2 ώρες</item>
+    <item>3 ώρες</item>
+  </string-array>
+  <string-array name="smart_timer_sleepon_entries">
+    <item>Χωρίς ενεργοποίηση</item>
+    <item>10 λεπτά</item>
+    <item>20 λεπτά</item>
+    <item>30 λεπτά</item>
+  </string-array>
+  <string-array name="text_bat_color_entries">
+    <item>Προεπιλογή</item>
+    <item>Διαβαθμισμένο (Αυτόματα)</item>
+    <item>Χρωματιστό</item>
+  </string-array>
+  <string-array name="timer_entries">
+    <item>Χωρίς αποσύνδεση</item>
+    <item>Σε ένα δευτ.</item>
+    <item>Σε ένα λεπτό</item>
+    <item>Σε 5 λεπτά</item>
+    <item>Σε 10 λεπτά</item>
+    <item>Σε 20 λεπτά</item>
+    <item>Σε 30 λεπτά</item>
+    <item>Σε μια ώρα</item>
+  </string-array>
+  <string-array name="toast_animation_entries">
+    <item>Κανένα</item>
+    <item>Προεπιλογή</item>
+    <item>Ομαλή εμφάνιση/μείωση</item>
+    <item>Κίνηση προς τα δεξιά και πίσω</item>
+    <item>Κίνηση στα αριστερά και πίσω</item>
+    <item>Κίνηση από τα δεξιά προς τα αριστερά</item>
+    <item>Κίνηση από αριστερά προς τα δεξιά</item>
+    <item>Animation Xylon</item>
+    <item>Animation Τοκο</item>
+    <item>Περιστροφή</item>
+    <item>Animation Honami</item>
+    <item>Ταχεία εμφάνιση</item>
+    <item>Αργή εμφάνιση</item>
+    <item>Εμφάνιση από το κέντρο</item>
+    <item>Ανάδυση από το κάτω μέρος</item>
+    <item>Διαφανές δεξιά</item>
+    <item>Δεξιά / Αριστερά/ αντιστροφή</item>
+    <item>Γύρισμα από κάτω με χτύπημα</item>
+    <item>Ένα χτύπημα από το κέντρο</item>
+    <item>Γύρισμα από κάτω</item>
+    <item>Από το κέντρο προς το κέντρο</item>
+    <item>Προσαρμοσμένο</item>
+  </string-array>
+  <string-array name="toggles_line_entries">
+    <item>Μία γραμμή</item>
+    <item>Όλες οι γραμμές</item>
+  </string-array>
+  <string-array name="ts_direct_entries">
+    <item>Πίσω</item>
+    <item>Εμπρός</item>
+  </string-array>
+  <string-array name="ts_keycode_entries">
+    <item>Αρχική</item>
+    <item>Πρόσφατα</item>
+  </string-array>
+  <string-array name="ts_limit_entries">
+    <item>Δύο</item>
+    <item>Τρεις</item>
+    <item>Πέντε</item>
+    <item>Επτά</item>
+    <item>Δέκα</item>
+    <item>Χωρίς όρια</item>
+  </string-array>
+  <string-array name="volbtn_action_entries">
+    <item>Επόμενο</item>
+    <item>Παύση</item>
+    <item>Αναπαραγωγή</item>
+    <item>Αναπαραγωγή / Παύση/</item>
+    <item>Προηγούμενο</item>
+  </string-array>
+  <string-array name="def_audio_entries"> 
+        <item>Ηχος κλησης</item> 
+        <item>Πολυμέσα</item> 
+        <item>Ειδοποιήσεις</item> 
+   </string-array> 
+  <string-array name="ios_toggle_entries">
+    <item>Προεπιλογή</item>
+    <item>IOS εμφάνιση</item>
+    <item>MiuiPro εμφάνιση</item>
+    <item>AOSP εμφάνιση</item>
+  </string-array>
+  <string-array name="folder_toggle_entries"> 
+        <item>3 στήλες</item> 
+        <item>4 στήλες</item> 
+    </string-array> 
+</resources>

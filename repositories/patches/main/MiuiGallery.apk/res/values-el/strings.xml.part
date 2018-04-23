@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="cityname_1">Νεολαία</string>
+  <string name="cityname_2">Αέρας</string>
+  <string name="cityname_3">Δρόμοι</string>
+  <string name="cityname_4">Δύναμη</string>
+  <string name="cityname_5">Γοητεία</string>
+  <string name="cityname_6">Γκαλερί μόδας</string>
+</resources>
