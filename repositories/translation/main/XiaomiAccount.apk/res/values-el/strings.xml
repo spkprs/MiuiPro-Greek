@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="account_error_user_name">Το όνομα που εισάγατε είναι άκυρο</string>
-  <string name="passport_get_innetdate_agree">Έλεγχος</string>
-  <string name="passport_get_innetdate_disagree">Όχι</string>
-  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Φαίνεται οτι&lt;/font&gt; ο αριθμός %s έχει ανακυκλωθεί από τον φορέα σας. Ελέγξτε όταν ο αριθμός γίνει ενεργός?</string>
-  <string name="passport_get_innetdate_title">Ελέγξτε όταν ο αριθμός γίνει ενεργός</string>
-  <string name="recycle_phone_notification_msg">Φαίνεται ότι ο αριθμός τηλεφώνου σας έχει ανακυκλωθεί. Πατήστε για ενημέρωση.</string>
-  <string name="recycle_phone_notification_title">Κίνδυνος ασφάλειας λογαριασμού Mi</string>
-  <string name="sim_changed_notification_msg">Αγγίξτε για να ενημερώσετε την ανάκτηση του τηλεφώνου και να διατηρήσετε τον λογαριασμό σας πιο ασφαλή.</string>
-  <string name="sim_changed_notification_title">Αλλαγή τηλεφωνικού αριθμού?</string>
   <string name="about_device_info">Σχετικά με την συσκευή</string>
   <string name="access_token_expired_warning">Ο λογαριασμός Weibo έχει λήξει.</string>
   <string name="access_token_invalid_warning">Ο λογαριασμός Weibo είναι άκυρος.</string>
   <string name="account">Λογαριασμός</string>
   <string name="account_bind_devices">Συσκευές</string>
-  <string name="account_bind_new_phone">Προσθήκη νέου τηλεφώνου</string>
-  <string name="account_bind_phone_notice">Χρησιμοποιήστε αυτόν τον αριθμό τηλεφώνου για να συνδεθείτε στο λογαριασμό σας, να επαναφέρετε τον κωδικό πρόσβασής σας, ή να αλλάξετε τις ρυθμίσεις ασφαλείας.</string>
   <string name="account_bind_secure_email_title">Προσθήκη email</string>
   <string name="account_bind_secure_phone_title">Προσθήκη τηλεφώνου</string>
   <string name="account_bind_settings">Επιπλέον Λογαριασμοί</string>
-  <string name="account_binded_phone">Τηλέφωνο %d</string>
   <string name="account_crop_user_avatar">Περικοπή φωτογραφίας</string>
   <string name="account_empty_user_name">Εισάγετε το όνομα χρήστη Λογαριασμού Mi</string>
   <string name="account_error_all_space_user_name">Το όνομα δεν μπορεί να είναι μόνο κενοί χαρακτήρες (space)</string>
@@ -27,6 +15,7 @@
   <string name="account_error_longer_user_name">Το όνομα δεν μπορεί να υπερβαίνει τους 20 χαρακτήρες</string>
   <string name="account_error_shorter_user_name">Το όνομα πρέπει να είναι μεγαλύτερο από 2 χαρακτήρες</string>
   <string name="account_error_user_birthday">Τα γενέθλια που δώσατε δεν είναι έγκυρα</string>
+  <string name="account_error_user_name">Το όνομα που εισάγατε είναι άκυρο</string>
   <string name="account_global_region">Εξωτερικού</string>
   <string name="account_has_been_set">Αλλαγή</string>
   <string name="account_limit_update_birthday">Αδυναμία ενημέρωσης των γενεθλίων τώρα</string>
@@ -43,8 +32,6 @@
   <string name="account_secure_info_pref_title">Πληροφορίες λογαριασμού</string>
   <string name="account_security">Ασφάλεια λογαριασμού</string>
   <string name="account_security_info_pref_title">Πληροφορίες ασφαλείας</string>
-  <string name="account_security_question">Ερώτηση ασφαλείας</string>
-  <string name="account_settings">Λογαριασμός</string>
   <string name="account_token_expired_msg">Ο κωδικός επαλήθευσης έληξε, ξεκίνησε από την αρχή ή αποσυνδέθηκε\nΤο αναγνωριστικό λογαριασμού σας: %s</string>
   <string name="account_token_expired_title">Η ταυτοποίηση απέτυχε</string>
   <string name="account_user_avatar">Εικόνα προφίλ</string>
@@ -66,22 +53,18 @@
   <string name="account_user_phone">Τηλέφωνο</string>
   <string name="account_user_recovery_phone">Τηλέφωνο ανάκτησης</string>
   <string name="account_user_region">Περιοχή</string>
-  <string name="account_user_secure_info">Τηλέφωνο &amp; email</string>
   <string name="account_user_using_facebook_avatar">Χρήση εικόνας προφίλ από Facebook</string>
   <string name="account_user_using_qq_avatar">Χρήση εικόνας προφίλ από QQ</string>
   <string name="account_user_using_weibo_avatar">Χρήση εικόνας προφίλ από Sina Weibo</string>
-  <string name="account_vip_level">Λογαριασμός</string>
   <string name="account_xiaomi_service">Υπηρεσίες</string>
   <string name="action_add_phone">Πρόσθεσε αριθμό τηλεφώνου</string>
   <string name="action_update_phone">Αλλαγή τηλεφωνικού αριθμού</string>
   <string name="activate_email_notice">Φροντίστε να ενεργοποιήσετε το λογαριασμό σας μέσα σε 24 ώρες</string>
   <string name="activity_not_found_notice">Αδυναμία εύρεσης εφαρμογής</string>
   <string name="add_account">Σύνδεση λογαριασμού</string>
-  <string name="alert_title_remove_account">Διαγραφή λογαριασμού;</string>
   <string name="app_name">Λογαριασμός Mi</string>
   <string name="auth_fail_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά αργότερα</string>
   <string name="authorize_title">Εξουσιοδότηση</string>
-  <string name="barcode_add_account_prompt">Για να προσθέσετε λογαριασμό, σαρώστε τον κωδικό QR και πάλι μετά την σύνδεσή σας.</string>
   <string name="bind_facebook">Σύνδεση λογαριασμού Facebook</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_safe_phone_msg">Προσθέστε τον αριθμό τηλεφώνου σας για να μπορέσετε να συνδεθείτε στον λογαριασμό σας Mi την επόμενη φορά.</string>
@@ -96,7 +79,6 @@
   <string name="change_email_address">Αλλαγή διεύθυνσης email</string>
   <string name="change_password">Αλλαγή κωδικού</string>
   <string name="change_phone_number">Αλλαγή αριθμού τηλεφώνου</string>
-  <string name="checking_phone_num_availible">Επαλήθευση τηλεφώνου…</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Ολοκληρώθηκε</string>
   <string name="confirm_activate_email">Επαληθεύτηκε</string>
@@ -109,14 +91,7 @@
   <string name="confirm_unbind">Αποσύνδεση λογαριασμού;</string>
   <string name="confirm_unbundled_phone_dialog_message">Ο αριθμός τηλεφώνου %1$s συνδέεται με τον Λογαριασμό Mi %2$s. Δεν θα συνδέεται πλέον με το Λογαριασμό Mi %3$s αν συνεχίσετε. Συνεχίζετε?</string>
   <string name="continue_action">Συνέχεια</string>
-  <string name="cta_declaration_agree_and_continue">Συμφωνώ</string>
-  <string name="cta_declaration_exit">Έξοδος</string>
-  <string name="cta_declaration_ignore">Να μην εμφανιστεί ξανά</string>
-  <string name="cta_declaration_message">Για να συνδεθείτε στο Mi λογαριασμό σας, πρέπει πρώτα να συνδεθείτε στο Internet. Οι Υπηρεσίες τοποθεσίας και Mi Cloud θα ενεργοποιηθούν αυτόματα. Για να δημιουργήσετε αντίγραφα ασφαλείας των δεδομένων σας, αυτή η εφαρμογή θα πρέπει να έχει πρόσβαση στις επαφές σας, μηνύματα, ιστορικό κλήσεων, και ηχογραφήσεις. Δεν θα χρησιμοποιήσουμε τα στοιχεία σας για εμπορικούς σκοπούς ή για να τα κοινοποιήσουμε σε τρίτους. Μετά τη σύνδεση στο λογαριασμό Mi, Mi VIP και υπηρεσίες Mi θα συνδεθούν στο Internet.</string>
-  <string name="cta_declaration_title">Όροι και προϋποθέσεις</string>
   <string name="current_location_title">Τρέχουσα τοποθεσία</string>
-  <string name="data_keep_in_device">Διατήρηση στην συσκευή</string>
-  <string name="data_wipe_from_device">Διαγραφή από την συσκευή</string>
   <string name="delete_action">Διαγραφή</string>
   <string name="delete_app">Διαγραφή εφαρμογής</string>
   <string name="delete_bank_card_message">Για προστασία του απορρήτου, θα διαγραφεί η τραπεζική σας κάρτα μετά την αποσύνδεση</string>
@@ -135,11 +110,7 @@
   <string name="device_trust_info">Έμπιστη συσκευή</string>
   <string name="empty_device_list_notice">Δεν υπάρχουν συσκευές</string>
   <string name="error_dup_binded_email">Αυτή η διεύθυνση email έχει ήδη συσχετιστεί με κάποιον άλλο λογαριασμό Mi.</string>
-  <string name="error_duplicate_answers">Μην χρησιμοποιείτε τις ίδιες απαντήσεις για λόγους ασφαλείας</string>
-  <string name="error_incomplete_question_or_answer">Επιλέξτε 4 ερωτήσεις και δώστε τις απαντήσεις</string>
   <string name="error_invalid_bind_address">Η διεύθυνση email που εισαγάγατε δεν είναι έγκυρη.</string>
-  <string name="error_longer_answer_length">Η απάντηση μπορεί να περιέχει μέχρι 128 χαρακτήρες</string>
-  <string name="error_shorter_answer_length">Η απάντηση πρέπει να είναι τουλάχιστον 2 χαρακτήρες</string>
   <string name="exceed_binded_phone_times_notice">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με κάποιον άλλο Λογαριασμό Mi.</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με κάποιον άλλο λογαριασμό Mi</string>
@@ -147,7 +118,6 @@
   <string name="find_device_account_error">Αδυναμία λήψης κατάστασης λόγω σφάλματος λογαριασμού</string>
   <string name="find_device_activate_account">Ενεργοποίηση λογαριασμού</string>
   <string name="find_device_bad_response_error">Αδυναμία λήψης κατάστασης λόγω σφάλματος διακομιστή. Δοκιμάστε ξανά αργότερα</string>
-  <string name="find_device_display_id">Αριθμός ξεκλειδώματος: %s</string>
   <string name="find_device_error_password_not_confirmed">Αδυναμία απενεργοποίησης του Εύρεση Συσκευής. Πληκτρολογήστε ξανά τον κωδικό του Mi λογαριασμού σας</string>
   <string name="find_device_error_password_recently_changed">Έχετε αλλάξει τον κωδικό σας τις τελευταίες 3 ημέρες. Δεν μπορείτε να απενεργοποιήσετε το Εύρεση Συσκευής τώρα για λόγους ασφαλείας.</string>
   <string name="find_device_interrupted">Η ενέργεια διακόπηκε. Δοκιμάστε ξανά αργότερα</string>
@@ -165,7 +135,6 @@
   <string name="find_device_request_prepare_error">Αδυναμία λήψης κατάστασης. Δοκιμάστε ξανά αργότερα</string>
   <string name="find_device_unknown_error">Αδυναμία λήψης κατάστασης. Δοκιμάστε ξανά αργότερα</string>
   <string name="first_login_time">Πρώτη προσπάθεια σύνδεσης: %s</string>
-  <string name="forward_to_bind">Προσθήκη</string>
   <string name="get_back_pwd">Επαναφορά κωδικού πρόσβασης</string>
   <string name="get_device_list_failed">Αδυναμία λήψης συσκευών</string>
   <string name="get_phone_bind_exceed_limit">Μπορείτε να συσχετίσετε έως 3 Λογαριασμούς Mi με έναν αριθμό τηλεφώνου. Δεν είναι δυνατή η προσθήκη νέων λογαριασμών.</string>
@@ -186,22 +155,15 @@
   <string name="logout_account">Αποσύνδεση</string>
   <string name="logout_failed">Αδυναμία αποσύνδεσης</string>
   <string name="mi_account_identity_title">Επιβεβαιώστε την ταυτότητα σας</string>
-  <string name="mi_insurance">Ασφάλεια Mi</string>
-  <string name="mi_pass">Mi Pass</string>
-  <string name="mi_pay_identity">Ταυτότητα</string>
   <string name="mi_vip_info">Προβολή προνομίων</string>
-  <string name="micloud_space_info">%s διαθέσιμα</string>
-  <string name="mili_center">Mi Credits</string>
   <string name="mipay">Πληρωμή</string>
   <string name="mipay_balance">Ισορροπία</string>
   <string name="mipay_bank_card">Κάρτα τράπεζας</string>
-  <string name="mipay_center">Mi Wallet</string>
   <string name="mipay_identitiy_no">Δεν επαληθεύεται</string>
   <string name="mipay_identity">Επαλήθευση ταυτότητας</string>
   <string name="mipay_indentity_done">Βεβαιωθείτε</string>
   <string name="mipay_others">Αλλα</string>
   <string name="mipay_transit_card">Κάρτα μεταφοράς</string>
-  <string name="miui_provision_find_status_text">Αυτή η συσκευή έχει συσχετισθεί με υφιστάμενο ID λογαριασμού Mi (%1$s). Εισάγετε τον κωδικό για να επαληθεύσετε τη συσκευή.\n(αριθμός ξεκλειδώματος: %2$s)</string>
   <string name="multi_user_not_show_sync_activity_message_1">Φαίνεται ότι χρησιμοποιείτε το λογαριασμό Mi του Αρχικού σας προφίλ.</string>
   <string name="multi_user_not_show_sync_activity_message_2">Σε αυτή την περίπτωση, όλα τα δεδομένα θα συγχρονιστούν με το Δεύτερο προφίλ σας. Για να αποφευχθεί, αυτό μην ενεργοποιήσετε τον συγχρονισμό με το Mi Cloud</string>
   <string name="multi_user_not_show_sync_activity_title">Μην ενεργοποιήσετε το συγχρονισμό Mi Cloud</string>
@@ -218,7 +180,7 @@
   <string name="notify_network_restricted_title">Ο λογαριασμός Mi δεν μπορεί να συνδεθεί στο δίκτυο</string>
   <string name="oauth_get_scopes_failed">Δεν ήταν δυνατή η λήψη πληροφοριών λογαριασμού</string>
   <string name="oauth_getting_scopes">Επαλήθευση λογαριασμού…</string>
-  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; θα λάβετε τα ακόλουθα δικαιώματα:&lt;br&gt; &lt;br&gt;%3$s</string>
+  <string name="oauth_scopes_intro">&lt;font color=\"#%1$s\"&gt;&lt;fon&lt;/font&gt;t color=#%1$s&gt;%2$s&lt;/font&gt; θα λάβετε τα ακόλουθα δικαιώματα:&lt;br&gt; &lt;br&gt;%3$s</string>
   <string name="oauth_title">Συνδεθείτε με το Λογαριασμό Mi</string>
   <string name="other_devices_title">Άλλες συσκευές</string>
   <string name="passport_access_denied">Δεν επιτρέπετε η πρόσβαση</string>
@@ -244,10 +206,11 @@
   <string name="passport_change_phone_number">Εναλλαγή αριθμών</string>
   <string name="passport_checking_account">Έλεγχος κωδικού…</string>
   <string name="passport_checking_input">Έλεγχος εισόδου…</string>
-  <string name="passport_click_email_to_valid">\n\nΓια την ενεργοποίηση του λογαριασμού σας, ακολουθήστε το\nσύνδεσμο που στείλαμε στα εισερχόμενά σας.</string>
+  <string name="passport_click_email_to_valid">\n\nΓια την ενεργοποίηση του λογαριασμού σας, ακολουθήστε το\n σύνδεσμο που στείλαμε στα εισερχόμενά σας.</string>
   <string name="passport_completed">Ολοκληρώθηκε</string>
+  <string name="passport_confirm_login">Συνέχεια</string>
   <string name="passport_confirm_recycle_account">Ναι</string>
-  <string name="passport_confirm_recycle_account_msg">%s&lt;font color=Red&gt;Φαίνεται οτι&lt;/font&gt;ο αριθμός %s έχει ανακυκλωθεί από τον φορέα σας και υπάρχει ένας Λογαριασμός Mi που σχετίζεται με αυτόν. Αυτός ο λογαριασμός σας είναι δικός σας;</string>
+  <string name="passport_confirm_recycle_account_msg" formatted="false">&lt;font color=Red&gt;Φαίνεται οτι&lt;/font&gt;ο αριθμός %s έχει καταργηθεί από τον φορέα σας και υπάρχει συνδεδεμένος με αυτόν Λογαριασμός Mi. Είναι αυτός ο λογαριασμός σας;</string>
   <string name="passport_continue">Συνεχίστε</string>
   <string name="passport_copy_message_text_success">Επιτυχής αντιγραφή</string>
   <string name="passport_copy_message_vcode">Αντιγραφή κωδικού</string>
@@ -280,17 +243,21 @@
   <string name="passport_error_user_name">Μη έγκυρο όνομα χρήστη</string>
   <string name="passport_error_verify_activator_phone_message">Βεβαιωθείτε ότι η υπηρεσία καρτών SIM είναι ενεργοποιημένη και ότι η συσκευή είναι συνδεδεμένη στο δίκτυο.</string>
   <string name="passport_error_verify_activator_phone_title">Δεν ήταν δυνατή η επαλήθευση του αριθμού τηλεφώνου</string>
+  <string name="passport_extra_gdpr_license">Η δημιουργία του λογαριασμού σας Mi σημαίνει ότι συμφωνείτε ότι η Xiaomi θα συλλέξει, επεξεργαστεί και χρησιμοποιήσει τα προσωπικά σας δεδομένα, συμπεριλαμβανομένων των δεδομένων επαλήθευσης (π.χ. κωδικοί επαλήθευσης), Δεύτερου χώρου δεδομένα (π.χ. πληροφορίες σχετικά με τους τρόπους χρήσης του Δεύτερου χώρου, και IDs Πρώτου και Δεύτερου χώρου) και άλλα δεδομένα που καθορίζονται στην πολιτική απορρήτου μας. Ανατρέξτε στην πολιτική απορρήτου μας για να μάθετε πώς επεξεργαζόμαστε και χρησιμοποιούμε τα προσωπικά δεδομένα.</string>
   <string name="passport_failed_to_send_activate_email">Αδυναμία αποστολής email ενεργοποίησης</string>
   <string name="passport_find_password_on_web_msg">Επισκεφθείτε το account.mi.com για επαναφορά του κωδικού σας.</string>
   <string name="passport_forget_password">Ξέχασα τον κωδικό</string>
   <string name="passport_forget_password_no_underline">Ξέχασα τον κωδικό</string>
   <string name="passport_get_back_pwd">Ανάκτηση κωδικού πρόσβασης</string>
+  <string name="passport_get_innetdate_agree">Έλεγχος</string>
+  <string name="passport_get_innetdate_disagree">Όχι</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=\"Red\"&gt;Φαίνεται οτι&lt;/font&gt; ο αριθμός %s έχει καταργηθεί από τον φορέα σας. Ελέγξτε όταν ο αριθμός γίνει ενεργός?</string>
+  <string name="passport_get_innetdate_title">Ελέγξτε όταν ο αριθμός γίνει ενεργός</string>
   <string name="passport_get_verify_code">Λήψη κωδικού</string>
   <string name="passport_getting_activator_phone">Λήψη πληροφοριών SIM…</string>
   <string name="passport_getting_verify_code">Λαμβάνεται..</string>
   <string name="passport_i_know">Το ξέρω</string>
   <string name="passport_identification_expired">Ο κωδικός επαλήθευσης έληξε, ξεκινώντας από την αρχή</string>
-  <string name="passport_identitfication_expired">Ο κωδικός επαλήθευσης έληξε. Ξεκινήστε από την αρχή</string>
   <string name="passport_imei_permission_denied_message">Ζητάμε άδεια να διαβάσουμε το IMEI της συσκευής σας. Ο λογαριασμός Mi χρησιμοποιεί το IMEI για να αναγνωρίσει τη συσκευή στην οποία έχετε συνδεθεί / εγγραφεί για να βοηθήσουμε να κρατήσετε ασφαλή το Mi λογαριασμό σας.</string>
   <string name="passport_imei_permission_denied_title">Αίτημα πρόσβασης στο IMEI</string>
   <string name="passport_input_captcha_hint">Εισάγετε τον κωδικό</string>
@@ -298,6 +265,7 @@
   <string name="passport_input_password_hint">Εισάγετε τον κωδικό</string>
   <string name="passport_input_phone_hint">Εισάγετε αριθμό τηλεφώνου</string>
   <string name="passport_input_vcode_hint">Εισάγετε κωδικό επαλήθευσης</string>
+  <string name="passport_input_voice_captcha_hint">Εισαγάγετε τον κωδικό επιβεβαίωσης φωνής</string>
   <string name="passport_license_host_unreachable">Αδυναμία σύνδεσης με το δίκτυο. Για να δείτε αυτές τις πληροφορίες, μεταβείτε στο %s.</string>
   <string name="passport_loading">Φόρτωση…</string>
   <string name="passport_login">Σύνδεση</string>
@@ -329,7 +297,7 @@
   <string name="passport_quick_login_step2_title">Επαλήθευση 2 σταδίων</string>
   <string name="passport_quick_login_title">Εισάγετε τον κωδικό σας</string>
   <string name="passport_quick_register">Εγγραφείτε</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;&amp;quot;Δεν έχετε Λογαριασμό Mi; Δημιουργήστε ένα.&amp;quot;&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">&lt;u&gt;\"Δεν έχετε Λογαριασμό Mi; Δημιουργήστε ένα.\"&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Λήψη κωδικού ξανά</string>
   <string name="passport_re_register">Εγγραφείτε ξανά</string>
   <string name="passport_recycle_account_prompt">Είναι αυτός ο Mi λογαριασμός σας;</string>
@@ -385,6 +353,7 @@
   <string name="passport_skip_setup_account_msg">Μπορείτε να ρυθμίσετε τον λογαριασμό σας αργότερα από τις Ρυθμίσεις.</string>
   <string name="passport_skip_setup_account_title">Παράλειψη ρύθμισης</string>
   <string name="passport_sms_send_success">Απεσταλμένα</string>
+  <string name="passport_sms_verification_code_login">Κωδικός επαλήθευσης σύνδεσης SMS</string>
   <string name="passport_sync_account_data">Συγχρονισμός πληροφοριών λογαριασμού…</string>
   <string name="passport_sync_account_data_failed_warning">Τα στοιχεία του λογαριασμού σας συγχρονίζονται τώρα, μπορείτε να συνδεθείτε χρησιμοποιώντας το αναγνωριστικό λογαριασμού Mi. Αν θέλετε να συνδεθείτε χρησιμοποιώντας το τηλέφωνο ή το ηλεκτρονικό σας ταχυδρομείο, περιμένετε μέχρι να συγχρονιστούν πλήρως οι πληροφορίες.</string>
   <string name="passport_title_reg">Δημιουργία λογαριασμού</string>
@@ -398,6 +367,7 @@
   <string name="passport_user_agreement">Όροι χρήσης</string>
   <string name="passport_user_agreement_p1">Με την είσοδο, συμφωνείτε με τους </string>
   <string name="passport_user_agreement_p2">Όρους χρήσης</string>
+  <string name="passport_user_agreement_p3">και</string>
   <string name="passport_user_agreement_p4">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
   <string name="passport_user_id_notice">Το αναγνωριστικό λογαριασμού Mi είναι %s.</string>
   <string name="passport_user_reg_region">Χώρα/Περιοχή</string>
@@ -421,7 +391,8 @@
   <string name="push_notify_dialog_message">Μια άγνωστη συσκευή χρησιμοποιείται για να συνδεθείτε στο Λογαριασμό Mi. Εισαγάγετε αυτόν τον κωδικό επαλήθευσης στη συσκευή. Εάν δεν είστε εσείς, αλλάξτε τον κωδικό πρόσβασης Λογαριασμού Mi αμέσως. Μην αποκαλύπτετε τον κωδικό επαλήθευσης σε άλλα άτομα.</string>
   <string name="push_notify_dialog_title">Επιβεβαίωση λογαριασμού</string>
   <string name="qq">QQ</string>
-  <string name="remove_account_notice">Τι θέλετε να κάνετε με τα μηνύματα, τι επαφές και τα άλλα δεδομένα της συσκευής σας που είναι συγχρονισμένα με τον λογαριασμό σας;</string>
+  <string name="recycle_phone_notification_msg">Φαίνεται ότι ο αριθμός τηλεφώνου σας έχει ανακυκλωθεί. Πατήστε για ενημέρωση.</string>
+  <string name="recycle_phone_notification_title">Κίνδυνος ασφάλειας λογαριασμού Mi</string>
   <string name="remove_device_success_notice">Αν αφαιρέσετε αυτή τη συσκευή από τις έμπιστες συσκευές σας, μπορεί να χρειαστεί και πάλι η διαδικασία επαλήθευσης κατά τη σύνδεσή σας.​</string>
   <string name="remove_trust_btn">Αφαίρεση από τις έμπιστες συσκευές</string>
   <string name="remove_trust_notice">Αφαίρεση από τις έμπιστες συσκευές και αποσύνδεση</string>
@@ -432,8 +403,6 @@
   <string name="resend_email_reach_limit_message">Ζητήσατε πάρα πολλά email επαλήθευσης. Βεβαιωθείτε ότι το μήνυμα επαλήθευσης δεν βρίσκεται στο φάκελο Spam των εισερχομένων σας.</string>
   <string name="resend_email_reach_limit_title">Αδυναμία αποστολής email</string>
   <string name="resend_email_success">Επαναποστολή email</string>
-  <string name="reset_security_question_message">Θα πρέπει να επαληθεύσετε την ταυτότητά σας προτού αλλάξετε τις ερωτήσεις ασφαλείας</string>
-  <string name="reset_security_question_title">Επαναφορά ερωτήσεων ασφαλείας</string>
   <string name="restart_action">Ξανά από την αρχή</string>
   <string name="restart_phone_bind_message">Χρειάζεται κάποιος χρόνος για την λήψη του SMS. Θα ξεκινήσετε από την αρχή ούτως ή άλλως;</string>
   <string name="restart_phone_bind_title">Αλλαγή τηλεφώνου ανάκτησης</string>
@@ -452,22 +421,16 @@
   <string name="search_user_detail_desc">Προσωπικές πληροφορίες</string>
   <string name="search_user_detail_path">Ρυθμίσεις/Λογαριασμός Mi/Προσωπικές πληροφορίες</string>
   <string name="search_user_detail_top_key_words">Προσωπικές πληροφορίες, Αλλαγή φωτογραφίας προφίλ, Αλλαγή ονόματος χρήστη, Αλλαγή ψευδώνυμου, Αλλαγή γενεθλίων, Αλλαγή φύλου</string>
-  <string name="security_question">Επιλέξτε ερώτηση</string>
-  <string name="security_question_answer">Πληκτρολογήστε την απάντηση</string>
-  <string name="security_question_notice_message">Ορίστε ερωτήσεις ασφαλείας μετά την προσθήκη του τηλεφώνου σας, για να είστε σε θέση να επαναφέρετε τις ερωτήσεις σε περίπτωση που τις ξεχάσετε.</string>
-  <string name="security_question_notice_title">Προσθήκη τηλεφώνου</string>
-  <string name="security_question_prompt">Οι ερωτήσεις ασφαλείας μπορούν να χρησιμοποιηθούν όταν αλλάζετε ή επαναφέρετε τον κωδικό σας.\nΒεβαιωθείτε ότι θυμάστε τις απαντήσεις σε αυτές τις ερωτήσεις.</string>
   <string name="select_location_title">Επιλέξτε την τοποθεσία σας</string>
   <string name="send_email_activate_message">Εστάλη ένα email επαλήθευσης</string>
   <string name="service_error">Σφάλμα υπηρεσίας</string>
-  <string name="set_security_question_title">Ορισμός ερωτήσεων ασφαλείας</string>
   <string name="set_success">Αλλαγή με επιτυχία</string>
   <string name="sign_in">Συνδεθείτε</string>
+  <string name="sim_changed_notification_msg">Αγγίξτε για να ενημερώσετε την ανάκτηση του τηλεφώνου και να διατηρήσετε τον λογαριασμό σας πιο ασφαλή.</string>
+  <string name="sim_changed_notification_title">Αλλαγή τηλεφωνικού αριθμού?</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Απεστάλη</string>
   <string name="sns_access_token_expired_warning">Η σύνδεση στο λογαριασμό σας έχει λήξει. Παρακαλώ συνδεθείτε ξανά.</string>
-  <string name="submit_answers">Υποβολή</string>
-  <string name="success">Ολοκληρώθηκε</string>
   <string name="talkback_scan_barcode">Σάρωση κώδικα QR</string>
   <string name="trusted_browsers">Έμπιστοι πλοηγοί</string>
   <string name="trusted_browsers_prompt">Ο πλοηγός δεν θα είναι πλέον έμπιστος αν διαγράψετε τα cookies.</string>
@@ -489,9 +452,5 @@
   <string name="verify_phone_title">Επαλήθευση αριθμού τηλεφώνου</string>
   <string name="vip_account_settings">Ρυθμίσεις VIP</string>
   <string name="vip_settings_info">Ρυθμίσεις VIP</string>
-  <string name="wipe_data_dialog_msg">%s θα διαγραφούν αν συνεχίσετε.</string>
-  <string name="wipe_data_dialog_title">Ορισμένα στοιχεία δεν έχουν συγχρονιστεί</string>
   <string name="xiao_mi_vip">Mi VIP</string>
-  <string name="passport_confirm_login">Συνέχεια</string>
-  <string name="passport_sms_verification_code_login">Κωδικός επαλήθευσης σύνδεσης SMS</string>   
 </resources>

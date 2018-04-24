@@ -5,6 +5,8 @@
   <string name="account_container_title">Εισήχθη από</string>
   <string name="account_default">Τηλέφωνο</string>
   <string name="account_phone">Μόνο στο τηλέφωνο, χωρίς συγχρονισμό</string>
+  <string name="account_sdn">SDN</string>
+  <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">Κάρτα SIM</string>
   <string name="account_sim2">Κάρτα SIM %d</string>
   <string name="account_type_format">%1$s επαφή</string>
@@ -13,7 +15,7 @@
   <string name="activity_title_confirm_add_detail">Προσθήκη στην επαφή</string>
   <string name="activity_title_contacts_filter">Επαφές για εμφάνιση</string>
   <string name="activity_title_settings">Ρυθμίσεις</string>
-  <string name="add_2sec_pause">Προσθήκη παύσης 2 δευτερολέπτων</string>
+  <string name="add_2sec_pause">Προσθήκη παύσης 2 δευτ.</string>
   <string name="add_account">Προσθήκη λογαριασμού</string>
   <string name="add_blacklist">Φραγή</string>
   <string name="add_blacklist_dialog_message">Φραγή αυτού του αριθμού;</string>
@@ -64,16 +66,19 @@
   <string name="call_company_main">Κλήση κύριας εταιρείας</string>
   <string name="call_custom">Κλήση %s</string>
   <string name="call_disambig_title">Επιλέξτε αριθμό</string>
-  <string name="call_fax_home">Κλήση fax σπιτιού</string>
+  <string name="call_fax_home">Κλήση fax οικίας</string>
   <string name="call_fax_work">Κλήση fax δουλειάς</string>
-  <string name="call_home">Κλήση σπιτιού</string>
+  <string name="call_home">Κλήση οικίας</string>
   <string name="call_isdn">Κλήση ISDN</string>
   <string name="call_left">Υπόλοιπο τηλεφώνου</string>
+  <string name="call_log_empty_gecode">-</string>
+  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Νέα</string>
   <string name="call_log_old_header">Παλαιότερα</string>
   <string name="call_main">Κύρια κλήση</string>
   <string name="call_mms">Κλήση MMS</string>
   <string name="call_mobile">Κλήση κινητού</string>
+  <string name="call_not_found"> --</string>
   <string name="call_operator_init">Ορισμός παρόχου</string>
   <string name="call_other">Κλήση</string>
   <string name="call_other_fax">Κλήση fax</string>
@@ -82,7 +87,6 @@
   <string name="call_radio">Κλήση radio</string>
   <string name="call_record_setting_miui">Ρυθμίσεις εγγραφής</string>
   <string name="call_settings">Ρυθμίσεις</string>
-  <string name="call_settings_primary_user_only">Οι ρυθμίσεις κλήσεων μπορούν να αλλάξουν μόνο από τον κύριο χρήστη.</string>
   <string name="call_sim_menu_title_suffix">(αρχική)</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Κλήση από SIM1</string>
@@ -90,13 +94,15 @@
   <string name="call_sim2_menu_title">Κλήση από SIM2</string>
   <string name="call_telex">Κλήση telex</string>
   <string name="call_tty_tdd">Κλήση TTY/TDD</string>
+  <string name="call_type_and_date">%1$s %2$s</string>
+  <string name="call_unit">CNY</string>
   <string name="call_work">Κλήση εργασίας</string>
   <string name="call_work_mobile">Κλήση τηλεφώνου εγασίας</string>
   <string name="call_work_pager">Κλήση τηλέφωνο τηλεειδοποίησης</string>
   <string name="callAgain">Καλέστε ξανά</string>
   <string name="callBack">Επανάκληση</string>
   <string name="callDetailsDurationFormat" formatted="false">%s λεπ %s δευτ</string>
-  <string name="callDetailTitle">Λεπτομέριες κλήσης</string>
+  <string name="callDetailTitle">Λεπτομέρειες κλήσης</string>
   <string name="calllog_call_note_menu">Σημειώσεις κλήσεων</string>
   <string name="calllog_call_record_menu">Καταγεγραμμένες κλήσεις</string>
   <string name="calllog_menu_blacklist">Αποκλεισμός</string>
@@ -119,6 +125,7 @@
   <string name="callrecordview_menu_delete_accepted">Εκκαθάριση απαντημένων κλήσεων</string>
   <string name="callrecordview_menu_delete_all">Εκκαθάριση ιστορικού κλήσεων</string>
   <string name="callrecordview_menu_delete_called">Εκκαθάριση εξερχόμενων κλήσεων</string>
+  <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Εκκαθάριση αναπάντητων κλήσεων</string>
   <string name="callrecordview_menu_delete_new">Εκκαθάριση ιστορικού κλήσεων των νέων επαφών</string>
   <string name="callrecordview_menu_delete_one">Αφαιρέστε από το ιστορικό κλήσεων</string>
@@ -179,6 +186,8 @@
   <string name="cloud_state_loading">Περιμένετε…</string>
   <string name="cloud_state_sync_finished">Συγχρονισμένο με Mi Cloud</string>
   <string name="cloud_state_syncing">Συγχρονισμένο με Mi Cloud</string>
+  <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
+  <string name="combined_title_and_miprofile_swaped_huge_mode">%1$s\n%2$s</string>
   <string name="composer_failed_to_get_database_infomation">Δεν μπορούν να ληφθούν πληροφορίες από την βάσης δεδομένων.</string>
   <string name="composer_has_no_exportable_contact">Δεν υπάρχουν επαφές προς εξαγωγή. Αν έχετε επαφές στο τηλέφωνό σας, ορισμένοι πάροχοι δεδομένων ενδέχεται να μην επιτρέπουν την εξαγωγή επαφών από το τηλέφωνο.</string>
   <string name="composer_not_initialized">Η σύνθεση vCard δεν έχει ξεκινήσει σωστά.</string>
@@ -197,6 +206,8 @@
   <string name="contact_detail_calllog_call_note_tips">Σημειώσεις</string>
   <string name="contact_detail_calllog_call_record_tips">Ηχογράφηση κλήσης</string>
   <string name="contact_detail_calllog_empty">Δεν υπάρχουν εγγραφές κλήσεων</string>
+  <string name="contact_detail_entry_pay">Πληρωμή</string>
+  <string name="contact_detail_entry_pay_dialog_title">Eπιλογή αριθμού τηλεφώνου</string>
   <string name="contact_detail_menu_delete_miprofile">Διαγραφή κάρτας</string>
   <string name="contact_detail_miprofile_accept">Ανταλλαγή καρτών επαφών</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Αδυναμία ανταλλαγής καρτών επαφών</string>
@@ -273,6 +284,8 @@
   <string name="data_already_used">Δεδομένα που χρησιμοποιήθηκαν</string>
   <string name="data_charge">Φόρτωση δεδομένων κινητής</string>
   <string name="data_left">Δεδομένα που απομένουν</string>
+  <string name="data_unit_gb">GB</string>
+  <string name="data_unit_mb">MB</string>
   <string name="date_time_set">Ορισμός</string>
   <string name="date_year_toggle">Δώστε ένα έτος</string>
   <string name="default_ringtone">Προεπιλεγμένος ήχος κλήσης</string>
@@ -305,7 +318,7 @@
   <string name="description_call_log_play_button">Αναπαραγωγή μηνυμάτων τηλεφωνητή</string>
   <string name="description_call_log_unheard_voicemail">Μη αναπαραγμένα μηνύματα τηλεφωνητή</string>
   <string name="description_call_log_voicemail">Τηλεφωνητής</string>
-  <string name="description_contact_photo">φωτογραφία επαφής</string>
+  <string name="description_contact_photo">Φωτογραφία επαφής</string>
   <string name="description_delete_button">διαγραφή</string>
   <string name="description_dial_button">κλήση</string>
   <string name="description_dial_phone_number">Κλήση τηλεφώνου %1$s</string>
@@ -317,7 +330,7 @@
   <string name="description_image_button_four">τέσσερα</string>
   <string name="description_image_button_nine">εννιά</string>
   <string name="description_image_button_one">ένα</string>
-  <string name="description_image_button_plus">συν</string>
+  <string name="description_image_button_plus">Συν</string>
   <string name="description_image_button_pound">λίρα</string>
   <string name="description_image_button_seven">επτά</string>
   <string name="description_image_button_sim1_dial">Κλήση με SIM-1</string>
@@ -330,6 +343,7 @@
   <string name="description_minus_button">αφαίρεση</string>
   <string name="description_plus_button">πρόσθεση</string>
   <string name="description_quick_contact_for">Γρήγορη επαφή για %1$s</string>
+  <string name="description_quick_dial_button">Ταχεία Κλήση</string>
   <string name="description_search_button">αναζήτηση</string>
   <string name="description_send_message">Αποστολή μηνύματος σε %1$s</string>
   <string name="description_send_text_message">Αποστολή SMS στο %1$s</string>
@@ -368,6 +382,7 @@
   <string name="dialer_empty_text_loading">Πειμένετε…</string>
   <string name="dialer_empty_text_no_call_log">Δεν υπάρχουν πρόσφατες επαφές</string>
   <string name="dialer_empty_text_no_search_result">Δεν βρέθηκαν επαφές</string>
+  <string name="dialer_firewall_entry_name">Αποκλεισμένα αρχεία κλήσεων</string>
   <string name="dialer_menu_description">Πατήστε για άνοιγμα του μενού κλήσης</string>
   <string name="dialer_menu_title">Επιλογές</string>
   <string name="dialer_returnToInCallScreen">Επιστροφή στην κλήση σε εξέλιξη</string>
@@ -459,6 +474,7 @@
   <string name="force_touch_new_contact">Νέα επαφή</string>
   <string name="foundTooManyContacts">Βρέθηκαν πάνω από %d.</string>
   <string name="frequentList">Συχνά</string>
+  <string name="from_account_format">%1$s</string>
   <string name="full_name">Πλήρες Όνομα</string>
   <string name="gallery">Άλμπουμ</string>
   <string name="generic_no_account_prompt">Διατηρείτε τις επαφές σας ασφαλή ακόμα κι αν χάσετε το τηλέφωνό σας: συγχρονισμός με μια online υπηρεσία.</string>
@@ -496,14 +512,16 @@
   <string name="hybrid_webpage_not_available">Η ιστοσελίδα δεν είναι διαθέσιμη</string>
   <string name="ic_menu_back">Πίσω</string>
   <string name="ic_menu_done">Ολοκληρώθηκε</string>
+  <string name="imei">IMEI</string>
   <string name="imei_invalid">Άκυρο IMEI</string>
+  <string name="imLabelsGroup">IM</string>
   <string name="import_all_sim_entries_miui">Εισαγωγή όλων των επαφών</string>
   <string name="import_all_vcard_string">Εισαγωγή όλων των αρχείων vCard</string>
   <string name="import_contact_card_aggregate_suggestion_button">Συγχώνευση καρτών</string>
   <string name="import_contact_card_button">Εισαγωγή επαφής</string>
   <string name="import_failure_no_vcard_file">Δεν βρέθηκαν αρχεία vCard στον αποθηκευτικό χώρο.</string>
   <string name="import_from_onekey_migrate">Εισαγωγή με την Μεταφορά</string>
-  <string name="import_from_other_phone">Εισαγωγή από άλλο τηλέφωνο</string>
+  <string name="import_from_other_device">Εισαγωγή από άλλη συσκευή</string>
   <string name="import_from_sdcard">Εισαγωγή από αποθηκευτικό χώρο</string>
   <string name="import_from_sim">Εισαγωγή από κάρτα SIM</string>
   <string name="import_from_sim1">Εισαγωγή από κάρτα SIM 1</string>
@@ -511,6 +529,7 @@
   <string name="import_multiple_vcard_string">Εισαγωγή πολλαπλών αρχείων vCard</string>
   <string name="import_name">Όνομα</string>
   <string name="import_one_vcard_string">Εισαγωγή ενός αρχείου vCard</string>
+  <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Εισαγωγή επιλεγμένων επαφών</string>
   <string name="import_sim_contacts_hint_title">Εισαγωγή επαφών SIM</string>
   <string name="import_sim_entries_finish">Επαφές που εισήχθησαν από την κάρτα SIM</string>
@@ -533,6 +552,7 @@
   <string name="keep_local">Διατήρηση τοπικού</string>
   <string name="keep_local_btn">Χρησιμοποιήστε την εσωτερική μνήμη του τηλεφώνου</string>
   <string name="label_custom_type">Προσαρμογή</string>
+  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Δεν βρέθηκαν διπλές επαφές</string>
   <string name="label_notes">Σημειώσεις</string>
   <string name="label_sip_address">Κλήση μέσω Internet</string>
@@ -570,6 +590,7 @@
   <string name="map_home">Προβολή διεύθυνσης σπιτιού</string>
   <string name="map_other">Προβολή διεύθυνσης</string>
   <string name="map_work">Προβολή διεύθυνση εργασίας</string>
+  <string name="meid">MEID</string>
   <string name="meid_invalid">Άκυρο MEID</string>
   <string name="menu_accounts">Λογαριασμοί</string>
   <string name="menu_addStar">Προσθήκη στα αγαπημένα</string>
@@ -638,6 +659,7 @@
   <string name="miprofile_contact_header">Επαφές με κάρτες επαφών</string>
   <string name="miprofile_contact_meaasge">Τοπικές επαφές</string>
   <string name="miprofile_contact_verifying">Επαλήθευση…</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Επεξεργασία προφίλ</string>
   <string name="miprofile_error_accept_self">\"Δεν μπορείτε να ανταλλάξετε την δική σας κάρτα επαφής</string>
   <string name="miprofile_error_no_miaccount">Σύνδεση στον Mi λογαριασμός σας</string>
@@ -652,6 +674,7 @@
   <string name="miprofile_find_profile_no_recommend">Δεν συνιστάται προφίλ</string>
   <string name="miprofile_finding_label">Βρείτε κάρτες επαφών</string>
   <string name="miprofile_name">Το προφίλ μου</string>
+  <string name="miprofile_nick_name_divider">"  |  "</string>
   <string name="miprofile_nick_name_edit">Επεξεργασία ψευδώνυμου επαφής</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Εισάγετε ψευδώνυμο</string>
   <string name="miprofile_nick_name_edit_dialog_message">Το ψευδώνυμο θα εμφανίζεται στο αρχείο καταγραφής κλήσεων και στις λεπτομέρειες</string>
@@ -720,14 +743,8 @@
   <string name="noAccounts">Για να δημιουργήσετε ομάδες θα πρέπει να έχετε ένα λογαριασμό.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Επαναφορά δεδομένων επαφών χρησιμοποιώντας το λογαριασμό Mi</string>
   <string name="noContacts">Δεν υπάρχουν επαφές</string>
-  <string name="noContactsHelpText">Δεν έχετε επαφές για προβολή.\n\nΓια να προσθέσετε επαφές, πατήστε \"Μενού\", μετά πατήστε:\n\n\"\"Λογαριασμοί για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές που μπορείτε να συγχρονίσετε στο τηλέφωνο\n\"\" \n\"\"Νέα επαφή για να δημιουργήσετε μια νέα επαφή από το μηδέν\n\"\" \n\"\"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα SIM ή κάρτα SD\n\"\n</string>
-  <string name="noContactsHelpTextForCreateShortcut">Δεν έχετε επαφές για προβολή.</string>
-  <string name="noContactsHelpTextWithSync">Δεν έχετε επαφές για προβολή. (Αν μόλις προσθέσατε ένα λογαριασμό, μπορεί να χρειαστούν μερικά λεπτά για να συγχρονιστούν οι επαφές.)\n\nΓια να προσθέσετε επαφές, πατήστε \"Μενού\", μετά πατήστε:\n\n\"\"Λογαριασμοί για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές που μπορείτε να συγχρονίσετε στο τηλέφωνο\n\"\" \n\"\"Επιλογές εμφάνισης για να αλλάξετε το ποιες επαφές είναι ορατές\n\"\" \n\"\"Νέα επαφή για να δημιουργήσετε μια νέα επαφή από το μηδέν\n\"\" \n\"\"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα SIM ή κάρτα SD\n\"\n</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">Δεν έχετε επαφές για προβολή. (Αν μόλις προσθέσατε ένα λογαριασμό, μπορεί να χρειαστούν μερικά λεπτά για να συγχρονίσετε τις επαφές.)</string>
-  <string name="noContactsNoSimHelpText">Δεν έχετε επαφές για προβολή.\n\nΓια να προσθέσετε επαφές, πατήστε \"Μενού\", μετά πατήστε:\n\n\"\"Λογαριασμοί για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές που μπορείτε να συγχρονίσετε στο τηλέφωνο\n\"\" \n\"\"Νέα επαφή για να δημιουργήσετε μια νέα επαφή από το μηδέν\n\"\" \n\"\"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα SD\n\"\n</string>
-  <string name="noContactsNoSimHelpTextWithSync">Δεν έχετε επαφές για προβολή. (Αν μόλις προσθέσατε ένα λογαριασμό, μπορεί να χρειαστούν μερικά λεπτά για να συγχρονίσετε τις επαφές.)\n\nΓια να προσθέσετε επαφές, πατήστε \"Μενού\", μετά πατήστε:\n\n\"\"Λογαριασμοί για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές που μπορείτε να συγχρονίσετε στο τηλέφωνο\n\"\" \n\"\"Επιλογές εμφάνισης για να αλλάξετε το ποιες επαφές είναι ορατές\n\"\" \n\"\"Νέα επαφή για να δημιουργήσετε μια νέα επαφή από το μηδέν\n\"\" \n\"\"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα SD\n\"\n</string>
   <string name="noContactsWithPhoneNumbers">Δεν υπάρχουν επαφές με αριθμούς τηλεφώνου</string>
-  <string name="noFavoritesHelpText">Δεν έχετε αγαπημένα.\n\nΓια να προσθέσετε μια επαφή στην λίστα των αγαπημένων:\n\n\"Πατήστε στην καρτέλα Επαφές\"\n\"\" \n\"\"Πατήστε την επαφή που θέλετε να προσθέσετε στα αγαπημένα σας\n\"\" \n\"\"Πατήστε το αστέρι δίπλα στο όνομα της επαφής\n\"\n</string>
+  <string name="noFavoritesHelpText">Δεν έχετε αγαπημένα.\n\nΓια να προσθέσετε μια επαφή στην λίστα των αγαπημένων:\n\n\"Πατήστε στην καρτέλα Επαφές\"\n\"\" \n\"\"Πατήστε την επαφή που θέλετε να προσθέσετε στα αγαπημένα σας\n\"\" \n\"\"Πατήστε το αστέρι δίπλα στο όνομα της επαφής\n\n</string>
   <string name="noGroups">Δεν υπάρχουν ομάδες</string>
   <string name="noMatchingContacts">Δεν υπάρχουν επαφές που να ταιριάζουν.</string>
   <string name="non_phone_add_to_contacts">Προσθήκη στις επαφές</string>
@@ -738,6 +755,7 @@
   <string name="not_applied">Δεν εφαρμόστηκε</string>
   <string name="notification_action_voicemail_play">Αναπαραγωγή</string>
   <string name="notification_new_voicemail_ticker">Νέο φωνητικό μήνυμα από %1$s</string>
+  <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="open_contact">Προβολή επαφής</string>
   <string name="open_dial_pad_description">Άνοιγμα πληκτρολογίου</string>
   <string name="openDialKeyboard">Πληκτρολόγιο</string>
@@ -752,6 +770,7 @@
   <string name="option_send_to_others">Προώθηση</string>
   <string name="option_view_contact">Προβολή</string>
   <string name="option_view_group">Προβολή</string>
+  <string name="organization_company_and_title">%1$s, %2$s</string>
   <string name="organizationLabelsGroup">Οργανισμός</string>
   <string name="other_contacts">Άλλες επαφές</string>
   <string name="other_phone">Άλλα τηλέφωνα</string>
@@ -772,6 +791,7 @@
   <string name="path_key_rebuild_t9_index_title">Εφαρμογές συστήματος/Επαφές/Οργάνωση επαφών/Ανακατασκευή στοιχείων δείκτη</string>
   <string name="path_key_sim_manage">Εφαρμογές συστήματος/Επαφές/Οργάνωση επαφών/Κάρτες SIM</string>
   <string name="path_preference_contacts_filter">Εφαρμογές συστήματος/Επαφές/Προβολή προτιμήσεων/Διαμόρφωση λίστας επαφών</string>
+  <string name="path_quick_dial_setting">Εφαρμογές Συστήματος/Επαφές/Ταχεία Κλήση</string>
   <string name="path_remove_duplicate">Εφαρμογές συστήματος/Επαφές/Οργάνωση επαφών/Συγχώνευση διπλών επαφών</string>
   <string name="path_share_visible_contacts">Εφαρμογές συστήματος/Επαφές/Εισαγωγή/Εξαγωγή επαφών/Κοινή χρήση επαφών</string>
   <string name="path_sim_capacity">Εφαρμογές συστήματος/Επαφές/Αποθηκευτικός χώρος SIM</string>
@@ -780,6 +800,9 @@
   <string name="path_wipe_data">Εφαρμογές συστήματος/Επαφές/Οργάνωση επαφών/Εκκαθάριση δεδομένων</string>
   <string name="payphone">"Καρτοτηλέφωνο "</string>
   <string name="people">Επαφές</string>
+  <string name="percent_sign">%</string>
+  <string name="percentage">%s%%</string>
+  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Ο αριθμός είναι πολύ μεγάλος</string>
   <string name="phone_primary">Κύριο</string>
   <string name="phoneLabelsGroup">Τηλέφωνο</string>
@@ -816,6 +839,9 @@
   <string name="pref_key_photo_word_title">Ορισμός φωτογραφίας επαφών</string>
   <string name="pref_key_rebuild_t9_index_message">Αναδόμηση του δείκτη για την επίλυση ζητημάτων αναζήτησης</string>
   <string name="pref_key_rebuild_t9_index_title">Ανακατασκευή στοιχείων δείκτη</string>
+  <string name="pref_key_sdn_manage">Προβολή SDN</string>
+  <string name="pref_key_sdn_manage1">Προβολή SDN κάρτας 1</string>
+  <string name="pref_key_sdn_manage2">Προβολή SDN κάρτας 2</string>
   <string name="pref_key_sim_manage">Διαμορφώστε την κάρτα SIM</string>
   <string name="pref_key_sim_manage1">Διαμορφώστε την κάρτα SIM 1</string>
   <string name="pref_key_sim_manage2">Διαμορφώστε την κάρτα SIM 2</string>
@@ -829,12 +855,14 @@
   <string name="preference_contacts_display">Προβολή προτιμήσεων</string>
   <string name="preference_contacts_filter">Διαμόρφωση λίστας επαφών</string>
   <string name="preference_contacts_more">Οργάνωση επαφών</string>
+  <string name="preference_contacts_moresetting">Περισσότερα</string>
   <string name="preference_dial_pad_touch_tone_default">Προκαθορισμένο</string>
   <string name="preference_dial_pad_touch_tone_human">Φωνή</string>
   <string name="preference_dial_pad_touch_tone_piano">Πλήκτρα πιάνου</string>
   <string name="preference_dial_pad_touch_tone_switch">Ήχοι πληκτρολογίου</string>
   <string name="preference_dial_pad_touch_tone_title">Ήχοι πληκτρολογίου</string>
   <string name="preference_display">Προβολή</string>
+  <string name="preference_display_contact">Ρυθμίσεις προβολής</string>
   <string name="preference_displayOptions">Επιλογές εμφάνισης</string>
   <string name="preference_export">Εξαγωγή</string>
   <string name="preference_import">Εισαγωγή</string>
@@ -868,6 +896,7 @@
   <string name="preview_incall_show_entry">Προεπισκόπηση βίντεο</string>
   <string name="previous">Προηγούμενο</string>
   <string name="private_num">Απόρρητος αριθμός</string>
+  <string name="profile_binded_numbers">%s</string>
   <string name="profile_delete_toast">Διαγράφηκε επιτυχώς το προφίλ</string>
   <string name="profile_display_name">Ρύθμιση του προφίλ μου</string>
   <string name="profile_name">Το προφίλ μου</string>
@@ -879,6 +908,12 @@
   <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση…</string>
   <string name="qr_card_card">Ο QR κωδικός μου</string>
   <string name="qrcode_card_title">QR κωδικός</string>
+  <string name="quick_dial_setting_delete_dialog_message">Διαγραφή αντιστοιχισμένου Αριθμού Ταχείας Κλήσης?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Διαγραφή</string>
+  <string name="quick_dial_setting_hint">Αγγίξτε ένα πλήκτρο για εκχώρηση ή καταργήση ενός αριθμού Ταχείας Κλήσης. Πατήστε και κρατήστε πατημένο το πλήκτρο ενός εκχωρημένου αριθμού για να καλέσετε.</string>
+  <string name="quick_dial_setting_set_dialog_message">Εκχώρηση αριθμού Ταχείας Κλήσης σε αυτό το πλήκτρο?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Ναι</string>
+  <string name="quick_dial_setting_title">Ταχεία Κλήση</string>
   <string name="quickcontact_missing_app">Καμία εφαρμογή δεν βρέθηκε για να χειριστεί αυτή την ενέργεια</string>
   <string name="quit_dialog_confirm_message">Δεν έχετε συγχωνεύσει καμία επαφή</string>
   <string name="quit_dialog_confirm_title">Ακύρωση συγχώνευσης επαφών</string>
@@ -912,6 +947,7 @@
   <string name="removePhoto">Αφαίρεση φωτογραφίας</string>
   <string name="report_inquiry_mms">Αναφορά SMS</string>
   <string name="restore_nickname">Επαναφορά</string>
+  <string name="ret_sign">\n\n</string>
   <string name="returnCall">Επιστροφή κλήσης</string>
   <string name="ringLabelsGroup">Ήχος κλήσης</string>
   <string name="save_photo_progress">Αποθήκευση φωτογραφίας…</string>
@@ -923,6 +959,8 @@
   <string name="scan_qrcode_card_hint1">Σάρωση κωδικού QR</string>
   <string name="scanning_sdcard_failed_message">Αιτία: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Ο αποθηκευτικός χώρος δεν μπορεί να σαρωθεί</string>
+  <string name="sdnContacts_empty">Χωρίς SDN</string>
+  <string name="sdnContacts_emptyLoading">Φόρτωση SDN…</string>
   <string name="search_batch_delete">Οργάνωση;Επαφές</string>
   <string name="search_contacts_display">Επαφές;Προβολή</string>
   <string name="search_contacts_more">Οργάνωση;Επαφές</string>
@@ -941,6 +979,7 @@
   <string name="search_key_rebuild_t9_index_title">Οργάνωση;Επαφές;t9</string>
   <string name="search_key_sim_manage">Οργάνωση;Επαφές</string>
   <string name="search_preference_contacts_filter">Επαφές;Προβολή</string>
+  <string name="search_quick_dial_setting">Επαφές</string>
   <string name="search_remove_duplicate">Οργάνωση;Επαφές</string>
   <string name="search_results_searching">Αναζήτηση…</string>
   <string name="search_settings_description">Ονόματα των επαφών σας</string>
@@ -1004,7 +1043,9 @@
   <string name="simContacts_empty">Δεν υπάρχουν επαφές στην κάρτα SIM</string>
   <string name="simContacts_emptyLoading">Φόρτωση επαφών από την κάρτα SIM…</string>
   <string name="simContacts_title">Επαφές της κάρτας SIM</string>
+  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Κανένα μέλος ομάδας</string>
+  <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Βάση εταιρείας</string>
   <string name="smart_group_company_unavailable">Καμία εταιρεία</string>
   <string name="smart_group_frequency_1">Μέσα στον προηγούμενο μήνα</string>
@@ -1042,16 +1083,19 @@
   <string name="social_widget_label">Επαφή</string>
   <string name="social_widget_loading">Φορτώνει…</string>
   <string name="solar_calendar">Γρηγοριανό ημερολόγιο</string>
+  <string name="special_code_security_exception">Απορριφθείσα λειτουργία: Δεν είναι προεπιλεγμένος διαχειριστής κλήσης</string>
   <string name="splitConfirmation">Αυτή η επαφή θα χωριστεί σε πολλαπλές επαφές.</string>
   <string name="splitConfirmation_title">Διαχωρισμός επαφής;</string>
   <string name="starred_contacts">Αγαπημένα</string>
   <string name="starredList">Με αστέρι</string>
   <string name="status_available">Διαθέσιμος</string>
   <string name="status_away">Απουσιάζω</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_busy">Απασχολημένος</string>
   <string name="strequentList">Αγαπημένα</string>
   <string name="success_message_import_from_account">Η επαφή έχει εισαχθεί</string>
   <string name="summary_kind_title">Σύνοψη</string>
+  <string name="sv">SV</string>
   <string name="t9_search_empty_create_contact">Νέα επαφή</string>
   <string name="t9_search_empty_edit_contact">Προσθήκη στις επαφές</string>
   <string name="t9_search_empty_send_sms">Στείλτε μήνυμα</string>
@@ -1133,6 +1177,7 @@
   <string name="voip_audio_description">Πατήστε για να στείλετε μήνυμα φωνής</string>
   <string name="voip_video_description">Πατήστε για να κάνετε κλήση βίντεο VoIP</string>
   <string name="websiteLabelsGroup">Ιστοσελίδα</string>
+  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Εκκαθάριση δεδομένων</string>
   <string name="yellowpage_fc_toast">Δεν είναι δυνατή η χρήση αυτής της δυνατότητας επειδή οι σελίδες του κίτρινου κτυπήθηκαν.</string>
   <string name="yellowpage_navigation_ad_hint">Διαφήμιση</string>
@@ -1158,22 +1203,6 @@
   <string name="yellowpage_user_profile">Προφίλ</string>
   <string name="yellowPageNavigationIconLabel">Φάκελος</string>
   <string name="yellowPageNavigationLabel">Φάκελος</string>
-  <string name="yesterday">Χθες</string>
+  <string name="yesterday">Χθές</string>
   <string name="zero_items_selected">Επιλέξτε στοιχεία</string>
-  <string name="dialer_firewall_entry_name">Αποκλεισμένα αρχεία κλήσεων</string>
-  <string name="description_quick_dial_button">Ταχεία Κλήση</string>
-  <string name="path_quick_dial_setting">Εφαρμογές Συστήματος/Επαφές/Ταχεία Κλήση</string>
-  <string name="quick_dial_setting_delete_dialog_message">Διαγραφή αντιστοιχισμένου Αριθμού Ταχείας Κλήσης?</string>
-  <string name="quick_dial_setting_delete_dialog_option_delete">Διαγραφή</string>
-  <string name="quick_dial_setting_hint">Αγγίξτε ένα πλήκτρο για εκχώρηση ή καταργήση ενός αριθμού Ταχείας Κλήσης. Πατήστε και κρατήστε πατημένο το πλήκτρο ενός εκχωρημένου αριθμού για να καλέσετε.</string>
-  <string name="quick_dial_setting_set_dialog_message">Εκχώρηση αριθμού Ταχείας Κλήσης σε αυτό το πλήκτρο?</string>
-  <string name="quick_dial_setting_set_dialog_option_set">Ναι</string>
-  <string name="quick_dial_setting_title">Ταχεία Κλήση</string>
-  <string name="search_quick_dial_setting">Επαφές</string> 
-  <string name="pref_key_sdn_manage">Προβολή SDN</string>
-  <string name="pref_key_sdn_manage1">Προβολή SDN κάρτας 1</string>
-  <string name="pref_key_sdn_manage2">Προβολή SDN κάρτας 2</string>
-  <string name="sdnContacts_empty">Χωρίς SDN</string>
-  <string name="sdnContacts_emptyLoading">Φόρτωση SDN…</string>
-  <string name="special_code_security_exception">Απορριφθείσα λειτουργία: Δεν είναι προεπιλεγμένος διαχειριστής κλήσης</string>
 </resources>

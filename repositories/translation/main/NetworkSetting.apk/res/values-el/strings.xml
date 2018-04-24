@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
   <string name="available_networks">Διαθέσιμα δίκτυα</string>
   <string name="connect_later">Δεν είναι δυνατή η σύνδεση με αυτό το δίκτυο αυτήν τη στιγμή. Δοκιμάστε ξανά αργότερα.</string>
   <string name="dialog_message">Η Έξοδος θα σταματήσει την αναζήτηση, σίγουρα τερματισμός;</string>
@@ -14,7 +14,7 @@
   <string name="register_on_network">Εγγραφή σε %1$s…</string>
   <string name="registration_done">Εγγεγραμμένοι στο δίκτυο.</string>
   <string name="roamingTextSearching">Αναζήτηση υπηρεσίας</string>
-  <string name="search_networks">Δίκτυα αναζήτησης</string>
+  <string name="search_networks">Αναζήτηση δικτύων</string>
   <string name="select_automatically">Επιλέξτε αυτόματα</string>
   <string name="sum_select_automatically">Επιλέξτε αυτόματα το προτιμώμενο δίκτυο</string>
   <string name="timeout_message">Δεν βρέθηκε διαθέσιμο δίκτυο.</string>

@@ -1592,6 +1592,7 @@
     <string name="media_removed">Η κάρτα SD έχει αφαιρεθεί.</string>
     <string name="media_shared">Αυτή τη στιγμή η κάρτα SD χρησιμοποιείται από κάποιον υπολογιστή.</string>
     <string name="media_unknown_state">Το εξωτερικό μέσο είναι σε άγνωστη κατάσταση.</string>
+    <string name="move_button_text">Διακόπτης</string>
     <string name="permdesc_accessContentProvidersExternally">Επιτρέπει στον κάτοχο να έχει πρόσβαση στους παρόχους περιεχομένου από το κέλυφος. Να μην απαιτείται ποτέ για τις κανονικές εφαρμογές.</string>
     <string name="permdesc_accessMockLocation">Δημιουργεί ψευδείς πηγές τοποθεσίας για τη δοκιμή ή την εγκατάσταση νέου παρόχου τοποθεσίας. Αυτό δίνει τη δυνατότητα στην εφαρμογή να παρακάμψει την τοποθεσία και/ή την κατάσταση που επιστρέφεται από άλλες πηγές τοποθεσίας, όπως το GPS ή οι πάροχοι τοποθεσίας.</string>
     <string name="permdesc_accessMtp">Επιτρέπει την πρόσβαση στο πρόγραμμα οδήγησης kernel MTP για την εφαρμογή του πρωτοκόλλου MTP USB.</string>
@@ -2005,5 +2006,4 @@
     <string name="status_bar_tty">tty</string>
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
-    <string name="move_button_text">Διακόπτης</string>	
 </resources>
