@@ -3,14 +3,14 @@
   <string-array name="call_backlight_entries">
     <item>Μόνο εισερχόμενη κλήση</item>
     <item>Μετά την απάντηση στην κλήση</item>
-    <item>Πάντα με τις εισερχόμενες</item>
+    <item>Πάντα με εισερχόμενες</item>
     <item>Πάντα με εξερχόμενες</item>
   </string-array>
     <string-array name="call_entries">
         <item>Καμιά</item>
         <item>Άνοιγμα Πληκτρολογίου</item>
-        <item>Έξοδος/Επιφάνεια εργασίας</item>
-        <item>Έξοδος/Κλείδωμα τηλεφώνου</item>
+        <item>Έξοδος/Επιφάνεια</item>
+        <item>Έξοδος/Κλείδωμα</item>
     </string-array>
   <string-array name="call_home_entries">
     <item>Αποδοχή κλήσης</item>
@@ -19,7 +19,7 @@
     <item>Ανενεργό</item>
   </string-array>
   <string-array name="incall_background_entries">
-    <item>Προκαθορισμένο</item>
+    <item>Προεπιλογή</item>
     <item>Κραυγή</item>
     <item>Ματωμένα χέρια</item>
     <item>Ο άνθρωπος με την κουκούλα</item>
