@@ -143,4 +143,5 @@
   <string name="unlockscreen_recharge_completed">Φορτισμένη μπαταρία</string>
   <string name="unlockscreen_recharging_message">Φορτίζεται %d%%</string>
   <string name="wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
+  <string name="app_name">Keyguard</string>
 </resources>

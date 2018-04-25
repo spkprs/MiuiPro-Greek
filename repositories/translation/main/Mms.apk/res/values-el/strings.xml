@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_smart_sms_title">Έξυπνος συνεργάτης</string>
-  <string name="action_firewall_setting">Λίστα φραγών</string>
+  <string name="action_firewall_setting">Λίστα αποκλεισμών</string>
   <string name="activity_not_found">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
   <string name="activity_not_found_uri">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
   <string name="add_attachment">Προσθήκη συνημμένων</string>
@@ -18,7 +17,7 @@
   <string name="add_to_browser_favorite_failed">Αδυναμία προσθήκης</string>
   <string name="add_to_browser_favorite_success">Επιτυχής προσθήκη</string>
   <string name="add_video">Προσθήκη βίντεο</string>
-  <string name="addBlackList">Φραγή</string>
+  <string name="addBlackList">Αποκλεισμός</string>
   <string name="adding_attachments">Παρακαλώ περιμένετε ενώ τα στοιχεία προστίθενται στο slideshow.</string>
   <string name="adding_attachments_title">Προσθήκη συνημμένων</string>
   <string name="adding_recipients">Προσθήκη παραληπτών…</string>
@@ -33,6 +32,7 @@
   <string name="attach_sound">Ήχος</string>
   <string name="attach_subject">Θέμα</string>
   <string name="attach_take_photo">Λήψη εικόνας</string>
+  <string name="attach_transaction">Μεταφορά χρημάτων</string>
   <string name="attach_video">Βίντεο</string>
   <string name="audio_download_failed">η λήψη ήχου απέτυχε</string>
   <string name="audio_message_expired">Αυτό το φωνητικό μήνυμα έχει λήξει.</string>
@@ -50,6 +50,11 @@
   <string name="bookmark_confirm_delete_message">Αφαίρεση επιλεγμένων μηνυμάτων από τα αγαπημένα;</string>
   <string name="bookmark_empty">Δεν υπάρχουν αγαπημένα</string>
   <string name="bookmark_list_title">Αγαπημένα</string>
+  <string name="button_fold">Διπλώστε</string>
+  <string name="button_next_slide">Επόμενο</string>
+  <string name="button_pre_slide">Προηγούμενο</string>
+  <string name="button_resend_message">Στείλτε ξανά</string>
+  <string name="button_unfold">Ξεδιπλώστε</string>
   <string name="call_sender">Κλήση αποστολέα</string>
   <string name="cannot_add_picture_and_video">Δεν είναι δυνατή η προσθήκη βίντεο και εικόνας σε μία διαφάνεια.</string>
   <string name="cannot_add_slide_anymore">Δεν είναι δυνατή η προσθήκη περισσότερων διαφανειών.</string>
@@ -63,7 +68,6 @@
   <string name="check_all">Επιλογή όλων</string>
   <string name="class_0_message_activity">Κατηγορία 0 μηνύματος</string>
   <string name="close">Κλείσιμο</string>
-  <string name="cloud_recommend_msg">Πατήστε για να συγχρονίσετε τα μηνύματα με το Mi Cloud.</string>
   <string name="cloud_state_disabled">Ο συγχρονισμός με το Mi Cloud είναι ανενεργός</string>
   <string name="cloud_state_sync_finished">Συγχρονισμένο με Mi Cloud</string>
   <string name="cloud_state_syncing">Συγχρονισμός με Mi Cloud…</string>
@@ -106,6 +110,8 @@
   <string name="context_menu_view_contact">Προβολή επαφής</string>
   <string name="context_menu_view_mms">Προβολή MMS</string>
   <string name="conversation">Μηνύματα</string>
+  <string name="conversation_listitem_avatar">Avatar</string>
+  <string name="conversation_style">φυσαλλίδα</string>
   <string name="converting_to_picture_message">Μετατροπή σε μήνυμα πολυμέσων…</string>
   <string name="converting_to_text_message">Μετατροπή σε μήνυμα κειμένου…</string>
   <string name="copy_message_text">Αντιγραφή κειμένου</string>
@@ -125,7 +131,9 @@
   <string name="delete_wild_sims_title">Διαγραφή επιλεγμένων αριθμών</string>
   <string name="delivery_report_activity">Αναφορά παράδοσης</string>
   <string name="delivery_toast_body">Μήνυμα ελήφθη από %s</string>
+  <string name="dialog_message_fake_cell_detect_error">Διορθώστε τις πληροφορίες σχετικά με αυτό το μήνυμα; Για να γίνει αυτό, το MIUI πρέπει να φορτώσει τον αριθμό τηλεφώνου (%1$s), το περιεχόμενο του μηνύματος και τις πληροφορίες σχετικά με την κοντινή τοποθεσία στους διακομιστές του.</string>
   <string name="dialog_message_sms_report">Τα μηνύματα ανεπιθύμητης αλληλογραφίας και οι πληροφορίες του αποστολέα θα μεταφορτωθούν στο MIUI όταν τα αναφέρετε. Θα χρησιμοποιηθούν μόνο για τη βελτίωση των φίλτρων ανεπιθύμητης αλληλογραφίας του MIUI.</string>
+  <string name="dialog_title_fake_cell_detect_error">Διόρθωση</string>
   <string name="disable_notifications_dialog_message">Διακοπή διπλών ειδοποιήσεων μηνυμάτων κειμένου από την προεπιλεγμένη εφαρμογή μηνυμάτων;</string>
   <string name="disabled">Ανενεργό</string>
   <string name="discard">Απόρριψη</string>
@@ -138,6 +146,7 @@
   <string name="download_later">Αδυναμία λήψης αυτή  τη στιγμή. Παρακαλώ δοκιμάστε ξανά αργότερα.</string>
   <string name="downloading">Λήψη</string>
   <string name="downloading_file_can_not_play">Περιμένετε μέχρι να τελειώσει η λήψη της εγγραφής</string>
+  <string name="draft">Σχέδιο</string>
   <string name="duration_not_a_number">Η διάρκεια πρέπει να είναι ένας αριθμός</string>
   <string name="duration_sec">Διάρκεια (%s δευτ)</string>
   <string name="duration_selector_title">"Διάρκεια διαφάνειας "</string>
@@ -166,6 +175,7 @@
   <string name="fail_to_view_attachment">Το συνημμένο δεν είναι διαθέσιμο</string>
   <string name="failed_to_add_media">Δεν μπορείτε να προσθέσετε το %1$s στο μήνυμά σας.</string>
   <string name="failed_to_resize_image">Η εικόνα δεν άλλαξε μέγεθός.</string>
+  <string name="fake_cell_alert_detect_error">"Αυτό δεν στάλθηκε από ψεύτικο δικτύο βάσης "</string>
   <string name="fake_cell_alert_hint">Φαίνεται ότι αυτό το μήνυμα στάλθηκε από αριθμό τηλεφώνου διαφορετικό από αυτόν που εμφανίζεται. Να είστε προσεκτικοί με τα SMS που περιέχει οικονομικά αιτήματα.</string>
   <string name="fake_cell_checking_hint">Έλεγχος ασφαλείας…</string>
   <string name="fake_cell_detection_entry">Ανιχνεύτηκε ψεύτικος σταθμός βάσης</string>
@@ -174,6 +184,7 @@
   <string name="favorite_at_time">Αστέρι σε: %1s</string>
   <string name="fdn_check_failure">Μπορείτε να στείλετε μηνύματα μόνο στους αριθμούς κλήσης συγκεκριμένων αριθμών.</string>
   <string name="festival_sms_loading">Φορτώνει…</string>
+  <string name="fetion_prefix">[Φήμη]</string>
   <string name="file_create_time">Δημιουργήθηκε:</string>
   <string name="file_size">Μέγεθος:</string>
   <string name="file_title">Όνομα:</string>
@@ -223,7 +234,7 @@
   <string name="loading_mms">Φόρτωση…</string>
   <string name="manage_permission_app_label">Δικαιώματα συσκευής</string>
   <string name="me">Εγώ</string>
-  <string name="menu_add_black">Φραγή αυτού του αριθμού</string>
+  <string name="menu_add_black">Αποκλεισμός αυτού του αριθμού</string>
   <string name="menu_add_contact">Προσθήκη σε υφιστάμενη επαφή</string>
   <string name="menu_call">Κλήση</string>
   <string name="menu_compose_new">Σύνθεση</string>
@@ -313,11 +324,11 @@
   <string name="mx_dspt_provision">Το Mi Message σας επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβάρυνση SMS. Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση της υπηρεσίας.</string>
   <string name="mx_dspt_provision_ex2">Πολιτική Απορρήτου</string>
   <string name="mx_enable">Mi Message</string>
-  <string name="mx_enable_ex">Mi Message &amp; Voice</string>
+  <string name="mx_enable_ex">Mi Μήνυμα &amp; Φωνή</string>
   <string name="mx_enable_popup_msg">Το Mi message σας επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβάρυνση SMS</string>
-  <string name="mx_filter_message_from_stranger">Φραγή Mi Message από άγνωστους αριθμούς</string>
+  <string name="mx_filter_message_from_stranger">Αποκλεισμός Mi Message από άγνωστους αριθμούς</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">Θα εξακολουθείτε να λαμβάνετε τα κανονικά SMS από άγνωστους αριθμούς. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στα Μηνύματα &gt; Ρυθμίσεις.</string>
-  <string name="mx_filter_message_from_stranger_dialog_title">Φραγή Mi Message από άγνωστους αριθμούς</string>
+  <string name="mx_filter_message_from_stranger_dialog_title">Αποκλεισμός Mi Message από άγνωστους αριθμούς</string>
   <string name="mx_filter_message_from_stranger_summary">Θα εξακολουθείτε να λαμβάνετε τα κανονικά SMS από άγνωστους αριθμούς</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_msg_pageview_setting_title">Ρυθμίσεις Mi Message</string>
@@ -402,8 +413,8 @@
   <string name="pref_summary_wake_up_screen">Ενεργοποίηση οθόνης όταν ληφθεί νέο μήνυμα</string>
   <string name="pref_switch_sdk_setting">Αλλαγή σε έξυπνο παροχέα υπηρεσιών SMS</string>
   <string name="pref_system_title">Σύστημα</string>
-  <string name="pref_title_about_smart_sms">Σχετικά με τον συνεργάτη Smart μηνυμάτων</string>
   <string name="pref_title_allow_si_sl_push">Επιτρέψτε την προώθηση WAP</string>
+  <string name="pref_title_allow_upload_message_info">Μεταφόρτωση μηνυμάτων spam</string>
   <string name="pref_title_auto_delete">Διαγράψτε παλιά μηνύματα</string>
   <string name="pref_title_card_format">Διαμόρφωση επαγγελματικής κάρτας</string>
   <string name="pref_title_delivery_reports">Κατάσταση παράδοσης</string>
@@ -428,6 +439,9 @@
   <string name="pref_title_vcard">Αποστολή μέσω vCard</string>
   <string name="pref_title_wake_up_screen">Ενεργοποίηση οθόνης</string>
   <string name="prefDefault_ringtone_repeat">1</string>
+  <string name="prefDefault_vibrate_false">ποτέ</string>
+  <string name="prefDefault_vibrate_true">πάντα</string>
+  <string name="prefDefault_vibrateWhen">ποτέ</string>
   <string name="preferences_title">Ρυθμίσεις</string>
   <string name="prepare_send">Προετοιμασία για αποστολή…</string>
   <string name="preview">Προεπισκόπηση</string>
@@ -499,7 +513,7 @@
   <string name="second_mms_introduction">Πηγαίνετε στο Δεύτερο προφίλ</string>
   <string name="second_mms_switch">Αλλαγή</string>
   <string name="secs">δευτερόλεπτα</string>
-  <string name="security_alert_desc">&lt;font color=\"#7f000000\"&gt;\"Ο αποστολέας δεν υπάρχει στις επαφές σας.\n \"&lt;/font&gt;</string>
+  <string name="security_alert_desc">&lt;font color=\"#7f000000\"&gt;\"\"Ο αποστολέας δεν υπάρχει στις επαφές σας.\u000d\n \"\"&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Αναφορά αυτού του αριθμού</string>
   <string name="security_alert_dialog_desc">Αναφορά αυτού του αριθμού (%s) και του μηνύματος, αποστέλλοντας τα στην Xiaomi για έλεγχο.</string>
   <string name="security_alert_dialog_title">Αναφορά</string>
@@ -511,6 +525,7 @@
   <string name="select_local_audio">Επιλέξτε ήχο</string>
   <string name="select_local_video">Επιλέξτε βίντεο</string>
   <string name="select_message_send_sim">Επιλέξτε κάρτα SIM</string>
+  <string name="select_phone_number">Επιλέξτε τον αριθμό τηλεφώνου</string>
   <string name="select_recipient">Επιλέξτε παραλήπτες</string>
   <string name="select_sim">Επιλέξτε κάρτα SIM</string>
   <string name="select_top_text">Κείμενο στην κορυφή</string>
@@ -525,6 +540,7 @@
   <string name="send_signature_confirm_dialog_title">Αποστολή μηνύματος</string>
   <string name="send_sms">Αποστολή μηνύματος</string>
   <string name="send_to">Προς:</string>
+  <string name="sent_at_time">Αποστολή σε:% 1s</string>
   <string name="sent_label">"Απεστάλη: "</string>
   <string name="service_message_not_found">Το Μήνυμα έχει λήξει ή δεν είναι διαθέσιμο</string>
   <string name="service_network_problem">Αδυναμία αποστολής λόγω σφάλματος δικτύου</string>
@@ -549,6 +565,7 @@
   <string name="slide_up_to_cancel">Σύρετε πάνω για ακύρωση</string>
   <string name="slideshow_activity">Παρουσίαση</string>
   <string name="sms_card_partner_label">Συνεργάτης καρτών SMS:</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Περιεχόμενο:</string>
   <string name="sms_full_body">Το εισερχόμενο μήνυμα απορρίφθηκε, επειδή η μνήμη είναι πλήρης. Παρακαλώ διαγράψτε τα παλαιά μηνύματα.</string>
   <string name="sms_full_title">Μνήμη μηνυμάτων κειμένου πλήρης</string>
@@ -594,6 +611,7 @@
   <string name="text_in_popup_saved_to_clipboard">Αντιγράφτηκε στο πρόχειρο</string>
   <string name="text_message">Μήνυμα κειμένου</string>
   <string name="timed_message_expired_title_2">Αποστολή τώρα;</string>
+  <string name="timed_message_to">προς</string>
   <string name="title_allow_network_access">Αυτόματη ενημέρωση πληροφοριών</string>
   <string name="title_collapse_sp_messages">Ομαδοποίηση μηνυμάτων παρόχου</string>
   <string name="title_hide_verification_code">Αυτόματη απόκρυψη του OTP στην οθόνη κλειδώματος</string>
@@ -612,6 +630,9 @@
   <string name="too_many_recipients">Αυτό το μήνυμα έχει πολλούς παραλήπτες (%1$s). Υπάρχει ένα όριο %2$s παραληπτών.</string>
   <string name="too_many_unsent_mms">Αδυναμία αποστολής μηνύματος αυτή τη στιγμή. Υπάρχουν πάρα πολλά μη απεσταλμένα μηνύματα πολυμέσων.</string>
   <string name="try_to_send">Προσπάθεια για αποστολή</string>
+  <string name="type_attachment">συνημμένο</string>
+  <string name="type_audio">ήχου</string>
+  <string name="type_picture">εικόνα</string>
   <string name="type_to_compose_text_enter_to_send">Γράψτε το μήνυμα</string>
   <string name="type_to_compose_text_or_leave_blank">Γράψτε το μήνυμα, ή αφήστε το κενό</string>
   <string name="undelivered_msg_dialog_body">Δεν είναι δυνατή η αποστολή αυτού του μηνύματος.  Γίνεται προσπάθεια: %s.</string>

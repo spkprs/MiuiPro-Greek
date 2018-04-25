@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_manager_cache_size">Cache</string>
-  <string name="app_manager_clear_all_data">Καθαρισμός όλων των δεδομένων</string> 
-  <string name="app_manager_clear_dlg_title">Καθαρισμός δεδομένων</string>
-  <string name="app_manager_code_size">Μέγεθος εφαρμογής</string>
-  <string name="app_manager_comuting_size">Υπολογισμός…</string>
-  <string name="app_manager_data_size">Δεδομένα χρήστη</string>
-  <string name="app_manager_dlg_clear_cache_title">Καθαρισμός cache?</string>
-  <string name="app_manager_not_support_uninstall">"Αδύνατη η απεγκατάσταση αυτής της εφαρμογής"</string>
-  <string name="app_manager_support_uninstall">Μπορείτε να απεγκαταστήσετε αυτές τις εφαρμογές </string>
-  <string name="app_manager_total_size">Σύνολο</string>
-  <string name="app_info">Γίνεται εγγραφή. Πατήστε για διακοπή</string>
   <string name="app_name">Εγγραφή οθόνης</string>
+  <string name="app_notification_info">Η Εγγραφή Οθόνης λειτουργεί στο παρασκήνιο</string>
   <string name="app_notification_title">Εγγραφή οθόνης</string>
   <string name="auto_stop_title">Επιτυχής αποθήκευση βίντεο</string>
   <string name="battery_not_allowed" formatted="false">Αδυναμία εγγραφής όταν η μπαταρία είναι χαμηλότερη από 3%. Βεβαιωθείτε ότι η μπαταρία είναι φορτισμένη τουλάχιστον 20%.</string>
@@ -23,15 +13,21 @@
   <string name="button_confirm">ΟΚ</string>
   <string name="button_goon_recorder">Συνέχεια</string>
   <string name="cancel_edit">Ακύρωση</string>
+  <string name="cannot_change_frames">Ο ρυθμός καρέ μπορεί να προσαρμοστεί μόνο για εγγραφές με σταθερό ρυθμό καρέ.</string>
   <string name="cannot_change_parames">Αδυναμία αλλαγής παραμέτρων κατά την εγγραφή</string>
   <string name="cannot_record">Αδυναμία εγγραφής. Προσπαθήστε ξανά αργότερα.</string>
-  <string name="date_year">,</string>
+  <string name="close_screen_record">Σταματήσατε την εγγραφή</string>
   <string name="date_month">-</string>
-  <string name="date_day" />
+  <string name="date_year">,</string>
+  <string name="description_content">" Η Εγγραφή  οθόνης παρέχει δυνατότητα εγγραφής σε επίπεδο συστήματος. Αυτή η ενέργεια σημαίνει ότι θα απορρίψετε τη λειτουργία εγγραφής οθόνης. Επιβεβαιώστε για Συνέχεια"</string>
+  <string name="description_title">Σχετικά με Εγγραφή οθόνης</string>
   <string name="deselect_all">Αποεπιλογή όλων</string>
   <string name="error_open_file_failed_no_app_found">Αδυναμία εύρεσης εφαρμογής που ανοίγει το αρχείο αυτό</string>
+  <string name="fixed_frame_rate">Σταθερό ρυθμό καρέ</string>
+  <string name="fixed_frame_rate_summary">Η εγγραφή βίντεο με σταθερό ρυθμό καρέ αυξάνει την αναπαραγωγή σε πλατφόρμες κοινωνικών μέσων και μειώνει τη διάρκεια ζωής της μπαταρίας.</string>
   <string name="frames">Ρυθμός ανάλυσης</string>
   <string name="frames_summary">Υψηλότεροι ρυθμοί ανάλυσης μειώνουν την θολούρα</string>
+  <string name="frequently_click_toast">Περιμένετε μία στιγμή…</string>
   <string name="gleam_led_while_recording">Ένδειξη LED κατά την εγγραφή</string>
   <string name="hint_back">Πίσω</string>
   <string name="hint_home">Αρχική</string>
@@ -40,6 +36,9 @@
   <string name="hint_volume_down">Μείωση έντασης</string>
   <string name="hint_volume_up">Αύξηση έντασης</string>
   <string name="home_title_none">Επιλογή στοιχείων</string>
+  <string name="is_checked">Επιλεγμένο</string>
+  <string name="is_go_home">Επιστρέψτε στην οθόνη εγγραφής</string>
+  <string name="is_go_home_summary">Ανοίξτε τη σελίδα εκκίνησης της συσκευής Εγγραφής, αφού σταματήσετε την εγγραφή</string>
   <string name="loopback_sound">Ηχείο</string>
   <string name="low_battery">Φορτίστε το τηλέφωνό σας πριν την έναρξη εγγραφής</string>
   <string name="low_battery_title">Χαμηλή μπαταρία</string>
@@ -55,6 +54,9 @@
   <string name="operation_delete">Διαγραφή</string>
   <string name="operation_send">Αποστολή</string>
   <string name="quit_recording">Έξοδος Εγγραφής οθόνης</string>
+  <string name="recording_failure">Αδυναμία εγγραφής, ξεκινήστε ξανά</string>
+  <string name="recording_max_size">Η εγγραφή διακόπηκε και αποθηκεύτηκε επειδή το αρχείο βίντεου έφτασε στο όριο μεγέθους. Ξεκινήστε την εγγραφή από εκεί που σταματήσατε εάν δεν τελειώσατε.</string>
+  <string name="recording_without_mic">Το Μικρόφωνο είναι απασχολημένο και είναι αδύνατη η εγγραφή ήχου</string>
   <string name="resolution">Ανάλυση</string>
   <string name="resolution_summary">Βίντεο με υψηλότερη ανάλυση έχουν μεγαλύτερη ευκρίνεια</string>
   <string name="screen_orientation">Προσανατολισμός</string>
@@ -62,6 +64,7 @@
   <string name="screen_record_option">Επιλογές εγγραφής</string>
   <string name="screen_record_params">Παράμετροι εγγραφής</string>
   <string name="select_all">Επιλογή όλων</string>
+  <string name="settings">Ρυθμίσεις</string>
   <string name="show_hard_key">Οπτικοποίηση κουμπιών πλοήγησης</string>
   <string name="show_hard_key_summary">Εμφάνιση επιλογών κατά το πάτημα των πλήκτρων Home, Μενού και Πίσω</string>
   <string name="show_screen_touch">Προβολή χειρονομιών αφής</string>
@@ -69,12 +72,13 @@
   <string name="sound_source">Πηγή ήχου</string>
   <string name="sound_source_summary">Ήχοι συστήματος ή μικροφώνου</string>
   <string name="start">Έναρξη</string>
+  <string name="start_recording">Έναρξη εγγραφής</string>
   <string name="stop_by_second_space">Η εναλλαγή προφίλ θα διακόψει την εγγραφή</string>
   <string name="stop_record_while_locking">Κλείδωμα οθόνης για τερματισμό</string>
   <string name="stop_record_while_locking_summary">Διακοπή εγγραφής και αποθήκευση βίντεο όταν η οθόνη είναι κλειδωμένη</string>
-  <string name="description_content"> Η Εγγραφή  οθόνης παρέχει δυνατότητα εγγραφής σε επίπεδο συστήματος. Αυτή η ενέργεια σημαίνει ότι θα απορρίψετε τη λειτουργία εγγραφής οθόνης. Επιβεβαιώστε για Συνέχεια</string>
-  <string name="description_title">Σχετικά με Εγγραφή οθόνης</string>
+  <string name="stop_recording">Διακοπή εγγραφής</string>
+  <string name="storage_location">Αποθήκευση</string>
+  <string name="storage_location_summary">Επιλέξτε την προτιμώμενη επιλογή αποθήκευσης</string>
   <string name="timer_format">%s</string>
-  <string name="app_notification_info">Η Εγγραφή Οθόνης λειτουργεί στο παρασκήνιο</string>
-  <string name="recording_without_mic">Το Μικρόφωνο είναι απασχολημένο και είναι αδύνατη η εγγραφή ήχου</string>
+  <string name="unchecked">Μη επιλεγμένο</string>
 </resources>
