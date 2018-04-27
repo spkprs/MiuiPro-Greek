@@ -740,6 +740,7 @@
   <string name="no_contacts_dialog_title">Απέτυχε η ανεύρεση επαφών</string>
   <string name="no_contacts_selected">Δεν επιλέχθηκε καμία επαφή.</string>
   <string name="no_sdcard_message">Δεν βρέθηκε χώρος αποθήκευσης.</string>
+  <string name="no_setting_menu">Δεν υπάρχουν διαθέσιμες επιλογές μενού</string>
   <string name="noAccounts">Για να δημιουργήσετε ομάδες θα πρέπει να έχετε ένα λογαριασμό.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Επαναφορά δεδομένων επαφών χρησιμοποιώντας το λογαριασμό Mi</string>
   <string name="noContacts">Δεν υπάρχουν επαφές</string>

@@ -383,4 +383,5 @@
   <string name="xspace_uninstalling">Απεγκατάσταση…</string>
   <string name="xspace_weibo_title">Weibo</string>
   <string name="xspace_weixin_title">WeChat</string>
+  <string name="qq_login">Συνδεθείτε στο QQ</string> 
 </resources>

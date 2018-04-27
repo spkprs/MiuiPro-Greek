@@ -574,4 +574,5 @@
     <string name="micloud_main_not_sync">%d στοιχεία σε αναμονή συγχρονισμού</string>
     <string name="micloud_main_see_unsynced_data">Ελέγξτε τα δεδομένα προς συγχρονισμό</string>
     <string name="micloud_find_device_sms_alert">Για την ενεργοποίηση αυτής της υπηρεσίας ενδέχεται να απαιτείται ένα εξερχόμενο μήνυμα SMS. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Όταν αλλάζετε την SIM, μπορεί να αποσταλεί αυτόματα ένα μήνυμα για την επανενεργοποίηση αυτής της λειτουργίας.</string>
+    <string name="micloud_main_head_menu_state_unavailable">Δεν υποστηρίζεται</string>
 </resources>
