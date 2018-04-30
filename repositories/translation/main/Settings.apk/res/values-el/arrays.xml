@@ -880,7 +880,7 @@
         <item>30 λεπτά</item>
     </string-array>
     <string-array name="low_battery_warning_entries">
-        <item>Μήνυμα και ήχο</item>
+        <item>Μήνυμα με ήχο</item>
         <item>Μήνυμα μόνο</item>
         <item>Ήχος μόνο</item>
         <item>Ανενεργό</item>
@@ -903,7 +903,7 @@
         <item>Επόμενο</item>
         <item>Παύση</item>
         <item>Αναπαραγωγή</item>
-        <item>Αναπαραγωγή / Παύση/</item>
+        <item>Αναπαραγωγή/Παύση/</item>
         <item>Προηγούμενο</item>
     </string-array>
     <string-array name="policy_control_entries">
@@ -929,7 +929,7 @@
         <item>Εμπρός</item>
     </string-array>
     <string-array name="def_audio_entries">
-        <item>Ηχος κλησης</item>
+        <item>Ηχος κλήσης</item>
         <item>Πολυμέσα</item>
         <item>Ειδοποιήσεις</item>
     </string-array>
@@ -945,4 +945,9 @@
         <item>Απασφαλμάτωση</item>
         <item>Λεπτομερή</item>
     </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>Off</item>
+        <item>Κανονική</item>
+        <item>Απλή</item>
+    </string-array>	
 </resources>
