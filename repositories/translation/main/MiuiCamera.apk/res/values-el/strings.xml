@@ -32,6 +32,7 @@
   <string name="cannot_connect_camera_twice">Ακόμα δεν μπορεί να συνδεθεί η κάμερα. Δοκιμάστε να επανεκκινήσετε τη συσκευή σας.</string>
   <string name="cannot_connect_camera_volte_call">Η Βίντεο-κλήση είναι σε εξέλιξη. Παρακαλώ δοκιμάστε αργότερα.</string>
   <string name="cannot_move_warning_message">Λήψη φωτογραφίας, εστιάστε περισσότερο</string>
+  <string name="config_name_group">Ομαδική selfie</string>
   <string name="config_name_setting">Ρυθμίσεις</string>
   <string name="config_name_sound">Ήχος</string>
   <string name="config_name_straighten">Ευθυγράμμιση</string>
@@ -90,6 +91,8 @@
   <string name="face_beauty_intelligent_level_3">Υψηλή</string>
   <string name="face_beauty_smart">Έξυπνη</string>
   <string name="face_score_info">Βαθμολογία: %.1f</string>
+  <string name="front_camera_hint_text_place">Η λήψη selfies θα είναι ευκολότερη\nαν περιστρέψετε το τηλέφωνό σας</string>
+  <string name="front_camera_hint_text_rotate">Περιστρέψτε το τηλέφωνό σας</string>
   <string name="groupshot_mode_use_hint">Η κάμερα θα λάβει πολλές φωτογραφίες\nκαι στη συνέχεια θα δημιουργηθεί μια φωτογραφία όπου όλοι θα φαίνονται καλύτερα.</string>
   <string name="hibernate_hint">Αγγίξτε την οθόνη για επαναφορά της κάμερας</string>
   <string name="hine_hht">Σε συνθήκες χαμηλού φωτισμού, η κάμερα θα λάβει πολλές φωτογραφίες\nκαι στη συνέχεια θα δημιουργηθεί μια φωτογραφία με ελάχιστη ποσότητα θορύβου.</string>
@@ -190,13 +193,14 @@
   <string name="pref_camera_contrast_default">5</string>
   <string name="pref_camera_contrast_title">Αντίθεση</string>
   <string name="pref_camera_delay_capture_default">5</string>
-  <string name="pref_camera_delay_capture_entry_3s">3s καθυστέρηση</string>
-  <string name="pref_camera_delay_capture_entry_5s">5s καθυστέρηση</string>
-  <string name="pref_camera_delay_capture_entry_10s">10s καθυστέρηση</string>
+  <string name="pref_camera_delay_capture_entry_3s">Σε 3 δευτ</string>
+  <string name="pref_camera_delay_capture_entry_5s">Σε 5 δευτ</string>
+  <string name="pref_camera_delay_capture_entry_10s">Σε 10 δευτ</string>
   <string name="pref_camera_delay_capture_entry_audio">Ήχος</string>
   <string name="pref_camera_delay_capture_title">Χρονόμετρο</string>
+  <string name="pref_camera_denoise_title">Μείωση θορύβου</string>
   <string name="pref_camera_device_watermark_title">Υδατογράφημα συσκευής</string>
-  <string name="pref_camera_exposuretime_entry_auto">Αυτόματη</string>
+  <string name="pref_camera_exposuretime_entry_auto">Αυτόματα</string>
   <string name="pref_camera_face_info_watermark_title">Αποτύπωση ηλικίας στις φωτογραφίες</string>
   <string name="pref_camera_facedetection_title">Ανίχνευση προσώπου</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
@@ -284,13 +288,13 @@
   <string name="pref_camera_saturation_default">5</string>
   <string name="pref_camera_saturation_title">Κορεσμός</string>
   <string name="pref_camera_scenemode_entry_auto">Auto</string>
-  <string name="pref_camera_scenemode_entry_backlight">Οπίσθιος φωτισμός</string>
+  <string name="pref_camera_scenemode_entry_backlight">Οπίσθ/Φωτισμός</string>
   <string name="pref_camera_scenemode_entry_beach">Παραλία</string>
   <string name="pref_camera_scenemode_entry_fireworks">Πυροτεχνήματα</string>
   <string name="pref_camera_scenemode_entry_flowers">Λουλούδια</string>
   <string name="pref_camera_scenemode_entry_landscape">Τοπίο</string>
   <string name="pref_camera_scenemode_entry_night">Νυχτερινό</string>
-  <string name="pref_camera_scenemode_entry_night_portrait">Νυχτερινό πορτραίτο</string>
+  <string name="pref_camera_scenemode_entry_night_portrait">Νυχτ/Πορτραίτο</string>
   <string name="pref_camera_scenemode_entry_off">Off</string>
   <string name="pref_camera_scenemode_entry_portrait">Πορτραίτο</string>
   <string name="pref_camera_scenemode_entry_snow">Χιόνι</string>
@@ -480,9 +484,4 @@
   <string name="video_file_name_format">\'VID\'_yyyyMMdd_HHmmss</string>
   <string name="video_reach_size_limit">Μέγιστο όριο μεγέθους.</string>
   <string name="wait">Περιμένετε…</string>
-  <string name="portait_effect_entry_movie">Ταινία</string>
-  <string name="portait_effect_entry_riddle">Αίνιγμα</string>
-  <string name="portait_effect_entry_story">Ιστορία</string>
-  <string name="ai_scene_mode_use_hint_text">"Η κάμερα AI ανιχνεύει αυτόματα σκηνές και βελτιστοποιεί τις φωτογραφίες σας με βάση αυτές τις πληροφορίες"</string>
-  <string name="pref_camera_ai_scene_title">AI κάμερα</string> 
 </resources>

@@ -149,7 +149,7 @@
   <string name="status_bar_toggle_cast">Προβολή</string>
   <string name="status_bar_toggle_data">Δεδομένα</string>
   <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
-  <string name="status_bar_toggle_edit">Είδος</string>
+  <string name="status_bar_toggle_edit">Ταξινόμηση</string>
   <string name="status_bar_toggle_flight_mode">Πτήση</string>
   <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
   <string name="status_bar_toggle_gps">GPS</string>
@@ -161,11 +161,11 @@
   <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
   <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_nfc_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
-  <string name="status_bar_toggle_paper_mode">Λειτουργία ανάγνωσης</string>
+  <string name="status_bar_toggle_paper_mode">Λειτ.Ανάγνωσης</string>
   <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
   <string name="status_bar_toggle_power_mode">Απόδοση</string>
   <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
-  <string name="status_bar_toggle_quiet_mode">DND</string>
+  <string name="status_bar_toggle_quiet_mode">Μην Ενοχλείτε</string>
   <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
   <string name="status_bar_toggle_rotate">Περιστροφή</string>
   <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
@@ -185,9 +185,9 @@
   <string name="switch_brand_desc_tv">Υπηρεσίες ασφαλείας που παρέχονται από το Graphite</string>
   <string name="switch_desc_tv">Δύο χώροι. Μία συσκευή.</string>
   <string name="switching_tv">Εναλλαγή…</string>
-  <string name="total">DND</string>
+  <string name="total">Μην Ενοχλείτε</string>
   <string name="total_description">Η σίγαση ήχων και απενεργοποίηση δόνησης όλων εκτός από το ξυπνητήρι</string>
-  <string name="total_title">DND</string>
+  <string name="total_title">Μην Ενοχλείτε</string>
   <string name="translation_more">Περισσότερα</string>
   <string name="translation_query_error">Δεν βρέθηκαν αποτελέσματα</string>
   <string name="translation_query_error_network">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις και προσπαθήστε ξανά</string>
