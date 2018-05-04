@@ -180,7 +180,7 @@
   <string name="notify_network_restricted_title">Ο λογαριασμός Mi δεν μπορεί να συνδεθεί στο δίκτυο</string>
   <string name="oauth_get_scopes_failed">Δεν ήταν δυνατή η λήψη πληροφοριών λογαριασμού</string>
   <string name="oauth_getting_scopes">Επαλήθευση λογαριασμού…</string>
-  <string name="oauth_scopes_intro">&lt;font color=\"#%1$s\"&gt;&lt;fon&lt;/font&gt;t color=#%1$s&gt;%2$s&lt;/font&gt; θα λάβετε τα ακόλουθα δικαιώματα:&lt;br&gt; &lt;br&gt;%3$s</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; θα ληφθούν τα ακόλουθα δικαιώματα:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Συνδεθείτε με το Λογαριασμό Mi</string>
   <string name="other_devices_title">Άλλες συσκευές</string>
   <string name="passport_access_denied">Δεν επιτρέπετε η πρόσβαση</string>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Πατήστε για να ανοίξετε τις Καθημερινές Ταπετσαρίες</string>
+  <string name="app_name">Κλείδωμα Οθόνης</string>
   <string name="btn_camera">Εισάγετε το πρόσωπό σας</string>
+  <string name="change_to_ac_charging">Μετάβαση σε ενσύρματη φόρτιση</string>
   <string name="click_to_enter_text">Πατήστε για προβολή</string>
   <string name="confirm_pin_msg">Εισάγετε ξανά το PIN</string>
   <string name="custom_lock_wallpaper_enter">Εισαγωγή</string>
@@ -65,6 +67,7 @@
   <string name="fingerprint_enter_second_psw_msg_oldman">Δεν είναι δυνατή η είσοδος στο Δεύτερο προφίλ όσο η λειτουργία Lite είναι ενεργή</string>
   <string name="fingerprint_enter_second_psw_title">Εισάγετε τον κωδικό του Δεύτερου προφίλ</string>
   <string name="fingerprint_not_identified_msg">Αδυναμία επαλήθευσης δακτυλικού αποτυπώματος. Πληκτρολογήστε τον κωδικό σας.</string>
+  <string name="fingerprint_not_identified_msg_lock">Πολλές αποτυχημένες προσπάθειες. Εισάγετε τον κωδικό πρόσβασης τώρα.</string>
   <string name="fingerprint_not_identified_title">Εισαγωγή κωδικού</string>
   <string name="fingerprint_try_again_msg">Αδυναμία επαλήθευσης δακτυλικού αποτυπώματος. Δοκιμάστε ξανά.</string>
   <string name="fingerprint_try_again_text">Προσπαθήστε ξανά</string>
@@ -76,7 +79,9 @@
   <string name="incorrect_pukcode">Λανθασμένο PUK</string>
   <string name="input_password_after_boot_msg">Για να ξεκλειδώσετε τη συσκευή, εισάγετε τον κωδικό σας</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Δεν είναι δυνατή η εναλλαγή μεταξύ των προφίλ κατά τη διάρκεια μιας κλήσης</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Αδύνατη η εναλλαγή μεταξύ Χώρων όταν είναι ενεργά τα γονικά στοιχεία ελέγχου</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Πρέπει να εισέλθετε στο Πρώτο προφίλ μετά την επανεκκίνηση της συσκευής σας</string>
+  <string name="input_password_handle_sdcard_fs">Αδύνατη η είσοδος στο Δεύτερο Χώρο από την οθόνη κλειδώματος. Εισέλθετε από τον Πρώτο Χώρο.</string>
   <string name="input_password_hint_text">Εισάγετε τον κωδικό</string>
   <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
   <string name="input_pin_code">Εισάγετε το PIN</string>
@@ -85,10 +90,8 @@
   <string name="invalid_sim_pin_hint">Το PIN πρέπει να περιέχει 4 έως 8 αριθμούς</string>
   <string name="invalid_sim_puk_hint">Το PUK πρέπει να έχει μήκος τουλάχιστον 8 αριθμών</string>
   <string name="keyguard_charging_info_battery_used_time_text">Με μπαταρία</string>
-  <string name="keyguard_charging_info_charging_text">Φορτίζει</string>
   <string name="keyguard_charging_info_click_to_detail">Δείτε λεπτομέρειες</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Καταναλώθηκε</string>
-  <string name="keyguard_charging_info_finished_charging_text">Πλήρως φορτισμένη</string>
   <string name="keyguard_charging_info_last_charge_today_time">Σήμερα %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Χθες %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Τελευταία φόρτιση</string>
@@ -104,7 +107,6 @@
   <string name="keyguard_left_smarthome">Επαφές</string>
   <string name="keyguard_left_view_lock_wallpaper">Καθημερινές Ταπετσαρίες</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Γρήγορη φόρτιση. Πατήστε για λεπτομέρειες.</string>
-  <string name="keyguard_quickly_charging_info_charging_text">Γρήγορη φόρτιση…</string>
   <string name="keyguard_torch_cover_text">Για να διατηρήσετε to φακό αναμμένο, πατήστε το κουμπί λειτουργίας</string>
   <string name="kg_password_pin_failed">Η λειτουργία PIN SIM απέτυχε!</string>
   <string name="lock_screen_date">EEEE d MMMM</string>
@@ -133,6 +135,8 @@
   <string name="phone_locked_forget_password_suggesstion_two_content">" \"&lt;Data&gt;Επιλέξτε &lt;font color=#a5220e&gt;\"Καθαρισμό &amp;amp; Επαναφορά\"&lt;/font&gt; και περιμένετε μέχρι η συσκευή να επανεκκινήσει.&lt;/Data&gt;\" \n"</string>
   <string name="phone_locked_forget_password_suggesstions_title">Πως διαγράφονται τα δεδομένα;</string>
   <string name="phone_locked_string">Το τηλέφωνο έχει κλειδωθεί</string>
+  <string name="reset_device_detail_tip">Βεβαιωθείτε ότι η θέση της συσκευής σας στη βάση φόρτισης είναι σωστή</string>
+  <string name="reset_device_tip">Η φόρτιση είναι αργή. Ρυθμίστε τη συσκευή σας.</string>
   <string name="symbol_colon">:</string>
   <string name="unlock_camera_steady">Κρατήστε το τηλέφωνό σας σταθερά</string>
   <string name="unlock_failed">Εσωτερικό σφάλμα</string>
@@ -142,6 +146,10 @@
   <string name="unlockscreen_low_battery">Συνδέστε το φορτιστή τώρα</string>
   <string name="unlockscreen_recharge_completed">Φορτισμένη μπαταρία</string>
   <string name="unlockscreen_recharging_message">Φορτίζεται %d%%</string>
+  <string name="wallpaper_global_des_drop_down_notify_text">Αφήστε το για να δείτε λεπτομέρειες</string>
+  <string name="wireless_charge_dialog_cancel">Το κατάλαβα</string>
+  <string name="wireless_charge_dialog_title">Τοποθετήστε τη συσκευή σας στο κέντρο της βάσης φόρτισης</string>
+  <string name="wireless_charge_stop">Σταμάτησε την ασύρματη φόρτιση</string>
+  <string name="wireless_current_charge">Φόρτιση</string>
   <string name="wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
-  <string name="app_name">Κλείδωμα Οθόνης</string>
 </resources>
