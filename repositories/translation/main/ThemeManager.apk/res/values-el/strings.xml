@@ -112,7 +112,7 @@
   <string name="hide_free">Απόκρυψη δωρεάν %1$s</string>
   <string name="hide_incompatible">Απόκρυψη ασύμβατων %1$s</string>
   <string name="home_apply_failured">Δεν είναι δυνατή η εφαρμογή ταπετσαρίας στην Αρχική οθόνη</string>
-  <string name="home_apply_success">Αρχική οθόνη ταπετσαρία εφαρμόζεται</string>
+  <string name="home_apply_success">Ταπετσαρία στην Αρχική οθόνη εφαρμόστηκε</string>
   <string name="in_the_end">Δεν υπάρχουν άλλα στοιχεία για προβολή</string>
   <string name="incompatible_dialog_message">Αυτό το θέμα δεν είναι πλήρως συμβατό με το MIUI 8. Ορισμένα στοιχεία μπορεί να μην εμφανίζονται σωστά.</string>
   <string name="incompatible_dialog_ok">Το κατάλαβα</string>
@@ -476,12 +476,12 @@
   <string name="uid_change_dialog_ok">Το κατάλαβα</string>
   <string name="uid_change_dialog_title">Επανεκκινήστε τη συσκευή</string>
   <string name="up_to_the_end">Αυτα για τωρα. Ελα αργότερα.</string>
-  <string name="wallpaper_apply">Εφαρμόστε</string>
+  <string name="wallpaper_apply">Εφαρμογή</string>
   <string name="wallpaper_crop">Περικοπή</string>
   <string name="wallpaper_decoded_error">Αποτυχία αποκωδικοποίησης</string>
   <string name="wallpaper_detail_load_page_no_network">Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά.</string>
   <string name="wallpaper_scroll_type_tips">Ταπετσαρία κύλισης</string>
-  <string name="wallpaper_set_as_both">Ορισμός ως και στα δύο</string>
+  <string name="wallpaper_set_as_both">Ορισμός και στα δύο</string>
   <string name="wallpaper_set_as_destop">Ορισμός ως φόντο</string>
   <string name="wallpaper_set_as_lockscreen">Ορισμός ως οθόνη κλειδώματος</string>
   <string name="wallpaper_settings">Ρυθμίσεις ταπετσαρίας</string>

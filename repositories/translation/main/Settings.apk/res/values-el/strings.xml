@@ -1165,7 +1165,7 @@
   <string name="dialog_title_hdmi_color_calibration">Προκαθορισμένη διόρθωση χρωμάτων</string>
   <string name="dialog_title_login">Είσοδος στον λογαριασμό Mi</string>
   <string name="dialog_yes">Ναι</string>
-  <string name="dim_advanced_summary">%s τοις εκατό του χρόνου πριν την αδρανοποίηση</string>
+  <string name="dim_advanced_summary">%s /100 του χρόνου πριν την αδρανοποίηση</string>
   <string name="dim_advanced_title">Μείωση φωτισμού οθόνης</string>
   <string name="dim_advanced_title_seek">Χρονικό όριο</string>
   <string name="disable_overlays">Απενεργοποίηση επικάλυψης HW</string>

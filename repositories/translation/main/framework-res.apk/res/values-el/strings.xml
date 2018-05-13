@@ -846,8 +846,8 @@
     <string name="chooseActivity">Επιλέξτε μια ενέργεια</string>
     <string name="chooseUsbActivity">Επιλέξτε μια εφαρμογή για τη συσκευή USB</string>
     <string name="noApplications">Δεν υπάρχουν εφαρμογές, οι οποίες μπορούν να εκτελέσουν αυτήν την ενέργεια.</string>
-    <string name="aerr_application">Δυστυχώς, η εφαρμογή %1$s έχει σταματήσει.</string>
-    <string name="aerr_process">Δυστυχώς, η διαδικασία %1$s έχει σταματήσει.</string>
+    <string name="aerr_application">Δυστυχώς, η %1$s σταμάτησε.</string>
+    <string name="aerr_process">Δυστυχώς, η λειτουργία %1$s σταμάτησε.</string>
     <string name="anr_activity_application">"Η εφαρμογή %2$s δεν ανταποκρίνεται.
 
 Θέλετε να την κλείσετε;"</string>
