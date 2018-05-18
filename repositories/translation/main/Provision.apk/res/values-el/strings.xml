@@ -30,7 +30,7 @@
   <string name="item_fingerprint">Δακτυλικό αποτύπωμα</string>
   <string name="item_lock_screen_password">Μόνο κλείδωμα οθόνης</string>
   <string name="language_picker_other_languages_title">Περισσότερες γλώσσες</string>
-  <string name="language_settings">Διάλεξε γλώσσα</string>
+  <string name="language_settings">Διαλέξτε γλώσσα</string>
   <string name="locale_picker_title">Επιλέξτε την τοποθεσία σας</string>
   <string name="miui_privacy_policy_no_network">Δεν έχετε μια σύνδεση δικτύου. Δείτε την Πολιτική Απορρήτου στο %s</string>
   <string name="miui_terms_no_network">Δεν έχετε μια σύνδεση δικτύου. Δείτε τους Όρους Χρήσης στο %s</string>

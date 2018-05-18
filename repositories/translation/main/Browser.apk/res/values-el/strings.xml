@@ -978,7 +978,7 @@
   <string name="same_folder_name_warning">Ο φάκελος υπάρχει ήδη</string>
   <string name="save_button_text">Αποθήκευση</string>
   <string name="save_dialog_title">Αποθήκευση</string>
-  <string name="save_file">Αποθήκευση %s αρχείων</string>
+  <string name="save_file">Αποθήκευση</string>
   <string name="save_file_already_exist_alert_message">Το αρχείο υπάρχει, θέλετε να το αντικαταστήσετε;</string>
   <string name="save_file_already_exist_alert_title">Αντικατάσταση αρχείου;</string>
   <string name="save_form_data_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να επηρεάσει τη χρήση.</string>
@@ -1229,4 +1229,16 @@
   <string name="voice_title_speech_again">Δεν μπορώ να σας καταλάβω</string>
   <string name="weather_location_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να επηρεάσει τη χρήση.</string>
   <string name="webpage_title">Αγαπημένα και ιστορικό</string>
+  <string name="action_one_touch">Άνοιγμα ειδοποιήσεων</string>
+  <string name="action_skip">Παράβλεψη</string> 
+  <string name="enter_infoflow_guide">Σύρετε επάνω για προβολή νέων</string>
+  <string name="hot_words_item_ads_mark">Διαφημίσεις</string>
+  <string name="info_flow_description">Κανάλι πληροφοριών</string>
+  <string name="message_notice_push">Τα τελευταία Σημεία Πρόσβασης δεν χάνονται πλέον!</string>
+  <string name="pref_navscreen_layoutstate_title">Διαχείριση πολλαπλών παραθύρων</string>
+  <string name="refresh_description">Ανανέωση</string>
+  <string name="short_video_description">Κανάλι βίντεο</string>
+  <string name="short_video_tip">Κοιτάξτε! Διασκεδαστικό βίντεο</string>
+  <string name="suggestion_clear_record_message">Επιβεβαιώνετε την κενή εγγραφή εισόδου;</string>
+  <string name="title_notice_push">Ειδοποίηση υπενθύμισης</string>
 </resources>

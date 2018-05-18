@@ -113,4 +113,8 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+       <item>Κάθετη προβολή</item>
+       <item>Οριζόντια προβολή</item>
+    </string-array>
 </resources>

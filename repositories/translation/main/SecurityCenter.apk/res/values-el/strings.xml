@@ -2198,4 +2198,5 @@
   <string name="xunyou_pay_webview">Απενεργοποίηση</string>
   <string name="xunyou_server_expired">Ποσοστό μόνο</string>
   <string name="zhifubao_not_found">η έκδοση της εφαρμογής σας είναι πολύ παλιά ή δεν έχει εγκατασταθεί</string>
+  <string name="gb_msg_not_shielded_summary">Προβολή</string>
 </resources>
