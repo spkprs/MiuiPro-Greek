@@ -870,8 +870,9 @@
         <item>5 fps</item>
     </string-array>
     <string-array name="crt_fade_entries">
-        <item>Προεπιλογή</item>
-        <item>Υπερφωτισμός</item>
+        <item>Κανονικό</item>
+        <item>CRT (παλιά TV)</item>
+        <item>Εξασθένηση</item>
     </string-array>
     <string-array name="smart_timer_sleepon_entries">
         <item>Χωρίς ενεργοποίηση</item>
