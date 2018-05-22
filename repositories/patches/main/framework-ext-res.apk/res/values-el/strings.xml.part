@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="memory_clear_result">Εκκαθάριση %1$s | Διαθέσιμα %2$s</string>
+    <string name="memory_clear_result">Εκκαθαρίστηκαν %1$s | Διαθέσιμα %2$s</string>
 </resources>

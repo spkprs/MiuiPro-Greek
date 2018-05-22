@@ -16,7 +16,7 @@
   <string name="close_folder_title">Αυτόματο κλείσιμο φακέλων</string>
   <string name="critical_battery_title">Κρίσιμο επίπεδο</string>
   <string name="crt_animation_title">Κατά το κλείδωμα οθόνης</string>
-  <string name="dim_advanced_summary">%s τοις εκατό του χρόνου πριν την αδρανοποίηση</string>
+  <string name="dim_advanced_summary">%s /100 του χρόνου πριν την αδρανοποίηση</string>
   <string name="dim_advanced_title">Μείωση φωτισμού οθόνης</string>
   <string name="dim_advanced_title_seek">Χρονικό όριο</string>
   <string name="double_tap_app_title">Εφαρμογή για διπλό χτύπημα</string>

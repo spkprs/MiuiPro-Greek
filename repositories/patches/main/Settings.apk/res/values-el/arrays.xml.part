@@ -191,7 +191,7 @@
     <item>Επόμενο</item>
     <item>Παύση</item>
     <item>Αναπαραγωγή</item>
-    <item>Αναπαραγωγή / Παύση/</item>
+    <item>Αναπαραγωγή/Παύση</item>
     <item>Προηγούμενο</item>
   </string-array>
   <string-array name="def_audio_entries"> 
