@@ -2468,6 +2468,8 @@
   <string name="mock_location_app">Επιλέξτε εφαρμογή εικονικής τοποθεσίας</string>
   <string name="mock_location_app_not_set">Δεν έχει οριστεί εφαρμογή εικονικής τοποθεσίας</string>
   <string name="mock_location_app_set">Εφαρμογή εικονικής τοποθεσίας: %1$s</string>
+  <string name="mode_enable">Ανοιχτό</string>
+  <string name="mode_disable">Κλειστό</string>
   <string name="model_name">Ονομα μοντέλου</string>
   <string name="model_number">Αριθμός μοντέλου</string>
   <string name="modify_instruction_password_settings">Ορισμός κωδικού</string>
@@ -2872,7 +2874,7 @@
   <string name="pointer_speed">Ταχύτητα δείκτη</string>
   <string name="policy_control_title">Λειτουργία πλήρους οθόνης</string>
   <string name="policy_title">Λειτουργίες οθόνης</string>
-  <string name="popup_window">Περιορίστε τις κυμαινόμενες ειδοποιήσεις</string>
+  <string name="popup_window">Περιορίστε τις αναδυόμενες ειδοποιήσεις</string>
   <string name="power_autorun_apps_empty">Δεν υπάρχουν εφαρμογές αυτόματης εκκίνησης</string>
   <string name="power_autorun_empty">Καμία από τις εφαρμογές σας δεν μπορεί να προστεθεί</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -3736,11 +3738,13 @@
   <string name="shut_down_find_device_network_failure_content">Αδυναμία απενεργοποίησης της Εύρεση συσκευής. Βεβαιωθείτε ότι η συσκευή σας είναι συνδεδεμένη στο Internet.</string>
   <string name="shut_down_find_device_network_failure_title">Αδυναμία σύνδεσης στο δίκτυο</string>
   <string name="shuting_down_find_device">Απενεργοποίηση Εύρεση συσκευής…</string>
+  <string name="silent_duration">Διάρκεια</string>
   <string name="silent_mode">Αθόρυβη λειτουργία</string>
   <string name="silent_mode_title">Αθόρυβη λειτουργία</string>
   <string name="silent_off">Απενεργοποίηση</string>
   <string name="silent_settings">Αθόρυβο/Μην Ενοχλείτε</string>
   <string name="silent_standard">Αθόρυβο</string>
+  <string name="silent_total">Μην Ενοχλείτε</string>
   <string name="silent_time">Διάρκεια αθόρυβης λειτουργίας</string>
   <string name="sim_bad_pin">Λάθος PIN</string>
   <string name="sim_call_back_title">Επιστροφή κλήσης από την προεπιλεγμένη SIM</string>
@@ -4183,6 +4187,7 @@
   <string name="toggles_columns_summary">Εμφάνιση: %s σε μια σειρά</string>
   <string name="toggles_columns_title">Αριθμός διακοπτών</string>
   <string name="toggles_line_title">Διακόπτες στο άνοιγμα του πίνακα</string>
+  <string name="total">Μην Ενοχλείτε</string>
   <string name="total_info">Σίγαση ήχων και απενεργοποίηση δόνησης εκτός από την Αφύπνηση</string>
   <string name="total_memory">Συνολική μνήμη</string>
   <string name="total_size">%s Σύνολο</string>
