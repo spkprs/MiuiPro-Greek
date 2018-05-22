@@ -60,7 +60,7 @@
   <string name="accessibility_phone_three_bars">Τρεις γραμμές σήματος.</string>
   <string name="accessibility_phone_two_bars">Δυο γραμμές σήματος.</string>
   <string name="accessibility_recent">Πρόσφατες εφαρμογές</string>
-  <string name="accessibility_recent_task_exit">Κλείστε τις Πρόσφατες</string>
+  <string name="accessibility_recent_task_exit">Οι πρόσφατες έκλεισαν</string>
   <string name="accessibility_recent_task_locked">Κλειδώθηκε. Σύρετε προς τα κάτω για ξεκλείδωμα.</string>
   <string name="accessibility_recent_task_locked_state">Κλειδωμένη</string>
   <string name="accessibility_recent_task_memory_info">Συνολική μνήμη: %2$s | Διαθέσιμη μνήμη: %1$s. Διπλό πάτημα για καθαρισμό.</string>
@@ -314,6 +314,8 @@
   <string name="media_projection_dialog_text">Το %s θα αρχίσει να καταγράφει ότι εμφανίζεται στην οθόνη σας.</string>
   <string name="media_projection_remember_text">Να μην εμφανιστεί ξανά</string>
   <string name="megabyte_per_second">M/s</string>
+  <string name="memory_clear_result_mega">%1$sMB εκκαθαρίστηκαν</string>
+  <string name="memory_clear_result_giga">%1$sGB εκκαθαρίστηκαν</string>
   <string name="mland">Marshmallow Land</string>
   <string name="monitoring_button_view_policies">Προβολή πολιτικής</string>
   <string name="monitoring_description_ca_certificate">Στην συσκευή αυτή έχει εγκατασταθεί έκδοση πιστοποιητικών. Η ασφαλής κυκλοφορία δικτύου μπορεί να παρακολουθείται ή να τροποποιείται.</string>
