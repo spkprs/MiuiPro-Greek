@@ -8,6 +8,10 @@
     <item quantity="other">Διαγραφή %d στοιχείων;</item>
     <item quantity="one">Διαγραφή %d στοιχείου;</item>
   </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message_with_file">
+    <item quantity="other">Διαγραφή %d στοιχεία;\nΣημείωση: τα Αρχεία θα διαγραφούν από τη συσκευή αυτή.</item>
+    <item quantity="one">Διαγραφή %d  στοιχείο;\nΣημείωση: το Αρχείο θα διαγραφεί από τη συσκευή αυτή.</item>
+  </plurals>
   <plurals name="dialog_delete_descript">
     <item quantity="other">Διαγραφή %d τραγουδιών;</item>
     <item quantity="one">Διαγραφή %d τραγουδιού;</item>
