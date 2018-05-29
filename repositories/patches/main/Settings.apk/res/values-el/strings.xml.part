@@ -166,4 +166,6 @@
   <string name="wifiact_icon_title">Απόκρυψη βελών ένδειξης Wi-Fi</string>
   <string name="hide_app">Ρυθμίσεις Ετικέτας</string>
   <string name="hide_app_title">Λίστα απόκρυψης εφαρμογών</string>
+  <string name="smart_mobile_title">Ρυθμίσεις έξυπνου δικτύου</string> 
+  <string name="timer_setting">Ρυθμίσεις χρονομέτρων σύνδεσης</string>
 </resources>
