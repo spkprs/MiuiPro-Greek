@@ -949,6 +949,6 @@
     <string-array name="traffic_balance_entries">
         <item>Off</item>
         <item>Κανονική</item>
-        <item>Απλή</item>
+        <item>Ισχυρή</item>
     </string-array>	
 </resources>
