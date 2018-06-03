@@ -80,7 +80,36 @@
     <item>Αποσύνδεση από %1$s…</item>
     <item>Αποσυνδεδεμένο</item>
     <item>Ανεπιτυχές</item>
-    <item>Φραγμένο</item>
+    <item>Αποκλεισμένο</item>
     <item>Προσωρινά αποφεύγεται (ασθενές σήμα)</item>
+  </string-array>
+  <string-array name="battery_options">
+    <item>Πάντα ένδειξη ποσοστού</item>
+    <item>Εμφάνιση ποσοστού κατά τη φόρτιση (προεπιλογή)</item>
+    <item>Χωρίς εμφάνιση εικονιδίου</item>
+  </string-array>
+  <string-array name="clock_options">
+    <item>Εμφάνιση ωρών, λεπτών και δευτερολέπτων</item>
+    <item>Εμφάνιση ωρών και λεπτών (προεπιλογή)</item>
+    <item>Χωρίς εμφάνιση εικονιδίου</item>
+  </string-array>
+  <string-array name="miui_volume_timer_segments_title">
+    <item>Ανενεργό</item>
+    <item>Μισή ώρα</item>
+    <item>1 ώρα</item>
+    <item>2 ώρες</item>
+    <item>8 ώρες</item>
+  </string-array>
+  <string-array name="nav_bar_buttons">
+    <item>Πρόχειρο</item>
+    <item>Κωδικός κλειδί</item>
+    <item>Διακόπτης πληκτρολογίου</item>
+    <item>Χωρίς</item>
+  </string-array>
+  <string-array name="nav_bar_layouts">
+    <item>Κανονικό</item>
+    <item>Συμπαγή</item>
+    <item>Αριστερόστροφα</item>
+    <item>Δεξιόστροφα</item>
   </string-array>
 </resources>
