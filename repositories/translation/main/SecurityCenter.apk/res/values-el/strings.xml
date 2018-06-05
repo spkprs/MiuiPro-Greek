@@ -160,6 +160,7 @@
   <string name="app_manager_defaults_setting">Προεπιλογές</string>
   <string name="app_manager_details_electric_title">Μπαταρία</string>
   <string name="app_manager_details_storage_title">Αποθηκευτικός Χώρος</string>
+  <string name="app_manager_details_title">Πληροφορίες Εφαρμογής</string>
   <string name="app_manager_details_traffic_title">Χρήση δεδομένων μηνιαία</string>
   <string name="app_manager_disable">Να μην επιτρέπεται</string>
   <string name="app_manager_disable_dlg_text">Εάν απενεργοποιήσετε αυτήν την εφαρμογή, άλλες εφαρμογές ενδέχεται να μην λειτουργούν πλέον όπως προβλέπεται.</string>
