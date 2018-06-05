@@ -338,6 +338,7 @@
   <string name="switching_files">Μεταφορά αρχείων…</string>
   <string name="switching_photos">Μεταφορά φωτογραφιών…</string>
   <string name="temporary_no_set">Όχι τώρα</string>
+  <string name="this_function_can_not_use_in_second_space">Αυτή η λειτουργία μπορεί να χρησιμοποιηθεί μόνο στον Πρώτο Χώρο</string>
   <string name="title_choose_app_status">Επιλέξτε τύπο εφαρμογής</string>
   <string name="title_switch_file">Διαγραφή αυτών των αρχείων;</string>
   <string name="title_switch_photo">Διαγραφή αυτών των φωτογραφιών;</string>

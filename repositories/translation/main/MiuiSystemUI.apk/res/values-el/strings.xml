@@ -373,8 +373,8 @@
   <string name="prompt_detecting">Εντοπισμός</string>
   <string name="prompt_failure">Σφάλμα</string>
   <string name="prompt_return_to_split">Διαιρούμενη οθόνη</string>
-  <string name="prompt_safe">Ασφαλής</string>
-  <string name="prompt_unknown">Αγνωστος</string>
+  <string name="prompt_safe">Ασφαλές</string>
+  <string name="prompt_unknown">Αγνωστο</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Δεν υπάρχουν διαθέσιμες συζευγμένες συσκευές</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Συνδεδεμένο</string>
@@ -485,7 +485,7 @@
   <string name="status_bar_safepay_risk">Το περιβάλλον πληρωμών είναι επικίνδυνο!</string>
   <string name="status_bar_safepay_safe">Το περιβάλλον πληρωμών είναι ασφαλές.</string>
   <string name="status_bar_safepay_scanning">Ανίχνευση περιβάλλοντος πληρωμών…</string>
-  <string name="status_bar_safepay_unknown">Η ασφάλεια πληρωμών είναι άγνωστη.</string>
+  <string name="status_bar_safepay_unknown">"Αδύνατος ο έλεγχος ασφάλειας πληρωμών"</string>
   <string name="status_bar_settings_airplane">Λειτουργία πτήσης</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Δεν υπάρχει σύνδεση Internet</string>
@@ -1221,7 +1221,7 @@
   <string name="quick_settings_dnd_none_label">Απόλυτη σίγαση</string>
   <string name="quick_settings_dnd_priority_label">Προτεραιότητα μόνο</string>
   <string name="quick_settings_drivemode_label">Λειτουργία αυτοκινήτου</string>
-  <string name="quick_settings_dual_location_label">GPS</string>
+  <string name="quick_settings_dual_location_label">Διπλό GPS</string>
   <string name="quick_settings_edit_label">Επεξεργασία</string>
   <string name="quick_settings_flashlight_label">Φακός</string>
   <string name="quick_settings_hotspot_label">Σημείο Πρόσβασης</string>

@@ -485,5 +485,5 @@
   <string name="video_reach_size_limit">Μέγιστο όριο μεγέθους.</string>
   <string name="wait">Περιμένετε…</string>
   <string name="accessibility_ai_scene_off">AI camera είναι Κλειστή</string>
-  <string name="accessibility_ai_scene_on">AI camera</string>
+  <string name="accessibility_ai_scene_on">AI camera είναι Ανοιχτή</string>
 </resources>

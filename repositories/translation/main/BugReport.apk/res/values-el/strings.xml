@@ -294,6 +294,7 @@
   <string name="toast_feedback_submitting">Υποβολή…</string>
   <string name="toast_feedbackservice_in_submit">Αποστολή προηγούμενου σχολίου…</string>
   <string name="toast_fill_brackets">Παρακαλώ συμπληρώστε μέσα στις παρενθέσεις</string>
+  <string name="toast_loading_app_id">Λήψη πληροφοριών…</string>
   <string name="toast_log_not_exists">Το απαιτούμενο αρχείο καταγραφής διαγράφηκε ή δεν υπάρχει</string>
   <string name="toast_log_too_large">Δεν είναι δυνατή η μεταφόρτωση. Το αρχείο είναι πολύ μεγάλο.</string>
   <string name="toast_module_required">Επιλέξτε στοιχείο</string>

@@ -4188,10 +4188,11 @@
   <string name="toggles_columns_title">Αριθμός διακοπτών</string>
   <string name="toggles_line_title">Διακόπτες στο άνοιγμα του πίνακα</string>
   <string name="total">Μην Ενοχλείτε</string>
-  <string name="total_info">Σίγαση ήχων και απενεργοποίηση δόνησης εκτός από την Αφύπνηση</string>
+  <string name="total_info">Σίγαση ήχων %1$s εκτός των Αφυπνήσεων</string>
   <string name="total_memory">Συνολική μνήμη</string>
   <string name="total_size">%s Σύνολο</string>
   <string name="total_size_label">Σύνολο</string>
+  <string name="total_info_sub">και απενεργοποίηση Δόνησης</string>
   <string name="touch_assistant">Βοηθός Αφής</string>
   <string name="touch_filtered_warning">Επειδή μια εφαρμογή αποκρύπτει ένα αίτημα άδειας, οι Ρυθμίσεις δεν μπορούν να επαληθεύσουν την απάντησή σας.</string>
   <string name="touch_sensitive_summary">Κάντε την οθόνη πιο ευαίσθητη στην πίεση για καλύτερη ανταπόκριση όταν φοράτε γάντια</string>
