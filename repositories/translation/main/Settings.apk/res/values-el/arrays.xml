@@ -497,11 +497,10 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Γραφικά</item>
-        <item>Ποσοστό και γραφικά</item>
+        <item>Ποσοστό</item>
         <item>Μπάρα στην Κορυφή</item>
-        <item>Ποσοστό μόνο</item>
-        <item>Κλειστό</item>
-    </string-array>
+
+		</string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Ερώτηση κατά τη σύνδεση</item>
         <item>Φόρτιση μόνο</item>
