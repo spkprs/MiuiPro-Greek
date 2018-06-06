@@ -84,6 +84,7 @@
   <string name="change_to_voice_tips_when_background">Το άλλο μέρος έχει μεταβεί σε φωνητική κλήση</string>
   <string name="close_camera_failed">Αδύνατη η απενεργοποίηση της κάμερας…</string>
   <string name="close_camera_requesting">Απενεργοποίηση κάμερας…</string>
+  <string name="conference_call_recorder_title">Κλήση συνδιάσκεψης</string>
   <string name="conference_call_description" formatted="false">%s,%s κλπ. συνολικά %s</string>
   <string name="conference_call_number">%s άτομα</string>
   <string name="conference_call_single_description" formatted="false">%s κλπ. σύνολο %s</string>

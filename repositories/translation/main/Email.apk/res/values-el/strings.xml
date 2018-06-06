@@ -845,7 +845,7 @@
     <string name="saved">Αποθηκεύτηκε, %s</string>
     <string name="saving">Αποθηκεύει…</string>
     <string name="sdcard_cannot_use">Η κάρτα αποθήκευσης δεν μπορεί να χρησιμοποιηθεί</string>
-    <string name="search_bar_text">Αναζήτηση για μηνύματα και επαφές</string>
+    <string name="search_bar_text">Αναζήτηση αποστολέα ή επαφής</string>
     <string name="search_hint">Αναζήτηση email</string>
     <string name="search_result">Αποτέλεσμα αναζήτησης:</string>
     <string name="search_tabs_name_all">Όλα</string>
@@ -974,7 +974,7 @@
     <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
     <string name="update_to_wps_mail">Απολαύστε περισσότερες δυνατότητες με το WPS Mail</string>
     <string name="updated_at">Τελευταία Ενημέρωση%1$s</string>
-    <string name="upload_log">Αποστολή αρχείων καταγραφής διαγνωστικών</string>
+    <string name="upload_log">Αποστολή αρχείων καταγραφής</string>
     <string name="upload_log_failed">Αποτυχία αποστολής αρχείων καταγραφής</string>
     <string name="upload_log_no">Ακύρωση</string>
     <string name="upload_log_success">Επιτυχής αποστολή αρχείων καταγραφής</string>
@@ -1104,4 +1104,18 @@
     <string name="unsent_messages_in_outbox">%1$s μη απεσταλμένα σε %2$s</string>
     <string name="yidianzixun">Yi Dian Zixun</string>
     <string name="account_setup_failed_auth_required">Οι μέθοδοι πιστοποίησης δεν υποστηρίζονται από τον διακομιστή.</string>
+    <string name="login_mail">Σύνδεση Mail</string>
+  <string name="need_get_qq_mail">Χρειάζεσθε QQ Mail</string>
+  <string name="open_notification_kingagent">Ανοίξτε την ειδοποίηση για το σημείο ταφής</string>
+  <string name="optimization_suggestion">Πρόταση βελτιστοποίησης</string>
+  <string name="others_mail">Άλλα</string>
+  <string name="others_mail_des">(Μετατροπή περισσότερων από 60,0000 Mails)</string>
+  <string name="qq_authorization_help_get">Βοήθησέ με να πάρω</string>
+  <string name="qq_authorization_know">Κατανόηση του κωδικού εξουσιοδότησης</string>
+  <string name="qq_authorization_tips">Δεν είναι πλέον προτροπή</string>
+  <string name="qq_verify_code">(Χρειάζεστε κώδικα επαλήθευσης QQ)</string>
+  <string name="title_activity_about">Σχετικά</string>
+  <string name="verify_code">Επαλήθευση Κωδικού</string>
+  <string name="version_string">Έκδοση: %s</string>
+  <string name="wps_title">WPS Mail</string>
 </resources>

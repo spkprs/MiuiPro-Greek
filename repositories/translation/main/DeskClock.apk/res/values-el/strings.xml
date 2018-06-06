@@ -167,4 +167,7 @@
     <string name="loading_ringtone">Φόρτωση του ήχου…</string>
     <string name="control_set_alarm">Ρυθμίστε το ξυπνητήρι</string>
     <string name="control_set_alarm_with_existing">Σύνολο αφυπνίσεων: %s</string>
+    <string name="open_keep_screen">Η οθόνη θα παραμείνει ενεργή</string>
+    <string name="shut_down_keep_screen">"Η οθόνη δεν θα παραμείνει ενεργή"</string>
+    <string name="worldclock_input_hint_text">Εισαγωγή Πόλης</string>	
 </resources>

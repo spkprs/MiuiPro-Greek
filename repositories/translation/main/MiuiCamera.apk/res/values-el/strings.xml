@@ -58,6 +58,13 @@
   <string name="edit_face_ruddy">Ruddy</string>
   <string name="edit_face_slender">Slender</string>
   <string name="edit_skin_smooth">Smooth</string>
+  <string name="edit_chin">Chin</string>
+  <string name="edit_lips">Lips</string>
+  <string name="edit_neck">Neck</string>
+  <string name="edit_nose">Nose</string>
+  <string name="edit_risorius">Risorius</string>
+  <string name="edit_slim_nose">Nose</string>
+  <string name="edit_smile">Smile</string>
   <string name="edit_skin_white">Tone</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Αδύνατη η εκκίνηση της λήψης ήχου</string>
@@ -94,7 +101,7 @@
   <string name="front_camera_hint_text_place">Η λήψη selfies θα είναι ευκολότερη\nαν περιστρέψετε το τηλέφωνό σας</string>
   <string name="front_camera_hint_text_rotate">Περιστρέψτε το τηλέφωνό σας</string>
   <string name="groupshot_mode_use_hint">Η κάμερα θα λάβει πολλές φωτογραφίες\nκαι στη συνέχεια θα δημιουργηθεί μια φωτογραφία όπου όλοι θα φαίνονται καλύτερα.</string>
-  <string name="hibernate_hint">Αγγίξτε την οθόνη για επαναφορά της κάμερας</string>
+  <string name="hibernate_hint">Αγγίξτε την οθόνη για επαναφορά της Κάμερας</string>
   <string name="hine_hht">Σε συνθήκες χαμηλού φωτισμού, η κάμερα θα λάβει πολλές φωτογραφίες\nκαι στη συνέχεια θα δημιουργηθεί μια φωτογραφία με ελάχιστη ποσότητα θορύβου.</string>
   <string name="hint_device_water_mark">Το υδατογράφημα συσκευής θα προστεθεί αυτόματα.</string>
   <string name="hint_fast_motion">Το βίντεο που εγγράφετε θα αναπαράγεται πιο γρήγορα.</string>
@@ -125,6 +132,11 @@
   <string name="path_settings">Εφαρμογές συστήματος/Κάμερα/Ρυθμίσεις</string>
   <string name="photos_portrait_type_description">Οι λήψεις πορτραίτων έχουν εφέ βάθους που διατηρούν το θέμα σας εστιασμένο και ξεθωριάζουν το υπόλοιπο φόντο.</string>
   <string name="photos_portrait_type_name">Πορτραίτο</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D Beauty</string>
+  <string name="pref_video_encoder_default">h264</string>
+  <string name="pref_video_encoder_entry_h264">H.264 Υψηλή συμβατότητα</string>
+  <string name="pref_video_encoder_entry_h265">H.265 Υψηλή απόδοση</string>
+  <string name="pref_video_encoder_title">Κωδικοποιητής βίντεο</string>
   <string name="portait_effect_entry_blackwhite">B&amp;W</string>
   <string name="portait_effect_entry_cool">Mint</string>
   <string name="portait_effect_entry_fairytale">Childhood</string>
