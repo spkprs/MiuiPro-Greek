@@ -438,6 +438,7 @@
   <string name="daltonizer_mode_protanomaly">Protanomaly (κόκκινο-πράσινο)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomaly (μπλε-κίτρινο)</string>
   <string name="daltonizer_type_overridden">Αντικαταστάθηκε από %1$s</string>
+  <string name="data_connection_no_internet">Χωρίς internet</string>
   <string name="data_saver">Εξοικονόμηση δεδομένων</string>
   <string name="data_usage_disabled_dialog">Έχετε φτάσει το καθορισμένο όριο χρήσης δεδομένων σας.\n\nΕάν ενεργοποιήσετε πάλι τα δεδομένα, ενδέχεται να χρεωθείτε από τον πάροχό σας.</string>
   <string name="data_usage_disabled_dialog_3g_title">Δεδομένα 2G-3G ανενεργά</string>
@@ -1047,6 +1048,7 @@
   <string name="notification_channel_general">Γενικά μηνύματα</string>
   <string name="notification_channel_location">Τοποθεσία</string>
   <string name="notification_channel_screenshot">Στιγμιότυπα οθόνης</string>
+  <string name="notification_channel_screenbutton">Πλήκτρα Οθόνης</string>
   <string name="notification_channel_storage">Αποθήκευση</string>
   <string name="notification_channel_switch_accessibility">Να επιτρέπονται ειδοποιήσεις από αυτό το κανάλι</string>
   <string name="notification_channel_tv_pip">Εικόνα σε εικόνα</string>
@@ -1057,7 +1059,7 @@
   <string name="notification_group_divider_symbol">" • "</string>
   <string name="notification_header_default_channel">Ειδοποιήσεις</string>
   <string name="notification_header_title">Ειδοποιήσεις</string>
-  <string name="notification_hidden_by_policy_text">Το περιεχόμενο είναι κρυφό</string>
+  <string name="notification_hidden_by_policy_text">Περιεχόμενα κρυφά απο την Πολιτική</string>
   <string name="notification_hidden_text">Κρυφό περιεχόμενο</string>
   <string name="notification_info_channel_disabled_text">Δεν θα λάβετε %2$s ειδοποιήσεις από %1$s.</string>
   <string name="notification_info_channel_enabled_text">Θα λάβετε %2$s ειδοποιήσεις από %1$s.</string>
@@ -1225,6 +1227,11 @@
   <string name="quick_settings_nfc_off">Το NFC είναι ανενεργό</string>
   <string name="quick_settings_nfc_on">Το NFC είναι ενεργό</string>
   <string name="quick_settings_night_display_label">Φωτάκι νυκτός</string>
+  <string name="quick_settings_night_secondary_label_on_at">Άνοιγμα στο %s</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">Άνοιγμα στο ηλιοβασίλεμα</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">Έως την ανατολή</string>
+  <string name="quick_settings_secondary_label_until">Έως %s</string>
+
   <string name="quick_settings_notifications_label">Ειδοποιήσεις</string>
   <string name="quick_settings_papermode_label">Λειτουργία Ανάγνωσης</string>
   <string name="quick_settings_powermode_label">Λειτουργία Απόδοσης</string>
@@ -1675,10 +1682,10 @@
   <string name="wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
   <string name="zen_alarm_warning">Δεν θα ακούσετε την επόμενη αφύπνηση σας %1$s</string>
   <string name="zen_alarm_warning_indef">"Δεν θα ακούσετε την επόμενη αφύπνηση σας %1$s εκτός αν το απενεργοποιήσετε πριν "</string>
-  <string name="zen_alarms_introduction">Δεν θα Ενοχληθείτε από  ήχους και δονήσεις, εκτός από τις αφυπνήσεις. Εσείς</string>
+  <string name="zen_alarms_introduction">"Δεν θα Ενοχληθείτε από  ήχους και δονήσεις, εκτός από αφυπνήσεις. Θα συνεχίσετε να ακούτε ήχους μουσικής, βίντεο, και παιχνιδιών."</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
   <string name="zen_priority_customize_button">Προσαρμογή</string>
-  <string name="zen_priority_introduction">Δεν θα ενοχληθείτε από ήχους και δονήσεις, εκτός από αφυπνήσεις, τις υπενθυμίσεις, τα γεγονότα και τους καλούντες που καθορίσατε. Εσείς</string>
+  <string name="zen_priority_introduction">"Δεν θα ενοχληθείτε από ήχους και δονήσεις, εκτός από αφυπνήσεις, υπενθυμίσεις, γεγονότα, και τους καλούντες που καθορίσατε. Θα συνεχίσετε να ακούτε ήχους μουσικής, βίντεο, και παιχνιδιών."</string>
   <string name="zen_silence_introduction">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπνήσεων, της μουσικής, των βίντεο και των παιχνιδιών.</string>
   <string name="zen_silence_introduction_voice">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπμήσεων, της μουσικής, των βίντεο και των παιχνιδιών. Θα εξακολουθείτε να πραγματοποιείτε τηλεφωνικές κλήσεις.</string>
 </resources>
