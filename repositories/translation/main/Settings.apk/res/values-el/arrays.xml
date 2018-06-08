@@ -949,5 +949,14 @@
         <item>Off</item>
         <item>Κανονική</item>
         <item>Ισχυρή</item>
-    </string-array>	
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Wi-Fi προτιμάται</item>
+        <item>Cellular προτιμάται</item>
+        <item>Wi-Fi μόνο</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Wi-Fi προτιμάται</item>
+        <item>Cellular προτιμάται</item>
+    </string-array>
 </resources>
