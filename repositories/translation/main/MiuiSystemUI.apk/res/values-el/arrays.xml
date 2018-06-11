@@ -12,10 +12,10 @@
   <string-array name="app_process_limit_entries">
     <item>Τυπικό όριο</item>
     <item>Χωρίς διεργασίες παρασκηνίου</item>
-    <item>Το πολύ 1 διεργασία</item>
-    <item>Το πολύ 2 διαδικασίες</item>
-    <item>Το πολύ 3 διαδικασίες</item>
-    <item>Το πολύ 4 διαδικασίες</item>
+    <item>Έως 1 διεργασία</item>
+    <item>Έως 2 διαδικασίες</item>
+    <item>Έως 3 διαδικασίες</item>
+    <item>Έως 4 διαδικασίες</item>
   </string-array>
   <string-array name="aqi_title">
     <item>%1$s</item>
