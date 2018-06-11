@@ -758,10 +758,21 @@
   <string name="bootloader_device_bind_no_network">Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά</string>
   <string name="bootloader_locked_answer_1">Κλειδώνουμε τις συσκευές μας για να σιγουρευτούμε ότι είναι ασφαλείς και ότι τα προσωπικά σας στοιχεία δεν αποκαλύπτονται σε τρίτους. Εάν χρειαστεί να μπείτε σε λειτουργία Fastboot και να κάνετε flash την συσκευή σας, μπορείτε να την ξεκλειδώσετε.</string>
   <string name="bootloader_locked_answer_1_warning">Θυμηθείτε: Δεν θα μπορείτε να χρησιμοποιήσετε την \"Εύρεση συσκευής\" μετά το ξεκλείδωμα της συσκευής.</string>
-  <string name="bootloader_locked_answer_2">Πατήστε το κουμπί παρακάτω για να συσχετίσετε τον Mi λογαριασμό σας με την συσκευή. Μετά μεταβείτε στην ιστοσελίδα MIUI για να κατεβάσετε το εργαλείο ξεκλειδώματος και να το εγκαταστήσετε στον υπολογιστή σας. Εδώ είναι η διεύθυνση:</string>
+  <string name="bootloader_locked_answer_2">"1. Βεβαιωθείτε ότι έχετε ήδη εισάγει μια κάρτα SIM στη συσκευή σας.
+2. Πατήστε \"Προσθήκη λογαριασμού\" παρακάτω για να συσχετίσετε το Λογαριασμό Mi με αυτήν τη συσκευή.
+3. Κατεβάστε το εργαλείο ξεκλειδώματος από τον ιστότοπό μας. Σημειώστε ότι πρέπει για να ξεκλειδωθούν συσκευές χρησιμοποιείται ένας υπολογιστής. Κατεβάστε εδώ:"</string>
   <string name="bootloader_locked_check_status">Προσθήκη λογαριασμού και συσκευής</string>
   <string name="bootloader_locked_question_1">Γιατί οι συσκευές πρέπει να είναι κλειδωμένες;</string>
   <string name="bootloader_locked_question_2">Καταλαβαίνω τους κινδύνους, αλλά ακόμα θέλω να ξεκλειδώσω την συσκευή μου.</string>
+   <string name="bootloader_device_bind_exceed_sim_limit">"Αδύνατη η προσθήκη περισσότερων λογαριασμών σε αυτήν την κάρτα SIM."</string>
+   <string name="bootloader_device_bind_no_sim">Εισάγετε την SIM και προσπαθήστε ξανά.</string>
+   <string name="bootloader_device_bind_server_code">"Αδύνατη ροσθήκη. Κωδικός σφάλματος:"</string>
+   <string name="bootloader_device_bind_sim_invalid">Η κάρτα SIM είναι άκυρη. Αντικαταστήστε την και προσπαθήστε ξανά.</string>
+   <string name="bootloader_status_privacy_dialog_message">Το Mi Unlock χρειάζεται να έχει πρόσβαση στο Λογαριασμό Mi, στο ID της CPU, στο IMEI, στο IMSI για να δουλέψει κανονικά. Συλλέγουμε, χρησιμοποιούμε και επεξεργαζόμαστε τα δεδομένα σας σύμφωνα με %s. Συμφωνείτε?</string>
+   <string name="bootloader_status_privacy_dialog_no">Ακύρωση</string>
+   <string name="bootloader_status_privacy_dialog_title">Απαιτούνται δικαιώματα</string>
+   <string name="bootloader_status_privacy_dialog_url_text">Πολιτική Απορρήτου</string>
+   <string name="bootloader_status_privacy_dialog_yes">Συμφωνώ</string>
   <string name="bootloader_status">Κατάσταση ξεκλειδώματος Mi</string>
   <string name="bootloader_status_locked">Κλειδωμένο</string>
   <string name="bootloader_status_locked_info">Αυτή η συσκευή είναι κλειδωμένη</string>
@@ -1284,6 +1295,7 @@
   <string name="device_miui_more">Δείτε περισσότερα</string>
   <string name="device_miui_version">Έκδοση MIUI</string>
   <string name="device_miui_version_update">Μια ενημερωμένη έκδοση MIUI είναι διαθέσιμη</string>
+   <string name="device_miui_version_for_POCO">MIUI έκδοση (Για POCO)</string>
   <string name="device_name">Όνομα Συσκευής</string>
   <string name="device_name_input_error">Αδυναμία αποθήκευσης ονόματος συσκευής</string>
   <string name="device_name_input_hint">Πληκτρολογήστε το όνομα</string>
@@ -4121,6 +4133,7 @@
   <string name="talkback_summary">Ο αναγνώστης οθόνης κυρίως για άτομα με τύφλωση και χαμηλή όραση</string>
   <string name="tap_to_wake">Χτυπήστε για αφύπνιση</string>
   <string name="tap_to_wake_summary">Διπλό χτύπημα οπουδήποτε στην οθόνη για να ξυπνήσετε τη συσκευή</string>
+   <string name="taplus_title">Taplus</string>
   <string name="taskswitch_title">Αλλαγή ενεργών εργασιών</string>
   <string name="terms_title">Όροι και προϋποθέσεις</string>
   <string name="testing">Δοκιμές</string>
@@ -4722,6 +4735,7 @@
   <string name="wifi_ap_choose_5G">Μπάντα 5.0 GHz</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_assistant_title">Βοηθός Wi-Fi</string>
+  <string name="wifi_assistant_explicitly_confirm_data_message">Αυτό το δίκτυο Wi-Fi δεν έχει πρόσβαση στο διαδίκτυο. Χρήση κινητών δεδομένων;</string>
   <string name="wifi_auto_connect">Αυτόματη σύνδεση</string>
   <string name="wifi_auto_connect_type_summary">Καθορίστε τον τύπο σύνδεσης δικτύου</string>
   <string name="wifi_automatically_connect_summary">Επιτρέψτε στο βοηθό Wi-Fi να συνδέεται αυτόματα σε ανοικτά δίκτυα τα οποία θεωρούνται καλής ποιότητας</string>

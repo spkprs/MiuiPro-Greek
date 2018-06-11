@@ -246,7 +246,7 @@
     <string name="micloud_main_sync_pause">Παύση συγχρονισμού</string>
     <string name="micloud_main_sync_need_charge_or_sleep">Συνδέστε το φορτιστή και απενεργοποιήστε την οθόνη για συγχρονισμό</string>
     <string name="micloud_main_detail">Δείτε λεπτομέρειες</string>
-    <string name="micloud_main_network_abnormal">Αδυναμία σύνδεσης στο δίκτυο</string>
+    <string name="micloud_main_network_abnormal">Ελέγξτε τις ρυθμίσεις δικτύου</string>
     <string name="micloud_main_sync_init">Λήψη πληροφοριών</string>
     <string name="micloud_main_battery_low">Δεν υπάρχει αρκετή μπαταρία για συγχρονισμό</string>
     <string name="micloud_main_battery_message">Συνδέστε τη συσκευή σας σε μια πηγή τροφοδοσίας για να συγχρονίσετε</string>

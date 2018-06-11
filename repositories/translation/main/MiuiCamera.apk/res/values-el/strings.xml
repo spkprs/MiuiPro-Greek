@@ -498,4 +498,13 @@
   <string name="wait">Περιμένετε…</string>
   <string name="accessibility_ai_scene_off">AI camera είναι Κλειστή</string>
   <string name="accessibility_ai_scene_on">AI camera είναι Ανοιχτή</string>
+   <string name="beauty_fragment_tab_name_3d_beauty">Όμορφη</string>
+   <string name="beauty_fragment_tab_name_3d_remodeling">Αναδιαμόρφωση</string>
+   <string name="face_analyze_info">Ηλικία: %2$s (%1$s)</string>
+   <string name="lens_dirty_detected_content">"Εντοπίστηκε ότι ο φακός της κάμερας είναι βρώμικος,
+παρακαλώ καθαρίστε το φακό της κάμερας για καλύτερη εικόνα."</string>
+   <string name="lens_dirty_detected_title_back">Ο φακός της Πίσω κάμερας είναι βρώμικος</string>
+   <string name="lens_dirty_detected_title_front">Ο φακός της Εμπρός κάμερας είναι βρώμικος</string>
+   <string name="pref_camera_picturesize_entry_fullscreen">Πλήρη οθόνη 16:9</string>
+   <string name="pref_camera_picturesize_entry_standard">Κανονική 4:3</string>
 </resources>

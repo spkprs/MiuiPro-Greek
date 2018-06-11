@@ -100,7 +100,7 @@
   <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Αδειος φάκελος (%d)</string>
   <string name="cache_title_empty_folder2">Αδειος φάκελος</string>
-  <string name="cache_title_system_cache">Cache Συστήματος</string>
+  <string name="cache_title_system_cache">Cache Δεδομένων</string>
   <string name="cached_garbage">Μνήμη cache</string>
   <string name="call_log">Μητρώα κλήσεων</string>
   <string name="cancel">Ακύρωση</string>
