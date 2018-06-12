@@ -101,6 +101,7 @@
   <string name="reboot_progress">Επανεκκίνηση…</string>
   <string name="remain">Απομένουν: %s</string>
   <string name="replace">Αντικατάσταση</string>
+  <string name="resolver_app_recommend_flag">Συνιστάται</string>
   <string name="resource_select">Επιλογή</string>
   <string name="screen_button_notification_text">Για να τα ενεργοποιήσετε, πατήστε τα πλήκτρα \"Home\" και \"Power\" ταυτόχρονα.</string>
   <string name="screen_button_notification_title">Πλήκτρα οθόνης ανενεργά</string>

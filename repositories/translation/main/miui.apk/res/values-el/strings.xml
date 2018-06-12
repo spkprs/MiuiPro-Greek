@@ -14,6 +14,7 @@
   <string name="afternoon">ΜΜ</string>
   <string name="am">ΠΜ</string>
   <string name="birthday">Γενέθλια</string>
+  <string name="cancel_description">Ακύρωση</string>
   <string name="check_phone_error_title">Ανενεργός συγχρονισμός</string>
   <string name="check_phone_io_error">Αδυναμία σύνδεσης στο δίκτυο.</string>
   <string name="chinese_day_1" />
@@ -87,6 +88,7 @@
   <string name="chinese_symbol_animals_snake" />
   <string name="chinese_symbol_animals_tiger" />
   <string name="clearable_edittext_clear_description">Καθαρισμός</string>
+  <string name="confirm_description">Επιβεβαίωση</string>
   <string name="copyright">Copyright</string>
   <string name="country_name_ac">AC</string>
   <string name="country_name_ad">AD</string>
@@ -323,7 +325,9 @@
   <string name="date_picker_dialog_title">Ορισμός ημερ.</string>
   <string name="date_time_done">Ολοκληρώθηκε</string>
   <string name="date_time_picker_dialog_title">Ορισμός ημερ. και ώρας</string>
+  <string name="delete_description">Διαγραφή</string>
   <string name="deselect_all">Αποεπιλογή</string>
+  <string name="deselect_all_description">Αποεπιλογή Όλων</string>
   <string name="early_morning">ΠΜ</string>
   <string name="email">E-Mail</string>
   <string name="eras_ad">ΜΧ</string>
@@ -467,6 +471,7 @@
   <string name="search_input_description">Εύρεση</string>
   <string name="search_mode_button_back_description">Πίσω</string>
   <string name="select_all">Επιλογή όλων</string>
+  <string name="select_all_description">Επιλογή όλων</string>
   <string name="select_item">Επιλέξτε στοιχεία</string>
   <string name="send">Αποστολή</string>
   <string name="send_sms_for_sync_notice">Θα σταλθεί αυτόματα ένα κείμενο ενεργοποίησης (χρήση κανονικής χρέωσης).</string>
@@ -487,21 +492,21 @@
   <string name="size_tera_byte">TB</string>
   <string name="solar_term_autumn_begins">Έναρξη φθινοπώρου</string>
   <string name="solar_term_autumn_equinox">Φθινοπωρινή Ισημερία</string>
-  <string name="solar_term_clear_and_bright">Καθαρή και φωτεινή</string>
+  <string name="solar_term_clear_and_bright">Καθαρόςκαι φωτεινός</string>
   <string name="solar_term_cold_dews">Ψυχρές νυφάδες</string>
   <string name="solar_term_grain_buds">Άνθισμα λουλουδιών</string>
-  <string name="solar_term_grain_in_ear">Κόκκος</string>
+  <string name="solar_term_grain_in_ear">Σκόνη</string>
   <string name="solar_term_grain_rain">Ψιχάλα</string>
   <string name="solar_term_great_cold">Μεγάλο ψύχος</string>
-  <string name="solar_term_great_heat">Μεγάλη θερμοκρασία</string>
-  <string name="solar_term_heavy_snow">Βαρύ χιόνι</string>
+  <string name="solar_term_great_heat">Υψηλή θερμοκρασία</string>
+  <string name="solar_term_heavy_snow">Πυκνό χιόνι</string>
   <string name="solar_term_hoar_frost_falls">Παγετός</string>
   <string name="solar_term_insects_awaken">Ξύπνημα εντόμων</string>
   <string name="solar_term_light_snow">Ελαφρύ χιόνι</string>
-  <string name="solar_term_slight_cold">Ελαφρά Ψυχρός</string>
+  <string name="solar_term_slight_cold">Ελαφριά Ψυχρός</string>
   <string name="solar_term_slight_heat">Ελαφριά θερμότητα</string>
   <string name="solar_term_spring_begins">Έναρξη άνοιξης</string>
-  <string name="solar_term_stopping_the_heat">Σταμάτημα ζέστης</string>
+  <string name="solar_term_stopping_the_heat">Παύση ζέστης</string>
   <string name="solar_term_summer_begins">Έναρξη καλοκαιριού</string>
   <string name="solar_term_summer_solstice">Θερινό Ηλιοστάσιο</string>
   <string name="solar_term_the_rains">Οι βροχές</string>
@@ -574,5 +579,5 @@
   <string name="wednesday_short">Τετ</string>
   <string name="wednesday_shortest">Τ</string>
   <string name="xiaomi_mobile">Mi Mobile</string>
-  <string name="yesterday">Χθες</string>
+  <string name="yesterday">Χθές</string>
 </resources>
