@@ -310,14 +310,6 @@
     <item />
     <item />
   </string-array>
-  <string-array name="select_logd_system_levels">
-    <item>Απενεργοποίηση</item>
-    <item>Σφάλμα</item>
-    <item>Προειδοποίηση</item>
-    <item>Πληροφορίες</item>
-    <item>Απασφαλμάτωση</item>
-    <item>Λεπτομερή</item>
-  </string-array>
   <string-array name="select_logpersist_summaries">
     <item>Από</item>
     <item>Όλα τα log buffers</item>
