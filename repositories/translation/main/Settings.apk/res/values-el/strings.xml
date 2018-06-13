@@ -4754,7 +4754,7 @@
   <string name="wifi_calling_settings_title">Κλήση Wi-Fi</string>
   <string name="wifi_cancel">Άκυρο</string>
   <string name="wifi_certificate">Πιστοποιητικό Wi-Fi</string>
-  <string name="wifi_click_login_wlan">Συνδεδεμένος. Απαιτείται επαλήθευση.</string>
+  <string name="wifi_click_login_wlan">Απαιτείται Σύνδεση/Επαλήθευση.</string>
   <string name="wifi_click_share_wlan">Πατήστε για κοινή χρήση του κωδικού</string>
   <string name="wifi_config_info">Ρύθμιση Wi-Fi</string>
   <string name="wifi_configured_ap_list">Προηγούμενα ρυθμισμένα APs</string>

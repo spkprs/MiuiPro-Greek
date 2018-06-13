@@ -14,6 +14,7 @@
   <string name="accessibility_stereo_button">Ρύθμιση Εστίασης</string>
   <string name="accessibility_zoom_button">Λειτουργία Ζούμ</string>
   <string name="audio_focus_exit_button_text">"Απενεργοποίηση Eστίασης ήχου "</string>
+  <string name="back_bokeh_use_hint">"Βεβαιωθείτε ότι το αντικείμενο δεν απέχει περισσότερο από 1,5 μέτρο."</string>
   <string name="beauty_fragment_tab_name_beauty">Αισθητική</string>
   <string name="beauty_fragment_tab_name_makeup">Για προχωρημένους</string>
   <string name="burst_shoot_exit_button_text">Απενεργοποίηση Ριπής</string>

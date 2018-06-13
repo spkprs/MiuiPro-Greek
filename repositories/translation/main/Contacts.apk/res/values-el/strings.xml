@@ -875,6 +875,7 @@
   <string name="preference_phone">Τηλέφωνο</string>
   <string name="preference_phone_more_title">Ρυθμίσεις κλήσεων</string>
   <string name="preference_remove_duplicate">Συγχώνευση όμοιων επαφών</string>
+  <string name="preference_show_firewall_calllog">Εμφάνιση αποκλεισμένων κλήσεων στο ιστορικό κλήσεων</string>
   <string name="preference_show_yellowpage_tab_description">Οι κίτρινες σελίδες ενδέχεται να μην λειτουργούν σωστά όταν αυτή η λειτουργία είναι απενεργοποιημένη.</string>
   <string name="preference_show_yellowpage_tab_title">Εμφάνιση κίτρινων σελίδων</string>
   <string name="preference_simple_mode_description">Εμφάνιση φωτογραφιών και άλλων πληροφοριών επαφής στην προβολή λίστας</string>

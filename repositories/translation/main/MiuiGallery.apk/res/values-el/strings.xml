@@ -198,6 +198,8 @@
   <string name="change_to_face_mode">Ταξινόμηση κατά άτομα</string>
   <string name="change_to_photo_mode">Ταξινόμηση κατά άλμπουμ</string>
   <string name="change_to_visible">Επαναφορά αυτού του ατόμου;</string>
+  <string name="checked">Επιλεγμένα</string>
+  <string name="checked_something">Επιλεγμένα %s</string>
   <string name="choose_baby_sexy">Φύλο</string>
   <string name="choose_owner_relation">Σχέση</string>
   <string name="choose_people">Επιλέξτε το άλμπουμ ενός ατόμου</string>
@@ -426,6 +428,7 @@
   <string name="error_unknown_msg">Παρουσιάστηκε ένα σφάλμα. Στείλτε μας τα σχόλιά σας.</string>
   <string name="error_unknown_tip">Παρουσιάστηκε ένα σφάλμα.</string>
   <string name="exit">Έξοδος</string>
+  <string name="exit_choice_mode">Διάλογος υπόλοιπου Διαμοιρασμού</string>
   <string name="exit_share">Έξοδος από το άλμπουμ</string>
   <string name="exit_share_failed">Η έξοδος από το άλμπουμ %1$s απέτυχε</string>
   <string name="exit_share_in_process">Έξοδος από το Άλμπουμ \"%s\"…</string>
@@ -545,6 +548,8 @@
   <string name="image_invalid_path">Μη έγκυρη διαδρομή</string>
   <string name="image_not_found">Δεν ήταν δυνατή η εύρεση εικόνας</string>
   <string name="image_quota_fulfiled">Αδυναμία δημιουργίας εικόνας, ξεπεράστηκε το όριο.</string>
+  <string name="image_with_time">Η φωτό λήφθηκε στις %s</string>
+  <string name="image_with_time_and_location">Η φωτό λήφθηκε στις %1$s. Τοποθεσία: %2$s.</string>
   <string name="impunity_declaration_settings">Προβολή ειδοποίησης δικτύου</string>
   <string name="impunity_declaration_summary">Προβολή ειδοποίησης δικτύου σε κάθε εκκίνηση του άλμπουμ</string>
   <string name="initializing_cloud">Αρχικοποίηση του Cloud Άλμπουμ…</string>
@@ -1026,8 +1031,9 @@
   <string name="sticker_summer">Καλοκαίρι</string>
   <string name="sticker_words">Λέξεις</string>
   <string name="storage_description_primary">Εσωτερική αποθήκευση</string>
+  <string name="storage_description_usb">Αποθήκευση USB</string>
   <string name="storage_description_xspace">Δεδομένα διπλής εφαρμογής</string>
-  <string name="storage_no_space">"Ανεπαρκής Χώρος "</string>
+  <string name="storage_no_space">"Ανεπαρκής Χώρος"</string>
   <string name="sub_discard_confirm_message">Αποθήκευση αλλαγών;</string>
   <string name="sub_discard_negative_btn">Απόρριψη</string>
   <string name="sub_discard_positive_btn">Αποθήκευση</string>
@@ -1090,6 +1096,8 @@
   <string name="turn_off_and_move">Απενεργοποίηση και μετακινήστε</string>
   <string name="turn_on_and_remove">Ενεργοποίηση και μετακινήση</string>
   <string name="turn_on_sync">Ενεργοποίηση συγχρονισμού</string>
+  <string name="unchecked">Αποεπιλεγμένα</string>
+  <string name="unchecked_something">Αποεπιλεγμένα %s</string>
   <string name="unpublish_failed">Αποτυχία αναίρεσης της δημοσίευσης!</string>
   <string name="unpublish_succeeded">Αδημοσίευτα άλμπουμ!</string>
   <string name="unpublishing">Ακύρωση δημοσίευσης, παρακαλώ περιμένετε…</string>
@@ -1160,6 +1168,8 @@
   <string name="video_editor_unsupport_audio_file">Δεν υποστηρίζεται το αρχείο ήχου</string>
   <string name="video_err">Αδύνατη η αναπαραγωγή βίντεο.</string>
   <string name="video_not_exist">Το βίντεο δεν υπάρχει</string>
+  <string name="video_with_time">Το Βίντεο λήφθηκε στις %s</string>
+  <string name="video_with_time_and_location">Το Βίντεο λήφθηκε στις %1$s. Τοποθεσία: %2$s.</string>
   <string name="view_by_gallery_tip">Άλμπουμ MIUI</string>
   <string name="view_face_album">Προβολή άλμπουμ</string>
   <string name="view_more_face_desc">Δείτε περισσότερα άτομα</string>

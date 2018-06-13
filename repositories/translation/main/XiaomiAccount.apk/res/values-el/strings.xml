@@ -19,7 +19,8 @@
   <string name="account_global_region">Εξωτερικού</string>
   <string name="account_has_been_set">Αλλαγή</string>
   <string name="account_limit_update_birthday">Αδυναμία ενημέρωσης των γενεθλίων τώρα</string>
-  <string name="account_mibi_center">Mi Credits</string>
+  <string name="account_mibi_center">Mi Κάρτες</string>
+  <string name="account_mibi_charge">Χρέωση Mi Καρτών</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Κανένα</string>
   <string name="account_none">Κανένα</string>
@@ -383,6 +384,15 @@
   <string name="passport_wrong_phone_number_format">Η μορφή του αριθμού τηλεφώνου δεν είναι έγκυρη</string>
   <string name="passport_wrong_vcode">Λανθασμένος κωδικός επαλήθευσης</string>
   <string name="passport_yes">Ναί</string>
+  <string name="passport_Resend">Επαναποστολή</string>
+  <string name="passport_btn_change_account">Αλλαγή Λογαριασμού</string>
+  <string name="passport_error_empty_voice_code">Εισαγωγή captcha</string>
+  <string name="passport_input_voice_hint">Εισαγωγή φωνητικού κωδικού</string>
+  <string name="passport_license_info_collapse">Σύμπτυξη</string>
+  <string name="passport_license_info_open">Λεπτομέρειες</string>
+  <string name="passport_new_user_register">Δημιουργείστε ενα Λογγαριασμό</string>
+  <string name="passport_register_using_other_ways">Άλλοι τρόποι εγγραφής</string>
+  <string name="passport_wrong_voice">Ο κωδικός που εισάγατε είναι εσφαλμένος</string>
   <string name="phone_activated">%s ενεργοποιημένο</string>
   <string name="phone_num_use_for">Ο αριθμός τηλεφώνου χρησιμοποιείται για:</string>
   <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
