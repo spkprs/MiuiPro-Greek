@@ -125,6 +125,10 @@
     <item quantity="other">%1$s, %2$s, και %3$d άλλες</item>
     <item quantity="one">%1$s, %2$s, και %3$d άλλη</item>
   </plurals>
+  <plurals name="notification_num_channels">
+    <item quantity="other">%d κατηγορίες ειδοποιήσεων</item>
+    <item quantity="one">%d κατηγορία ειδοποίησης</item>
+  </plurals>
   <plurals name="notification_num_channels_desc">
     <item quantity="other">1 από %d κατηγορίες ειδοποιήσεων από αυτήν την εφαρμογή</item>
     <item quantity="one">1 από την %d κατηγορία ειδοποίησης από αυτήν την εφαρμογή</item>

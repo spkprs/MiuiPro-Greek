@@ -1042,6 +1042,8 @@
   <string name="notification_all_categories">Ολες οι κατηγορίες</string>
   <string name="notification_app_settings">Προσαρμογή: %1$s</string>
   <string name="notification_channel_alerts">Ειδοποιήσεις</string>
+  <string name="notification_channel_battery">Μπαταρία</string>
+  <string name="notification_channel_usb">USB</string>
   <string name="notification_channel_controls_closed_accessibility">Έλεγχοι ειδοποίησης για %1$s κλειστό</string>
   <string name="notification_channel_controls_opened_accessibility">Έλεγχοι ειδοποίησης για %1$s άνοιχτό</string>
   <string name="notification_channel_disabled">Δεν θα λάβετε πλέον αυτές τις ειδοποιήσεις.</string>
@@ -1215,6 +1217,7 @@
   <string name="quick_settings_edit_label">Επεξεργασία</string>
   <string name="quick_settings_flashlight_label">Φακός</string>
   <string name="quick_settings_hotspot_label">Σημείο Πρόσβασης</string>
+  <string name="quick_settings_gps_label">GPS</string>
   <string name="quick_settings_ime_label">Μέθοδος εισαγωγής</string>
   <string name="quick_settings_inversion_label">Αντιστροφή χρωμάτων</string>
   <string name="quick_settings_location_label">Τοποθεσία</string>

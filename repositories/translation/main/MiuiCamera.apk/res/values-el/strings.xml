@@ -501,8 +501,8 @@
   <string name="accessibility_ai_scene_on">AI camera είναι Ανοιχτή</string>
    <string name="beauty_fragment_tab_name_3d_beauty">Αισθητική</string>
    <string name="beauty_fragment_tab_name_3d_remodeling">Αναδιαμόρφωση</string>
-   <string name="lens_dirty_detected_content">"Εντοπίστηκε ότι ο φακός της κάμερας είναι ακάθαρτος,
-παρακαλώ καθαρίστε το φακό της κάμερας για καλύτερη εικόνα."</string>
+   <string name="lens_dirty_detected_content">"Φαίνεται ότι ο φακός της κάμερας είναι ακάθαρτος.
+Καθαρίστε το φακό για καλύτερο αποτέλεσμα."</string>
    <string name="lens_dirty_detected_title_back">Ο φακός της Πίσω κάμερας είναι ακάθαρτος</string>
    <string name="lens_dirty_detected_title_front">Ο φακός της Εμπρός κάμερας είναι ακάθαρτος</string>
 </resources>

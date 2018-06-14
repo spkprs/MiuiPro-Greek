@@ -168,6 +168,12 @@
     <string name="control_set_alarm">Ρυθμίστε το ξυπνητήρι</string>
     <string name="control_set_alarm_with_existing">Σύνολο αφυπνίσεων: %s</string>
     <string name="open_keep_screen">Η οθόνη θα παραμείνει ενεργή</string>
-    <string name="shut_down_keep_screen">"Η οθόνη δεν θα παραμείνει ενεργή"</string>
+    <string name="dialog_message_not_remind">"Χωρίς Επανεμφάνιση"</string>
     <string name="worldclock_input_hint_text">Εισαγωγή Πόλης</string>	
+    <string name="module_download_cancel">Όχι ευχαριστώ</string>
+    <string name="module_download_data_msg">"Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία ήχου (20MB) για τους θορύβους περιβάλλοντος και τις έξυπνες αφυπνήσεις. Θα χρησιμοποιηθούν τώρα, δεδομένα κινητής τηλεφωνίας. Επιτρέπετε?"</string>
+    <string name="module_download_data_msg_golbal">"Το ρολόι πρέπει να μεταφορτώσει αρχεία ήχου (20MB) για τους θορύβους περιβάλλοντος και τις έξυπνες αφυπνήσεις. Θα χρησιμοποιηθούν τώρα, δεδομένα κινητής τηλεφωνίας. Επιτρέπετε?"</string>
+    <string name="module_download_msg">Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία ήχου για τους θορύβους περιβάλλοντος και τις έξυπνες αφυπνήσεις. Επιτρέπετε?</string>
+    <string name="module_download_msg_golbal">Το ρολόι πρέπει να μεταφορτώσει αρχεία ήχου για τους θορύβους περιβάλλοντος και τις έξυπνες αφυπνήσεις. Επιτρέπετε?</string>
+    <string name="module_download_ok">Επιτρέπω</string>
 </resources>
