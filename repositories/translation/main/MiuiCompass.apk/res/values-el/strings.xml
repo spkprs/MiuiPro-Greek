@@ -35,11 +35,11 @@
      <string name="guide_toast">Βαθμονομήστε την πυξίδα, χρησιμοποιώντας την ακόλουθη κίνηση.</string>
      <string name="latitude">LAT</string>
      <string name="location_east">Α</string>
-     <string name="location_enable">Επίτρεψε</string>
+     <string name="location_enable">Επιτρέψτε</string>
      <string name="location_enable_later">Αργότερα</string>
      <string name="location_enabled">Μπορείτε να απενεργοποιήσετε τις υπηρεσίες τοποθεσίας οποιαδήποτε στιγμή από τις Ρυθμίσεις.</string>
      <string name="location_north">Β</string>
-     <string name="location_not_enabled_summary">Το ευρετήριο χρειάζεται πληροφορίες για την τοποθεσίας σας για να λειτουργεί κανονικά.</string>
+     <string name="location_not_enabled_summary">Η Πυξίδα χρειάζεται πληροφορίες της τοποθεσίας σας για να λειτουργήσει κανονικά.</string>
      <string name="location_not_enabled_title">Υπηρεσίες τοποθεσίας</string>
      <string name="location_south">Ν</string>
      <string name="location_west">Δ</string>

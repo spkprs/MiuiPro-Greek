@@ -198,7 +198,7 @@
   <string name="radio_button_password_switch_title">Χρησιμοποιώντας έναν κωδικό</string>
   <string name="remove_button">Αφαίρεση και Επανεκκίνηση</string>
   <string name="remove_button_time">Αφαίρεση και Επανεκκίνηση (%ds)</string>
-  <string name="remove_second_space_msg">Όλα τα δεδομένα του Δεύτερου προφίλ θα χαθούν όταν διαγράψετε το Δεύτερο προφίλ. Διαγραφή Δεύτερου προφίλ τώρα;</string>
+  <string name="remove_second_space_msg">Όλα τα δεδομένα του Δεύτερου Χώρου θα χαθούν όταν διαγράψετε το Δεύτερο προφίλ. Διαγραφή Δεύτερου προφίλ τώρα;</string>
   <string name="remove_user_click_message">* Αν δεν έχετε σημαντικά στοιχεία στο δεύτερο χώρο, %s</string>
   <string name="remove_user_click_message_action">μπορείτε να διαγράψετε το δεύτερο διάστημα και να επανεκκινήσετε τη συσκευή σας τώρα.</string>
   <string name="removeSuccess">Επιτυχής διαγραφή</string>
@@ -288,13 +288,13 @@
   <string name="show_private_msg">Εμφάνιση ιδιωτικών μηνυμάτων</string>
   <string name="show_private_msg_summary">Εμφάνιση ιδιωτικών μηνυμάτων στο Δεύτερο προφίλ</string>
   <string name="skip">Παράλειψη</string>
-  <string name="space_create_guide_desc_1">Αποθηκεύστε τις εφαρμογές και τις φωτογραφίες με ασφάλεια</string>
+  <string name="space_create_guide_desc_1">Αποθήκευση εφαρμογών και φωτογραφιών με ασφάλεια</string>
   <string name="space_create_guide_desc_2">Πλήρως έτοιμος για χρήση ξεχωριστός χώρος</string>
   <string name="space_create_guide_desc_3">Ο δεύτερος χώρος δεν επηρεάζει άλλα στοιχεία στη συσκευή σας</string>
   <string name="space_create_guide_switchmode_title">Εναλλαγή μεταξύ Χώρων</string>
-  <string name="space_create_guide_title_1">Προστατεύστε το απόρρητό σας</string>
-  <string name="space_create_guide_title_2">Δημιουργία ανά πάσα στιγμή</string>
-  <string name="space_create_guide_title_3">Απολύτως χωρίς κινδύνους</string>
+  <string name="space_create_guide_title_1">Προστασία Απορρήτου</string>
+  <string name="space_create_guide_title_2">Άμεση Δημιουργία</string>
+  <string name="space_create_guide_title_3">Απολύτως Ακίνδυνο</string>
   <string name="space_created_success">Δημιουργήθηκε ο Δεύτερος χώρος με επιτυχία</string>
   <string name="space_deleted">Αυτός ο χώρος διαγράφηκε</string>
   <string name="space_des_default">Απομονωμένος χώρος με κρυπτογραφημένα δεδομένα</string>

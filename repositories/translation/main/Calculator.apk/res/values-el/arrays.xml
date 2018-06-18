@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="operatorDescs">
+    <string-array name="mortgage_repayment">
+        <item>Ισόποσες δόσεις</item>
+        <item>Φθίνουσες δόσεις</item>
+    </string-array>
+		<string-array name="operatorDescs">
         <item>αριστερή παρένθεση</item>
         <item>δεξιά παρένθεση</item>
         <item>παραγοντικό</item>

@@ -577,7 +577,7 @@
   <string name="databooster_tips_title">Προσοχή</string>
   <string name="declaration_dialog_msg">Αυτό το χαρακτηριστικό μπορεί να σας βοηθήσει να παρακολουθείτε τη χρήση σας, αλλά δεν είναι εγγυημένη η αποφυγή πρόσθετων χρεώσεων. Για καλύτερα αποτελέσματα, ορίστε ένα συντηρητικό όριο.</string>
   <string name="deep_clean_disconnect_data_title">Απενεργοποίηση δεδομένων όταν κλειδώσει η συσκευή</string>
-  <string name="deep_clean_memory_clean_title">Καθαρισμός cache όταν η συσκευή είναι κλειδωμένη</string>
+  <string name="deep_clean_memory_clean_title">Καθαρισμός όταν αδρανοποιηθεί</string>
   <string name="deep_clean_never_memory_clean">Ποτέ</string>
   <string name="deep_save_memory_clean_summary">Καθαρισμός cache όταν η συσκευή είναι κλειδωμένη για την αποτροπή χρήσης μπαταρίας από εφαρμογές</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Χρονοδιάγραμμα Ενεργοποίησης/Απενεργοποίησης συσκευής</string>
@@ -1421,7 +1421,7 @@
   <string name="power_settings_category_title">Ένδειξη μπαταρίας</string>
   <string name="power_settings_number">Ποσοστό και γραφικό</string>
   <string name="power_settings_saver_title">Εξοικονόμηση ενέργειας</string>
-  <string name="power_settings_shape">Γραφικά</string>
+  <string name="power_settings_shape">Γραφικό</string>
   <string name="power_settings_title">Ρύθμιση</string>
   <string name="power_settings_top">Μπάρα στην κορυφή</string>
   <string name="power_wifi">Wi‑Fi</string>
@@ -2196,8 +2196,8 @@
   <string name="wrong_password">Λάθος κωδικός</string>
   <string name="xunyou_net_booster">Ενίσχυση ταχύτητας δικτύου</string>
   <string name="xunyou_net_booster_detail">Χρησιμοποιήστε υπηρεσίες ενίσχυσης ταχύτητας Xunyou για παιχνίδια</string>
-  <string name="xunyou_pay_webview">Απενεργοποίηση</string>
-  <string name="xunyou_server_expired">Ποσοστό μόνο</string>
+  <string name="xunyou_pay_webview">Ποσοστό μόνο</string>
+  <string name="xunyou_server_expired">Απενεργοποίηση</string>
   <string name="zhifubao_not_found">η έκδοση της εφαρμογής σας είναι πολύ παλιά ή δεν έχει εγκατασταθεί</string>
   <string name="gb_msg_not_shielded_summary">Προβολή</string>
 </resources>

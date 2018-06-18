@@ -67,8 +67,8 @@
   <string name="pause">Παύση</string>
   <string name="playback_delete_records">Διαγραφή εγγραφής</string>
   <string name="playback_share_records">Κοινή χρήση εγγραφής</string>
-  <string name="preference_enable_earpiece_summary">Χρήση του ηχείου του δέκτη για εξωτερική αναπαραγωγή</string>
-  <string name="preference_enable_earpiece_title">Χρήση του δέκτη για αναπαραγωγή ήχου</string>
+  <string name="preference_enable_earpiece_summary">Αν δεν ενεργοποιηθεί, χρήση του ηχείου για αναπαραγωγή</string>
+  <string name="preference_enable_earpiece_title">Χρήση του ακουστικού για την αναπαραγωγή ήχου</string>
   <string name="preference_led_indicator">Ειδοποιήσεις οθόνης κλειδώματος</string>
   <string name="preference_led_indicator_prompt">Κατά την εγγραφή, εμφάνιση στη γραμμή κατάστασης και ένδειξη LED όταν η οθόνη είναι κλειδωμένη</string>
   <string name="preference_record_scenes_dialog_title">Επιλέξτε τύπο εγγραφής</string>
@@ -104,7 +104,7 @@
   <string name="record_list_cloud_call">Εγγραφές κλήσεων στο Cloud</string>
   <string name="record_list_cloud_fm">Εγγραφές FM στο Cloud</string>
   <string name="record_list_fm">Εγγραφές FM</string>
-  <string name="record_mark_point">Ετικέτα %s</string>
+  <string name="record_mark_point">Σημείωση %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_quliaty_preference_title">Ποιότητα εγγραφής</string>
   <string name="recording">Ηχογράφηση…</string>
@@ -138,7 +138,7 @@
   <string name="status_bar_recording_pause">Ηχογράφηση σε παύση</string>
   <string name="text_btn_complete">Διακοπή</string>
   <string name="text_btn_list">Ηχογραφήσεις</string>
-  <string name="text_btn_mark">Ετικέτα</string>
+  <string name="text_btn_mark">Σημείωση</string>
   <string name="text_btn_pause">Παύση</string>
   <string name="text_btn_play">Αναπαραγωγή</string>
   <string name="text_btn_recognize">Αναγνώριση</string>
@@ -149,6 +149,6 @@
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s μπορεί να ηχογραφήσει για %2$s</string>
   <string name="toast_uninstall_fileexplorer">Η εφαρμογή Αρχεία δεν έχει εγκατασταθεί</string>
-  <string name="wifi_recommended_body" formatted="false">Χρησιμοποιώντας τα δεδομένα κινητής για να κατεβάσετε αυτό το αρχείο (%s) θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα. Για να περιμένετε για μια σύνδεση Wi‑Fi για τη λήψη αυτού του αρχείου, πατήστε %s.</string>
+  <string name="wifi_recommended_body" formatted="false">Χρήση των δεδομένων κινητής για να κατεβάσετε αυτό το αρχείο (%s) θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα. Για αναμονή μιας σύνδεσης Wi‑Fi για τη λήψη αυτού του αρχείου, πατήστε %s.</string>
   <string name="wifi_recommended_title">Προειδοποίηση χρήσης δεδομένων</string>
 </resources>
