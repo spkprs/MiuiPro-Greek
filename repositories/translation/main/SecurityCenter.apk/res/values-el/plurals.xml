@@ -37,12 +37,12 @@
         <item quantity="one">%d εφαρμογή</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d εφαρμογές μπορούν να συνδεθούν στο δίκτυο στο παρασκήνιο</item>
-        <item quantity="one">%d εφαρμογή μπορεί να συνδεθεί στο δίκτυο στο παρασκήνιο</item>
+        <item quantity="other">%d εφαρμογές μπορούν να συνδεθούν στο παρασκήνιο</item>
+        <item quantity="one">%d εφαρμογή μπορεί να συνδεθεί στο παρασκήνιο</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">%d εφαρμογές δεν μπορούν να συνδεθούν στο δίκτυο στο παρασκήνιο</item>
-        <item quantity="one">%d εφαρμογή δεν μπορεί να συνδεθεί στο δίκτυο στο παρασκήνιο</item>
+        <item quantity="other">%d εφαρμογές δεν μπορούν να συνδεθούν στο παρασκήνιο</item>
+        <item quantity="one">%d εφαρμογή δεν μπορεί να συνδεθεί στο παρασκήνιο</item>
     </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">Έχετε ήδη χρησιμοποιήσει %s ημερήσιου ορίου δεδομένων.</item>
@@ -57,8 +57,8 @@
 Εάν ενεργοποιήσετε πάλι τα δεδομένα κινητής τηλεφωνίας, ο φορέας σας ενδέχεται να σας χρεώσει για τα πρόσθετα δεδομένα."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Αναζήτηση %d εφαρμογών</item>
-        <item quantity="one">Αναζήτηση %d εφαρμογής</item>
+        <item quantity="other">Αναζήτηση σε %d εφαρμογές</item>
+        <item quantity="one">Αναζήτηση σε %d εφαρμογή</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
         <item quantity="other">%d εφαρμογές επιτρέπεται η χρήση περιαγωγής δεδομένων</item>
@@ -251,8 +251,8 @@
         <item quantity="one">%d ειδοποίηση είναι ορατή</item>
     </plurals>
     <plurals name="find_applications">
-        <item quantity="other">Αναζήτηση μεταξύ %d εφαρμογών</item>
-        <item quantity="one">Αναζήτηση μεταξύ %d εφαρμογής</item>
+        <item quantity="other">Αναζήτηση σε %d εφαρμογές</item>
+        <item quantity="one">Αναζήτηση σε %d εφαρμογή</item>
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">Βρέθηκαν %d εφαρμογές</item>
