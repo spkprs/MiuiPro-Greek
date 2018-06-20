@@ -9,6 +9,7 @@
   <string name="accessibility_button_clear">Καθαρισμός εισαγωγής</string>
   <string name="account_prifix">Λογαριασμός:</string>
   <string name="action">Είσοδος</string>
+  <string name="action_imme_open">Άμεσο άνοιγμα</string>
   <string name="action_menu_account_not_login">Δεν έχετε συνδεθεί</string>
   <string name="action_menu_account_not_login_hint">Συνδεθείτε για να συγχρονίσετε με το Mi Cloud</string>
   <string name="action_menu_bookshelf">Βιβλιοθήκη</string>
@@ -128,6 +129,8 @@
   <string name="browserFrameFileErrorLabel">Πρόβλημα αρχείου</string>
   <string name="browserFrameFormResubmitMessage">Η σελίδα που προσπαθείτε να δείτε περιέχει δεδομένα που έχουν ήδη υποβληθεί. Εάν ξαναστείλετε εκ νέου τα δεδομένα, προηγούμενες ενέργειες (π.χ. αναζητήσεις ή αγορές) θα επαναληφθούν.</string>
   <string name="browserFrameNetworkErrorLabel">Πρόβλημα σύνδεσης</string>
+  <string name="bubble_guide_logined_text">Συνδεθείτε για τυχερή κλήρωση</string>
+  <string name="bubble_guide_unlogined_text">Συνδεθείτε για να απολαύσετε προνόμια</string>
   <string name="cancel">Άκυρο</string>
   <string name="cancle_sync_cloud_tabs">Ακύρωση συγχρονισμού</string>
   <string name="cannot_download">Δυνατότητα λήψης μόνο \"http\" ή \"https\" URLs.</string>
@@ -200,6 +203,10 @@
   <string name="data_monitor_dialog_message">Φαίνεται ότι κάτι χρησιμοποιεί τα δεδομένα κινητής σας. Ανοίξτε την αρχική σελίδα για να σταματήσει.</string>
   <string name="data_traffic_prompt_message">Χρησιμοποιώντας τα δεδομένα κινητής για περιήγηση, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
   <string name="data_traffic_prompt_title">Προειδοποίηση χρήσης δεδομένων</string>
+  <string name="data_traffic_continue">Συνέχεια</string>
+  <string name="data_traffic_goto">Δωρεάν κίνηση δεδομένων</string>
+  <string name="data_traffic_prompt_free_data">Η χρήση της σύνδεσης δεδομένων κινητής τηλεφωνίας για την περιήγηση σε βίντεο θα αυξήσει τη χρήση των δεδομένων σας. Πάρτε δωρεάν κίνηση δεδομένων.</string>
+  <string name="data_traffic_stop">Παύση</string>
   <string name="delete">Διαγραφή</string>
   <string name="delete_bookmark">Διαγραφή</string>
   <string name="delete_bookmark_action_warning">Διαγραφή σελιδοδεικτών;</string>
@@ -775,6 +782,7 @@
   <string name="navigationbar_rightbutton_actiontext_search">Αναζήτηση</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Wi‑Fi σύνδεση βρέθηκε, θέλετε να συνδεθείτε;</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Διαθέσιμο τοπικό δίκτυο Wi‑Fi</string>
+  <string name="network_not_available_comment">Δεν υπάρχει σύνδεση στο Internet, δεν μπορείτε να σχολιάσετε</string>
   <string name="next_button_label">Επόμενο</string>
   <string name="no_app_open_document">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
   <string name="no_space_alert_cancel">Αργότερα</string>
@@ -992,6 +1000,7 @@
   <string name="save_to_camera_success">Αποθηκεύτηκε στις Φωτογραφίες</string>
   <string name="scanner_uninstalled_text">Εγκαταστήστε το σαρωτή για να συνεχίσετε</string>
   <string name="scanner_uninstalled_title">Ο σαρωτής έχει απεγκατασταθεί</string>
+  <string name="screenshot_loading_dialog_title">Καταγραφή</string>
   <string name="sdcard_error">Ελέγξτε την κάρτα SD</string>
   <string name="search">Αναζήτηση</string>
   <string name="search_baidu">Baidu</string>
@@ -1080,6 +1089,7 @@
   <string name="suggest_access_item_singer_albums">%d άλμπουμ</string>
   <string name="suggest_access_item_singer_pop">%d δημοφιλή τραγούδια</string>
   <string name="suggest_access_item_site_mark">SITES</string>
+  <string name="suggest_access_item_topic_mark">ΤΟΠΙΚΑ</string>
   <string name="suggest_access_item_video_mark">ΒΙΝΤΕΟ</string>
   <string name="suggest_access_item_weather_mark">ΚΑΙΡΟΣ</string>
   <string name="suggest_access_item_yellow_mark">ΧΡΥΣΟΣ ΟΔΗΓΟΣ</string>
@@ -1099,6 +1109,10 @@
   <string name="suggestion_lottery_detail_price">ΚΑΘΕ ΣΗΜΕΙΩΣΗ%sYUAN</string>
   <string name="suggestion_lottery_detail_text">ΑΥΤΟ%s</string>
   <string name="suggestion_lottery_period">ΟΧΙ.%s</string>
+  <string name="suggestion_more_button_text">ΠΕΡΙΣΣΟΤΕΡΑ</string>
+  <string name="suggestion_more_news">ΠΕΡΙΣΣΟΤΕΡΑ ΝΕΑ</string>
+  <string name="suggestion_more_news_start_title_text">Σχετικά νέα</string>
+  <string name="suggestion_topic_subtitle_hyphen">Εστίαση</string>
   <string name="suggestion_translation_more">ΠΕΡΙΣΣΟΤΕΡΗ ΜΕΤΑΦΡΑΣΗ</string>
   <string name="switch_proxy_dialog_msg">Ανιχνεύτηκε προσπάθεια παραβίασης δικτύου. Χρησιμοποιήστε την ενσωματωμένη εφαρμογή Ασφαλείας της MIUI ή αναφέρετέ το στην εταιρεία κινητής τηλεφωνίας σας.</string>
   <string name="switch_proxy_dialog_title">Παραβίαση δικτύου</string>
@@ -1234,11 +1248,11 @@
   <string name="enter_infoflow_guide">Σύρετε επάνω για προβολή νέων</string>
   <string name="hot_words_item_ads_mark">Διαφημίσεις</string>
   <string name="info_flow_description">Κανάλι πληροφοριών</string>
-  <string name="message_notice_push">Τα τελευταία Σημεία Πρόσβασης δεν χάνονται πλέον!</string>
+  <string name="message_notice_push">Ζήστε τις προσωπικές μου πληροφορίες!</string>
   <string name="pref_navscreen_layoutstate_title">Διαχείριση πολλαπλών παραθύρων</string>
   <string name="refresh_description">Ανανέωση</string>
   <string name="short_video_description">Κανάλι βίντεο</string>
   <string name="short_video_tip">Κοιτάξτε! Διασκεδαστικό βίντεο</string>
   <string name="suggestion_clear_record_message">Επιβεβαιώνετε την κενή εγγραφή εισόδου;</string>
-  <string name="title_notice_push">Ειδοποίηση υπενθύμισης</string>
+  <string name="title_notice_push">Ενεργοποιήστε την ώθηση</string>
 </resources>

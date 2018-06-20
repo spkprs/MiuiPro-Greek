@@ -258,6 +258,8 @@
   <string name="reply_failed">Αποτυχία απάντησης</string>
   <string name="reply_successful">Επιτυχής απάντηση</string>
   <string name="report_miui">Αναφορά σφάλματος</string>
+  <string name="reply_option_log_hint">Προαιρετικά</string>
+  <string name="reply_select_log_hint">Επιλέξτε αρχείο καταγραφής</string>
   <string name="request_empty_data">Δεν υπάρχουν δεδομένα</string>
   <string name="save_pic">Αποθήκευση</string>
   <string name="save_pic_fail">Αδυναμία αποθήκευσης εικόνας. Ελέγξτε την κάρτα SD</string>

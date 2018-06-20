@@ -776,6 +776,9 @@
   <string name="game_net_text2">Ενίσχυση ταχύτητας σύνδεσης παιχνιδιών με ταυτόχρονο περιορισμό ταχύτητας λήψεων παρασκηνίου για αποφυγή καθυστέρησης δικτύου</string>
   <string name="game_net_title">Βελτιστοποίηση ταχύτητας σύνδεσης</string>
   <string name="game_setting">Ρυθμίσεις παιχνιδιών</string>
+  <string name="gamebox_type_close">"Χωρίς εμφάνιση"</string>
+  <string name="gamebox_type_float">Διόρθωση συντόμευσης</string>
+  <string name="gamebox_type_gesture">Σύρετε για εμφάνιση</string>
   <string name="gamebooster_lowbattery_notification_summary">Φορτίστε τη συσκευή σας πριν απενεργοποιηθεί.</string>
   <string name="gamebooster_lowbattery_notification_title">Η μπαταρία έχει λιγότερο από 5 %%</string>
   <string name="gamebooster_main_activity_back">Πίσω</string>

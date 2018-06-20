@@ -851,6 +851,7 @@
   <string name="cancel_action">Ακύρωση</string>
   <string name="cancel_alert">Απορρίψετε τις αλλαγές σας;</string>
   <string name="cancel_button">Ακύρωση</string>
+  <string name="cancel_description">Ακύρωση</string>
   <string name="cancel_download_buton_text">Ακύρωση</string>
   <string name="cant_sync_dialog_message">Ο συγχρονισμός γι\' αυτό το στοιχείο είναι προς το παρόν ανενεργός. Για να αλλάξετε αυτή τη ρύθμιση, ενεργοποιήστε προσωρινά τα δεδομένα παρασκηνίου και τον αυτόματο συγχρονισμό</string>
   <string name="cant_sync_dialog_title">Δεν είναι δυνατός ο μη αυτόματος συγχρονισμός</string>
@@ -996,6 +997,7 @@
   <string name="confirm_action">OK</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Προσθήκη</string>
   <string name="confirm_convert_to_fbe_warning">Πραγματικά καθαρισμό δεδομένων χρήστη και μετατροπή σε κρυπτογράφηση αρχείων;</string>
+  <string name="confirm_description">Επιβεβαίωση</string>
   <string name="confirm_download_cancelation_dialog_message">Ακύρωση λήψης ;</string>
   <string name="confirm_enable_multi_window_text">ΠΡΟΣΟΧΗ! Αυτή είναι μια πειραματική λειτουργία. Σας επιτρέπει να εμφανίζετε ταυτόχρονα πολλαπλές δραστηριότητες χρησιμοποιώντας τη διεπαφή των πρόσφατα χρησιμοποιούμενων εφαρμογών. Ορισμένα προγράμματα ενδέχεται να μην λειτουργούν σωστά με αυτή τη λειτουργία.</string>
   <string name="confirm_enable_multi_window_title">Ενεργοποίηση λειτουργίας πολλαπλών παραθύρων;</string>
@@ -1583,6 +1585,7 @@
   <string name="face_unlock_enable">Ξεκλείδωμα μέσω προσώπου ενεργό</string>
   <string name="factory_reset_summary">Διαγραφή όλων των δεδομένων από την εσωτερική μνήμη του τηλεφώνου σας</string>
   <string name="fade_animation_title">Στυλ κινουμένων σχεδίων</string>
+  <string name="fallback_home_title">Μισό λεπτό…</string>
   <string name="failed_to_check_find_device_status_content">Αδυναμία ελέγχου κατάστασης του Εύρεση συσκευής. Περιμένετε ένα με δύο λεπτά και δοκιμάστε ξανά.</string>
   <string name="failed_to_check_find_device_status_title">Αδυναμία ελέγχου κατάστασης του Εύρεση συσκευής</string>
   <string name="failed_to_open_app_settings_toast">Απέτυχε να ανοίξει τις ρυθμίσεις για %1$s</string>
@@ -2008,16 +2011,19 @@
   <string name="keywords_lockscreen">σύρετε για ξεκλείδωμα, κωδικό πρόσβασης, μοτίβο, PIN</string>
   <string name="keywords_more_default_sms_app">μήνυμα κειμένου, γραπτά μηνύματα, μηνύματα, μηνύματα</string>
   <string name="keywords_more_mobile_networks">κυψελοειδές, φορέα, ασύρματο, δεδομένα, 4g, 3g, 2g, lte</string>
-  <string name="keywords_network_reset">μηδενισμός, επαναφορά, εργοστασιακά</string>
+  <string name="keywords_network_reset">μηδενισμός, επαναφορά, εργοστασιακή</string>
   <string name="keywords_printing">εκτυπωτής</string>
   <string name="keywords_reset_apps">επαναφορά, προτιμήσεις, προεπιλογή</string>
   <string name="keywords_sounds_and_notifications_interruptions">μην ενοχλείτε, διακοπή, διακόπτετε, σπάστε</string>
   <string name="keyboard_shortcuts_helper_summary">Δείτε τις διαθέσιμες συντομεύσεις</string>
-  <string name="keywords_system_alert_window">παράθυρο ειδοποίησης διαλόγου συστήματος  θα είναι πάνω από άλλες εφαρμογές</string>
-  <string name="keywords_text_to_speech_output">προσαρμογή γλώσσας προεπιλογή μιλώντας μιλώντας tts αναγνώστης προσβασιμότητας blind</string>
+  <string name="keywords_system_alert_window">το παράθυρο ειδοποίησης διαλόγου συστήματος  θα είναι πάνω από άλλες εφαρμογές</string>
+  <string name="keywords_text_to_speech_output">προσαρμογή γλώσσας προεπιλογή ομιλίας tts αναγνώστης προσβασιμότητας blind</string>
   <string name="keywords_users">περιορισμός περιορίζει περιορισμένη</string>
   <string name="keywords_wifi_calling">"wifi κλήση "</string>
-  <string name="keywords_write_settings">γράψτε τροποποιήσετε τις ρυθμίσεις του συστήματος</string>
+  <string name="keywords_write_settings">γράψει τροποποιήσει τις ρυθμίσεις του συστήματος</string>
+  <string name="key_fsg_dialog_message">"Χρησιμοποιείτε χειρονομίες πλήρους οθόνης για πλοήγηση. Οι λειτουργίες που σχετίζονται με πλήκτρα δεν είναι διαθέσιμες τώρα. Αλλαγή πλήκτρων;"</string>
+  <string name="key_fsg_dialog_negative">Ακύρωση</string>
+  <string name="key_fsg_dialog_positive">Εναλλαγή σε πλήκτρα</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_global_roaming_settings">Ρυθμίσεις περιαγωγής</string>

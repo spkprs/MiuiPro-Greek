@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="allow">Επιτρέψτε</string>
      <string name="altitude">%.1f</string>
      <string name="altitude_title">Ύψος</string>
      <string name="altitude_uncalibrate_cancel">Ακύρωση</string>
@@ -15,6 +16,7 @@
      <string name="calibrate_success">Ολοκλήρωση βαθμονόμησης</string>
      <string name="calibrate_tip">Γείρετε τη συσκευή σας να κυλήσει τη μπάλα γύρω από τον κύκλο</string>
      <string name="calibrate_title">Βαθμονόμηση πυξίδας</string>
+     <string name="cancel">Ακύρωση</string>
      <string name="cannot_get_location">Άγνωστη τοποθεσία</string>
      <string name="dialog_body_no_network">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="dialog_calibrat_altitude">Βαθμονόμηση υψομέτρου μέσω της σύνδεσης στο Internet.</string>
@@ -46,6 +48,8 @@
      <string name="longitude">LON</string>
      <string name="mobiledata_alert_dialog_message">Συνδεθείτε στο διαδίκτυο για τη βαθμονόμηση υψομέτρου;</string>
      <string name="mobiledata_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
+     <string name="open_perm_msg">Η πυξίδα χρειάζεται πρόσβαση σε πληροφορίες τοποθεσίας και κάμερα. Αυτό είναι απαραίτητο για τον προσδιορισμό των συντεταγμένων και την παροχή ζωντανών προεπισκοπήσεων. Επιτρέπετε?</string>
+     <string name="open_perm_title">Απαιτούνται δικαιώματα</string>
      <string name="pressure">%.1f</string>
      <string name="pressure_title">Πίεση</string>
      <string name="pressure_unit">hPa</string>

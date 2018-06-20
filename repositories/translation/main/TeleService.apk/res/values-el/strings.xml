@@ -249,6 +249,8 @@
   <string name="close_dialog">OK</string>
   <string name="close_profile">Κλείσιμο</string>
   <string name="cloud_antispam_title">Αναγνώριση άγνωστων αριθμών</string>
+  <string name="cloud_sim_enabled_dual_4g_summary">"Αδύνατη η απενεργοποίηση του Dual 4G ενώ χρησιμοποιείτε τη λειτουργία Mi Roaming"</string>
+  <string name="cloud_sim_enabled_preferred_network_summary">"Δεν είναι δυνατή η αλλαγή των προτιμήσεων δικτύου κατά τη χρήση της υπηρεσίας Roaming Mi"</string>
   <string name="cmcc_ut_data_enable_prompt">Αδυναμία σύνδεσης μέσω δικτύου VoLTE. Ενεργοποιείστε τα δεδομένα κινητής τώρα.</string>
   <string name="command_error_fdn_failure">Θα πρέπει να απενεργοποιήσετε πρώτα το FDN</string>
   <string name="config_default_data_sim">Ρυθμίσεις</string>
@@ -279,6 +281,8 @@
   <string name="cursorError">Σφάλμα Δρομέα.</string>
   <string name="data_enable_summary">Ενεργοποίηση πρόσβασης δεδομένων μέσω δικτύου κινητής τηλεφωνίας</string>
   <string name="data_enabled">Δεδομένα ενεργά</string>
+  <string name="dc_alert_dialog_message">Ορισμένες εφαρμογές απαιτούν σύνδεση δεδομένων κινητής τηλεφωνίας. Μπορείτε να επικοινωνήσετε με τον φορέα σας για να μάθετε ποια %s είναι διαθέσιμη σε εσάς.</string>
+  <string name="dc_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
   <string name="deactivate_all">Ακύρωση όλων</string>
   <string name="default_image_pick">Επιλέξτε εικόνα από τη Συλλογή</string>
   <string name="default_notification_description">Προεπιλεγμένος ήχος (%1$s)</string>
@@ -336,6 +340,7 @@
   <string name="disabled_by_admin">Απενεργοποιήθηκε από διαχειριστή</string>
   <string name="display_name_summary">&lt;Ίδιο με το όνομα χρήστη&gt;</string>
   <string name="display_name_title">Εμφανιζόμενο όνομα</string>
+  <string name="do_not_show_again">"Χωρίς επανεμφάνιση"</string>
   <string name="domain_address_title">Διακομιστής</string>
   <string name="doneButton">Ολοκληρώθηκε</string>
   <string name="dtmf_tone_entries_long">Μακρύς</string>

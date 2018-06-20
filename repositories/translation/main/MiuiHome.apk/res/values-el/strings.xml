@@ -88,6 +88,7 @@
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">Περισσότερες εφαρμογές</string>
     <string name="default_folder_title_security">Σύστημα</string>
+    <string name="default_folder_title_services">Υπηρεσίες</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Εργαλεία</string>
     <string name="default_screen_preview_title">Πατήστε για ορισμό προεπιλεγμένης οθόνης</string>
@@ -231,8 +232,9 @@
     <string name="open_personal_assistant_dialog_btn_cancel">Ακύρωση</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Κλείσιμο</string>
     <string name="open_personal_assistant_dialog_desc">Δεν θα μπορείτε να κάνετε χρήση του Έξυπνου βοηθού και να λάβετε τις ενημερώσεις του. Απενεργοποίηση τώρα;</string>
+    <string name="open_personal_assistant_dialog_desc_international">"Δεν θα μπορείτε να χρησιμοποιείτε τις κάρτες του Έξυπνου Βοηθού (Αποθέσεις, Συντομεύσεις κ.λ.π.) και λήψη ενημερώσεων μετά την απενεργοποίηση αυτής της λειτουργίας."</string>
     <string name="open_personal_assistant_dialog_title">Απενεργοποίηση Έξυπνου βοηθού</string>
-    <string name="open_personal_assistant_title">Ενεργοποίηση Έξυπνου βοηθού</string>
+    <string name="open_personal_assistant_title">Έξυπνος Βοηθός</string>
     <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
     <string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την παρέμβαση του χρήστη.</string>
     <string name="permdesc_install_widget">Επιτρέπει σε μια εφαρμογή να προσθέτει widgets, χωρίς την παρέμβαση του χρήστη.</string>
