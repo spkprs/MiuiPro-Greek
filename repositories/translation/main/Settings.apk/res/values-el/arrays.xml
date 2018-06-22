@@ -534,8 +534,8 @@
         <item>Βιολετί</item>
     </string-array>
     <string-array name="screen_key_position_action">
-        <item>Πλήκτρο Μενού στα αριστερά, πλήκτρο Πίσω στα δεξιά</item>
-        <item>Πλήκτρο Πίσω στα αριστερά, πλήκτρο Μενού στα δεξιά</item>
+        <item>Πλήκτρο Μενού αριστερά, Πίσω δεξιά</item>
+        <item>Πλήκτρο Πίσω αριστερά, Μενού δεξιά</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Εμφάνιση πίνακα πρόσφατων εφαρμογών</item>
@@ -897,7 +897,7 @@
     <string-array name="mtp_default_entries">
         <item>Φόρτιση Πάντα</item>
         <item>MTP Πάντα</item>
-        <item>MTP, αν η οθόνη δεν είναι κλειδωμένη με κωδικό πρόσβασης</item>
+        <item>MTP, αν η οθόνη δεν είναι κλειδωμένη με κωδικό.</item>
     </string-array>
     <string-array name="volbtn_action_entries">
         <item>Επόμενο</item>
