@@ -4101,9 +4101,8 @@
   <string name="super_resolution_desc">Κάντε ευκρινέστερες εικόνες χρησιμοποιώντας έναν αλγόριθμο AI</string>
   <string name="super_resolution_maintain">"Η υψηλή ανάλυση δεν είναι ακόμα διαθέσιμη."</string>
   <string name="super_resolution_no_app_tips">Κατεβάστε πρώτα το WeChat και το Toutiao.</string>
-  <string name="super_resolution_reboot_tips">Κάντε επανεκκίνηση των εφαρμογών για να ξεκινήσει η λειτουργία μετά την ενεργοποίησή της.</string>
-  <string name="super_resolution_title">Σούπερ ανάλυση</string>
   <string name="super_resolution_reboot_tips">Αυτή η λειτουργία επιτρέπει να δημιουργήσετε θολές εικόνες σε WeChat και Toutiao crisper. Εκκινήστε ξανά τις εφαρμογές αφού ενεργοποιήσετε τη λειτουργία αυτή.</string>
+  <string name="super_resolution_title">Σούπερ ανάλυση</string>
   <string name="supl_not_set">&lt;Δεν έχει οριστεί&gt;</string>
   <string name="supplicant_state_label">Υποχρεωτική κατάσταση:</string>
   <string name="sure_sync_now">Συγχρονισμός στοιχείων τώρα;</string>
@@ -5233,7 +5232,7 @@
   <string name="zen_mode_from_none">Κανένα</string>
   <string name="zen_mode_from_sms">"Μηνύματα από "</string>
   <string name="zen_mode_from_starred">Μόνο αγαπημένες επαφές</string>
-  <string name="zen_mode_important_category">Διακοπές προτεραιότητας</string>
+  <string name="zen_mode_important_category">Ρυθμίσεις</string>
   <string name="zen_mode_messages">Μηνύματα</string>
   <string name="zen_mode_miui_silent_category">Επιτρέψτε</string>
   <string name="zen_mode_option_alarms">Μόνο ειδοποιήσεις</string>
