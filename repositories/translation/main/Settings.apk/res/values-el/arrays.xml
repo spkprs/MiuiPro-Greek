@@ -556,7 +556,7 @@
         <item>Πάντα</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Συσκευή συνδεδεμένη, δημιουργείται συνεδρία…</item>
+        <item>Δημιουργείται συνεδρία…</item>
         <item>Δημιουργήθηκε συνεδρία.</item>
         <item>Κατάρρευση συνεδρίας…</item>
         <item>Αποτυχία συνεδρίας.</item>

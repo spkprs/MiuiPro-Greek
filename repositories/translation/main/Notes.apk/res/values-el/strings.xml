@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string name="cloud_service_state_open_reminder">Ενεργοποιήστε το συγχρονισμό στο Mi Cloud για να συγχρονίσετε τις σημειώσεις.</string>
      <string name="add_account_desc">Συγχρονισμός των σημειώσεων με το λογαριασμό Mi;</string>
      <string name="alarm_bar_title">Υπενθύμιση</string>
      <string name="alert_action_edit_anyway">Συνέχιση επεξεργασίας</string>
@@ -24,6 +23,8 @@
      <string name="button_new_note">Νέα σημείωση</string>
      <string name="call_folder_name">Σημειώσεις κλήσεων</string>
      <string name="call_record_folder_name">Κλήση σημείωσης</string>
+     <string name="cloud_service_state_open_reminder">Ενεργοποιήστε το συγχρονισμό στο Mi Cloud για να συγχρονίσετε τις σημειώσεις.</string>
+     <string name="cloud_trash_bin_title">Διαγραφή σημειώσεων από το Mi Cloud</string>
      <string name="delete_folder_dialog_tile">Διαγραφή φακέλου</string>
      <string name="dlg_btn_set_password">Ορισμός κωδικού</string>
      <string name="dlg_check_reminder">Να μην εμφανιστεί ξανά</string>
@@ -45,6 +46,7 @@
      <string name="dlg_title_use_privacy_password">Χρήση κωδικού Προσωπικής προστασίας</string>
      <string name="dlg_unhide_message">Επανεμφάνιση…</string>
      <string name="dlg_unmark_privacy_message">Επανεμφάνιση…</string>
+    <string name="edit_header_home_description">Πίσω</string>
      <string name="empty_folder_hint">"Δεν υπάρχουν φάκελοι
 Πατήστε στο συν για να δημιουργήσετε ένα φάκελο"</string>
      <string name="empty_note_mark_privacy_error">"Δεν είναι δυνατή η απόκρυψη μιας κενής σημείωσης"</string>
@@ -119,8 +121,20 @@
      <string name="privacy_notes_fragment_title">Κρυφές σημειώσεις</string>
      <string name="recover_notes_hint">Βρέθηκαν σφάλματα στις σημειώσεις. Προσπαθήστε να τις ανακτήσετε στο i.mi.com</string>
      <string name="redo">Ακύρωση αναίρεσης</string>
+     <string name="refuse_to_open_as_pic_because_of_loading">Περιμένετε μέχρι να φορτωθεί η Σημείωση, και δοκιμάστε ξανά.</string>
+    <string name="refuse_to_share_as_pic_because_of_content">Η σημείωση είναι πολύ μεγάλη για κοινοποίηση.</string>
      <string name="rename_folder_dialog_tile">Μετονομασία φακέλου</string>
+    <string name="rich_text_bold_description">Bold</string>
+    <string name="rich_text_center_description">Κέντρο</string>
+    <string name="rich_text_chooser_title">Επιλογή στύλ</string>
+    <string name="rich_text_italic_description">Italic</string>
+    <string name="rich_text_right_description">Δεξιά</string>
+    <string name="rich_text_size_description">Μέγεθος</string>
+    <string name="rich_text_underline_description">Υπογράμμιση</string>
      <string name="root_folder_name">Γρήγορες σημειώσεις</string>
+    <string name="save_to_gallery_failure_message">"Αδύνατη αποθήκευση"</string>
+    <string name="save_to_gallery_icon_name">Αποθήκευση στις Εικόνες</string>
+    <string name="save_to_gallery_success_message">Ολοκλήρωση αποθήκευσης</string>
      <string name="search">Σημειώσεις</string>
      <string name="search_hint">Αναζήτηση Σημειώσεων</string>
      <string name="search_keyword_notes">Σημειώσεις;Υπόμνημα</string>
@@ -128,12 +142,14 @@
      <string name="search_path_notes">Εφαρμογές συστήματος/Σημειώσεις</string>
      <string name="search_setting_description">Αναζήτηση κειμένου στις σημειώσεις</string>
      <string name="select_account_prompt">Συγχρονισμός σημειώσεων</string>
+     <string name="set_alarm_description">Ορισμός ξυπνητηριού</string>
      <string name="sina_share_fail">Αποτυχία αποστολής</string>
      <string name="sina_share_fail_content_repeat">Δεν ήταν δυνατή η κοινή χρήση, το περιεχόμενο υπάρχει ήδη…</string>
      <string name="sina_share_pendding">Αποστέλεται…</string>
      <string name="sina_share_success">Αποστολή</string>
      <string name="sina_token_expired_warning">Ο λογαριασμός Weibo έχει λήξει: Παρακαλώ συνδεθείτε ξανά</string>
      <string name="sina_token_invalid_warning">Ο λογαριασμός Weibo είναι άκυρος: Παρακαλώ συνδεθείτε ξανά</string>
+     <string name="snippet_audio_stub">Φωνητική σημείωση</string>
      <string name="snippet_image_stub">[Εικόνα]</string>
      <string name="snippet_image_template">[Εικόνα %1$s]</string>
      <string name="sns_action_send">Αποστολή</string>
@@ -152,16 +168,23 @@
      <string name="sns_toast_empty">Δεν μπορείτε να στείλετε κενό μήνυμα</string>
      <string name="sns_toast_over_limit">Αποστολή ως εικόνα (πάνω από το όριο κειμένου))</string>
      <string name="sync_tips">Πατήστε για συγχρονισμό σημειώσεων με το Mi Cloud.</string>
+    <string name="theme_blue_description">Μπλε</string>
+    <string name="theme_green_description">Πράσινο</string>
+    <string name="theme_red_description">Κόκκινο</string>
      <string name="theme_title_antique">Φθινόπωρο</string>
      <string name="theme_title_arty">Άνθη</string>
      <string name="theme_title_blue">Μπλε</string>
      <string name="theme_title_candy">Ζαχαρωτά</string>
      <string name="theme_title_dark">Σκοτεινό</string>
+    <string name="theme_title_default">Προεπιλογή</string>
      <string name="theme_title_green">Πράσινο</string>
      <string name="theme_title_invitation">Πρόσκληση</string>
      <string name="theme_title_red">Κόκκινο</string>
      <string name="theme_title_star">Αστέρια</string>
      <string name="theme_title_yellow">Κίτρινο</string>
+    <string name="theme_white_description">Άσπρο</string>
+    <string name="theme_yellow_description">Κίτρινο</string>
+     <string name="toast_cancel_to_insert_image">Ακύρωση εισαγωγής εικόνων.</string>	 
      <string name="toast_folder_privacy_mode">Δεν είναι δυνατή η επεξεργασία του φακέλου σε λειτουργία επισκέπτη</string>
      <string name="toast_mark_privacy_notes">Επιτυχής απόκρυψη</string>
      <string name="toast_mark_privacy_notes_count">Επιτυχής απόκρυψη %1$s σημειώσεων</string>
@@ -175,9 +198,21 @@
      <string name="toast_notes_unhidden_count">Επιτυχής επανεμφάνιση %1$s</string>
      <string name="toast_privacy_mode">"Δεν μπορεί να γίνει αυτό σε κρυφές σημειώσεις"</string>
      <string name="toast_reach_text_limit_attachment">Το περιεχόμενο του σημειώματος είναι πολύ μεγάλο για να προσθέσετε νέα συνημμένα.</string>
+    <string name="toast_reach_text_limit_checkbox">Αδυναμία προσθήκης πλαίσιου επιλογής λόγω τεράστιου μεγέθους σημείωσης</string>
      <string name="toast_reach_text_limit_truncate">Το περιεχόμενο του σημειώματος έχει κοπεί, γιατί είναι πολύ μεγάλο.</string>
+     <string name="toast_refuse_to_record_when_in_call">"Αδύνατη λειτουργία κατά τη διάρκεια κλήσεων"</string>
+    <string name="toolbar_check_description">Προσθήκη πλαίσιου επιλογής</string>
+    <string name="toolbar_delete_description">Διαγραφή σημείωσης</string>
+    <string name="toolbar_gallery_description">Προσθήκη εικόνας</string>
+    <string name="toolbar_more_description">Περισσότερα</string>
+    <string name="toolbar_redo_description">Επανάληψη</string>
+    <string name="toolbar_share_description">Κοινοποίηση σημείωσης</string>
+    <string name="toolbar_text_description">Είδος γραμμάτων</string>
+    <string name="toolbar_theme_description">Επιλογή θέματος</string>
+    <string name="toolbar_undo_description">Αναίρεση</string>
      <string name="toast_unmark_privacy_notes">Επιτυχής επανεμφάνιση</string>
      <string name="toast_unmark_privacy_notes_count">Επιτυχής επανεμφάνιση %1$s σημειώσεων</string>
+     <string name="toolbar_voice_description">Φωνή</string>
      <string name="trash_folder_name">Άχρηστα</string>
      <string name="undo">Αναίρεση</string>
      <string name="unknown_source">Άγνωστη πηγή</string>
@@ -188,6 +223,4 @@
      <string name="widget_content_loading">Φόρτωση…</string>
      <string name="widget_havenot_content">Χωρίς περιεχόμενο. Πατήστε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, πατήστε &amp; σύρετε μία άκρη.</string>
      <string name="widget_under_privacy_mode">Δεν μπορείτε να δείτε τις σημειώσεις σε λειτουργία επισκέπτη</string>
-     <string name="refuse_to_open_as_pic_because_of_loading">Περιμένετε μέχρι να φορτωθεί η Σημείωση, και δοκιμάστε ξανά.</string>
-     <string name="toast_cancel_to_insert_image">Ακύρωση εισαγωγής εικόνων.</string>	 
 </resources>

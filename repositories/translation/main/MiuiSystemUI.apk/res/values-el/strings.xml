@@ -963,10 +963,12 @@
   <string name="miui_ringer_standard_description">Σίγαση ήχων κλήσης για εισερχόμενες και ειδοποιήσεις</string>
   <string name="miui_ringer_total">Μην Ενοχλείτε</string>
   <string name="miui_ringer_total_description">Σίγαση ήχων και απενεργοποίηση δόνησης για όλα τα στοιχεία εκτός από την Αφύπνηση</string>
-  <string name="miui_toast_zen_dnd_to_off">Ήχοι και δόνηση επανέρχονται κανονικά</string>
-  <string name="miui_toast_zen_standard_to_off">Οι ήχοι επανέρχονται κανονικά</string>
-  <string name="miui_toast_zen_to_dnd">Ήχοι σιγούν και δόνηση απενεργοποιείται</string>
-  <string name="miui_toast_zen_to_standard">Οι ήχοι κλήσεων και ειδοποιήσεις σε σίγαση</string>
+  <string name="miui_toast_zen_dnd_to_off">Ήχοι και Δόνηση επανήλθαν κανονικά</string>
+  <string name="miui_toast_zen_standard_to_off">Οι ήχοι επανήλθαν κανονικά</string>
+  <string name="miui_toast_zen_to_dnd">Σίγαση ήχων και απενεργοποίηση Δόνησης</string>
+  <string name="miui_toast_zen_to_standard">Οι ήχοι κλήσεων και ειδοποιήσεων σε σίγαση</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">Οι ήχοι κλήσης, καθώς οι ειδοποιήσεις και πολυμέσα, θα σιγήσουν.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">Οι ήχοι κλήσης, καθώς οι ειδοποιήσεις και πολυμέσα, θα αναπαραχθούν.</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data">Δεδομένα κινητού</string>
   <string name="mobile_data_always_on">Τα δεδομένα κινητής πάντα ενεργά</string>
