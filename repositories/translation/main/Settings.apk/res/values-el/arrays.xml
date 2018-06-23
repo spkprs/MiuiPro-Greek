@@ -959,4 +959,10 @@
         <item>Wi-Fi προτιμάται</item>
         <item>Κινητή προτιμάται</item>
     </string-array>
+     <string-array name="vip_mode_text">
+        <item>Οποιονδήποτε</item>
+        <item>Επαφές μόνο</item>
+        <item>Αγαπημένες επαφές μόνο</item>
+        <item>Κανέναν</item>
+     </string-array>
 </resources>
