@@ -88,6 +88,7 @@
   <string name="audio_recognition_setting_title">Βρείτε εξώφυλλα και στίχους</string>
   <string name="auth_activity_title">Λογαριασμός Xunlei</string>
   <string name="auto_download_in_wifi">Λήψη αγαπημένων τραγουδιών με χρήση Wi‑Fi</string>
+    <string name="auto_enter_nowplaying_setting_title">Αυτόματη είσοδος Παίζει τώρα</string>
   <string name="auto_payment">Αυτόματη ανανέωση</string>
   <string name="auto_payment_date">Επόμενη πληρωμή: %s</string>
   <string name="auto_restart_under_wifi">Το αρχείο θα ληφθεί αυτόματα όταν συνδεθείτε σε Wi‑Fi</string>
@@ -128,7 +129,7 @@
   <string name="choose_language">Επιλέξτε γλώσσα</string>
   <string name="choose_stream_quality">Επιλέξτε ποιότητα streaming</string>
   <string name="click_modify">Πατήστε για επεξεργασία στίχων</string>
-  <string name="click_to_shuffle">Πατήστε για ανακάτεμα</string>
+  <string name="click_to_shuffle">Ανακάτεμα</string>
   <string name="close_music_time">"Λεπτά που απομένουν: "</string>
   <string name="cloud_empty_local_empty_button">Δεν υπάρχουν τραγούδια στη συσκευή</string>
   <string name="cloud_empty_message">Δεν υπάρχουν τραγούδια στο Mi Cloud</string>
@@ -750,7 +751,7 @@
   <string name="pulluprefreshrecyclerview_loading_running">Φόρτωση…</string>
   <string name="queue_is_empty">Η ουρά αναπαραγωγής είναι κενή.</string>
   <string name="radar">ACRCloud</string>
-  <string name="radar_click_to_retry">Πατήστε για να δοκιμάσετε ξανά</string>
+  <string name="radar_click_to_retry">Πατήστε για να  ξαναδοκιμάσετε</string>
   <string name="radar_fail">Χωρίς αποτελέσματα</string>
   <string name="radar_fail_by_noise">Θορυβώδες περιβάλλον ή ελλιπής μελωδία</string>
   <string name="radar_listening_state">Αναγνώριση…</string>
