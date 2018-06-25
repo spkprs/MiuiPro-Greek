@@ -16,6 +16,7 @@
   <string name="activate_feature_register_xiaomi_account">Ρύθμιση λογαριασμού Mi</string>
   <string name="activate_feature_remote_assist">Απομακρυσμένος βοηθός</string>
   <string name="activate_feature_verify_mx_token">Επαλήθευση λογαριασμού Mi</string>
+  <string name="activate_feature_voip">Μήνυμα φωνής Mi</string>
   <string name="activate_history_canceled_overview">Η ενεργοποίηση της κάρτας SIM ακυρώθηκε. Η ενεργοποίηση τροφοδοτείται από \"%1$s\".</string>
   <string name="activate_history_multisim_canceled_overview">Η ενεργοποίηση της κάρτας SIM %2$d ακυρώθηκε. Η ενεργοποίηση τροφοδοτείται από \"%1$s\".</string>
   <string name="activate_history_multisim_success_overview">Η Κάρτα SIM %2$d ενεργοποιήθηκε με επιτυχία. Ενεργοποιείται από \"%1$s\".</string>
@@ -104,6 +105,11 @@
   <string name="activate_status_title_activating_msim">Ενεργοποίηση κάρτας SIM %d…</string>
   <string name="agree">Επιτρέψτε</string>
   <string name="app_name">Ενεργοποίηση Υπηρεσίας Xiaomi SIM</string>
+  <string name="checking_client">Έλεγχος πελάτη env</string>
+  <string name="error_checking_client">σφάλμα πελάτη env</string>
+  <string name="error_network_io">σφάλμα δικτύου</string>
+  <string name="error_no_send_sms_permission">δεν επιτρέπεται η αποστολή SMS</string>
+  <string name="error_sim_not_in_service">η SIM δεν είναι σε υπηρεσία</string>
   <string name="explain_send_sms_permission_button">Επαλήθευση</string>
   <string name="explain_send_sms_permission_msg">Για ενεργοποίηση %s, Η Xiaomi Service Framework θα στείλει SMS για να επαληθεύσει τον αριθμό τηλεφώνου σας. Θα χρεωθείτε για τα απλά μηνύματα SMS από τον πάροχό σας.</string>
   <string name="explain_send_sms_permission_title">Επαλήθευση του αριθμού τηλεφώνου σας</string>
@@ -116,4 +122,5 @@
   <string name="privacy_revoke_failed_msg">Η ενεργοποίηση απαιτεί τη χορήγηση εξουσιοδότησης, ώστε τα μηνύματα να μπορούν να λάβουν τον αριθμό τηλεφώνου σας.</string>
   <string name="privacy_revoke_tips">Αφού ανακαλέσετε την εξουσιοδότηση, η εφαρμογή θα διακόψει τη συλλογή των δεδομένων σας και θα διαγράψει όλα τα δεδομένα σας από τους διακομιστές της. Ο συγχρονισμός με το Mi Cloud, το Mi Message και άλλες λειτουργίες μηνυμάτων δεν θα είναι πλέον διαθέσιμα. Ανάκληση εξουσιοδότησης ούτως ή άλλως;</string>
   <string name="sim_unactivated_title">Η κάρτα SIM δεν είναι ενεργοποιημένη</string>
+  <string name="waiting_sim_in_service">αναμονή υπηρεσίας SIM</string>
 </resources>

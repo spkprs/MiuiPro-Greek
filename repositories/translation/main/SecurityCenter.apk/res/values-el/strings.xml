@@ -1183,6 +1183,7 @@
   <string name="notification_masked_item">Απόκρυψη ειδοποιήσεων</string>
   <string name="notification_masked_subtitle">Απόκρυψη ειδοποιήσεων από εφαρμογές που προστατεύονται με κλείδωμα εφαρμογής</string>
   <string name="notification_summary_cmcc_app_check">Πατήστε για να δείτε λεπτομέρειες.</string>
+  <string name="notify_channel_name_security">Ασφάλεια συστήματος</string>
   <string name="notify_daily_data_usage_body">Για να περιορίσετε αυτόματα τη χρήση δεδομένων, ορίστε το μηνιαίο πρόγραμμα δεδομένων σας.</string>
   <string name="notify_daily_limit_body">Πατήστε για να ορίσετε το όριο δεδομένων.</string>
   <string name="notify_daily_limit_title">Χρησιμοποιήθηκαν %s σήμερα</string>

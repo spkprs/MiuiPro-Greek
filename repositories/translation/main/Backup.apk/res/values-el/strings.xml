@@ -122,6 +122,7 @@
   <string name="enable_encrypt_summery2">Τα αντίγραφα ασφαλείας σας θα κρυπτογραφούνται αυτόματα. Θα πρέπει να συνδεθείτε στο λογαριασμό σας στο Mi Λογαριασμό για να έχετε πρόσβαση σε αυτά.</string>
   <string name="enable_encrypt_title">Η κρυπτογράφηση ενεργοποιήθηκε</string>
   <string name="enable_encrypt_xiaomi_account">"Αυτό το αντίγραφο δημιουργήθηκε από %1$s. Παρακαλώ διαγράψτε τον τρέχοντα λογαριασμό και συνδεθείτε ώς %2$s, ώστε να επαναφέρετε τα δεδομένα "</string>
+  <string name="err_acquire_system_service">"Αδύνατη η εκκίνηση της υπηρεσίας συστήματος."</string>
   <string name="err_authentication_failed">Ο έλεγχος ταυτότητας απέτυχε</string>
   <string name="err_bakfile_broken">Αδυναμία χρήσης αυτού του αντιγράφου ασφαλείας.</string>
   <string name="err_bakfile_not_exist">Δεν υπάρχει αρχείο δημιουργίας αντιγράφων ασφαλείας.</string>

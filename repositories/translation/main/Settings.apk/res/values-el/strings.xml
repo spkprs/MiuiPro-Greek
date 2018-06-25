@@ -3814,6 +3814,7 @@
   <string name="sim_lock_settings_title">Κλείδωμα κάρτας SIM</string>
   <string name="sim_management_title">Κάρτες SIM και Δίκτυα</string>
   <string name="sim_management_title_cr_kolbi">Κάρτα SIM και Δίκτυα κινητής</string>
+  <string name="sim_management_title_singlesim">Κάρτα SIM και Δίκτυα κινητής</string>
   <string name="sim_multi_sims_summary">Επιλέξτε την SIM που προτιμάτε για δεδομένα κινητής.</string>
   <string name="sim_multi_sims_title">Βρέθηκαν πολλαπλές κάρτες SIM</string>
   <string name="sim_name_hint">Εισάγετε το όνομα της SIM</string>
