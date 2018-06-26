@@ -2198,7 +2198,7 @@
   <string name="lockpassword_choose_for_second_user">Ορισμός κωδικού Δεύτερου προφίλ</string>
   <string name="lockpassword_choose_lock_generic_header">Επιλογή ξεκλειδώματος</string>
   <string name="lockpassword_choose_your_password_header">Επιλέξτε τον κωδικό σας</string>
-  <string name="lockpassword_choose_your_password_second_space">Ορίστε PIN \n για το Δεύτερο προφίλ.
+  <string name="lockpassword_choose_your_password_second_space">Ορίστε PIN για το Δεύτερο προφίλ.
  Το PIN πρέπει να  περιέχει τόσα ψηφία
  όσα είναι το PIN του Πρώτου προφίλ</string>
   <string name="lockpassword_choose_your_pattern_header">Επιλέξτε το μοτίβο σας</string>
