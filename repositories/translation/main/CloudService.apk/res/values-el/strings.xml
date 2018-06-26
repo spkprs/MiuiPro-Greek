@@ -474,7 +474,7 @@
     <string name="micloud_notif_title_dirty_data">Έχετε μη συγχρονισμένα στοιχεία</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Προβολή λεπτομερειών</string>
     <string name="micloud_notif_content_dirty_data">Λεπτομέρειες</string>
-    <string name="micloud_find_device_guide_title">Συνδεθείτε στο <font color=#FF0000><b>i.mi.com</b></font> για να εντοπίσετε, κλειδώσετε ή να διαγράψετε τη συσκευή σας. Αυτό μπορεί να σας βοηθήσει να τη βρείτε σε περίπτωση που χαθεί.<br />Αν τη χάσετε, μπορείτε να επικοινωνήσετε με τις υπηρεσίες ασφαλείας των εφαρμογών που χρησιμοποιείτε συχνά (π.χ. Alipay, WeChat, QQ) για να προστατεύσετε τους λογαριασμούς σας στο <font color=#FF0000><b>i.mi.com</b></font>.</string>
+    <string name="micloud_find_device_guide_title">"Συνδεθείτε στο &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> για να εντοπίσετε, κλειδώσετε ή να διαγράψετε τη συσκευή σας. Αυτό μπορεί να σας βοηθήσει να τη βρείτε σε περίπτωση που χαθεί.<br />Αν τη χάσετε, μπορείτε να επικοινωνήσετε με τις υπηρεσίες ασφαλείας των εφαρμογών που χρησιμοποιείτε συχνά (π.χ. Alipay, WeChat, QQ) για να προστατεύσετε τους λογαριασμούς σας στο &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>."</string>
     <string name="micloud_find_device_guide_content">Όταν αλλάζετε την κάρτα SIM, ένα μήνυμα SMS θα σταλεί αυτόματα για επανενεργοποίηση αυτής της λειτουργίας.</string>
     <string name="micloud_find_device_guide_button">Ενεργοποίηση του Εύρεση συσκευής</string>
     <string name="micloud_find_device_guide_progress">Ενεργοποίηση του Εύρεση συσκευής…</string>
