@@ -2,6 +2,10 @@
 <resources>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
   <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
+  <string name="accessibility_menu_item_split_disable">"Η εφαρμογή δεν υποστηρίζεται σε Διαιρούμενη Οθόνη."</string>
+  <string name="accessibility_menu_item_split_enable">Η εφαρμογή υποστηρίζεται σε Διαιρούμενη Οθόνης</string>
+  <string name="accessibility_splite_screen_primary">Προσθήκη σαν πρώτη εφαρμογή σε Διαιρούμενη Οθόνη</string>
+  <string name="accessibility_splite_screen_secondary">Προσθήκη σαν δεύτερη εφαρμογή σε Διαιρούμενη Οθόνη</string>
   <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
   <string name="abc_action_bar_up_description">Πλοηγηθείτε επάνω</string>
   <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>

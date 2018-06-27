@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_clock">Προσθήκη Ρολογιού</string>
+    <string name="content_desc_keep_screen">Πλήκτρο \"Κρατήστε την οθόνη ενεργή\"</string>
     <string name="stat_repeat_none">Μια φορά</string>
     <string name="stat_repeat_everyday">Καθημερινά</string>
     <string name="stat_repeat_legal_workday">Επίσημες αργίες</string>

@@ -379,6 +379,8 @@
   <string name="trans_backingup">Λήψη αντιγράφου…</string>
   <string name="trans_backingup_no_items">Συγχρονισμός…</string>
   <string name="trans_button_cancel">Ακύρωση</string>
+  <string name="trans_button_exit">Έξοδος</string>
+  <string name="trans_button_stay">Παρομονή</string>
   <string name="trans_calculating">Υπολογισμός…</string>
   <string name="trans_calculating_app_sd_description">Δεδομένα στην κάρτα SD</string>
   <string name="trans_calculating_app_sd_size">Υπολογισμός μεγέθους: %s</string>
@@ -411,6 +413,8 @@
   <string name="trans_detail_item_app_data_too_large_tip">Φαίνεται ότι το στοιχείο είναι πολύ μεγάλο για να μεταφερθεί.</string>
   <string name="trans_detail_list_footer">Σημείωση: Μπορείτε να επιλέξετε να μεταφέρετε τις εφαρμογές χωριστά. Ωστόσο, αν επιλέξετε δεδομένα εφαρμογής, θα μεταφερθούν και οι αντίστοιχες εφαρμογές.</string>
   <string name="trans_detail_page_tip">Όσο περισσότερα στοιχεία επιλέγετε, τόσο μεγαλύτερη είναι η διάρκεια της μεταφοράς.</string>
+  <string name="trans_cancel_selection_message">Αν εξέλθετε από το Mi Mover, η μεταφορά σε εξέλιξη θα διακοπεί. Περιμένετε έως ότου ολοκληρωθεί η μεταφορά.</string>
+  <string name="trans_cancel_selection_title">Παραμονή στο Mi Mover</string>
   <string name="trans_detail_qq_data">Στοιχεία QQ (συμπεριλαμβάνεται και το ιστορικό συνομιλιών)</string>
   <string name="trans_detail_sys_data_list_title">Εφαρμογές συστήματος</string>
   <string name="trans_detail_sys_data_page_title">Επιλέξτε εφαρμογές συστήματος</string>
@@ -519,6 +523,8 @@
   <string name="trans_select_data_too_large">Tα δεδομένα είναι πολύ μεγάλα, η αντικατάσταση\u000d\u000d\nθα είναι χρονοβόρα, συνιστάται να μεταφέρετε μόνο τα δεδομένα που είναι σημαντικά για εσάς</string>
   <string name="trans_select_device_receive">Επιλέξτε μια συσκευή για λήψη δεδομένων.</string>
   <string name="trans_select_device_send">Επιλέξτε μια συσκευή για μεταφορά δεδομένων.</string>
+  <string name="trans_select_notification_message">Πατήστε για προβολή</string>
+  <string name="trans_select_notification_title">Mi Mover σε λειτουργία…</string>
   <string name="trans_sender">Είμαι ο Αποστολέας</string>
   <string name="trans_sender_connectting">Επιβεβαιώστε στη νέα συσκευή</string>
   <string name="trans_sender_searching">Αναζήτηση για νέες συσκευές</string>
