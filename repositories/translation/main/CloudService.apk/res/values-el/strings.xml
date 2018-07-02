@@ -503,7 +503,7 @@
     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Τα Alipay δεδομένα σας θα είναι ασφαλή ακόμα και αν χάσετε τη συσκευή σας</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">Το QQ συνιστά να ενεργοποιήσετε το Εύρεση συσκευής</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Τα QQ δεδομένα σας θα είναι ασφαλή ακόμα και αν χάσετε τη συσκευή σας</string>
-    <string name="micloud_find_device_guide_alert_title">Θυμηθείτε το λογαριασμό Mi και κωδικό</string>
+    <string name="micloud_find_device_guide_alert_title">Θυμηθείτε τον κωδικό σας</string>
     <string name="micloud_find_device_guide_alert_content">Η εύρεση συσκευής συσχετίζεται με το Λογαριασμό Mi. Πρέπει να ορίσετε έναν κωδικό πρόσβασης ή να εισαγάγετε τον κωδικό πρόσβασης που έχετε ορίσει. Βεβαιωθείτε ότι θυμάστε πάντα το αναγνωριστικό λογαριασμού Mi και τον κωδικό πρόσβασής σας.</string>
     <string name="micloud_notif_title_privacy_reopen_failed">"Αδύνατη η ενεργοποίηση του Mi Cloud "</string>
     <string name="micloud_find_device_guide_alert_negtive">Οχι ευχαριστώ</string>

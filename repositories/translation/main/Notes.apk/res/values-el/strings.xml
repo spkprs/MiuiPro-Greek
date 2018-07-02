@@ -27,6 +27,10 @@
      <string name="call_record_folder_name">Κλήση σημείωσης</string>
      <string name="cloud_service_state_open_reminder">Ενεργοποιήστε το συγχρονισμό στο Mi Cloud για να συγχρονίσετε τις σημειώσεις.</string>
      <string name="cloud_trash_bin_title">Διαγραφή σημειώσεων από το Mi Cloud</string>
+     <string name="date_time_picker_alarm_reminder">Ειδοποίηση</string>
+     <string name="date_time_picker_dialog_title">Ορισμός ημέρας και ώρας</string>
+     <string name="date_time_picker_has_not_set_alarm">"Η Ειδοποίηση δεν ρυθμίστηκε"</string>
+     <string name="date_time_picker_has_set_alarm">Η ρύθμιση Ειδοποίησης ολοκληρώθηκε</string>
      <string name="delete_folder_dialog_tile">Διαγραφή φακέλου</string>
      <string name="dlg_btn_set_password">Ορισμός κωδικού</string>
      <string name="dlg_check_reminder">Να μην εμφανιστεί ξανά</string>

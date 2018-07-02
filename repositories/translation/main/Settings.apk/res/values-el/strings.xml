@@ -3355,7 +3355,7 @@
   <string name="screen_paper_mode_off_apps_title">Να μην γίνει χρήση της λειτουργίας ανάγνωσης για τις παρακάτω εφαρμογές</string>
   <string name="screen_paper_mode_range_title">Ρυθμίσεις</string>
   <string name="screen_paper_mode_set_apps_title">Προσαρμοσμένη λειτουργία ανάγνωσης</string>
-  <string name="screen_paper_mode_summary">Μείωση εκπομπής μπλε φωτός της οθόνης</string>
+  <string name="screen_paper_mode_summary">Η λειτουργία ανάγνωσης κάνει τα χρώματα της οθόνης σας πιο ζεστά, επιτρέποντάς σας να χαλαρώσετε.</string>
   <string name="screen_paper_mode_time_summary">Ώρα προγραμματισμού για ενεργοποίηση και απενεργοποίηση της λειτουργίας ανάγνωσης</string>
   <string name="screen_paper_mode_time_title">Χρονοδιάγραμμα</string>
   <string name="screen_paper_mode_title">Λειτουργία ανάγνωσης</string>

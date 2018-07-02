@@ -5,9 +5,10 @@
   <string name="android_ringtone_silent">Κανένα</string>
   <string name="android_ringtone_unknown">Άγνωστος ήχος κλήσης</string>
   <string name="carousel">Carousel</string>
+  <string name="cowboy">Καουμπόη</string>
   <string name="cloud_state_disabled">Ο συγχρονισμός με το Mi Cloud είναι ανενεργός</string>
   <string name="cloud_state_finished">Συγχρονισμένο με Mi Cloud</string>
-  <string name="cloud_state_syncing">Συγχρονισμένο με Mi Cloud</string>
+  <string name="cloud_state_syncing">Συγχρονίζεται με Mi Cloud</string>
   <string name="cta_button_continue">Συμφωνώ</string>
   <string name="cta_button_quit">Έξοδος</string>
   <string name="cta_check_reminder">Να μην εμφανιστεί ξανά</string>
@@ -25,6 +26,7 @@
   <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
   <string name="frequent_phrases_des">Εισάγετε συχνές φράσεις με λίγα μόνο πατήματα κατά την επεξεργασία κειμένου</string>
   <string name="frequent_phrases_size_exceeded">Μπορείτε να προσθέσετε μέχρι %1$d συχνές φράσεις. Διαγράψτε τις περιττές, για να προσθέσετε νέες</string>
+  <string name="icelatte">Παγωτό Λάττε</string>
   <string name="menu_add_frequent_phrases">Προσθήκη</string>
   <string name="menu_delete">Διαγραφή</string>
   <string name="menu_edit">Επεξεργασία</string>
@@ -38,7 +40,7 @@
   <string name="vip_login">Πατήστε για να συνδεθείτε</string>
   <string name="vip_not_login">Δεν έχετε συνδεθεί</string>
   <string name="vip_sign">Υπογραφή:</string>
-  <string name="winter_solstice">ηλιοστάσιο</string>
+  <string name="winter_solstice">Ηλιοστάσιο</string>
   <string name="yellow_page_module_sms_sent">Αποστολή SMS</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Δεν είναι δυνατή η αποστολή μηνυμάτων σε λειτουργία επισκέπτη</string>
   <string name="yellow_page_sms_send_failed">Αδυναμία αποστολής SMS</string>
