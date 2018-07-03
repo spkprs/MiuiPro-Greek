@@ -960,6 +960,9 @@
   <string name="memory_clear_result_giga">%1$sGB εκκαθαρίστηκαν</string>
   <string name="memory_clear_result_mega">%1$sMB εκκαθαρίστηκαν</string>
   <string name="menu_ime">Διακόπτης πληκτρολογίου</string>
+  <string name="miui_guide_dialog_button_negative_text">Ρυθμίσεις</string>
+  <string name="miui_guide_dialog_button_positive_text">Εντάξει</string>
+  <string name="miui_guide_dialog_message">Οι ήχοι πολυμέσων (μουσική, βίντεο κ.λπ.) θα εξακολουθήσουν να αναπαράγονται σε λειτουργία αθόρυβης λειτουργίας. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Ξεκλειδώθηκε από συσκευή Bluetooth</string>
   <string name="miui_ringer_count_down">Αντίστροφη μέτρηση</string>
   <string name="miui_ringer_count_down_time">Αντίστροφη μέτρηση: %s</string>

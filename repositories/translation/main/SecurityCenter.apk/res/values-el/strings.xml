@@ -738,6 +738,12 @@
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">\"Η εγκατεστημένη εφαρμογή δεν θα μπορεί να συνδεθεί στο Internet μέσω Wi‑Fi όταν αυτός ο διακόπτης είναι ανενεργός.​</string>
   <string name="five_percent_total_pkg">%s (5%% των μηνιαίων δεδομένων)</string>
+  <string name="fod_authentication_shift_button">Ακύρωση</string>
+  <string name="fod_button_finger">Χρήση αποτυπώματος</string>
+  <string name="fod_button_password">Εισάγετε κωδικό</string>
+  <string name="fod_finger_notice_title">Τοποθετήστε το δάκτυλό σας στην οθόνη</string>
+  <string name="fod_finger_windows_tips">Επαλήθευση αποτυπώματος</string>
+  <string name="fod_tips_split_screen_more_than_half">Εισάγετε κωδικό</string>
   <string name="forbid_autobright_summary">Η φωτεινότητα της οθόνης θα παραμείνει η ίδια όταν παίζετε παιχνίδια</string>
   <string name="forbid_autobright_title">Καθορίστε τη φωτεινότητα της οθόνης</string>
   <string name="foreground_traffic">Προσκήνιο %s</string>

@@ -390,7 +390,7 @@
   <string name="pref_show_blocked_messages_summary">Εμφάνιση φραγμένων SMS στη λίστα των συζητήσεων</string>
   <string name="pref_show_list_avatar_summary">Εμφάνιση φωτογραφιών προφίλ και στοιχείων επικοινωνίας στην προβολή λίστας</string>
   <string name="pref_show_photo_word_summary">Αυτόματη εκχώρηση μιας εικόνας στις επαφές που δεν έχουν</string>
-  <string name="pref_show_sms_template_entry_summary">Εντοπίστε έναν κωδικό πρόσβασης σε SMS</string>
+  <string name="pref_show_sms_template_entry_summary">Εντοπίστε μιας-στιγμής κωδικό και εμφανίστε γρήγορα μενού</string>
   <string name="pref_show_sms_template_in_summary">Αυτόματος εντοπισμός OTP σε μηνύματα SMS</string>
   <string name="pref_show_sms_template_summary">Αυτόματη αντιγραφή και συμπλήρωση κωδικών επαλήθευσης</string>
   <string name="pref_smart_messages_settings">Έξυπνα μηνύματα</string>
@@ -618,7 +618,7 @@
   <string name="title_show_blocked_messages">Εμφάνιση φραγμένων SMS</string>
   <string name="title_show_list_avatar">Προβολή φωτογραφιών προφίλ</string>
   <string name="title_show_photo_word">Εκχώρηση φωτογραφιών στις επαφές</string>
-  <string name="title_show_sms_template">Έλεγχος στα SMS για κωδικούς επαλήθευσης</string>
+  <string name="title_show_sms_template">Έξυπνα μηνύματα</string>
   <string name="title_show_sms_template_in">Έλεγχος SMS για OTP</string>
   <string name="title_timed_message_dialog">Ορισμός χρονικού μηνύματος</string>
   <string name="title_use_gsm_alphabet">Μηνύματα 160 χαρακτήρων</string>
