@@ -15,7 +15,7 @@
   <string name="abc_shareactionprovider_share_with">Μοιραστείτε το με</string>
   <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε το με %s</string>
   <string name="abc_toolbar_collapse_description">Κατάρρευση</string>
-  <string name="account_info">Ο λογαριασμός μου</string>
+  <string name="account_info">Λογαριασμός Mi</string>
   <string name="account_name_not_login">Είσοδος</string>
   <string name="account_unactivated">Ο λογαριασμός δεν έχει ενεργοποιηθεί.</string>
   <string name="ad_app_download_start">Έναρξη λήψης…</string>
@@ -155,7 +155,7 @@
   <string name="present_local_themes">Ληφθέντα</string>
   <string name="present_official_themes">Επίσημη επιλογή</string>
   <string name="present_online_themes">Online</string>
-  <string name="provision_default_theme_title">Προκαθορισμένο</string>
+  <string name="provision_default_theme_title">Προεπιλεγμένο</string>
   <string name="provision_loading_tips">Μισό λεπτό…</string>
   <string name="provision_second_title">Επιλέξτε ένα από τα διάφορα προεπιλεγμένα θέματα</string>
   <string name="provision_title">Επιλέξτε ένα θέμα</string>
@@ -397,14 +397,14 @@
   <string name="theme_batch_update_dlg_content">Ενημέρωση %1$s και %2$d άλλων θεμάτων τώρα;</string>
   <string name="theme_batch_update_dlg_content_single">Ενημέρωση %1$s τώρα;</string>
   <string name="theme_batch_update_dlg_title">Ενημέρωση</string>
-  <string name="theme_batch_updating_text">%1$d θέματα ανανεώνονται</string>
+  <string name="theme_batch_updating_text">%1$d θέματα ενημερώνονται</string>
   <string name="theme_bug_report">Σχόλια</string>
   <string name="theme_changed_failed_message">Αποτυχία εφαρμογής θέματος</string>
   <string name="theme_changed_message">Επιτυχής εφαρμογή</string>
   <string name="theme_changing_dialog_title">Εφαρμογή θέματος, παρακαλώ περιμένετε…</string>
   <string name="theme_component_title_alarm">Ξυπνητήρι</string>
-  <string name="theme_component_title_alarmstyle">Στυλ συναγερμού</string>
-  <string name="theme_component_title_all">Θέμα</string>
+  <string name="theme_component_title_alarmstyle">Στυλ ξυπνητηριού</string>
+  <string name="theme_component_title_all">Θέματα</string>
   <string name="theme_component_title_audio_effect">Εφέ ήχου</string>
   <string name="theme_component_title_boot_animation">Γραφικά εκκίνησης</string>
   <string name="theme_component_title_boot_audio">Ήχος εκκίνησης</string>

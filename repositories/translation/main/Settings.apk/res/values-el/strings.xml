@@ -1886,7 +1886,7 @@
   <string name="home_work_profile_not_supported">Δεν υποστηρίζει τα προφίλ εργασίας</string>
   <string name="http_invoke_app">Εφαρμογές Web</string>
   <string name="http_invoke_app_summary">Ανοίξτε τις εφαρμογές πιο γρήγορα χωρίς εγκατάσταση</string>
-  <string name="icon_mode">Εικονίδια στη γραμμή κατάστασης</string>
+  <string name="icon_mode">Εικονίδια γραμμής κατάστασης</string>
   <string name="icon_name_title">Απόκρυψη ονόματος εικονιδίων</string>
   <string name="icon_off">Απόκρυψη</string>
   <string name="icon_on">Προβολή</string>

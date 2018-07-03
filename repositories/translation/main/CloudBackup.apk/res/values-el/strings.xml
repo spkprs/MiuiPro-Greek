@@ -72,7 +72,7 @@
     <string name="desktop_downloading">Λήψη…</string>
     <string name="desktop_installing">Εγκατάσταση…</string>
     <string name="desktop_wait_wifi">Αναμονή</string>
-    <string name="recover_from_micloud">"Επαναφορά από αντ.ασφαλείας  Mi Cloud"</string>
+    <string name="recover_from_micloud">"Επαναφορά από αντίγραφο  Mi Cloud"</string>
     <string name="click_try_to_restore_again">Πατήστε για να δοκιμάσετε ξανά</string>
     <string name="open_wifi">Ενεργοποίηση Wi‑Fi τώρα</string>
     <string name="open_wifi_description">Συνδεθείτε σε ένα δίκτυο Wi‑Fi για να επαναφέρετε την εφαρμογή</string>
@@ -101,7 +101,7 @@
     <string name="as_new_device_summary">Διαγραφή προηγούμενων αντιγράφων Mi Cloud</string>
     <string name="restore_data_summary">Αυτή η λειτουργία απαιτεί μια σύνδεση στο Internet.</string>
     <string name="query_restore_summary">Βρέθηκε ένα αντίγραφο ασφαλείας Mi Cloud για αυτή τη συσκευή. Επαναφορά εφαρμογών Αρχικής οθόνης και ρυθμίσεων ή θα την χρησιμοποιήσετε ως μια νέα συσκευή και θα διαγράψετε τα προηγούμενα αντίγραφα ασφαλείας Mi Cloud;</string>
-    <string name="restore_home_screen_apps">Επαναφορά από αντ.ασφαλείας Mi Cloud</string>
+    <string name="restore_home_screen_apps">Επαναφορά από αντίγραφο Mi Cloud</string>
     <string name="query_restore_description">Επαναφορά εφαρμογών Αρχικής οθόνης και ρυθμίσεων χρησιμοποιώντας αυτό το αντίγραφο. Αυτό θα αντικαταστήσει τα δεδομένα εφαρμογών για εφαρμογές έχουν ήδη εγκατασταθεί σε αυτή τη συσκευή. Εφαρμογές που δεν περιλαμβάνονται στο αντίγραφο ασφαλείας θα μεταφερθούν στην τελευταία Αρχική οθόνη.</string>
     <string name="restore_from_this_device">Επαναφορά αυτού τού αντιγράφου</string>
     <string name="confirm_restore_title">Επαναφορά</string>
@@ -126,5 +126,6 @@
    <string name="get_device_id_error">Το αναγνωριστικό συσκευής απέτυχε</string>
    <string name="home_hint_global_launcher">Επιφάνεια Poco</string>
    <string name="home_restore_error">Η επαναφορά αρχικής οθόνης απέτυχε</string>
+    <string name="restore_data_title">Επαναφορά δεδομένων</string>
    <string name="self_phone_home">Αυτό το τηλέφωνο: %s</string>
 </resources>
