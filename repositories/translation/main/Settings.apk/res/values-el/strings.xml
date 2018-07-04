@@ -1678,6 +1678,8 @@
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">Η εγκατεστημένη εφαρμογή δεν θα μπορέσει να συνδεθεί στο διαδίκτυο χρησιμοποιώντας Wi-Fi όταν αυτός ο διακόπτης είναι απενεργοποιημένος.</string>
   <string name="firmware_version">Έκδοση Android</string>
+  <string name="flash_drive_backup_restore">Δημιουργία αντιγράφων ή επαναφορά μέσω USB</string>
+  <string name="flash_drive_backup_restore_summary">Συνδέστε μια μονάδα USB</string>
   <string name="floating_window_switch_label">Εμφάνιση αναδυόμενων παράθυρων</string>
   <string name="floating_window_switch_label_disable">Απόκρυψη αναδυόμενων παράθυρων</string>
   <string name="fluency_mode">Animation συστήματος</string>
