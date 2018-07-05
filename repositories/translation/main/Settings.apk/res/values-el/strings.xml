@@ -884,6 +884,17 @@
   <string name="brightness_title">Φωτεινότητα</string>
   <string name="bt_hci_snoop_log">Ενεργοποίηση καταγραφής snoop Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Σύλληψη όλων των πακέτων Bluetooth HCI σε ένα αρχείο</string>
+  <string name="bt_ldac_declaration">Όταν η συσκευή Bluetooth υποστηρίζει το LDAC, θα συνδεθεί από προεπιλογή. Το LDAC παρέχει μια εμπειρία υψηλής ποιότητας ήχου και επίσης αυξάνει την κατανάλωση ενέργειας. Η αναπαραγωγή ενδέχεται να  υπολειτουργήσει λόγω περιορισμών υλικού Bluetooth</string>
+  <string name="bt_ldac_dialog_summary">"Το LDAC παρέχει μια εμπειρία υψηλής ποιότητας ήχου και φέρνει επίσης μεγαλύτερη κατανάλωση ενέργειας
+Αυτή η λειτουργία μπορεί να απενεργοποιηθεί στις [Ρυθμίσεις]"</string>
+  <string name="bt_ldac_dialog_title">Η τρέχουσα συσκευή υποστηρίζει το LDAC, το οποίο έχει συνδεθεί από προεπιλογή:</string>
+  <string name="bt_ldac_open_dialog_summary">Το LDAC παρέχει μια εμπειρία υψηλής ποιότητας ήχου και επίσης αυξάνει την κατανάλωση ενέργειας. Η αναπαραγωγή ενδέχεται να υπολειτουργήσει λόγω περιορισμών υλικού Bluetooth</string>
+  <string name="bt_ldac_open_dialog_title">Σίγουρα ενεργοποιείτε το LDAC;</string>
+  <string name="bt_ldac_pre_summary">Παρέχει μια υψηλής ποιότητας εμπειρίας ήχου</string>
+  <string name="bt_ldac_pre_title">LDAC</string>
+  <string name="bt_ldac_property">Ιδιότητες</string>
+  <string name="bt_ldac_remember_choice">Ενθύμηση επιλογής</string>
+  <string name="bt_ldac_settings">Ρυθμίσεις</string>
   <string name="bt_rarely_used_device_title">Συσκευές με σπάνια χρήση (%d)</string>
   <string name="bt_trace_log">Ενεργοποίηση καταγραφής ιχνών Bluetooth</string>
   <string name="bt_trace_log_summary">Ενεργοποίηση καταγραφής παρακολούθησης Bluetooth</string>
@@ -3856,6 +3867,9 @@
   <string name="second_space">Δεύτερο προφίλ</string>
   <string name="secondspace_category">Δεύτερος χώρος</string>
   <string name="secondspace_delete_space_title">Διαγραφή Δεύτερου χώρου</string>
+  <string name="secspace_fod_finger_tips">"Αδύνατη η επαλήθευση. Δοκιμάστε ξανά."</string>
+  <string name="secspace_fod_finger_title">Επαλήθευση δακτυλικού αποτυπώματος</string>
+  <string name="secspace_fod_use_password">Εισαγωγή κωδικού</string> 
   <string name="secure_keyguard_business_title">Κωδικός κλειδώματος οθόνης</string>
   <string name="secure_lock_encryption_warning">Επειδή έχετε ενεργοποιημένη την υπηρεσία προσβασιμότητας, η συσκευή σας δεν θα χρησιμοποιήσει το κλείδωμα οθόνης για βελτίωση της κρυπτογράφησης δεδομένων.</string>
   <string name="security_dashboard_summary">Κλείδωμα οθόνης, δακτυλικό αποτύπωμα</string>
