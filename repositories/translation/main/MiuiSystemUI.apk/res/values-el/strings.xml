@@ -914,6 +914,7 @@
   <string name="lockscreen_shortcut_left">Αριστερή συντόμευση</string>
   <string name="lockscreen_shortcut_right">Δεξιά συντόμευση</string>
   <string name="lockscreen_sim_error_message_short">Μη έγκυρη κάρτα.</string>
+   <string name="lockscreen_storage_locked">Ξεκλείδωμα για όλες τις λειτουργίες και δεδομένα</string>
   <string name="lockscreen_unlock_left">Η αριστερή συντόμευση επίσης ξεκλειδώνει</string>
   <string name="lockscreen_unlock_right">Η δεξιά συντόμευση επίσης ξεκλειδώνει</string>
   <string name="long_screenshot_not_support_msg">Η τρέχουσα εφαρμογή δεν μπορεί να τραβήξει μεγαλύτερο στιγμιότυπο.</string>
