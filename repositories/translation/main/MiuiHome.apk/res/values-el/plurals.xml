@@ -4,6 +4,9 @@
     <item quantity="other">μεταφέρθηκαν %1$d στοιχεία</item>
     <item quantity="one">μεταφέρθηκε %1$d στοιχείο</item>
   </plurals>
+  <plurals name="announce_for_unread">
+    <item quantity="other">%2$s δεν διαβάζεται από %1$s</item>
+  </plurals>
   <plurals name="delete_wallpapers_message">
     <item quantity="other">Διαγραφή %1$d ταπετσαριών;</item>
     <item quantity="one">Διαγραφή %1$d ταπετσαρίας;</item>

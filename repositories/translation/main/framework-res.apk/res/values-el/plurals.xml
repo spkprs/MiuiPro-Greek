@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s προτάσεις αυτόματης συμπλήρωσης</item>
+        <item quantity="one">Μία πρόταση αυτόματης συμπλήρωσης</item>
+    </plurals>
     <plurals name="pinpuk_attempts">
         <item quantity="other">Απομένουν %d προσπάθειες πριν κλειδωθεί η κάρτα SIM.</item>
         <item quantity="one">" Απομένει %d προσπάθεια πριν κλειδωθεί η κάρτα SIM."</item>

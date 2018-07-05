@@ -48,6 +48,6 @@
         <item>601~900 €</item>
         <item>901~1200 €</item>
         <item>1201~1800 €</item>
-        <item>>1800 €</item>
+        <item>">1800 €"</item>
     </string-array>
 </resources>
