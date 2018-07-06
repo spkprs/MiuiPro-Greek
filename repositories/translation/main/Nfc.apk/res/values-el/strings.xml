@@ -33,5 +33,5 @@
     <string name="could_not_use_app">"Αδυναμία χρήσης %1$s."</string>
     <string name="pay_with">Πληρωμή με</string>
     <string name="complete_with">Ολοκλήρωση με</string>
-    <string name="pairing_headset">Pairing</string>
+    <string name="pairing_headset">Σύζευξη</string>
 </resources>

@@ -3986,7 +3986,7 @@
   <string name="settings_license_activity_unavailable">Υπάρχει ένα πρόβλημα κατά τη φόρτωση των αδειών</string>
   <string name="settings_manual_activity_title">Εγχειρίδιο χρήσης</string>
   <string name="settings_manual_activity_unavailable">Παρουσιάστηκε κάποιο πρόβλημα κατά τη φόρτωση του εγχειριδίου χρήσης.</string>
-  <string name="settings_notify_need_backup">Δημιουργήστε αντίγραφα ασφαλείας των ρυθμίσεών σας στο Mi Cloud για να αποκτήσετε πρόσβαση σε αυτές αφού αλλάξετε τηλέφωνα.</string>
+  <string name="settings_notify_need_backup">Δημιουργήστε αντίγραφα  στο Mi Cloud για να αποκτήσετε πρόσβαση σε αυτά όταν αλλάξετε τηλέφωνα.</string>
   <string name="settings_notify_phone_recycled">Ο αριθμός τηλεφώνου σας έχει ανακυκλωθεί. Πατήστε για να προσθέσετε έναν διαφορετικό αριθμό τηλεφώνου.</string>
   <string name="settings_safetylegal_activity_loading">Φόρτωση…</string>
   <string name="settings_safetylegal_activity_title">Πληροφορίες για την ασφάλεια</string>
