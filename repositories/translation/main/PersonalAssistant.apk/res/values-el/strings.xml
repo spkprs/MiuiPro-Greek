@@ -125,6 +125,9 @@
     <string name="card_settings">Προσαρμογή</string>
     <string name="card_settings_rule">Ρυθμίσεις παραγγελίας καρτών</string>
     <string name="card_title_express">Η παράδοσή μου</string>
+     <string name="card_title_empty_agenda">Δεν υπάρχουν γεγονότα εδώ.</string>
+     <string name="card_title_empty_express">Δεν υπάρχουν αγορές εδώ.</string>
+     <string name="card_title_empty_note">Γράψτε μια σημείωση εδώ.</string>
     <string name="card_title_favorite">Αγαπημένα</string>
     <string name="card_title_funclaunch">Συντομεύσεις</string>
     <string name="card_title_noteboard">Σημειώσεις</string>

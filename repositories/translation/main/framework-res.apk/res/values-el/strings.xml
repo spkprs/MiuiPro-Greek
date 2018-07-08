@@ -130,12 +130,14 @@
   <string name="capability_desc_canCaptureFingerprintGestures">Μπορεί να αναγνωρίσει κινήσεις που εκτελούνται στον αισθητήρα δακτυλικών αποτυπωμάτων των συσκευών.</string>
   <string name="capability_desc_canControlMagnification">Ελέγξτε το επίπεδο μεγέθυνσης της οθόνης.</string>
   <string name="capability_desc_canPerformGestures">Μπορεί να αγγίξει, να σπρώξει, να τσιμπήσει και να εκτελέσει άλλες χειρονομίες.</string>
+  <string name="capability_desc_canRequestEnhancedWebAccessibility">Μπορεί να εγκατασταθούν Scripts για να γίνει πιο προσβάσιμο το περιεχόμενο των εφαρμογών.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Περιλαμβάνει προσωπικά δεδομένα, όπως είναι οι αριθμοί πιστωτικών καρτών και οι κωδικοί πρόσβασης.</string>
   <string name="capability_desc_canRequestTouchExploration">Τα στοιχεία που αγγίζετε θα εκφωνούνται και η εξερεύνηση της οθόνης μπορεί να γίνει με κινήσεις.</string>
   <string name="capability_desc_canRetrieveWindowContent">Έλεγχος του περιεχομένου ενός παραθύρου με το οποίο αλληλεπιδράτε.</string>
   <string name="capability_title_canCaptureFingerprintGestures">Κινήσεις δακτυλικών αποτυπωμάτων</string>
   <string name="capability_title_canControlMagnification">Έλεγχος μεγέθυνσης της οθόνης</string>
   <string name="capability_title_canPerformGestures">Εκτελέστε χειρονομίες</string>
+  <string name="capability_title_canRequestEnhancedWebAccessibility">Ενεργοποίηση βελτίωσης προσβασιμότητας  ιστού</string>
   <string name="capability_title_canRequestFilterKeyEvents">Παρακολούθηση του κειμένου που πληκτρολογείτε</string>
   <string name="capability_title_canRequestTouchExploration">Ενεργοποίηση της \"Εξερεύνησης με άγγιγμα\"</string>
   <string name="capability_title_canRetrieveWindowContent">Ανάκτηση του περιεχομένου του παραθύρου</string>

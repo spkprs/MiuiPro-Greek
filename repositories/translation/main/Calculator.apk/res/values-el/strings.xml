@@ -130,6 +130,7 @@
      <string name="immersion_button_close_description">κλείσιμο</string>
      <string name="income_type" />
      <string name="instruction">Οδηγίες</string>
+     <string name="interest_rate_hint">Εισάγετε το επιτόκιο</string>
      <string name="item_title_aa_payment">Διαχωρισμός λογαριασμού</string>
      <string name="item_title_area_conversion">Επιφάνεια</string>
      <string name="item_title_calculator">Αριθμομηχανή</string>
@@ -339,6 +340,9 @@
      <string name="sunday_short">Κυρ</string>
      <string name="sunday_shortest">Κ</string>
      <string name="sync_one_time_sync">Πατήστε για συγχρονισμό （ %1$s )</string>
+     <string name="tab_title_calculator">Υπολογιστής</string>
+     <string name="tab_title_convert">Μετατροπή</string>
+     <string name="tab_title_tax_mortgage">Δάνειο</string>
      <string name="tan">tan</string>
      <string name="tanDesc">εφαπτόμενη</string>
      <string name="tax_accumulation_fund">Ταμείο Πρόνοιας</string>

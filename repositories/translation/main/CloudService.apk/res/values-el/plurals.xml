@@ -68,4 +68,8 @@
         <item quantity="other">Συνέχιση συγχρονισμού μετά από %d λεπτά</item>
         <item quantity="one">Συνέχιση συγχρονισμού μετά από %d λεπτό</item>
     </plurals>
+     <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d Καταχωρήσεις Εφαρμ. Αποθήκης</item>
+        <item quantity="one">%d Καταχώρηση Εφαρμ. Αποθήκης</item>
+     </plurals>
 </resources>

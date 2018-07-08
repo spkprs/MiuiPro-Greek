@@ -212,6 +212,8 @@
     <string name="auto_advance_summary">Επιλέξτε ποια οθόνη θα εμφανίζεται μετά τη διαγραφή ενός μηνύματος</string>
     <string name="auto_login_fail">Αυτόματη σύνδεση απέτυχε</string>
     <string name="auto_login_fail_to_retry">Αυτόματη σύνδεση απέτυχε, δοκιμάστε ξανά.</string>
+    <string name="auto_mail_window_description">139 Email Υπηρεσία αυτόματης διαμόρφωσης</string>
+    <string name="auto_mail_window_label">139 Mailbox Αυτόματη ρύθμιση</string>
     <string name="auto_remind_bind">Προσθήκη</string>
     <string name="auto_remind_discribe_text">Ενεργοποίηση για λήψη αυτόματων υπενθυμίσεων</string>
     <string name="auto_remind_text">Αυτόματες υπενθυμίσεις</string>

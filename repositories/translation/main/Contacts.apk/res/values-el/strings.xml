@@ -224,6 +224,7 @@
   <string name="contact_detail_miprofile_save_success_toast">Η κάρτα επαφής ελήφθη</string>
   <string name="contact_detail_miprofile_settings_header">ΠΡΟΣΘΕΤΕΣ ΡΥΘΜΙΣΕΙΣ</string>
   <string name="contact_detail_miprofile_subtitle">Ήδη ανταλλαγμένες κάρτες</string>
+   <string name="contact_detail_entry_pay_request">Αίτηση χρημάτων</string>
   <string name="contact_detail_profile_switch_fail_network_toast">Αδυναμία σύνδεσης στο δίκτυο</string>
   <string name="contact_detail_profile_switch_fail_toast">Κάτι πήγε στραβά με τον διακομιστή μας</string>
   <string name="contact_detail_profile_switch_off">Απενεργοποίηση καρτών επαφών</string>
@@ -538,7 +539,7 @@
   <string name="import_to_xiaomi_account_progress_finish">Ολοκληρώθηκε η εισαγωγή</string>
   <string name="import_to_xiaomi_account_progress_message">Εισαγωγή…</string>
   <string name="import_to_xiaomi_account_progress_title">Εισαγωγή επαφών στο λογαριασμό Mi</string>
-  <string name="import_to_xiaomi_account_title">Θέλετε να εισαγάγετε τις παρακάτω επαφές στο Mi λογαριασμό σας;</string>
+  <string name="import_to_xiaomi_account_title">Εισαγωγή των παρακάτω επαφών;</string>
   <string name="import_vcard_description">Εισαγωγή επαφών από την εσωτερική μνήμη του τηλεφώνου σας</string>
   <string name="import_vcard_dialog_message">Εισαγωγή vCard;</string>
   <string name="importing_sim_contacts_miui">Εισαγωγή επαφών από την κάρτα SIM…</string>
@@ -593,7 +594,7 @@
   <string name="meid">MEID</string>
   <string name="meid_invalid">Άκυρο MEID</string>
   <string name="menu_accounts">Λογαριασμοί</string>
-  <string name="menu_addStar">Προσθήκη στα αγαπημένα</string>
+  <string name="menu_addStar">Προσθήκη/Αγαπημένα</string>
   <string name="menu_bar_group_add">Προσθήκη</string>
   <string name="menu_bar_group_delete">Διαγραφή</string>
   <string name="menu_bar_group_rename">Μετονομασία</string>
@@ -607,7 +608,7 @@
   <string name="menu_contacts_filter">Επαφές που θα εμφανίζονται</string>
   <string name="menu_copy">Αντιγραφή</string>
   <string name="menu_copyContact">Αντιγραφή στις Επαφές μου</string>
-  <string name="menu_create_contact_shortcut">Τοποθετήστε στην Αρχική οθόνη</string>
+  <string name="menu_create_contact_shortcut">Τοποθέτηση στην Αρχική οθόνη</string>
   <string name="menu_deleteContact">Διαγραφή</string>
   <string name="menu_deleteGroup">Διαγραφή</string>
   <string name="menu_dial_ip_number">Κλήση IP κλήσης</string>
@@ -628,9 +629,9 @@
   <string name="menu_new_group_action_bar">Νέο</string>
   <string name="menu_newContact">Νέα επαφή</string>
   <string name="menu_newContactButton">Προσθήκη</string>
-  <string name="menu_not_redirect_calls_to_vm">Ο αυτόματος τηλεφωνητής δεν χρησιμοποιείται</string>
+  <string name="menu_not_redirect_calls_to_vm">Ο Αυτόματος τηλεφωνητής Ανενεργός</string>
   <string name="menu_redirect_calls_to_vm">Όλες οι κλήσεις στον αυτόματο τηλεφωνητή</string>
-  <string name="menu_removeStar">Αφαίρεση από τα αγαπημένα</string>
+  <string name="menu_removeStar">Αφαίρεση/Αγαπημένα</string>
   <string name="menu_search">Αναζήτηση</string>
   <string name="menu_select_all">Επιλογή όλων</string>
   <string name="menu_select_none">Αποεπιλογή όλων</string>
@@ -767,7 +768,7 @@
   <string name="option_not_in_group">Αφαίρεση</string>
   <string name="option_not_star">Αφαίρεση από τα αγαπημένα</string>
   <string name="option_rename_group">Μετονομασία</string>
-  <string name="option_send_to_desktop">Τοποθετήστε στην Αρχική οθόνη</string>
+  <string name="option_send_to_desktop">Τοποθέτηση στην Αρχική οθόνη</string>
   <string name="option_send_to_others">Προώθηση</string>
   <string name="option_view_contact">Προβολή</string>
   <string name="option_view_group">Προβολή</string>
@@ -938,7 +939,7 @@
   <string name="recentCalls_shareVoicemail">Κοινή χρήση τηλεφωνητή</string>
   <string name="recentCalls_trashVoicemail">Διαγραφή τηλεφωνητή</string>
   <string name="recentCallsIconLabel">Αρχείο κλήσεων</string>
-  <string name="redirect_calls_to_vm_confirm_message">Πριν από τη δημιουργία του γραμματοκιβωτίου σας, ελέγξτε τους όρους και τις προϋποθέσεις του συμβολαίου σας με τον πάροχο δικτύου κινητής τηλεφωνίας σας.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Πριν την δημιουργία του γραμματοκιβωτίου σας, ελέγξτε τους όρους και τις προϋποθέσεις του συμβολαίου σας με τον πάροχο δικτύου κινητής τηλεφωνίας σας.</string>
   <string name="redirect_calls_to_vm_confirm_text">ΟΚ</string>
   <string name="refresh">Ανανέωση</string>
   <string name="relationLabelsGroup">Σχέση</string>

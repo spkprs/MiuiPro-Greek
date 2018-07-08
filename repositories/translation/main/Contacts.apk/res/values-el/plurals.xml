@@ -173,4 +173,24 @@
         <item quantity="other">%1$d άτομα</item>
         <item quantity="one">%1$d άτομο</item>
      </plurals>
+     <plurals name="device_import_progress_toast">
+        <item quantity="other">%1$d επαφές εισήχθησαν</item>
+        <item quantity="one">%1$d επαφή εισήχθη</item>
+     </plurals>
+     <plurals name="foundTooManyContacts">
+        <item quantity="other">Περισσότερες απο %d βρέθηκαν.</item>
+        <item quantity="one">Περισσότερες απο %d βρέθηκε.</item>
+     </plurals>
+     <plurals name="merge_contact_message">
+        <item quantity="other">%1$d επαφές με εν μέρει πανομοιότυπες πληροφορίες</item>
+        <item quantity="one">%1$d επαφές με εν μέρει πανομοιότυπες πληροφορίες</item>
+     </plurals>
+     <plurals name="select_all_exceed">
+        <item quantity="other">"Επιλέξτε όχι περισσότερες απο %1$d, δεν μπορείτε όλες"</item>
+        <item quantity="one">"Επιλέξτε όχι περισσότερη απο %1$d, δεν μπορείτε όλες"</item>
+     </plurals>
+     <plurals name="select_exceed">
+        <item quantity="other">Επιλέξτε όχι περισσότερες απο %1$d</item>
+        <item quantity="one">Επιλέξτε όχι περισσότερη απο %1$d</item>
+     </plurals>
 </resources>

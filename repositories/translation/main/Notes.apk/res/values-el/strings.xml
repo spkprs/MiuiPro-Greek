@@ -32,6 +32,8 @@
      <string name="date_time_picker_has_not_set_alarm">"Η Ειδοποίηση δεν ρυθμίστηκε"</string>
      <string name="date_time_picker_has_set_alarm">Η ρύθμιση Ειδοποίησης ολοκληρώθηκε</string>
      <string name="delete_folder_dialog_tile">Διαγραφή φακέλου</string>
+     <string name="dialog_share_as_pic">Μοιραστείτε τη σημείωση ως εικόνα</string>
+     <string name="dialog_share_as_text">Μοιραστείτε τη σημείωση ως κείμενο</string>
      <string name="dlg_btn_set_password">Ορισμός κωδικού</string>
      <string name="dlg_check_reminder">Να μην εμφανιστεί ξανά</string>
      <string name="dlg_delete_message">Διαγραφή…</string>
