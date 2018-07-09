@@ -9,7 +9,7 @@
   <string name="change_default_dialer_dialog_title">Αλλαγή προεπιλεγμένης εφαρμογής Κλήσης;</string>
   <string name="change_default_dialer_no_previous_app_set_text">Χρήση %s ως προεπιλεγμένη εφαρμογή κλήσης;</string>
   <string name="change_default_dialer_with_previous_app_set_text">Χρήση %1$s αντί %2$s ως προεπιλεγμένη εφαρμογή κλήσης;</string>
-  <string name="close">Κλείστε</string>
+  <string name="close">Απενεργοποιήστε</string>
   <string name="dial_conference_fail_prompt">Δεν είναι δυνατή η κλήση συνδιάσκεψης άμεσα, διότι τρέχον δίκτυο δεν υποστηρίζει VoLTE.</string>
   <string name="dial_vt_fail_prompt">Το τρέχον δίκτυο δεν υποστηρίζει VoLTE. Εναλλαγή σε κανονική κλήση ομιλίας;</string>
   <string name="duplicate_video_call_not_allowed">Η κλήση δεν μπορεί να προστεθεί αυτή τη στιγμή.</string>

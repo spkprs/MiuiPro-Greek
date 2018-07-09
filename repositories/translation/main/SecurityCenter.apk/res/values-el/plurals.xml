@@ -315,4 +315,20 @@
         <item quantity="other">Έλεγχος %d ημέρες στη σειρά</item>
         <item quantity="one">Έλεγχος %d ημέρα</item>
     </plurals>
+    <plurals name="menu_text_antivirus_2">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_3">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">%d ημέρα</item>
+    </plurals>
+    <plurals name="menu_text_antispam_2">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
+    </plurals>
 </resources>

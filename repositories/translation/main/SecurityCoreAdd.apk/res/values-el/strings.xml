@@ -363,7 +363,7 @@
   <string name="xspace_default_guide_notification_content">Αγγίξτε για αλλαγή</string>
   <string name="xspace_default_guide_notification_main_title">Χρήση προεπιλεγμένης εφαρμογής</string>
   <string name="xspace_default_guide_notification_xspace_title">Χρήση Διπλής εφαρμογής</string>
-  <string name="xspace_default_setting_dialog_title">Προεπιλογή</string>
+  <string name="xspace_default_setting_dialog_title">προεπιλογή</string>
   <string name="xspace_default_setting_label">Προεπιλεγμένη εφαρμογή</string>
   <string name="xspace_description">Δημιουργήστε διπλές εφαρμογές για να τις χρησιμοποιήσετε ξεχωριστά. Οι διπλές εφαρμογές θα έχουν ειδικά εικονίδια στην Αρχική οθόνη.</string>
   <string name="xspace_guide_des">Χρησιμοποιήστε 2 λογαριασμούς χωρίς εναλλαγή</string>

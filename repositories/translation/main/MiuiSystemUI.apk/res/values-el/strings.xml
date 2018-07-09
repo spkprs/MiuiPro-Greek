@@ -1660,6 +1660,13 @@
   <string name="wifi_verbose_logging">Ενεργοποίηση λεπτομερής καταγραφής Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Αύξηση του επιπέδου καταγραφής Wi-Fi, εμφάνιση του RSSI για κάθε SSID στη λίστα των δικτύων Wi-Fi.</string>
   <string name="window_animation_scale_title">Κλίμακα κίνησης παραθύρων</string>
+  <string name="wireless_change_to_ac_charging">Μετάβαση σε ενσύρματη φόρτιση</string>
+  <string name="wireless_charge_current">Φόρτιση</string>
+  <string name="wireless_charge_dialog_cancel">Εντάξει</string>
+  <string name="wireless_charge_dialog_title">Τοποθετήστε τη συσκευή σας στο κέντρο της βάσης φόρτισης</string>
+  <string name="wireless_charge_reset_device">Η φόρτιση είναι αργή. Προσαρμόστε τη συσκευή σας.</string>
+  <string name="wireless_charge_reset_device_detail">Βεβαιωθείτε ότι η θέση της συσκευής σας στη βάση φόρτισης είναι σωστή</string>
+  <string name="wireless_charge_stop">Τερματισμός ασύρματης φόρτισης</string>
   <string name="wrong_password">Λανθασμένος κωδικός πρόσβασης</string>
   <string name="zen_alarm_warning">Δεν θα ακούσετε την επόμενη αφύπνηση σας %1$s</string>
   <string name="zen_alarm_warning_indef">"Δεν θα ακούσετε την επόμενη αφύπνηση σας %1$s εκτός αν το απενεργοποιήσετε πριν "</string>

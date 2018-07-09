@@ -376,7 +376,7 @@
   <string name="passport_vcode_notification_title">Η διαδικασία επαλήθευσης είναι ελλιπής</string>
   <string name="passport_vcode_prompt_long">Εισάγετε τον κωδικό επαλήθευσης</string>
   <string name="passport_vcode_sms_send_prompt">Αποστολή κωδικού επαλήθευσης στο %s</string>
-  <string name="passport_verification_failed">Ο έλεγχος ταυτότητας απέτυχε</string>
+  <string name="passport_verification_failed">"Αδυναμία επαλήθευσης λογαριασμού"</string>
   <string name="passport_verify">Επαλήθευση</string>
   <string name="passport_verifying_activator_phone">Επαλήθευση της ασφάλειας του τηλεφώνου…</string>
   <string name="passport_wait_for_sms_prompt">Θα ξεκινήστε από την αρχή τώρα; Τα μηνύματα επαλήθευσης μπορεί να χρειαστούν έως 10 λεπτά για να παραδοθούν όταν το τηλέφωνό σας βρίσκεται εντός της εμβέλειας του δικτύου του παρόχου σας.</string>

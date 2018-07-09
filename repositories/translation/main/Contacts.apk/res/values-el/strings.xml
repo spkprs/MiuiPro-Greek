@@ -1113,6 +1113,8 @@
   <string name="title_paired_devices">Αξιόπιστες συσκευές</string>
   <string name="titleJoinContactDataWith">Συγχώνευση επαφών</string>
   <string name="toast_call_detail_error">Αδύνατη η ανάγνωση λεπτομερειών για την κλήση που ζητήθηκε</string>
+  <string name="toast_call_no_SoundRecorder">Η εφαρμογή Καταγραφής δεν είναι διαθέσιμη</string>
+  <string name="toast_call_no_notes">Η εφαρμογή Σημειώσεων δεν είναι διαθέσιμη</string>
   <string name="toast_copy_done">Έγινε</string>
   <string name="toast_copying">Αντιγραφή…</string>
   <string name="toast_displaying_all_contacts">Εμφάνιση όλων των επαφών</string>

@@ -113,6 +113,19 @@
   <string name="hunt_dual_water_mark">Διπλό υδατογράφημα κάμερας θα προστεθεί αυτόματα.</string>
   <string name="image_file_name_format">\'IMG\'_yyyyMMdd_HHmmss</string>
   <string name="install_confirmed">Εγκατάσταση</string>
+  <string name="lighting_hint_needed">Τοποθετήστε το αντικείμενο στον προβολέα</string>
+  <string name="lighting_hint_title">Φωτισμός Στούντιο</string>
+  <string name="lighting_hint_too_close">Μετακινήστε την κάμερα πιο μακριά</string>
+  <string name="lighting_hint_too_far">Φέρετε την κάμερα πιο κοντά</string>
+  <string name="lighting_hint_usage">"Μπορείτε να χρησιμοποιήσετε εφέ φωτισμού στούντιο
+σε κατάσταση Πορτρέτου"</string>
+  <string name="lighting_pattern_dot">Κουκκίδες</string>
+  <string name="lighting_pattern_leaf">Φύλλα</string>
+  <string name="lighting_pattern_movie">Ταινία</string>
+  <string name="lighting_pattern_nature">Φυσική</string>
+  <string name="lighting_pattern_rainbow">Οράνιο τόξο</string>
+  <string name="lighting_pattern_shutter">Τύφλωση</string>
+  <string name="lighting_pattern_stage">Σκηνή</string>
   <string name="message_snap_double_confirm">Με το πάτημα του κουμπιού έντασης ενεργοποιείτε το NFC. Αντικατάσταση αυτής της λειτουργίας;</string>
   <string name="module_name_beauty">Αισθητική</string>
   <string name="module_name_capture">Φωτογραφία</string>
