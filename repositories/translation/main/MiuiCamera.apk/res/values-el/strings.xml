@@ -358,6 +358,7 @@
   <string name="pref_camera_square_mode_title">Τετράγωνη</string>
   <string name="pref_camera_stereo_default">5</string>
   <string name="pref_camera_stereo_mode_title">Ρύθμιση εστίασης</string>
+  <string name="pref_camera_super_resolution_title">Ενεργοποίηση SR</string>
   <string name="pref_camera_tilt_shift_entry_circle">Κύκλος</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Παράλληλα</string>
   <string name="pref_camera_tilt_shift_title">Κλίση-Μετατόπιση</string>

@@ -876,6 +876,10 @@
     <item>Αργό δίκτυο λόγω αδύναμου σήματος</item>
     <item>Μεταφορά…</item>
   </string-array>
+  <string-array name="notch_battery_indicator_style_entries">
+    <item>Γραφικό</item>
+    <item>Ποσοστό</item>
+  </string-array>
   <string-array name="overlay_display_devices_entries">
     <item>Κανένα</item>
     <item>480p</item>

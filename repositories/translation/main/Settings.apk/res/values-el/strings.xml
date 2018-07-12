@@ -3489,6 +3489,7 @@
   <string name="retail_demo_reset_next">Επόμενο</string>
   <string name="retail_demo_reset_title">Απαιτείται κωδικός πρόσβασης</string>
   <string name="retry">Επανάληψη</string>
+  <string name="rgb_manage_facerecoginition_text">Διαχείριση 2D δεδομένων προσώπου</string>
   <string name="ring_volume_option_title">Ένταση κουδουνίσματος</string>
   <string name="ring_volume_title">Ένταση κουδουνίσματος</string>
   <string name="ringtone_slot_setting_title">Ρυθμίσεις μονής SIM</string>
@@ -4369,6 +4370,7 @@
   <string name="strict_mode">Ενεργοποίηση Strict Mode</string>
   <string name="strict_mode_summary">Flash της οθόνης, όταν η εφαρμογή κάνει μεγάλη χρήση πόρων</string>
   <string name="structure_add_facerecoginition_text">Προσθήκη 3D δεδομένων προσώπου</string>
+  <string name="structure_manage_facerecoginition_text">Διαχείριση 3D δεδομένων προσώπου</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Αυτές οι εφαρμογές λειτουργούν καλύτερα σε Πλήρη οθόνη</string>
   <string name="suggested_fingerprint_lock_settings_summary">Ξεκλείδωμα με το δακτυλικό σας αποτύπωμα</string>
   <string name="suggested_fingerprint_lock_settings_title">Χρήση δακτυλικού αποτυπώματος</string>

@@ -48,6 +48,7 @@
   <string name="album_name_people">Άτομα</string>
   <string name="album_name_recent_discovery">Πρόσφατα</string>
   <string name="album_name_tags">Ετικέτες</string>
+  <string name="album_notes">Σημειώσεις</string>
   <string name="album_others_share_baby_info_format">Άλμπουμ μωρού από %s</string>
   <string name="album_others_share_info_format">Από %s</string>
   <string name="album_owner_share">Μοιράστηκε</string>
@@ -364,7 +365,6 @@
   <string name="enable_cloud_for_sharing">Ενεργοποίηση του Mi Cloud άλμπουμ για προβολή κοινόχρηστων άλμπουμ.</string>
   <string name="enable_face_album_summary">Αυτόματη ταξινόμηση των φωτογραφιών από τα πρόσωπα που είναι σε αυτές</string>
   <string name="enable_face_album_title">Ταξινόμηση κατά άτομα</string>
-  <string name="enabling_face_feature">Ενεργοποίηση…</string>
   <string name="enter_email_hint">Εισαγωγή διεύθυνσης E-mail</string>
   <string name="error_album_not_exist">Δεν υπάρχει το άλμπουμ.</string>
   <string name="error_build_thumbnail_action">Κατεβάστε το αρχικό αρχείο</string>
@@ -436,14 +436,12 @@
   <string name="exit_video_play">Έξοδος</string>
   <string name="expand_desc">Περισσότερα</string>
   <string name="expand_people">Δείτε περισσότερα άτομα</string>
-  <string name="face_album_detecting_tip">Μισό λεπτό…</string>
   <string name="face_album_empty">Δεν υπάρχουν αρκετές φωτογραφίες για να αναγνωρίσουν τους ανθρώπους.\u000d\nΠάρτε περισσότερες φωτογραφίες από τους φίλους σας!</string>
   <string name="face_album_empty_syncing">Συγχρονισμός δεδομένων.</string>
   <string name="face_album_empty_syncing_when_connect_wifi">Τα δεδομένα σχετικά με τα πρόσωπα θα συγχρονιστούν όταν συνδεθείτε σε Wi‑Fi</string>
   <string name="face_album_long_tap_tip">Για να επιλέξετε πολλά πρόσωπα ή να αλλάξετε τις ρυθμίσεις της ομάδας, πατήστε &amp; κρατήστε μια εικόνα προφίλ</string>
   <string name="face_album_new_name_hint">Νέο όνομα</string>
   <string name="face_album_not_named">Χωρίς όνομα</string>
-  <string name="face_album_pending_enable_tip">Οι φωτογραφίες θα ταξινομηθούν όταν συνδεθείτε σε Wi‑Fi</string>
   <string name="face_album_rename_hint">Εισάγετε το όνομα</string>
   <string name="face_album_title">Φωτογραφίες με %s</string>
   <string name="face_album_use_tip">Αυτόματη ταξινόμηση των φωτογραφιών με βάση τα πρόσωπα που είναι σε αυτές.</string>
@@ -461,6 +459,7 @@
   <string name="fancy_color_desc">Χρώματα</string>
   <string name="fast_share_auto_render">Καλλωπισμός</string>
   <string name="fast_share_auto_render_finish">Καλλωπίστηκε</string>
+  <string name="feature_guidance_video_editor_smart_effects">Υπάρχουν νέα εφέ</string>
   <string name="filter_category_film">Ταινία</string>
   <string name="filter_category_food">Τροφές</string>
   <string name="filter_category_master">Κεντρικό</string>
@@ -512,6 +511,8 @@
   <string name="flash_off">Χωρίς φλας</string>
   <string name="flash_on">Με φλας</string>
   <string name="free_view_desc">3D προβολή</string>
+  <string name="feature_guidance_photo_effects">"Νέα εφέ εικόνων
+είναι διαθέσιμα"</string>
   <string name="gallery_setting">Ρυθμίσεις</string>
   <string name="gallery_sync_disable_toast">Ο συγχρονισμός για το Άλμπουμ είναι ανενεργός</string>
   <string name="get_album_info_in_process">Αναζήτηση πληροφοριών κοινόχρηστου άλμπουμ. Παρακαλώ περιμένετε…</string>
@@ -773,6 +774,12 @@
   <string name="photo_save_to_msg">Αποθήκεύτηκε σε %s</string>
   <string name="photomovie_audio_custom">Τοπικά</string>
   <string name="photomovie_audio_none">Χωρίς</string>
+  <string name="photomovie_audio_default">Αναμνήσεις</string>
+  <string name="photomovie_audio_kawaii">Ρομαντικό</string>
+  <string name="photomovie_audio_light">Μπαλάντα</string>
+  <string name="photomovie_audio_linear">Ρόκ</string>
+  <string name="photomovie_audio_soft">Γιουκαλίλι</string>
+  <string name="photomovie_audio_sport">Τέκνο</string>
   <string name="photomovie_cancel_download">Ακύρωση Λήψης</string>
   <string name="photomovie_delete_disable">Χρειάζεστε τουλάχιστον 3 φωτογραφίες για δημιουργία Κλίπ.</string>
   <string name="photomovie_download">Λήψη</string>
@@ -794,6 +801,11 @@
   <string name="photomovie_tab_music">Μουσική</string>
   <string name="photomovie_tab_template">Πρότυπο</string>
   <string name="photomovie_template_default">Αργό</string>
+  <string name="photomovie_template_kawaii">Γοητεία</string>
+  <string name="photomovie_template_light">Αεράκι</string>
+  <string name="photomovie_template_linear">Οδικώς</string>
+  <string name="photomovie_template_soft">Νεολαία</string>
+  <string name="photomovie_template_sport">Ενέργεια</string>
   <string name="pick_from_contact">Επιλέξτε από τις επαφές</string>
   <string name="pick_too_many_recipients">Πολλοί παραλήπτες</string>
   <string name="picker_cancel_download">Ακύρωση λήψης</string>
@@ -806,6 +818,7 @@
   <string name="picker_image_will_download">%d των επιλεγμένων φωτογραφιών δεν είναι στη συσκευή. Θα μεταφορτωθούν.</string>
   <string name="picker_no_network_message">Συνδεθείτε στο δίκτυο για λήψη</string>
   <string name="picker_origin_need_download">%1$d των επιλεγμένων φωτογραφιών (%2$dMB) δεν είναι στη συσκευή. Λήψη δεδομένων κινητής τηλεφωνίας;</string>
+  <string name="picker_origin_request_progress_message">Προετοιμασία πρωτότυπων αρχείων (%1$d/%2$d)…</string>
   <string name="picker_title_format">Επιλέξτε %1$d έως %2$d φωτογραφίες</string>
   <string name="picker_title_selection_format">Επιλεγμένες φωτογραφίες: %d</string>
   <string name="picker_title_selection_format_multiple">Επιλογή %1$d σε %2$d φωτό (%3$d)</string>
@@ -927,12 +940,12 @@
   <string name="search_net_error">Παρουσιάστηκε σφάλμα δικτύου. Συνδεθείτε σε διαφορετικό δίκτυο και δοκιμάστε ξανά.</string>
   <string name="search_request_applied">Εφαρμοσμένος</string>
   <string name="search_request_open">Συμμετοχή σε ομάδα δοκιμών</string>
+  <string name="search_request_requesting">Εφαρμόστηκε. Περιμένετε λίγο πριν ξεκινήσετε.</string>
   <string name="search_result_empty">Δεν βρέθηκε τίποτα</string>
   <string name="search_retry">Προσπάθησε ξανά</string>
   <string name="search_select_network">Επιλέξτε δίκτυο</string>
   <string name="search_set_network_connection">Ρυθμίσεις δικτύου</string>
   <string name="search_setting_sub_title">Αναζητήστε άτομα, μέρη και αντικείμενα στις φωτογραφίες σας.</string>
-  <string name="search_setting_sub_title_open">Εφαρμόστηκε. Περιμένετε λίγο πριν ξεκινήσετε.</string>
   <string name="search_setting_title">Βρείτε φωτογραφίες στην Έκθεση</string>
   <string name="search_syncing">Συγχρονισμός δεδομένων, επανέχομαι σε λίγο</string>
   <string name="search_title_album">Αλμπουμ</string>
@@ -962,6 +975,7 @@
   <string name="secret_reason_too_large">Το αρχείο είναι πολύ μεγάλο</string>
   <string name="secret_reason_type_not_support">Αυτός ο τύπος αρχείου δεν υποστηρίζεται</string>
   <string name="secret_reason_unknow_reasons">Άγνωστο σφάλμα</string>
+  <string name="secret_reason_video_not_support">"Αδύνατη η προσθήκη βίντεο σε κρυφό άλμπουμ"</string>
   <string name="see_ignore_faces">Προβολή ατόμων που αγνοήσατε</string>
   <string name="select_item_face">Στις φωτογραφίες μπορεί να είναι \'%s\'</string>
   <string name="select_origin_tip">Αρχικό αρχείο (%s)</string>
@@ -1152,6 +1166,7 @@
   <string name="video_editor_res_download_mobil_network_confirm_msg">Λήψη μουσικών κομματιών χρησιμοποιώντας δεδομένα κινητής ;</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Χρήση δεδομένων κινητής τηλεφωνίας</string>
   <string name="video_editor_res_not_load_dialog_msg">Λήψη soundtracks για τη χρήση αυτής της δυνατότητας (άνω των 20MB).</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Αυτό το εφέ λειτουργεί καλύτερα για βίντεο 120 fps.</string>
   <string name="video_editor_template_family">Οικογένεια</string>
   <string name="video_editor_template_forbidden_tips">Δεν είναι δυνατό να γίνει αυτό, όταν χρησιμοποιείτε ένα πρότυπο</string>
   <string name="video_editor_template_oldfilm">Εκλεκτό</string>
@@ -1165,6 +1180,7 @@
   <string name="video_editor_text_edit_start">Τίτλος</string>
   <string name="video_editor_text_input_empty_tips">Φαίνεται ότι δεν έχετε εισάγει κείμενο ακόμα</string>
   <string name="video_editor_trim">Τακτοποίηση</string>
+  <string name="video_editor_video_loading">Προετοιμασία βίντεο, Περιμένετε λίγο και δοκιμάστε ξανά.</string>
   <string name="video_editor_unsupport_audio_file">Δεν υποστηρίζεται το αρχείο ήχου</string>
   <string name="video_err">Αδύνατη η αναπαραγωγή βίντεο.</string>
   <string name="video_not_exist">Το βίντεο δεν υπάρχει</string>
@@ -1173,7 +1189,6 @@
   <string name="view_by_gallery_tip">Άλμπουμ MIUI</string>
   <string name="view_face_album">Προβολή άλμπουμ</string>
   <string name="view_more_face_desc">Δείτε περισσότερα άτομα</string>
-  <string name="view_queuing_status">Έλεγχος κατάστασης</string>
   <string name="welcome_to_micloud">Καλωσορίσατε στο MiCloud</string>
   <string name="where_is_barcode">Που είναι ο κωδικός QR;</string>
   <string name="who_is_this">Ποιος είναι αυτός;</string>

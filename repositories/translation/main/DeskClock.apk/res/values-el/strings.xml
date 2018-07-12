@@ -177,5 +177,8 @@
     <string name="module_download_data_msg_golbal">"Το ρολόι πρέπει να μεταφορτώσει αρχεία ήχου (20MB) για τους θορύβους περιβάλλοντος και τις έξυπνες αφυπνήσεις. Θα χρησιμοποιηθούν τώρα, δεδομένα κινητής τηλεφωνίας. Επιτρέπετε?"</string>
     <string name="module_download_msg">Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία ήχου για τους θορύβους περιβάλλοντος και τις έξυπνες αφυπνήσεις. Επιτρέπετε?</string>
     <string name="module_download_msg_golbal">Το ρολόι πρέπει να μεταφορτώσει αρχεία ήχου για τους θορύβους περιβάλλοντος και τις έξυπνες αφυπνήσεις. Επιτρέπετε?</string>
-    <string name="module_download_ok">Επιτρέπω</string>
+    <string name="module_download_ok">Επιτρέπεται</string>
+  <string name="timer_cancel_hint">Διακοπή</string>
+  <string name="timer_end_time">Ο χρονοδιακόπτης θα σταματήσει σε %s</string>
 </resources>
+

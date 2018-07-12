@@ -23,4 +23,8 @@
         <item>π</item>
         <item>ίσον</item>
     </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Ισόποσες δόσεις</item>
+        <item>Μείωση των δόσεων</item>
+	</string-array>
 </resources>

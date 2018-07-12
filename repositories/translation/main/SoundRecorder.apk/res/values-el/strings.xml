@@ -97,6 +97,7 @@
   <string name="record_downloading_notification">Λήψη…</string>
   <string name="record_downloading_notification_complete">Η λήψη ολοκληρώθηκε</string>
   <string name="record_downloading_notification_count">Λαμβάνονται %d</string>
+  <string name="record_format_preference_title">Μορφή εγγραφής</string>
   <string name="record_list">Εγγραφές</string>
   <string name="record_list_call">Εγγραφές κλήσεων</string>
   <string name="record_list_category_title_format">MMMM yyyy</string>

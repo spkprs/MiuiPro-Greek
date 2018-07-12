@@ -270,6 +270,7 @@
   <string name="apps_item_virus_summary_uninstalled">Apk</string>
   <string name="apps_list_header_title_sms">Έλεγχος εφαρμογής μηνυμάτων</string>
   <string name="apps_list_header_title_sms_access">Περιορισμός πρόσβασης στους κωδικούς επαλήθευσης</string>
+  <string name="ask_create_shortcut">Δημιουργία συντόμευσης Αρχικής Οθόνης;</string>
   <string name="auto_atsk_condition_battery_level_text_down">Όταν η μπαταρία είναι στο %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Όταν η μπαταρία είναι στο %s</string>
   <string name="auto_back_booster">Σταματήστε την ενίσχυση</string>
@@ -610,7 +611,6 @@
   <string name="dialog_roaming_warning_checkbox">Να μην εμφανιστεί ξανά</string>
   <string name="dialog_roaming_warning_message">Ο φορέας θα σας χρεώσει μετά την ενεργοποίηση της διεθνούς περιαγωγής δεδομένων. Ενεργοποίηση;</string>
   <string name="dialog_roaming_warning_ok">Ενεργοποιήστε</string>
-  <string name="dialog_text">Δημιουργήστε μια συντόμευση στην αρχική οθόνη της ενίσχυσης ταχύτητας.</string>
   <string name="dialog_title_attention">Προσοχή</string>
   <string name="dialog_title_auto_start_declare">Πληροφορίες</string>
   <string name="dialog_title_stop_virus_scan">Διακοπή σάρωσης ιών</string>
@@ -667,8 +667,6 @@
   <string name="do_clean">Καθαρισμός…</string>
   <string name="domestic_roaming_setting">Περιαγωγή εσωτερικού</string>
   <string name="dont_bore">Μην αφήνετε τα κουμπιά και τις ειδοποιήσεις να σας αποσπούν την προσοχή</string>
-  <string name="dont_bore_text">Σίγαση ειδοποιήσεων και απενεργοποίηση πλήκτρων για αποφυγή απόσπασης προσοχής</string>
-  <string name="dont_bore_title">Λειτουργία DND</string>
   <string name="download">Λήψη</string>
   <string name="downloading">Λήψη…</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -775,13 +773,7 @@
   <string name="game_booster_tab_top">Top</string>
   <string name="game_booster_title">Ενίσχυση</string>
   <string name="game_bootser_tab_settings">Ρυθμίσεις ενίσχυσης</string>
-  <string name="game_improve_text1">Καθαρισμός προσωρινής μνήμης παρασκηνίου για ελευθέρωση μνήμης για παιχνίδια</string>
-  <string name="game_improve_text2">Καθαρισμός προσωρινής μνήμης παρασκηνίου για ελευθέρωση μνήμης για παιχνίδια και βελτίωση απόδοσης της CPU</string>
-  <string name="game_improve_title">Βελτιστοποίηση απόδοσης</string>
   <string name="game_more_improve">Περιορισμός δραστηριοτήτων παρασκηνίου και ταχύτητας λήψης για εξοικονόμηση μπαταρίας και εύρους ζώνης όταν παίζετε</string>
-  <string name="game_net_text1">Περιορισμός ταχύτητας λήψεων παρασκηνίου για μείωση καθυστέρησης δικτύου</string>
-  <string name="game_net_text2">Ενίσχυση ταχύτητας σύνδεσης παιχνιδιών με ταυτόχρονο περιορισμό ταχύτητας λήψεων παρασκηνίου για αποφυγή καθυστέρησης δικτύου</string>
-  <string name="game_net_title">Βελτιστοποίηση ταχύτητας σύνδεσης</string>
   <string name="game_setting">Ρυθμίσεις παιχνιδιών</string>
   <string name="gamebox_type_close">"Χωρίς εμφάνιση"</string>
   <string name="gamebox_type_float">Διόρθωση συντόμευσης</string>
@@ -816,6 +808,17 @@
   <string name="gb_signed_gift_loading_summary">Μισό λεπτό…</string>
   <string name="gb_signed_title">Έλεγχος αυτού του μήνα</string>
   <string name="gdpr_msg">&lt;Data&gt;Για να χρησιμοποιήσετε τα βασικά χαρακτηριστικά Ασφαλείας, θα πρέπει να συμφωνήσετε ότι η Xiaomi θα συλλέξει, να επεξεργαστεί και να χρησιμοποιήσει τα προσωπικά σας δεδομένα, συμπεριλαμβανομένων των πληροφοριών σχετικά με τους τρόπους που μπορείτε να χρησιμοποιήσετε τα χαρακτηριστικά Ασφαλείας (π. χ., χρήση δεδομένων κινητής τηλεφωνίας, στατιστικά, πληροφορίες σχετικά με κακόβουλο λογισμικό, καθώς και βασικές πληροφορίες σχετικά με τη συσκευή σας) και άλλα είδη των πληροφοριών που αναφέρονται σε μας&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt;.\"&lt;/Data&gt;</string>
+  <string name="gb_create_icon_summary">Δημιουργία συντόμευσης αρχικής οθόνης</string>
+   <string name="gb_first_window_antimsg_summary_quick_answer">Χρήση γρήγορων απαντήσεων</string>
+   <string name="gb_first_window_antimsg_summary_transparent_show">Δείτε κείμενο σε διαφανές φόντο</string>
+   <string name="gb_first_window_antimsg_title">Χρήσιμες ειδοποιήσεις</string>
+   <string name="gb_first_window_gamebox_summary_four">Καθαρισμός Cashe, κάντε εγγραφές οθόνης και στιγμιότυπα</string>
+   <string name="gb_first_window_gamebox_summary_six">Χρήση γρήγορων απαντήσεων, κάντε εγγραφές οθόνης και στιγμιότυπα</string>
+   <string name="gb_first_window_handsfree_summary">Αυτόματη ενεργοποίηση του ηχείου</string>
+   <string name="gb_first_window_handsfree_title">Hands-free κλήσεις</string>
+   <string name="gb_first_window_start">Αρχίστε να παίζετε</string>
+   <string name="gb_first_window_summary">Αυξήστε την ταχύτητα και απόδοση σε επίπεδο συστήματος</string>
+   <string name="gb_first_window_title">Βελτιστοποίηση ταχύτητας παιχνιδιού</string>
   <string name="get_sys_info">Λήψη πληροφοριών…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Ενεργοποιήστε αυτή τη λειτουργία εάν αντιμετωπίζετε προβλήματα με τη χρήση του G-mail, των Χαρτών Google και άλλων εφαρμογών Google. Θα μειώσει ελαφρώς τη διάρκεια ζωής της μπαταρίας.</string>
@@ -900,8 +903,6 @@
   <string name="install_title">Εγκατάσταση μέσω USB</string>
   <string name="installing">Εγκατάσταση…</string>
   <string name="international_roaming_setting">Διεθνής περιαγωγή</string>
-  <string name="intro_improve">Ενισχύστε την εμπειρία παιχνιδιού σας σε επίπεδο συστήματος</string>
-  <string name="intro_skip">Παράληψη</string>
   <string name="ip_address_exception_summary">Αδυναμία λήψης διεύθυνσης IP. Εάν αντιμετωπίσετε ξανά από το πρόβλημα, δοκιμάστε να χρησιμοποιήσετε μια στατική διεύθυνση IP.</string>
   <string name="item_app_permission">Δικαιώματα εφαρμ.</string>
   <string name="item_dev_mode">Επιλογές προγραμματιστή</string>
@@ -1025,6 +1026,7 @@
   <string name="main_toolbar_statistic">Στατιστικά χρήσης δεδομένων</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Προσθέστε τις εφαρμογές αυτόματης εκκίνησης με μη αυτόματο τρόπο</string>
+  <string name="manage_hybrid_permissions">"Διαχείριση δικαιωμάτων εφαρμογών"</string>   
   <string name="managed_user_title">Όλες οι εφαρμογές εργασίας</string>
   <string name="manual_input_free_traffic">Ρύθμιση δωρεάν χρήσης δεδομένων</string>
   <string name="manual_input_traffic">Ορισμός χρήσης δεδομένων</string>
@@ -1633,8 +1635,6 @@
   <string name="safe_result_item_info_system_version">Το σύστημα διαθέτει την πιο πρόσφατη έκδοση</string>
   <string name="safepay_alert_dialog_button_continue">Συνεχίστε</string>
   <string name="safepay_alert_dialog_button_fix">Επιδιόρθωση</string>
-  <string name="save_energy_text">Περιορίστε την αυτόματη εκκίνηση και το συγχρονισμό για εφαρμογές στο παρασκήνιο για να αξιοποιήσετε στο έπακρο τη μπαταρία της συσκευής σας</string>
-  <string name="save_energy_title">Βελτιστοποιήστε την μπαταρία</string>
   <string name="sc_allow_network_dialog_message">Αυτή την εφαρμογή πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
   <string name="sc_allow_network_dialog_tiltle">Αδυναμία χρήσης αυτής της λειτουργίας</string>
   <string name="sc_system_risk_fix_info_xspace">Ο κίνδυνος δεν μπορεί να διορθωθεί σε xspace, μεταβείτε στο χώρο του παρόχου για να το διορθώσετε.</string>
