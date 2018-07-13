@@ -3,6 +3,6 @@
   <string name="card_main_hbassistant_summary">Ώθηση ταχύτητας για βελτιώση εμπειρίας παιχνιδιών</string>
   <string name="card_main_hbassistant_title">Προστασία</string>
   <string name="power_settings_number">Ποσοστό και γραφικό</string>
-  <string name="xunyou_pay_webview">Απενεργοποίηση</string>
-  <string name="xunyou_server_expired">Ποσοστό μόνο</string>
+  <string name="xunyou_pay_webview">Ποσοστό μόνο</string>
+  <string name="xunyou_server_expired">Απενεργοποίηση</string>
 </resources>
