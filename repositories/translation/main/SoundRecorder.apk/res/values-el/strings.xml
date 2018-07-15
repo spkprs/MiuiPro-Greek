@@ -11,7 +11,7 @@
   <string name="clear_records">Διαγραφή συγχρονισμένων εγγραφών</string>
   <string name="cloud_record_open">Συγχρονισμός εγγραφών</string>
   <string name="cloud_record_tip">Συγχρονισμός εγγραφών με το Mi Cloud.</string>
-  <string name="cloud_service_state_open_reminder">Ενεργοποίηση συγχρονισμού με το Mi Cloud για συγχρονισμό αρχείων εγγραφής.</string>
+  <string name="cloud_service_state_open_reminder">Ενεργοποιήστε το Mi Cloud για συγχρονισμό αρχείων εγγραφής.</string>
   <string name="cloud_status_full_dialog_cancel">Όχι τώρα</string>
   <string name="cloud_status_full_dialog_msg">Ο χώρος αποθήκευσης στο cloud είναι πλήρης. Αδύνατος ο συγχρονισμός εγγραφών. Αναβαθμίστε το λογαριασμό σας για να πάρετε περισσότερο χώρο αποθήκευσης.</string>
   <string name="cloud_status_full_dialog_ok">Αναβάθμιση</string>
