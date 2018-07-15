@@ -71,7 +71,15 @@
   <string name="accessibility_screen_magnification_navbar_title">Μεγέθυνση με κουμπί</string>
   <string name="accessibility_screen_magnification_short_summary">Αγγίξτε 3 φορές για μεγέθυνση</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Μεγέθυνση με κουμπί και τριπλό πάτημα</string>
-  <string name="accessibility_screen_magnification_summary">" \"&lt;b&gt;Για μεγέθυνση&lt;/b&gt;&amp;quot;, αγγίξτε γρήγορα την οθόνη 3 φορές με ένα δάχτυλο.\n&amp;quot;&amp;quot; Πανοραμική: &amp;quot;Σύρετε 2 ή περισσότερα δάχτυλα για κύλιση.\n&amp;quot;Πιέστε 2 ή περισσότερα δάχτυλα μαζί ή ξεχωριστά για να ρυθμίσετε το ζουμ&amp;quot; &amp;quot;\n\n\"&lt;b&gt;Για προσωρινή μεγέθυνση&lt;/b&gt;\"&amp;quot;, αγγίξτε γρήγορα την οθόνη 3 φορές και κρατήστε πατημένο το δάχτυλό σας στο τρίτο πάτημα. Σύρετε το δάχτυλό σας για να μετακινηθείτε στην οθόνη. Σηκώστε το δάχτυλό σας για να σμικρύνετε.\n\nΔεν μπορείτε να κάνετε μεγέθυνση στο πληκτρολόγιο και στη γραμμή πλοήγησης."</string>
+  <string name="accessibility_screen_magnification_summary">" "<b>Για μεγέθυνση</b>", αγγίξτε γρήγορα την οθόνη 3 φορές με ένα δάχτυλο.
+"<ul> <li>"<b>Πανοραμική :</b>" Σύρετε 2 ή περισσότερα δάχτυλα για κύλιση.</li>"
+"<li>Πιέστε 2 ή περισσότερα δάχτυλα μαζί ή ξεχωριστά για να ρυθμίσετε το ζουμ.</li> </ul>"
+
+"<b>Για προσωρινή μεγέθυνση :</b>" Αγγίξτε γρήγορα την οθόνη 3 φορές και κρατήστε πατημένο το δάχτυλό σας στο τρίτο πάτημα.
+"<ul> <li> Σύρετε το δάχτυλό σας για να μετακινηθείτε στην οθόνη.</li>" 
+ "<li>Σηκώστε το δάχτυλό σας για να σμικρύνετε.</li> </ul>"
+
+Δεν μπορείτε να κάνετε μεγέθυνση στο πληκτρολόγιο και στη γραμμή πλοήγησης."</string>
   <string name="accessibility_screen_magnification_title">Χειρονομίες μεγέθυνσης</string>
   <string name="accessibility_service_default_description">Δεν υπάρχει περιγραφή.</string>
   <string name="accessibility_settings">Προσβασιμότητα</string>

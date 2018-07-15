@@ -152,7 +152,7 @@
   <string name="ts_longpress_title">Πατήστε παρατεταμένα</string>
   <string name="ts_vibration_title">Διάρκεια δόνησης</string>
   <string name="vibrate_on">Δόνηση κατά το ξεκλείδωμα</string>
-  <string name="volbtn_timeout_summary">Διάρκεια %s ms</string>
+  <string name="volbtn_timeout_summary">Κάθε %s ms</string>
   <string name="volbtn_timeout_title">Χρονοκαθυστερηση</string>
   <string name="volbtn_title">Μουσική</string>
   <string name="volbtn_toggle_title">Διαχείριση μουσικής</string>
