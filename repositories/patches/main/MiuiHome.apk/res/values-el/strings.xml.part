@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="defalut_launcher_title">Προεπιλεγμένος Launcher</string>
+  <string name="defalut_launcher_title">Προεπιλεγμένος Εκκινητής</string>
   <string name="launcher_auto_fill_empty_title">Συμπλήρωση κενών κελιών</string>
   <string name="launcher_title">Αρχική Οθόνη</string>
   <string name="lock_screen_cells_title">Κλείδωμα διάταξης Αρχικής οθόνης</string>

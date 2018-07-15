@@ -838,7 +838,9 @@
   <string name="gs_dialog_confirm_close_msg">Η συντόμευση θα καταργηθεί από την Αρχική οθόνη. Μεταβείτε στην επιλογή Ασφάλεια&gt; Ρυθμίσεις για να την επαναφέρετε.</string>
   <string name="gs_dialog_confirm_close_title">Σβήνω</string>
   <string name="gs_forbid_autosync">Περιορισμός συγχρονισμού παρασκηνίου</string>
-  <string name="gs_game_disturb_msg">DND</string>
+    <string name="gs_gamebox">Συντομεύσεις εντός-παιχνιδιού</string>
+    <string name="gs_gamebox_detail">Εμφάνιση πίνακα συντομεύσεων εντός-παιχνιδιού</string>
+  <string name="gs_game_disturb_msg">Μην Ενοχλείτε</string>
   <string name="gs_game_duration">Χρόνος</string>
   <string name="gs_game_net_priority">Προτεραιότητα σύνδεσης</string>
   <string name="gs_game_net_priority_detail">Περιορίστε την ταχύτητα λήψης για να έχετε αρκετό εύρος ζώνης για τυχερά παιχνίδια</string>
@@ -2228,8 +2230,8 @@
   <string name="wrong_password">Λάθος κωδικός</string>
   <string name="xunyou_net_booster">Ενίσχυση ταχύτητας δικτύου</string>
   <string name="xunyou_net_booster_detail">Χρησιμοποιήστε υπηρεσίες ενίσχυσης ταχύτητας Xunyou για παιχνίδια</string>
-  <string name="xunyou_pay_webview">Απενεργοποίηση</string>
-  <string name="xunyou_server_expired">Ποσοστό μόνο</string>
+  <string name="xunyou_pay_webview">Ποσοστό μόνο</string>
+  <string name="xunyou_server_expired">Απενεργοποίηση</string>
   <string name="zhifubao_not_found">η έκδοση της εφαρμογής σας είναι πολύ παλιά ή δεν έχει εγκατασταθεί</string>
   <string name="gb_msg_not_shielded_summary">Προβολή</string>
 </resources>

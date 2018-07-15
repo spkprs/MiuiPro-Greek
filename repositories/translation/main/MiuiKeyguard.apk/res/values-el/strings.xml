@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accessibility_enter_lock_wallpaper">Πατήστε για να ανοίξετε τις Καθημερινές Ταπετσαρίες</string>
+  <string name="accessibility_enter_lock_wallpaper">Αγγίξτε για άνοιγμα των Καθημερινών Ταπετσαριών</string>
   <string name="app_name">Κλείδωμα Οθόνης</string>
   <string name="btn_camera">Εισάγετε το πρόσωπό σας</string>
   <string name="change_to_ac_charging">Μετάβαση σε ενσύρματη φόρτιση</string>
@@ -124,7 +124,7 @@
   <string name="lockscreen_failed_attempts_now_wiping">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Θα πρέπει να γίνει τώρα Επαναφορά εργοστασιακών ρυθμίσεων.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Ξεκλειδώθηκε από συσκευή Bluetooth</string>
   <string name="open_camera_hint_text">Σύρετε αριστερά για την Κάμερα</string>
-  <string name="open_remote_center_hint_text">Σύρετε προς τα δεξιά για να εκτελέσετε πρόσθετα προγράμματα</string>
+  <string name="open_remote_center_hint_text">Σύρετε δεξιά για εκτέλεση πρόσθετων προγραμμάτων</string>
   <string name="phone_locked_foget_password">Ξεχάσατε τον κωδικό;</string>
   <string name="phone_locked_foget_password_mehod_back">Πίσω</string>
   <string name="phone_locked_foget_password_method">Ξεχάσατε τον κωδικό;</string>

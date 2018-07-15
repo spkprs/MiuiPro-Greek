@@ -86,13 +86,13 @@
     <item>30</item>
   </string-array>
   <string-array name="timer_duration">
-    <item>Total %1$s</item>
-    <item>Total %1$s %2$s</item>
-    <item>Total %3$s</item>
-    <item>Total %2$s</item>
-    <item>Total %1$s %3$s</item>
-    <item>Total %2$s %3$s</item>
-    <item>Total %1$s %2$s %3$s</item>
+    <item>Σύνολο %1$s</item>
+    <item>Σύνολο %1$s %2$s</item>
+    <item>Σύνολο %3$s</item>
+    <item>Σύνολο %2$s</item>
+    <item>Σύνολο %1$s %3$s</item>
+    <item>Σύνολο %2$s %3$s</item>
+    <item>Σύνολο %1$s %2$s %3$s</item>
   </string-array>
   <string-array name="stat_volume_button_behaviors">
     <item>Καμία ενέργεια</item>

@@ -29,8 +29,9 @@
     <item>5 fps</item>
   </string-array>
   <string-array name="crt_fade_entries">
-    <item>Προεπιλογή</item>
-    <item>Υπερφωτισμός</item>
+        <item>Κανονικό</item>
+        <item>CRT (παλιά TV)</item>
+        <item>Εξασθένηση</item>
   </string-array>
   <string-array name="gesture_anywhere_position_entries">
     <item>Αριστερά</item>
@@ -151,18 +152,18 @@
     <item>Κίνηση στα αριστερά και πίσω</item>
     <item>Κίνηση από τα δεξιά προς τα αριστερά</item>
     <item>Κίνηση από αριστερά προς τα δεξιά</item>
-    <item>Animation Xylon</item>
-    <item>Animation Τοκο</item>
+    <item>Κίνηση Xylon</item>
+    <item>Κίνηση Τοκο</item>
     <item>Περιστροφή</item>
-    <item>Animation Honami</item>
+    <item>Κίνηση Honami</item>
     <item>Ταχεία εμφάνιση</item>
     <item>Αργή εμφάνιση</item>
     <item>Εμφάνιση από το κέντρο</item>
     <item>Ανάδυση από το κάτω μέρος</item>
     <item>Διαφανές δεξιά</item>
     <item>Δεξιά / Αριστερά/ αντιστροφή</item>
-    <item>Γύρισμα από κάτω με χτύπημα</item>
-    <item>Ένα χτύπημα από το κέντρο</item>
+    <item>Γύρισμα από κάτω με αναπήδηση</item>
+    <item>Με αναπήδηση από το κέντρο</item>
     <item>Γύρισμα από κάτω</item>
     <item>Από το κέντρο προς το κέντρο</item>
     <item>Προσαρμοσμένο</item>

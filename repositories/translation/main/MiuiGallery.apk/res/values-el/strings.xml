@@ -206,10 +206,10 @@
   <string name="choose_people">Επιλέξτε το άλμπουμ ενός ατόμου</string>
   <string name="choose_some_people">Επιλέξτε το άλμπουμ με %s</string>
   <string name="cityname_1">Νεολαία</string>
-  <string name="cityname_2">Αέρας</string>
-  <string name="cityname_3">Δρόμοι</string>
-  <string name="cityname_4">Δύναμη</string>
-  <string name="cityname_5">Γοητεία</string>
+  <string name="cityname_2">Δροσερά</string>
+  <string name="cityname_3">Ωδικώς</string>
+  <string name="cityname_4">Έντονα</string>
+  <string name="cityname_5">Γοητευτικά</string>
   <string name="cityname_6">Γκαλερί μόδας</string>
   <string name="cleaner_empty_value_description">Όλα φαίνονται εντάξει</string>
   <string name="cleaner_photo_pick_delete_selected">Διαγραφή επιλεγμένων φωτογραφιών</string>
@@ -1195,5 +1195,5 @@
   <string name="xiaomi_account_not_exists_toast">Ο λογαριασμός Mi δεν υπάρχει</string>
   <string name="yes">Ναι</string>
   <string name="yesterday">Χθες</string>
-  <string name="you_are">Είσαι μωρό</string>
+  <string name="you_are">Είσαι το μωρό</string>
 </resources>
