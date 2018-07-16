@@ -400,6 +400,7 @@
   <string name="pref_front_mirror_entry_on">On</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Καθρεπτισμός εμπρός κάμερας</string>
+  <string name="pref_google_lens">Φακός Google</string>
   <string name="pref_groupshot_with_primitive_title">Αποθήκευση αρχικών φωτό, επίσης.</string>
   <string name="pref_manual_exposure_title">Χρόνος έκθεσης</string>
   <string name="pref_mi_front_video_quality_default">6</string>

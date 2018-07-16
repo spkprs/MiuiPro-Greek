@@ -4177,6 +4177,8 @@
   <string name="sound_settings_summary">Ένταση ήχου κλήσης στο %1$s</string>
   <string name="sound_settings_summary_silent">Η ειδοποίηση ήχου τέθηκε σε σίγαση</string>
   <string name="sound_settings_summary_vibrate">Η ειδοποίηση ήχου ορίστηκε σε δόνηση</string>
+  <string name="sound_stereo_mode_summary">Διαθέσιμος μόνο όταν παίζετε ήχο με ηχείο</string>
+  <string name="sound_stereo_mode_title">Στερεοφωνικός ήχος</string>
   <string name="sound_vibrate_settings">Ήχος και δόνηση</string>
   <string name="sound_work_settings">Ήχοι προφίλ εργασίας</string>
   <string name="special_access">Ειδική πρόσβαση στην εφαρμογή</string>
@@ -4223,9 +4225,11 @@
   <string name="status_bar_settings_no_carrier">Χωρίς όνομα</string>
   <string name="status_bar_settings_notification_bar">Πίνακας ειδοποιήσεων</string>
   <string name="status_bar_settings_notification_led">LED ειδοποίησης</string>
+  <string name="status_bar_settings_notification_led_custom">Προσαρμοσμένο χρώμα</string>
   <string name="status_bar_settings_notification_priority">Προτεραιότητα</string>
   <string name="status_bar_settings_notification_priority_summary">Εμφάνιση ειδοποιήσεων στην κορυφή της λίστας</string>
   <string name="status_bar_settings_notification_sound">Ήχος</string>
+  <string name="status_bar_settings_notification_sound_custom">Προσαρμοσμένος ήχος</string>
   <string name="status_bar_settings_notification_vibrate">Δόνηση</string>
   <string name="status_bar_settings_show_carrier">Εμφάνιση ονόματος παρόχου</string>
   <string name="status_bar_settings_show_carrier_summary">Το όνομα παρόχου θα εξακολουθεί να εμφανίζεται στην Οθόνη κλειδώματος και στον πίνακα ειδοποιήσεων όταν αυτή η λειτουργία είναι ανενεργή</string>
@@ -4696,6 +4700,7 @@
   <string name="unlock_set_unlock_summary">"Παρακαλούμε ενεργοποιήστε ενα κωδικό οθόνης "</string>
   <string name="unlock_setup_wizard_fingerprint_details">Από τη στιγμή που ορίσετε ένα κλείδωμα οθόνης, μπορείτε επίσης να ορίσετε το δακτυλικό σας αποτύπωμα στις Ρυθμίσεις &gt; Ασφάλεια.</string>
   <string name="unmount_inform_text">Η συσκευή USB θα αποσυνδεθεί.</string>
+  <string name="unmute_sound_title">Αναίρεση σίγασης</string>
   <string name="unrestrict_max_aspect_ratio_title">Αυτές οι εφαρμογές βελτιστοποιούνται για λειτουργία πλήρους οθόνης</string>
   <string name="unrestricted_app_summary">Να επιτρέπεται η πρόσβαση χωρίς περιορισμούς όταν είναι ενεργοποιημένη η Εξοικονόμηση δεδομένων</string>
   <string name="unrestricted_app_title">Χρήση απεριόριστων δεδομένων</string>

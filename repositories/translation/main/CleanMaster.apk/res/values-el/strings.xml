@@ -372,6 +372,7 @@
   <string name="low_memory_warning_dialog_ok_button">Καθαρισμός</string>
   <string name="low_memory_warning_dialog_title">Μη αρκετός ελεύθερος χώρος</string>
   <string name="main_title_filesize">%1$s άχρηστα</string>
+  <string name="main_total_garbage">Σύνολο απορρίμματων</string>
   <string name="mainbtn_text_no_trash">Παράλειψη</string>
   <string name="mainbtn_text_quick_cleanup">Καθαρισμός %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Εκκαθάριση</string>

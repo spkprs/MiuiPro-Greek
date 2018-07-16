@@ -331,4 +331,12 @@
         <item quantity="other">%d εφαρμογές</item>
         <item quantity="one">%d εφαρμογή</item>
     </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Μπορεί να κρύψει %d εφαρμ.</item>
+        <item quantity="one">Μπορεί να κρύψει %d εφαρμ.</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d εφαρμ. είναι κρυφές</item>
+        <item quantity="one">%d εφαρμ. είναι κρυφή</item>
+    </plurals>
 </resources>
