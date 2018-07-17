@@ -1032,4 +1032,25 @@
   <string name="talkback_header_search">"Εύρεση"</string>
   <string name="talkback_like">Μου αρέσει</string>
   <string name="talkback_unlike">Δεν μου αρέσει</string>  
+    <string name="add_cannot_gif_list">Αδύνατη η προσθήκη στη λίστα</string>
+    <string name="albun_publish_time">Ώρα δημοσίευσης: %1$s</string>
+    <string name="cannot_comment_try_scroll">Δεν μπορείτε να σχολιάσετε αυτό το τραγούδι, προσπάθεια κύλησης</string>
+    <string name="comment">σχόλιο</string>
+    <string name="more_milink_bluetooth">Milink και Bluetooth</string>
+    <string name="multiple_select">Πολλαπλή επιλογή</string>
+    <string name="nowplaying_find_more">Εύρεση περισσότερα</string>
+    <string name="play_all"><Data>Αναπαραγωγή όλων&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
+    <string name="play_mode_circle">Κυκλική Λειτουργία</string>
+    <string name="play_mode_shuffle">Τυχαία Λειτουργία</string>
+    <string name="play_mode_single">Μεμονωμένη Λειτουργία</string>
+    <string name="song_group_float_save_picture">Αποθήκευση εικόνας</string>
+    <string name="song_group_float_save_picture_success">Αποθηκεύτηκε με επιτυχία</string>
+    <string name="song_group_float_to_save_picture">Αποθήκευση σε %1$s</string>
+    <string name="talkback_frame_list">Λίστα Πλακιδίων</string>
+    <string name="talkback_next_play">Αναπαραγωγή επόμενου</string>
+    <string name="talkback_remove_list">Αφαίρεση από την Λίστα</string>
+    <string name="title_album_list">Αλμπουμ</string>
+    <string name="title_play_list">Λίστα</string>
+    <string name="video_more_dislike">Δεν αρέσει</string>
+    <string name="video_more_like">Αρέσει</string>
 </resources>
