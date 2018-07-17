@@ -153,4 +153,8 @@
           <item quantity="other">%1$d τραγούδια</item>
           <item quantity="one">%1$d τραγούδι</item>
       </plurals>  
+    <plurals name="Nsleep_quit_warning">
+        <item quantity="other">%d  λεπτά απομένουν</item>
+        <item quantity="one">%d  λεπτό απομένει</item>
+    </plurals>
 </resources>
