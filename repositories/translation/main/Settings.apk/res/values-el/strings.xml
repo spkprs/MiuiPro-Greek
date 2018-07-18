@@ -2070,7 +2070,7 @@
   <string name="instant_app_details_summary">Περισσότερες πληροφορίες στο %1$s</string>
   <string name="instant_apps_account">Λογαριασμός Instant Εφαρμογών</string>
   <string name="instruction_privacy_password">Αυτός ο κωδικός προστατεύει τα ακόλουθα στοιχεία</string>
-  <string name="instruction_title">Οδηγίες</string>
+  <string name="instruction_title">Σημαντικές πληροφορίες ασφαλείας</string>
   <string name="insufficient_storage">Δεν υπάρχει αρκετός χώρος</string>
   <string name="intent_sender_account_label">Λογαριασμός:</string>
   <string name="intent_sender_action_label">Ενέργεια:</string>
@@ -2933,7 +2933,7 @@
   <string name="notification_show_lights_title">Φως που αναβοσβήνει</string>
   <string name="notification_sound_default">Προεπιλεγμένος ήχος ειδοποίησης</string>
   <string name="notification_sound_dialog_title">Επιλογή ήχου ειδοποίησης</string>
-  <string name="notification_sound_title">Προεπιλεγμένη ειδοποίηση</string>
+  <string name="notification_sound_title">Προεπιλεγμένoς ήχος ειδοποίησης</string>
   <string name="notification_suggestion_summary">Εμφάνιση ή απόκρυψη περιεχομένου ειδοποίησης</string>
   <string name="notification_suggestion_title">Ελέγχος ειδοποιήσεων στην οθόνη κλειδώματος</string>
   <string name="notification_summary_level">Επίπεδο %d</string>
@@ -4382,6 +4382,8 @@
   <string name="strict_mode">Ενεργοποίηση Strict Mode</string>
   <string name="strict_mode_summary">Flash της οθόνης, όταν η εφαρμογή κάνει μεγάλη χρήση πόρων</string>
   <string name="structure_add_facerecoginition_text">Προσθήκη 3D δεδομένων προσώπου</string>
+  <string name="structure_face_enroll_not_able_low_electric_itle">"Αδύνατη η χρήση αυτής της λειτουργίας λόγω χαμηλής μπαταρίας"</string>
+  <string name="structure_face_enroll_not_able_low_electric_msg">Η μπαταρία πρέπει να φορτιστεί τουλάχιστον 5% για να ξεκινήσει η εγγραφή.</string>
   <string name="structure_manage_facerecoginition_text">Διαχείριση 3D δεδομένων προσώπου</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Αυτές οι εφαρμογές λειτουργούν καλύτερα σε Πλήρη οθόνη</string>
   <string name="suggested_fingerprint_lock_settings_summary">Ξεκλείδωμα με το δακτυλικό σας αποτύπωμα</string>

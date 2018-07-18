@@ -206,8 +206,8 @@
   <string name="accessibility_settings">Ρυθμίσεις</string>
   <string name="accessibility_settings_button">Ρυθμίσεις συστήματος.</string>
   <string name="accessibility_signal_full">Σήμα ισχυρό.</string>
-  <string name="accessibility_splite_screen_primary">Προσθήκη σαν πρώτη εφαρμογή σε Διαιρούμενη Οθόνη</string>
-  <string name="accessibility_splite_screen_secondary">Προσθήκη σαν δεύτερη εφαρμογή σε Διαιρούμενη Οθόνη</string>
+  <string name="accessibility_splite_screen_primary">Προστέθηκε σαν πρώτη εφαρμογή στην Διαιρούμενη Οθόνη</string>
+  <string name="accessibility_splite_screen_secondary">Προστέθηκε σαν δεύτερη εφαρμογή στην Διαιρούμενη Οθόνη</string>
   <string name="accessibility_status_bar_headphones">Ακουστικά συνδεδεμένα</string>
   <string name="accessibility_status_bar_headset">Ακουστικά συνδεδεμένα</string>
   <string name="accessibility_status_bar_hotspot">Σημείο Πρόσβασης</string>
@@ -1478,6 +1478,7 @@
    <string name="structure_face_modules_abnormal_btn">Επανεκκίνηση</string>
    <string name="structure_face_modules_abnormal_msg">"Δεν είναι δυνατή η καταγραφή δεδομένων προσώπου λόγω σφάλματος οπτικής μονάδας. Επανεκκινήστε τη συσκευή σας και δοκιμάστε ξανά."</string>
    <string name="structure_face_modules_abnormal_title">Σφάλμα οπτικής μονάδας</string>
+  <string name="structure_face_unlock_really_person">"Φαίνεται ότι αντικαταστήσατε το πρόσωπό σας με ένα αντικείμενο."</string>
    <string name="structure_face_unlock_model2d_dialog_msg">"Η αναγνώριση 3D θα απενεργοποιηθεί. Τα δεδομένα 3D σας θα διαγραφούν. Θα χρειαστεί επίσης να προσθέσετε τα δεδομένα του προσώπου 2D. Ενεργοποίηση της αναγνώρισης 2D;"</string>
    <string name="structure_face_unlock_model2d_dialog_title">Ενεργοποίηση αναγνώρισης 2D</string>
    <string name="structure_face_unlock_model3d_dialog_msg">"Η αναγνώριση 2D θα απενεργοποιηθεί. Τα δεδομένα 2D προσώπου σας θα διαγραφούν. Θα πρέπει επίσης να προσθέσετε τα δεδομένα 3D προσώπου σας. Ενεργοποίηση της αναγνώρισης 3D;"</string>
@@ -1490,6 +1491,7 @@
    <string name="structure_face_unlock_model_other_suggestion_2d">Η αναγνώριση προσώπου 2D είναι λιγότερο ασφαλής από ένα μοτίβο, PIN ή κωδικό πρόσβασης. Όταν το χαρακτηριστικό είναι ενεργοποιημένο, η συσκευή σας μπορεί να ξεκλειδωθεί από τη φωτογραφία σας, καθώς και άτομα ή αντικείμενα που μοιάζουν με εσάς.</string>
    <string name="structure_face_unlock_model_other_suggestion_3d">"Η αναγνώριση 3D προσώπου είναι σχετικά ασφαλής. Είναι πολύ απίθανο η συσκευή σας να μπορεί να ξεκλειδωθεί με τη φωτογραφία σας όταν αυτή η λειτουργία είναι ενεργοποιημένη. Ωστόσο, μπορεί να ξεκλειδωθεί από άτομα ή αντικείμενα που μοιάζουν με εσάς."</string>
    <string name="structure_face_unlock_model_other_title">Αναγνώριση προσώπου</string>
+  <string name="structure_face_unlock_not_same_person">"Πρέπει να ολοκληρώσετε μόνοι σας όλα τα βήματα. Μην αλλάζετε θέσεις με κανέναν."</string>
   <string name="switch_bar_off">OFF</string>
   <string name="switch_bar_on">ON</string>
   <string name="symbol_colon">:</string>

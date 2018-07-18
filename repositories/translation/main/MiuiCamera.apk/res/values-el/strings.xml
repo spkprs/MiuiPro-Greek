@@ -168,7 +168,7 @@
   <string name="portrait_mode_depth_effect_success_hint">Εφέ βάθους</string>
   <string name="portrait_mode_lowlight_hint">Τώρα είναι πολύ σκοτεινή</string>
   <string name="portrait_mode_too_close_hint">Μεταφερθήκατε μακρύτερα από το αντικείμενο</string>
-  <string name="portrait_mode_too_far_hint">Τοποθετήστε αντικείμενο έως 2,5 μέτρα</string>
+  <string name="portrait_mode_too_far_hint">Τοποθετήστε το αντικείμενο έως 2 μέτρα</string>
   <string name="portrait_mode_use_hint">Η λειτουργία Πορτρέτου θολώνει το φόντο \nκαι εστιάζει στο θέμα.</string>
   <string name="portrait_with_facebeauty_hint">Η Αισθητική είναι πλέον διαθέσιμη σε λειτουργία Πορτρέτου</string>
   <string name="pref_advance_settings">Πρόσθετες ρυθμίσεις</string>

@@ -230,7 +230,7 @@
   <string name="app_manager_unstall_application">Απεγκατάσταση</string>
   <string name="app_managere_not_have_app">Κενό</string>
   <string name="app_manger_des_separator">", "</string>
-  <string name="app_mobile">Κινητή</string>
+  <string name="app_mobile">Δεδομένα Κινητής</string>
   <string name="app_name">Κλείδωμα Εφαρμογής</string>
   <string name="app_name_na">Χρήση δεδομένων</string>
   <string name="app_name_securitycenter">Ασφάλεια</string>
@@ -247,7 +247,7 @@
   <string name="applock_add_account_info">Προσθέστε το Λογαριασμό Mi για να μπορέσετε να επαναφέρετε τον κωδικό πρόσβασής σας σε περίπτωση που το ξεχάσετε.</string>
   <string name="applock_add_account_setting">Λογαριασμός και ιδιωτικότητα</string>
   <string name="applock_bind_account_title">Ξεχάσατε τον κωδικό</string>
-  <string name="applock_close_dialog_summary">Όλες οι κρυφές εφαρμογές θα εμφανιστούν, οι συντομεύσεις της αρχικής οθόνης θα επανέλθουν και ο κωδικός  της εφαρμογής θα διαγραφεί. Απενεργοποιείτε το κλείδωμα εφαρμογής;</string>
+  <string name="applock_close_dialog_summary">Οι εφαρμογές δεν θα προστατεύονται πλέον και ο κωδικός σας θα διαγραφεί αφού απενεργοποιήσετε το Κλείδωμα Εφαρμογής.</string>
   <string name="applock_close_dialog_title">Να απενεργοποιηθεί το κλείδωμα εφαρμογής;</string>
   <string name="applock_exit_account_info">Ο λογαριασμός θα καταργηθεί αυτόματα όταν αποσυνδεθείτε</string>
   <string name="applock_header_text_less_than_half">Πολύ μικρό. Σύρετε λίγο περισσότερο.</string>
@@ -812,8 +812,8 @@
    <string name="gb_first_window_antimsg_summary_quick_answer">Χρήση γρήγορων απαντήσεων</string>
    <string name="gb_first_window_antimsg_summary_transparent_show">Δείτε κείμενο σε διαφανές φόντο</string>
    <string name="gb_first_window_antimsg_title">Χρήσιμες ειδοποιήσεις</string>
-   <string name="gb_first_window_gamebox_summary_four">Καθαρισμός Cashe, κάντε εγγραφές οθόνης και στιγμιότυπα</string>
-   <string name="gb_first_window_gamebox_summary_six">Χρήση γρήγορων απαντήσεων, κάντε εγγραφές οθόνης και στιγμιότυπα</string>
+   <string name="gb_first_window_gamebox_summary_four">Χρήση γρήγορων απαντήσεων, κάντε εγγραφές οθόνης και στιγμιότυπων</string>
+   <string name="gb_first_window_gamebox_summary_six">Καθαρισμός Cache, κάντε εγγραφές οθόνης και στιγμιότυπα</string>
    <string name="gb_first_window_handsfree_summary">Αυτόματη ενεργοποίηση του ηχείου</string>
    <string name="gb_first_window_handsfree_title">Hands-free κλήσεις</string>
    <string name="gb_first_window_start">Αρχίστε να παίζετε</string>
@@ -1534,26 +1534,6 @@
   <string name="preferred_app_entries_launcher">Επιφάνεια εργασίας</string>
   <string name="preferred_app_entries_messaging">Μηνύματα</string>
   <string name="preferred_app_entries_music">Μουσική</string>
-   <string name="privacy_apps">Κρυφές Εφαρμογές</string>
-   <string name="privacy_apps_category_title">Κρυφές Εφαρμογές</string>
-   <string name="privacy_apps_checkbox_remind_choice">"Χωρίς επανεμφάνιση"</string>
-   <string name="privacy_apps_close">Κλείστε</string>
-   <string name="privacy_apps_enable_summary">Μετακίνηση εφαρμογών σε κρυφό φάκελο και κατάργηση των συντομεύσεων της αρχικής οθόνης</string>
-   <string name="privacy_apps_go_to_use">Έναρξη</string>
-   <string name="privacy_apps_manage">Διαχείριση κρυφών</string>
-   <string name="privacy_apps_manage_dialog_title">Σχετικά με τις κρυφές</string>
-   <string name="privacy_apps_manager_dialog_message">Η απόκρυψη εφαρμογών απαιτεί τη ρύθμιση του κλειδώματος εφαρμογής. Οι ειδοποιήσεις για κρυφές θα απενεργοποιηθούν. Απόκρυψη αυτής της εφαρμογής;</string>
-   <string name="privacy_apps_tutorial">Εκμάθηση</string>
-   <string name="privacy_apps_tutorial_prompt_pageone">"Όταν κρύβετε μια εφαρμογή, μεταφέρεται σε ένα κρυφό φάκελο. Και η συντόμευσή της στην αρχική οθόνη επίσης.
- Αυτή η δυνατότητα δεν υποστηρίζεται για εφαρμογές συστήματος."</string>
-   <string name="privacy_apps_tutorial_prompt_pagethree">Αφού πληκτρολογήσετε τον κωδικό πρόσβασής σας, θα εμφανιστεί ο φάκελος με τις κρυφές εφαρμογές.</string>
-   <string name="privacy_apps_tutorial_prompt_pagetwo">"Ανοίξτε δύο δάχτυλα στην οθόνη. Θα δείτε ένα μήνυμα που σας ζητάει να εισάγετε τον κωδικό πρόσβασης κλειδώματος εφαρμογής."</string>
-  <string name="privacy_declare_dialog_title">Όροι Χρήσης</string>
-  <string name="privacy_dialog_message">Όταν συνδέεστε στο διαδίκτυο, αυτό το μήνυμα μαζί με τις πληροφορίες του φορέα θα κρυπτογραφηθούν και θα μεταφορτωθούν στους διακομιστές της Mi για να μας βοηθήσουν να βελτιώσουμε την παρακολούθηση της χρήσης δεδομένων.</string>
-  <string name="privacy_mode_dialog_title">Λειτουργία επισκέπτη</string>
-  <string name="privacy_prompt_tc_sms_report_message">Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα μεταφορτωθούν κρυπτογραφημένα στους διακομιστές της Mi προκειμένου να ενημερωθούν οι πληροφορίες χρήσης δεδομένων κινητής.</string>
-  <string name="privacy_prompt_traffic_adjust_message">Αυτή η λειτουργία χρειάζεται να κρυπτογραφήσει για να στείλει το IMEI της συσκευής σας, τον αριθμό τηλεφώνου και τα στοιχεία του παρόχου στους διακομιστές της Mi προκειμένου να πάρετε τα στατιστικά χρήσης δεδομένων από τον πάροχό σας.</string>
-  <string name="privacy_prompt_upload">Αποστολή</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
   <string name="promotion">Διαφήμιση</string>

@@ -2,7 +2,7 @@
 <resources>
   <string name="4G_LTE_title">Εμφάνιση LTE αντί 4G</string>
   <string name="airplane_icon_title">Απόκρυψη εικονιδίου Αεροπλάνου</string>
-  <string name="alarm_icon_title">Απόκρυψη εικονιδίου ειδοποίησης</string>
+  <string name="alarm_icon_title">Απόκρυψη εικονιδίου αφύπνισης</string>
   <string name="animation_framing_title">Συχνότητα κίνησης Πλαισίων</string>
   <string name="bar_name_title">Απόκρυψη ετικετών εικονιδίων στη γραμμή Γρήγορης Πρόσβασης</string>
   <string name="bar_shadow_title">Απόκρυψη αντανάκλασης εικονιδίου</string>

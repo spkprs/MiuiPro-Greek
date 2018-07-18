@@ -129,4 +129,12 @@
     <string name="restore_data_title">Επαναφορά δεδομένων</string>
     <string name="total_space">Συνολικά: %s</string>
     <string name="self_phone_home">Αυτό το τηλέφωνο: %s</string>
+   <string name="btn_restore_abort">Ακύρωση</string>
+   <string name="btn_restore_cancel">Ακύρωση</string>
+   <string name="btn_restore_resume">Συνέχεια</string>
+   <string name="btn_restore_retry">Επανάληψη</string>
+   <string name="msg_alert_cancel_restore">Το Cloud επαναφέρει αντίγραφα, το διακόπτετε?</string>
+   <string name="msg_alert_restore_error">Η επαναφορά αντιγράφων Cloud απέτυχε, παρακαλώ ξαναπροσπαθήστε.</string>
+   <string name="title_alert_cancel_restore">Διακοπή επαναφοράς</string>
+   <string name="title_alert_restore_error">Αποτυχία επαναφοράς</string>
 </resources>
