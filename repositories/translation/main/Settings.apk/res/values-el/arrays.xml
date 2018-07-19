@@ -1054,6 +1054,10 @@
     <item>Επέτρεψε</item>
     <item>Απόρριψη</item>
   </string-array>
+  <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+    <item>Αναζήτηση</item>
+    <item>Ρυθμίσεις</item>
+  </string-array>
   <string-array name="timezone_filters">
     <item>Αμερική</item>
     <item>Ευρώπη</item>

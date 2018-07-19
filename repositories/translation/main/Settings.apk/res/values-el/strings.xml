@@ -4205,8 +4205,8 @@
   <string name="status_bar_app_enable_message">Εικονίδιο</string>
   <string name="status_bar_carrier_settings_no_sim_card">Χωρίς Κάρτα SIM</string>
   <string name="status_bar_key_position_custom">Αλλαγή θέσης πλήκτρων</string>
-  <string name="status_bar_screen_button_force_immersive_desc">Σύρετε επάνω από το κάτω μέρος της οθόνης για εμφάνιση κουμπιών οθόνης</string>
-  <string name="status_bar_screen_button_key_force_immersive">Απόκρυψη κουμπιών οθόνης</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Σύρετε επάνω από το κάτω μέρος της οθόνης για εμφάνιση πλήκτρων οθόνης</string>
+  <string name="status_bar_screen_button_key_force_immersive">Απόκρυψη πλήκτρων οθόνης</string>
   <string name="status_bar_screen_key_back">Πλήκτρο Πίσω</string>
   <string name="status_bar_screen_key_home">Πλήκτρο Αρχικής οθόνης</string>
   <string name="status_bar_screen_key_menu">Πλήκτρο Μενού</string>
@@ -4228,12 +4228,13 @@
   <string name="status_bar_settings_notification_led_custom">Προσαρμοσμένο χρώμα</string>
   <string name="status_bar_settings_notification_priority">Προτεραιότητα</string>
   <string name="status_bar_settings_notification_priority_summary">Εμφάνιση ειδοποιήσεων στην κορυφή της λίστας</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Σκίαση χώρου ειδοποίησης</string>
   <string name="status_bar_settings_notification_sound">Ήχος</string>
   <string name="status_bar_settings_notification_sound_custom">Προσαρμοσμένος ήχος</string>
   <string name="status_bar_settings_notification_vibrate">Δόνηση</string>
   <string name="status_bar_settings_show_carrier">Εμφάνιση ονόματος παρόχου</string>
   <string name="status_bar_settings_show_carrier_summary">Το όνομα παρόχου θα εξακολουθεί να εμφανίζεται στην Οθόνη κλειδώματος και στον πίνακα ειδοποιήσεων όταν αυτή η λειτουργία είναι ανενεργή</string>
-  <string name="status_bar_settings_show_carrier_under_keyguard">Εμφάνιση φορέα όταν είναι κλειδωμένη η συσκευή</string>
+  <string name="status_bar_settings_show_carrier_under_keyguard">Εμφάνιση παρόχου σε κλειδωμένη συσκευή</string>
   <string name="status_bar_settings_show_floating_notification">Αναδυόμενες ειδοποιήσεις</string>
   <string name="status_bar_settings_show_floating_notification_summary">Επιτρέψτε σημαντικές ειδοποιήσεις στο επάνω μέρος της οθόνης</string>
   <string name="status_bar_settings_show_flow_info">Προβολή χρήσης δεδομένων</string>
