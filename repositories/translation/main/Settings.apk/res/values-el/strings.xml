@@ -4228,7 +4228,7 @@
   <string name="status_bar_settings_notification_led_custom">Προσαρμοσμένο χρώμα</string>
   <string name="status_bar_settings_notification_priority">Προτεραιότητα</string>
   <string name="status_bar_settings_notification_priority_summary">Εμφάνιση ειδοποιήσεων στην κορυφή της λίστας</string>
-  <string name="status_bar_settings_notification_shade_shortcut">Σκίαση χώρου ειδοποίησης</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Συντόμευση στην περιοχή ειδοποίησης</string>
   <string name="status_bar_settings_notification_sound">Ήχος</string>
   <string name="status_bar_settings_notification_sound_custom">Προσαρμοσμένος ήχος</string>
   <string name="status_bar_settings_notification_vibrate">Δόνηση</string>
