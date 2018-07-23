@@ -26,7 +26,7 @@
      <string name="device_owner_error_installation_failed">Αδυναμία εγκατάστασης της εφαρμογής διαχείρισης</string>
      <string name="device_owner_error_ok">OK</string>
      <string name="device_owner_error_package_invalid">Αδυναμία χρήσης της εφαρμογής διαχείρισης. Λείπουν στοιχεία ή είναι κατεστραμμένη. Επικοινωνήστε με το τμήμα πληροφορικής.</string>
-     <string name="device_owner_error_package_name_invalid">Αδυναμία εγκατάστασης της εφαρμογής διαχειριστή. Το όνομα του πακέτου δεν είναι έγκυρο. Επικοινωνήστε με το τμήμα πληροφορικής.</string>
+     <string name="device_owner_error_package_name_invalid">Αδυναμία εγκατάστασης της εφαρμογής διαχείρισης. Το όνομα του πακέτου δεν είναι έγκυρο. Επικοινωνήστε με το τμήμα πληροφορικής.</string>
      <string name="device_owner_error_package_not_installed">Η εφαρμογή διαχείρισης δεν είναι εγκατεστημένη στη συσκευή σας</string>
      <string name="device_owner_error_reset">Επαναφορά</string>
      <string name="device_owner_error_wifi">Δεν είναι δυνατή η σύνδεση στο Wi‑Fi</string>

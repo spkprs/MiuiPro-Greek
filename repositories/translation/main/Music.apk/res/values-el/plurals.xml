@@ -4,6 +4,10 @@
     <item quantity="other">%d σχόλια</item>
     <item quantity="one">%d σχόλιο</item>
   </plurals>
+   <plurals name="comment_input_length_invalid">
+     <item quantity="other">Μπορείτε να εισάγετε έως %1$d χαρακτήρες.</item>
+     <item quantity="one">Μπορείτε να εισάγετε έως %1$d χαρακτήρα.</item>
+  </plurals>
   <plurals name="dialog_confirm_delete_downloads_message">
     <item quantity="other">Διαγραφή %d στοιχείων;</item>
     <item quantity="one">Διαγραφή %d στοιχείου;</item>
@@ -156,5 +160,9 @@
     <plurals name="Nsleep_quit_warning">
         <item quantity="other">%d  λεπτά απομένουν</item>
         <item quantity="one">%d  λεπτό απομένει</item>
+    </plurals>
+	<plurals name="swipe_to_load_head_complete_success">
+        <item quantity="other">Γειά σας %1$s! Υπάρχουν %1$d ενημερώσεις για εσάς:</item>
+        <item quantity="one">Γειά σας %1$s! Υπάρχει %1$d ενημέρωση για εσάς:</item>
     </plurals>
 </resources>

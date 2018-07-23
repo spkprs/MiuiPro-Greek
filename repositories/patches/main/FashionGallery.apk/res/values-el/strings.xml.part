@@ -3,7 +3,7 @@
   <string name="cat_1">Ταξίδια</string>
   <string name="cat_2">Εικονογράφηση</string>
   <string name="cat_3">Σπίτι</string>
-  <string name="cat_4">Sport</string>
+  <string name="cat_4">Άθλημα</string>
   <string name="cat_5">Επικεφαλίδες</string>
   <string name="cat_6">Ψυχαγωγία</string>
   <string name="cat_7">Αυτοκίνητα</string>
@@ -17,6 +17,8 @@
   <string name="cat_15">Ηθοποιοί</string>
   <string name="cat_16">Σέξυ</string>
   <string name="cat_17">Ταινίες</string>
+  <string name="cat_18">Ζώα</string>
+  <string name="cat_19">Κινούμενο σχέδιο</string>
   <string name="platform_unavailable_qq">Εγκατάσταση του VK Kate Pro</string>
   <string name="platform_unavailable_qzone">Εγκατάσταση Telegram</string>
   <string name="platform_unavailable_weibo">Εγκατάσταση  WhatsApp</string>

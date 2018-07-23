@@ -480,8 +480,8 @@
   <string name="card_main_deepclean_wechat_action">Καθαρισμός</string>
   <string name="card_main_deepclean_wechat_summary">Καθαρισμός WeChat cache για να ελευθερώσετε χώρο αποθήκευσης</string>
   <string name="card_main_deepclean_wechat_title">WeChat cache</string>
-  <string name="card_main_gamebooster_summary">Ενισχύστε τη σταθερότητα σύνδεσης παιχνιδιών</string>
-  <string name="card_main_gamebooster_title">Ενίσχυση ταχύτητας παιχνιδιών</string>
+  <string name="card_main_gamebooster_summary">Ενίσχυση σύνδεσης παιχνιδιών</string>
+  <string name="card_main_gamebooster_title">Ενίσχυση ταχύτητας</string>
   <string name="card_main_hbassistant_summary">Ώθηση ταχύτητας για βελτιώση εμπειρίας παιχνιδιών</string>
   <string name="card_main_hbassistant_title">Προστασία</string>
   <string name="card_main_monthreport_action">Προβολή</string>
@@ -682,7 +682,7 @@
   <string name="empty_title_root_apps">Καμία εφαρμογή με πρόσβαση root</string>
   <string name="enable_network">Ενεργοποιείστε πρώτα το δίκτυο</string>
   <string name="every_day">Κάθε μέρα</string>
-  <string name="examination_score_60_0">Θα πρέπει να βελτιστοποιήσετε το τηλέφωνό σας</string>
+  <string name="examination_score_60_0">Χρειάζεται βελτιστοποίηση το τηλέφωνό σας</string>
   <string name="examination_score_80_60">Ορισμένα στοιχεία χρειάζονται βελτιστοποίηση</string>
   <string name="examination_score_80_100">Ορισμένα στοιχεία μπορούν να βελτιστοποιηθούν</string>
   <string name="examination_score_100">Όλα είναι καλά!</string>
@@ -1104,7 +1104,7 @@
   <string name="menu_summary_antivirus">Αναζήτηση για ιούς στη συσκευή σας</string>
   <string name="menu_summary_antivirus_2">Εντοπίστηκαν πιθανοί κίνδυνοι</string>
   <string name="menu_summary_antivirus_3">"Δεν σαρώσατε τη συσκευή"</string>
-  <string name="menu_summary_app_manager">Ενημέρωση και απεγκατάσταση εφαρμογών</string>
+  <string name="menu_summary_app_manager">Ενημέρωση/Απεγκατάσταση</string>
   <string name="menu_summary_app_manager_2">Διαθέσιμες ενημερώσεις</string>
   <string name="menu_summary_garbage_cleanup">Δεν βρέθηκαν απορρίματα</string>
   <string name="menu_summary_garbage_cleanup_2">Μέγεθος απορριμμάτων</string>
@@ -1117,7 +1117,7 @@
   <string name="menu_summary_power_manager_1">Η μπαταρία είναι πλήρως φορτισμένη</string>
   <string name="menu_summary_power_manager_2">%s απομένουν</string>
   <string name="menu_summary_power_manager_3">Συνδέστε το φορτιστή</string>
-  <string name="menu_summary_power_manager_4">%s μέχρι να φορτιστεί</string>
+  <string name="menu_summary_power_manager_4">%s για ολοκλήρωση</string>
   <string name="network_traffic_warning_text">"Το MIUI δεν μπορεί να υπολογίσει τα στατιστικά στοιχεία χρήσης δεδομένων για μεμονωμένες εφαρμογές συστήματος εδώ.Μπορείτε να δείτε τις πληροφορίες σχετικά με τη χρήση δεδομένων στις λεπτομέρειες της εφαρμογής σε περίπτωση που αυτή η εφαρμογή χρησιμοποιεί ενεργά δεδομένα κινητής τηλεφωνίας."</string>
   <string name="network_traffic_warning_title">Χρήση δεδομένων για εφαρμογές συστήματος</string>
   <string name="menu_item_uninstall">Κατάργηση</string>

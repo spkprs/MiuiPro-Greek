@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_hide_mode">Σχετικά με την εξοικονόμηση μπαταρίας</string>
+  <string name="about_hide_mode">Περί Εξοικονόμησης μπαταρίας</string>
   <string name="app_list_title">Επιλέξτε εφαρμογές</string>
   <string name="app_name">Μπαταρία και απόδοση</string>
   <string name="app_preload_policies_summary">Χρήση των μηχανών εκμάθησης για να προβλέψετε τις εφαρμογές που πιθανόν να χρησιμοποιήσετε και να φορτώσετε πόρους εκ των προτέρων.</string>

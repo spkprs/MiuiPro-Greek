@@ -88,7 +88,7 @@
   <string name="audio_recognition_setting_title">Βρείτε εξώφυλλα και στίχους</string>
   <string name="auth_activity_title">Λογαριασμός Xunlei</string>
   <string name="auto_download_in_wifi">Λήψη αγαπημένων τραγουδιών με χρήση Wi‑Fi</string>
-    <string name="auto_enter_nowplaying_setting_title">Αυτόματη είσοδος Παίζει τώρα</string>
+  <string name="auto_enter_nowplaying_setting_title">Μεγιστοποιημένη εμφάνιση εφαρμ. αυτόματα </string>
   <string name="auto_payment">Αυτόματη ανανέωση</string>
   <string name="auto_payment_date">Επόμενη πληρωμή: %s</string>
   <string name="auto_restart_under_wifi">Το αρχείο θα ληφθεί αυτόματα όταν συνδεθείτε σε Wi‑Fi</string>
@@ -128,6 +128,7 @@
   <string name="choose_download_quality">Επιλογή ποιότητας λήψης</string>
   <string name="choose_language">Επιλέξτε γλώσσα</string>
   <string name="choose_stream_quality">Επιλέξτε ποιότητα streaming</string>
+  <string name="click_login">Πατήστε για να συνδεθείτε</string>
   <string name="click_modify">Πατήστε για επεξεργασία στίχων</string>
   <string name="click_to_shuffle">Ανακάτεμα</string>
   <string name="close_music_time">"Λεπτά που απομένουν: "</string>
@@ -164,6 +165,7 @@
   <string name="common_open_on_phone">Ανοίξτε στο τηλέφωνο</string>
   <string name="common_signin_button_text">Είσοδος</string>
   <string name="common_signin_button_text_long">Συνδεθείτε στο Google</string>
+  <string name="confirm_delete_comment">Διαγραφή του σχολίου?</string>
   <string name="confirm_exit">Αποθηκεύστε τις αλλαγές;</string>
   <string name="confirm_download">Λήψη</string>
   <string name="confirm_to_renew">Ανανέωση</string>
@@ -181,6 +183,7 @@
   <string name="data_usage_warning">Χρήση δεδομένων</string>
   <string name="data_usage_warning_summary">Η Χρήση δεδομένων κινητής για streaming υψηλής ποιότητας μουσικής, μπορεί να αυξήσει το κόστος χρήσης των δεδομένων σας.</string>
   <string name="delete">Διαγραφή</string>
+<string name="delete_comment_successfully">Διαγράφηκε επιτυχώς το σχόλιο</string>
   <string name="delete_download">Διαγραφή</string>
   <string name="delete_downloads_records">Διαγραφή λήψεων</string>
   <string name="delete_file_as_well">Διαγραφή και του τοπικού αρχείου επίσης</string>
@@ -214,8 +217,8 @@
   <string name="dialog_file_missing_body">Αδυναμία εύρεσης του ληφθέντος αρχείου.</string>
   <string name="dialog_file_missing_title">Αδυναμία ανοίγματος αρχείου</string>
   <string name="dialog_hint_music_error">Δεν βρέθηκαν τραγούδια.</string>
-  <string name="dialog_insufficient_space_on_cache">Αδυναμία ολοκλήρωσης λήψης. Δεν υπάρχει επαρκής εσωτερικός χώρος αποθήκευσης.</string>
-  <string name="dialog_insufficient_space_on_external">Αδυναμία ολοκλήρωσης λήψης. Δεν υπάρχει επαρκής χώρος στην κάρτα SD.</string>
+  <string name="dialog_insufficient_space_on_cache">Δεν υπάρχει αρκετός χώρος στην εσωτερική αποθήκευση.</string>
+  <string name="dialog_insufficient_space_on_external">Δεν υπάρχει αρκετός χώρος στην κάρτα SD.</string>
   <string name="dialog_media_not_found">Αδυναμία λήψης. Η κάρτα SD δεν είναι διαθέσιμη.</string>
   <string name="dialog_not_show_again">Χωρίς επανεμφάνιση</string>
   <string name="dialog_queued_body">Αυτό το αρχείο είναι στην ουρά για μελλοντική λήψη.</string>
@@ -244,6 +247,7 @@
   <string name="disable_auto_payment_success_message">Η αυτόματη ανανέωση απενεργοποιήθηκε. Μετά τη λήξη της τρέχουσας συνδρομής σας, θα πρέπει να εγγραφείτε ξανά για να κατεβάσετε τραγούδια.</string>
   <string name="disallow_add_to_fm">Αδυναμία προσθήκης τραγουδιών στο FM Ράδιο</string>
   <string name="disallow_add_to_personal_radio">Δεν μπορείτε να προσθέσετε τραγούδια σε ένα προσωπικό ραδιοφωνικό σταθμό</string>
+  <string name="dislike_comment_success">Αφαίρεση, Αρέσει</string>
   <string name="do_not_remind_this_version">Χωρίς υπενθύμιση σχετικά με αυτήν την έκδοση</string>
   <string name="doc_filter">Έγγραφα</string>
   <string name="done">Ολοκληρώθηκε</string>
@@ -301,6 +305,7 @@
   <string name="download_start_apk">Ξεκίνησε η Λήψη... Δείτε την πρόοδο στον πίνακα ειδοποίησης.</string>
   <string name="download_start_btn">Λήψη</string>
   <string name="download_success">Ολοκληρώθηκε</string>
+  <string name="download_times">Χρόνος λήψης που απομένει: %d</string>
   <string name="download_title_sorted_by_date">Λήψεις - Ταξινόμηση κατά ημερομηνία</string>
   <string name="download_title_sorted_by_size">Λήψεις - Ταξινόμηση κατά μέγεθος</string>
   <string name="download_toast">Χρήση δεδομένων κινητής για λήψη τραγουδιών</string>
@@ -381,6 +386,7 @@
   <string name="feed_back">Σχόλια</string>
   <string name="favourite_music_left_half">Για να προσθέσετε τραγούδια σε αυτή τη λίστα, πατήστε το</string>
   <string name="favourite_music_right_half">εικονίδιο στα δεξιά του τίτλου του τραγουδιού</string>
+  <string name="favorite_songgroup">Αγαπημένη ομάδα τραγουδιών (%d)</string>
   <string name="file_not_found">Το αρχείο δεν υπάρχει</string>
   <string name="filter_by_duration">Κατά Διάρκεια</string>
   <string name="filter_by_duration_format">%2$dλ %5$2dδ</string>
@@ -481,10 +487,12 @@
   <string name="ktv_playlist">Λίστα KTV</string>
   <string name="latest_song">Ιστορικό αναπαραγωγής (%d)</string>
   <string name="like">Αγαπημένο</string>
+  <string name="like_comment_success">Μου άρεσε</string>
   <string name="list_detail_title">Λεπτομέρειες</string>
   <string name="list_item_play_all_tracks">Αναπαραγωγή όλων</string>
   <string name="list_item_play_FM_radio">Πατήστε για να παίξει το ραδιόφωνο FM</string>
   <string name="load_shuffle">Φόρτωση…</string>
+  <string name="load_success">Ανανεώθηκε με επιτυχία</string>
   <string name="loadercontainer_loading">Μισό λεπτό…</string>
   <string name="loading_hint">Φόρτωση</string>
   <string name="local_header_title">Τοπική μουσική</string>
@@ -503,6 +511,8 @@
   <string name="local_page_song_download_history">Λήψεις</string>
   <string name="local_page_song_favorite">Αγαπημένα</string>
   <string name="local_tracks_short">Τοπική Μουσική</string>
+  <string name="login">Είσοδος</string>
+  <string name="login_tips">Συνδεθείτε για να λάβετε σχετικές προτάσεις</string>
   <string name="long_press_to_select_lyric">Πατήστε και κρατήστε πατημένο για να επιλέξετε τοπικό αρχείο στίχων</string>
   <string name="lrc_search_failed">Δεν βρέθηκαν στίχοι!</string>
   <string name="lrc_searching">Αναζήτηση…</string>
@@ -1053,4 +1063,51 @@
     <string name="title_play_list">Λίστα</string>
     <string name="video_more_dislike">Δεν αρέσει</string>
     <string name="video_more_like">Αρέσει</string>
+   <string name="market_version_too_low">Ενημέρωση του Καταστήματος εφαρμ. πρώτα</string>
+    <string name="mi_live_install">Εγκατάσταση του βοηθού του Mi Live…</string>
+    <string name="new_search_instant_title">Αναζήτηση：%1$s</string>
+    <string name="no_copyright_song_confirm_close">Κλείστε</string>
+    <string name="no_copyright_song_hint_text">Αυτό το τραγούδι δεν έχει πνευματικά δικαιώματα</string>
+    <string name="no_copyright_song_recommend_hint_text">Είναι καλύτερα να δοκιμάσετε αυτό</string>
+    <string name="play_all_shuffle"><Data>Τυχαία όλα &lt;font color=#999999>(%1$d)&lt;/font></Data></string>
+    <string name="play_all_song_with_count">Αναπαραγωγή όλων (%d)</string>
+    <string name="shuffle_music_with_count">Τυχαία αναπαραγωγή (%d)</string>
+    <string name="title_online_special">Όλα τα θέματα</string>
+    <string name="vip_tip">Εγγραφείτε στην υπηρεσία Mi Music για ροή ήχου υψηλής ποιότητας</string>
+    <string name="voice_ass">Φωνητικός βοηθός</string>
+    <string name="news_not_interest_message">Γιατί το αναφέρεις αυτό;</string>
++ <string name="news_not_interest_negative">Αλλοι λόγοι</string>
++ <string name="news_not_interest_ok">OK</string>
++ <string name="news_not_interest_positive">Δεν ενδιαφέρομαι</string>
++ <string name="news_not_interest_title">Ανατροφοδότηση</string>
++ <string name="news_not_interest_toast">"Δεν θα εμφανίζονται πλέον τέτοια στοιχεία"</string>
++ <string name="news_top_title">Νέα</string>
++ <string name="notification_comment_fav_title">Μου αρέσουν</string>
++ <string name="notification_comment_reply_title">Απαντήσεις σε σχόλια</string>
++ <string name="notification_settings_summary">Λήψη ειδοποιήσεων για ειδήσεις και τελευταίες κυκλοφορίες</string>
++ <string name="notification_settings_title">Ειδοποιήσεις push</string>
++ <string name="notification_social_title">Ειδοποίηση σχετικά με τη δραστηριότητα του χρήστη</string>
++ <string name="post_comment_failed">"Δεν ήταν δυνατή η δημοσίευση σχολίου"</string>
++ <string name="post_comment_success">Δημοσιευμένο σχόλιο με επιτυχία</string>
++ <string name="project_device_bs">Μαύρος καρχαρίας μου</string>
++ <string name="report_comment_success">"Θα επανεξετάσουμε την αναφορά σου. Ευχαριστώ για τα σχόλιά σας."</string>
++ <string name="song_playing">Παίζει</string>
++ <string name="swipe_to_load_head_complete_fail">"Δεν ήταν δυνατή η ανανέωση. Δοκίμασε ξανά."</string>
++ <string name="swipe_to_load_head_pengding">Τραβήξτε προς τα κάτω για ανανέωση</string>
++ <string name="swipe_to_load_head_refreshing">Μισό λεπτό…</string>
++ <string name="swipe_to_load_head_release">Απελευθέρωση για ανανέωση</string>
++ <string name="video_network_message">"Χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας τώρα. Χρειάζεστε %1$s των δεδομένων για την αναπαραγωγή αυτού του στοιχείου."</string>
++ <string name="video_network_negative">Επιτρέψτε αυτή τη φορά</string>
++ <string name="video_network_positive">Επιτρέψτε για σήμερα</string>
++ <string name="video_play_error">Πατήστε για αναπαραγωγή ξανά</string>
++ <string name="video_play_finish_continue">Παίξε ξανά</string>
++ <string name="video_play_mobile_net_continue">Χρήση δεδομένων κινητής τηλεφωνίας</string>
++ <string name="video_player_data_error_tip">"Δεν είναι δυνατή η αναπαραγωγή βίντεο. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά."</string>
++ <string name="video_player_net_error">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
++ <string name="video_player_no_data">Αυτό το βίντεο δεν είναι πλέον διαθέσιμο.</string>
++ <string name="xiaoai_install_message">"Φαίνεται ότι δεν έχετε εγκαταστήσει τον βοηθό φωνής Mi AI. Μπορείτε να το κατεβάσετε και να το εγκαταστήσετε τώρα."</string>
++ <string name="xiaoai_install_title">Εγκαταστήστε τον βοηθό φωνής Mi AI</string>
++ <string name="xiaoai_update_message">Φαίνεται ότι η φωνητική μηχανή Mi AI είναι πολύ παλιά. Μπορείτε να την ενημερώσετε τώρα.</string>
++ <string name="xiaoai_update_title">Ενημέρωση Mi AI</string>
 </resources>
+

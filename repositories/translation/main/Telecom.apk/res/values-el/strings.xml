@@ -47,7 +47,7 @@
   <string name="test_account_3_short_description">Συνομιλία με χρήστες δικτύου Chat</string>
   <string name="unknown">Άγνωστο</string>
   <string name="userCallActivityLabel">Τηλέφωνο</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Παρακαλώ απενεργοποιείστε τη λειτουργία TTY Mode για να κάνετε κλήσεις βίντεο.</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Απενεργοποιείστε τη λειτουργία TTY Mode για να κάνετε κλήσεις Βίντεο.</string>
   <string name="voice_dial_out">Φωνητική κλήση</string>
   <string name="voice_report_incoming_call">Εισερχόμενη κλήση</string>
   <string name="voice_report_unknown_num">Άγνωστος αριθμός</string>
