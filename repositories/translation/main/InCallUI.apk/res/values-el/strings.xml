@@ -246,7 +246,7 @@
   <string name="voicemail">Τηλεφωνητής</string>
   <string name="wait_prompt_str">Αποστολή των παρακάτω τόνων\n</string>
   <string name="waiting_close_airplane_mode">Μισό λεπτό…</string>
-  <string name="video_crbt_title">%s τόνος επιστροφής Βίντεο</string>
+  <string name="video_crbt_title">"Ο ήχος βίντεο του άλλου μέρους παίζει"</string>
   <string name="crbt_second_hold_prompt">%s είναι σε αναμονή…</string>
   <string name="crbt_second_hold_prompt_conference">Κλήση συνδιάσκεψης σε αναμονή…</string>
   <string name="crbt_second_hold_prompt_no_name">Προηγούμενη κλήση σε αναμονή…</string>  

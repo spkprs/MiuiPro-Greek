@@ -961,7 +961,6 @@
   <string name="cancel_action">Ακύρωση</string>
   <string name="cancel_alert">Απορρίψετε τις αλλαγές σας;</string>
   <string name="cancel_button">Ακύρωση</string>
-  <string name="cancel_description">Ακύρωση</string>
   <string name="cancel_download_buton_text">Ακύρωση</string>
   <string name="cant_sync_dialog_message">Ο συγχρονισμός γι\' αυτό το στοιχείο είναι προς το παρόν ανενεργός. Για να αλλάξετε αυτή τη ρύθμιση, ενεργοποιήστε προσωρινά τα δεδομένα παρασκηνίου και τον αυτόματο συγχρονισμό</string>
   <string name="cant_sync_dialog_title">Δεν είναι δυνατός ο μη αυτόματος συγχρονισμός</string>
@@ -1095,7 +1094,6 @@
   <string name="confirm_action">OK</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Προσθήκη</string>
   <string name="confirm_convert_to_fbe_warning">Πραγματικά καθαρισμό δεδομένων χρήστη και μετατροπή σε κρυπτογράφηση αρχείων;</string>
-  <string name="confirm_description">Επιβεβαίωση</string>
   <string name="confirm_download_cancelation_dialog_message">Ακύρωση λήψης ;</string>
   <string name="confirm_enable_oem_unlock_text">ΠΡΟΣΟΧΗ: Οι λειτουργίες προστασίας της συσκευής δεν θα λειτουργήσουν σε αυτή τη συσκευή, όσο αυτή η ρύθμιση είναι ενεργοποιημένη.</string>
   <string name="confirm_enable_oem_unlock_title">Ενεργοποίηση OEM unlock;</string>
@@ -4541,8 +4539,8 @@
   <string name="toast_lockscreen_glogin_empty_password">Εισαγωγή κωδικού</string>
   <string name="toast_need_login">Σύνδεση στο λογαριασμό Mi</string>
   <string name="total">Μην Ενοχλείτε</string>
-  <string name="total_info">Σίγαση ήχων %1$sεκτός από ξυπνητήρια</string>
-  <string name="total_info_sub">και απενεργοποίηση Δόνησης</string>
+  <string name="total_info">Σίγαση ήχων και απενεργοποίηση Δόνησης εκτός από το Ξυπνητήρι</string>
+ <string name="total_info_no_vibrator">Σίγαση ήχων εκτός από το Ξυπνητήρι</string>
   <string name="total_memory">Συνολική μνήμη</string>
   <string name="total_size">%s Σύνολο</string>
   <string name="total_size_label">Σύνολο</string>

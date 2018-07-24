@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="accessibility_quick_settings_alarm_on">Η Ειδοποίηση είναι ενεργή.</string>
+  <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Ποσοστό μπαταρίας %d Bluetooth συσκευής.</string>
   <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
   <string name="abc_action_bar_up_description">Πλοηγηθείτε επάνω</string>
   <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
@@ -773,8 +775,6 @@
   <string name="keyguard_indication_charging_time_slowly">Φορτίζεται αργά (%s μέχρι να γεμίσει)</string>
   <string name="keyguard_indication_trust_disabled">Η συσκευή θα παραμείνει κλειδωμένη μέχρι να ξεκλειδώσετε με το χέρι</string>
   <string name="keyguard_instructions_when_pattern_disabled">Πατήστε Μενού για να ξεκλειδώσετε.</string>
-  <string name="keyguard_left_bankcard">Αριθμομηχανή</string>
-  <string name="keyguard_left_buscard">Ξυπνητήρι</string>
   <string name="keyguard_left_mi_wallet">Mi Πορτοφόλι</string>
   <string name="keyguard_left_remotecentral">Μηνύματα</string>
   <string name="keyguard_left_smarthome">Επαφές</string>
@@ -918,7 +918,7 @@
   <string name="miui_guide_dialog_message">Οι ήχοι πολυμέσων (μουσική, βίντεο κ.λπ.) θα εξακολουθήσουν να αναπαράγονται σε λειτουργία αθόρυβης λειτουργίας. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Ξεκλειδώθηκε από συσκευή Bluetooth</string>
   <string name="miui_ringer_count_down">Αντίστροφη μέτρηση</string>
-  <string name="miui_ringer_count_down_time">Αντίστροφη μέτρηση: %s</string>
+  <string name="miui_ringer_count_down_time">%s</string>
   <string name="miui_ringer_standard">Σίγαση</string>
   <string name="miui_ringer_standard_description">Σίγαση ήχων κλήσης για εισερχόμενες και ειδοποιήσεις</string>
   <string name="miui_ringer_total">Μην Ενοχλείτε</string>

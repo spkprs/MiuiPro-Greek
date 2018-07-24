@@ -25,7 +25,7 @@
         <item quantity="one">%d δευτ. υπόλοιπο</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s χαρακτήρες</item>
-        <item quantity="one">%s χαρακτήρας</item>
+        <item quantity="other">%d  χαρακτήρες</item>
+        <item quantity="one">%d χαρακτήρας</item>
     </plurals>
 </resources>
