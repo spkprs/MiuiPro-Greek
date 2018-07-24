@@ -193,7 +193,7 @@
   <string name="composer_not_initialized">Η σύνθεση vCard δεν έχει ξεκινήσει σωστά.</string>
   <string name="config_export_vcard_type">v30_γενικό</string>
   <string name="config_import_vcard_type">προκαθορισμένο</string>
-  <string name="confirm_delete_contact_all_call_logs">Διαγραφή ιστορικού κλήσεων;</string>
+  <string name="confirm_delete_contact_all_call_logs">Διαγραφή όλων %s\'s ιστορικού;</string>
   <string name="confirm_delete_selected_all_call_logs">Διαγραφή ιστορικού κλήσεων;</string>
   <string name="confirm_delete_sim_entry_miui_title">Διαγραφή</string>
   <string name="confirm_export_message">Η λίστα επαφών σας θα εξαχθεί στο αρχείο: %s.</string>
