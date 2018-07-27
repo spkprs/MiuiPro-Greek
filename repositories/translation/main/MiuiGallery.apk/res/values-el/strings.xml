@@ -1167,6 +1167,8 @@
   <string name="video_editor_res_download_mobil_network_confirm_title">Χρήση δεδομένων κινητής τηλεφωνίας</string>
   <string name="video_editor_res_not_load_dialog_msg">Λήψη soundtracks για τη χρήση αυτής της δυνατότητας (άνω των 20MB).</string>
   <string name="video_editor_smart_effect_high_iframes_text">Αυτό το εφέ λειτουργεί καλύτερα για βίντεο 120 fps.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_40">Αυτό το εφέ μπορεί να εφαρμοστεί σε βίντεο που δεν υπερβαίνει τα 40 δευτ. Αυτόματη προσαρμογή διάρκειας.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_60">Αυτό το εφέ μπορεί να εφαρμοστεί σε βίντεο που δεν υπερβαίνει τα 60 δευτ. Αυτόματη προσαρμογή διάρκειας.</string>
   <string name="video_editor_template_family">Οικογένεια</string>
   <string name="video_editor_template_forbidden_tips">Δεν είναι δυνατό να γίνει αυτό, όταν χρησιμοποιείτε ένα πρότυπο</string>
   <string name="video_editor_template_oldfilm">Εκλεκτό</string>
@@ -1180,7 +1182,7 @@
   <string name="video_editor_text_edit_start">Τίτλος</string>
   <string name="video_editor_text_input_empty_tips">Φαίνεται ότι δεν έχετε εισάγει κείμενο ακόμα</string>
   <string name="video_editor_trim">Τακτοποίηση</string>
-  <string name="video_editor_video_loading">Προετοιμασία βίντεο, Περιμένετε λίγο και δοκιμάστε ξανά.</string>
+  <string name="video_editor_video_loading">Προετοιμασία βίντεο... Περιμένετε λίγο και δοκιμάστε ξανά.</string>
   <string name="video_editor_unsupport_audio_file">Δεν υποστηρίζεται το αρχείο ήχου</string>
   <string name="video_err">Αδύνατη η αναπαραγωγή βίντεο.</string>
   <string name="video_not_exist">Το βίντεο δεν υπάρχει</string>

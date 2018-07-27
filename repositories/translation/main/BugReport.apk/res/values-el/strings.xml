@@ -195,7 +195,7 @@
   <string name="min_error">Ο %1$s σας πρέπει να είναι μεγαλύτερος.</string>
   <string name="mobile_data_note_dialog_cancel">Περιμένετε για WLAN</string>
   <string name="mobile_data_note_dialog_confirm">Μεταφόρτωση</string>
-  <string name="mobile_data_note_dialog_content">Η χρήση κινητών δεδομένων για τη μεταφόρτωση αρχείων καταγραφής μπορεί να δημιουργήσει πρόσθετα τέλη.</string>
+  <string name="mobile_data_note_dialog_content">"Φαίνεται ότι είστε συνδεδεμένοι σε ένα αμειβόμενο δίκτυο. Η μεταφόρτωση αρχείων καταγραφής μπορεί να δημιουργήσει πρόσθετα τέλη."</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Θα χρειαστεί η μεταφόρτωση αρχείων καταγραφής %sMB δεδομένων χρησιμοποιώντας τη σύνδεση δεδομένων κινητής τηλεφωνίας .</string>
   <string name="mobile_data_note_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
   <string name="modem_tool_log">Σύλληψη αρχείου καταγραφής modem</string>

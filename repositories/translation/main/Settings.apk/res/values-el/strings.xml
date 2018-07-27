@@ -2735,8 +2735,6 @@
   <string name="navigation_guide_app_title">Ενεργοποίηση της εφαρμογής</string>
   <string name="navigation_guide_appswitch_summary">Σύρετε αριστερά ή δεξιά από την άκρη της οθόνης και κρατήστε το για λίγο</string>
   <string name="navigation_guide_appswitch_title">Μετάβαση στην προηγούμενη εφαρμογή</string>
-  <string name="navigation_guide_back_anim_summary">Προβολή κινούμενων εικόνων ενώ περνάτε από την άκρη της οθόνης</string>
-  <string name="navigation_guide_back_anim_title">"Κίνηση σε χειρονομία \"Πίσω\" "</string>
   <string name="navigation_guide_back_summary">Σύρετε αριστερά ή δεξιά από την άκρη της οθόνης</string>
   <string name="navigation_guide_back_title">Πίσω</string>
   <string name="navigation_guide_dialog_dont_show_again">Μην εμφανιστεί ξανά</string>

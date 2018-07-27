@@ -130,7 +130,7 @@
   <string name="deep_clean_completed_tips">Καθαρίστηκε με επιτυχία</string>
   <string name="deep_clean_data_path_clean_title">Εκκαθάριση προσωρινής μνήμης</string>
   <string name="deep_clean_uninstall_completed_tips">Απεγκαταστάθηκε με επιτυχία</string>
-  <string name="deepclean_1_k_clean">Γρήγορη εκκαθάριση</string>
+  <string name="deepclean_1_k_clean">Καθαρισμός μνήμης</string>
   <string name="deepclean_apk_content">Διαγράψτε APK ή περιττές εφαρμογές</string>
   <string name="deepclean_apk_summary_empty">Όλα φαίνονται καλά, δεν υπάρχουν αρχεία APK για διαγραφή</string>
   <string name="deepclean_apk_version_error">Άγνωστο</string>
@@ -274,7 +274,7 @@
   <string name="hints_storage_free">Ελεύθερα</string>
   <string name="hints_storage_free_size">Σύνολο %1$s, %2$s διαθέσιμα</string>
   <string name="hints_storage_news">Ειδήσεις ασφαλείας</string>
-  <string name="hints_title_garbage">σκουπίδια</string>
+  <string name="hints_title_garbage">Απορρίμματα</string>
   <string name="hints_video_camera">Βιντεοσκοπημένα βίντεο</string>
   <string name="hints_video_download">Λήψη βίντεο</string>
   <string name="hot">Δημοφιλή</string>
@@ -372,7 +372,7 @@
   <string name="low_memory_warning_dialog_ok_button">Καθαρισμός</string>
   <string name="low_memory_warning_dialog_title">Μη αρκετός ελεύθερος χώρος</string>
   <string name="main_title_filesize">%1$s άχρηστα</string>
-  <string name="main_total_garbage">Σύνολο απορρίμματων</string>
+  <string name="main_total_garbage">Μέγεθος απορριμμάτων</string>
   <string name="mainbtn_text_no_trash">Παράλειψη</string>
   <string name="mainbtn_text_quick_cleanup">Καθαρισμός %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Εκκαθάριση</string>
