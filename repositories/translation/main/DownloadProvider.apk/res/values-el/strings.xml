@@ -7,6 +7,10 @@
      <string name="button_queue_for_wifi">Ουρά</string>
      <string name="button_start_now">Έναρξη τώρα</string>
      <string name="button_wait_for_wifi">Αναμονή</string>
+    <string name="channel_active">Ενεργή Λήψη</string>
+    <string name="channel_complete">Η Λήψη ολοκληρώθηκε</string>
+    <string name="channel_insufficient_space">Ανεπαρκής χώρος</string>
+    <string name="channel_waiting">Αναμονή Λήψης</string>		
      <string name="dialog_insufficient_space_on_cache">Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης</string>
      <string name="dialog_insufficient_space_on_external">Δεν υπάρχει αρκετός χώρος στον εξωτερικό χώρο αποθήκευσης</string>
      <string name="dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
