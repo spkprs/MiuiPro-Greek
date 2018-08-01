@@ -607,7 +607,7 @@
   <string name="block_list_connected_devices">Συνδεδεμένες συσκευές</string>
   <string name="block_list_diaglog_cancle">Άκυρο</string>
   <string name="block_list_diaglog_ok">OK</string>
-  <string name="block_list_dialog_content">Αυτή η ενέργεια θα αποσυνδέσει “%s” από αυτήν τη συσκευή και να την προσθέσετε στη λίστα αποκλεισμού</string>
+  <string name="block_list_dialog_content">Αυτή η ενέργεια θα αποσυνδέσει το “%s” και θα την προσθέσει στη λίστα αποκλεισμού.</string>
   <string name="block_list_dialog_title">Αποσύνδεση τώρα;</string>
   <string name="block_list_no_device">Δεν υπάρχουν συνδεδεμένες συσκευές στη λίστα αποκλεισμών</string>
   <string name="block_list_remove_dialog_content">Αυτή η συσκευή “%s” θα μπορεί να συνδεθεί με αυτό το hotspot</string>
