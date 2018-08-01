@@ -2878,7 +2878,7 @@
   <string name="notification_channel_badge_title">Εμφάνιση κουκκίδας ειδοποίησης</string>
   <string name="notification_channel_sound_title">Ήχος</string>
   <string name="notification_channel_title">Κατηγορία ειδοποιήσεων</string>
-  <string name="notification_channels">Κατηγορίες</string>
+  <string name="notification_channels">Κατηγορίες ειδοποιήσεων</string>
   <string name="notification_channels_other">Άλλα</string>
   <string name="notification_content_block_summary">Να μην εμφανίζονται ποτέ ειδοποιήσεις στο πλαίσιο σκίασης ειδοποιήσεων ή σε περιφερειακές συσκευές</string>
   <string name="notification_content_block_title">Εμφάνιση ειδοποιήσεων</string>
@@ -3109,6 +3109,7 @@
   <string name="picture_in_picture_title">Λειτουργία Picture-in-picture</string>
   <string name="pin_failed">Αποτυχία κωδικού PIN κάρτας SIM!</string>
   <string name="ping_test_label">Εκτέλεση δοκιμής ping</string>
+  <string name="play_pause_description">Πλήκτρο Αναπαραγωγής/Παύσης</string>
   <string name="please_select_phase2">Φάση 2 ταυτοποίησης</string>
   <string name="please_type_passphrase">Εισάγετε κωδικό</string>
   <string name="pointer_location">Θέση του δείκτη</string>

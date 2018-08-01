@@ -986,7 +986,8 @@
   <string name="same_folder_name_warning">Ο φάκελος υπάρχει ήδη</string>
   <string name="save_button_text">Αποθήκευση</string>
   <string name="save_dialog_title">Αποθήκευση</string>
-  <string name="save_file">Αποθήκευση</string>
+  <string name="save_file">"Αποθήκευση"</string>
+  <string name="save_file_suffix">"Αρχείο"</string>
   <string name="save_file_already_exist_alert_message">Το αρχείο υπάρχει, θέλετε να το αντικαταστήσετε;</string>
   <string name="save_file_already_exist_alert_title">Αντικατάσταση αρχείου;</string>
   <string name="save_form_data_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να επηρεάσει τη χρήση.</string>

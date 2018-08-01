@@ -279,6 +279,7 @@
   <string name="crescendo_ringer_summary">Η ένταση ήχου κλήσης θα αυξηθεί σταδιακά στο επίπεδο που έχετε εσείς ρυθμίσει.</string>
   <string name="crescendo_ringer_title">Αυξανόμενη ένταση ήχου κλήσης</string>
   <string name="cursorError">Σφάλμα Δρομέα.</string>
+  <string name="data_plan">Σχέδια δεδομένων κινητής</string>
   <string name="data_enable_summary">Ενεργοποίηση πρόσβασης δεδομένων μέσω δικτύου κινητής τηλεφωνίας</string>
   <string name="data_enabled">Δεδομένα ενεργά</string>
   <string name="dc_alert_dialog_message">Ορισμένες εφαρμογές απαιτούν σύνδεση δεδομένων κινητής τηλεφωνίας. Μπορείτε να επικοινωνήσετε με τον φορέα σας για να μάθετε ποια %s είναι διαθέσιμη σε εσάς.</string>
@@ -607,7 +608,7 @@
   <string name="mmiCancelled">Ο κώδικας MMI ακυρώθηκε</string>
   <string name="mmiStarted">Έναρξη κώδικα MMI</string>
   <string name="mobile_network_settings_not_available">Οι ρυθμίσεις δικτύου κινητής δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
-  <string name="mobile_networks">Δίκτυα κινητής τηλεφωνίας</string>
+  <string name="mobile_networks">Ρυθμίσεις δικτύου κινητής τηλεφωνίας</string>
   <string name="modem_dialog_body">Το δίκτυο κινητής τηλεφωνίας είναι ασταθές, προκαλώντας διακοπές ή προβλήματα δικτύου. Στέλνετε την αναφορά σφάλματος στην Mi για ανάλυση; Αυτή η αναφορά μπορεί να περιέχει πληροφορίες προσωπικών δεδομένων. Η αναφορά σας θα χρησιμοποιηθεί για την επίλυση αυτού του σφάλματος και δεν θα μοιραστεί ποτέ σε κανένα εμπορικό πλαίσιο.</string>
   <string name="modem_dialog_title">Το δίκτυο κινητής τηλεφωνίας είναι ασταθές</string>
   <string name="msim_apn_not_set">Χωρίς Ορισμό</string>

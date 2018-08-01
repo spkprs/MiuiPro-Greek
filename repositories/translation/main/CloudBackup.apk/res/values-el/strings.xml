@@ -132,9 +132,9 @@
    <string name="btn_restore_abort">Ακύρωση</string>
    <string name="btn_restore_cancel">Ακύρωση</string>
    <string name="btn_restore_resume">Συνέχεια</string>
-   <string name="btn_restore_retry">Επανάληψη</string>
-   <string name="msg_alert_cancel_restore">Το Cloud επαναφέρει αντίγραφα, το διακόπτετε?</string>
-   <string name="msg_alert_restore_error">Η επαναφορά αντιγράφων Cloud απέτυχε, παρακαλώ ξαναπροσπαθήστε.</string>
+   <string name="btn_restore_retry">Προσπαθήστε ξανά</string>
+   <string name="msg_alert_cancel_restore">Επαναφορά στοιχείων. Διακοπή τώρα?</string>
+   <string name="msg_alert_restore_error">"Αδυναμία επαναφοράς απο το Mi Cloud. Προσπαθήστε ξανά."</string>
    <string name="title_alert_cancel_restore">Διακοπή επαναφοράς</string>
-   <string name="title_alert_restore_error">Αποτυχία επαναφοράς</string>
+   <string name="title_alert_restore_error">"Αδυναμία επαναφοράς"</string>
 </resources>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_hide_mode">Περί Εξοικονόμησης μπαταρίας</string>
-  <string name="active_classify">ταξινόμηση κατά ενεργό κατάσταση</string>
+  <string name="active_classify">Ταξινόμηση κατά κατάσταση δραστηριότητας</string>
   <string name="app_list_title">Επιλέξτε εφαρμογές</string>
   <string name="app_name">Μπαταρία και απόδοση</string>
-  <string name="appconfig_active_app_dialog_title">Διαχείριση ρυθμίσεων ενεργών εφαρμογών</string>
+  <string name="appconfig_active_app_dialog_title">Διαχείριση ενεργών εφαρμογών</string>
   <string name="app_preload_policies_summary">Χρήση των μηχανών εκμάθησης για να προβλέψετε τις εφαρμογές που πιθανόν να χρησιμοποιήσετε και να φορτώσετε πόρους εκ των προτέρων.</string>
   <string name="app_preload_policies_title">AI προ-φόρτωση</string>
   <string name="base_info">Βασικές πληροφορίες</string>
   <string name="cloud_addr_info">Πληροφορίες Cloud</string>
   <string name="cloud_international_addr">Ενημέρωση δεδομένων διεθνούς διακομιστή</string>
   <string name="cloud_staging_addr">Ενημερωμένη έκδοση διακομιστή δεδομένων</string>
-   <string name="config_classify">ταξινόμηση κατά παραμετροποίηση</string>
+   <string name="config_classify">Ταξινόμηση κατά ρυθμίσεις εφαρμογών</string>
  <string name="config_description">Το MIUI μπορεί να προσδιορίσει τις εφαρμογές με συγκεκριμένες διεργασίες παρασκηνίου (π.χ. ανταλλαγή μηνυμάτων, εφαρμογές πλοήγησης και μουσικής) και να εφαρμόσει την Εξοικονόμηση Μπαταρίας με τέτοιο τρόπο, που δεν θα επηρεάζει τις σημαντικές διεργασίες παρασκηνίου.</string>
   <string name="config_mode_title">Ρυθμίσεις παρασκηνίου</string>
   <string name="config_no_restrict_description">Η εξοικονόμηση μπαταρίας δεν περιορίζει τη δραστηριότητα των εφαρμογών</string>
