@@ -24,7 +24,7 @@
   <string name="HIPS_Perm_Settings">Τροποποίηση ρυθμίσεων συστήματος</string>
   <string name="HIPS_Perm_show_when_locked">Εμφάνιση στην οθόνη κλειδώματος</string>
   <string name="HIPS_Perm_SystemAlert">Εμφάνιση αναδυόμενου παραθύρου</string>
-  <string name="HIPS_Perm_WIFI_Connectivity">Αλλαγή συνδεσιμότητας WLAN</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Αλλαγή συνδεσιμότητας Wi-Fi</string>
   <string name="i_know">Το κατάλαβα</string>
   <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Κοινή χρήση αρχείων με κοντινές συσκευές</string>

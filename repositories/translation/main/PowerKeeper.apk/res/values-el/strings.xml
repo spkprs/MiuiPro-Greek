@@ -57,8 +57,8 @@
   <string name="power_checker_partial_wakelock_title">%1$s αποτρέπει την είσοδο του MIUI σε κατάσταση αναστολής λειτουργίας</string>
   <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s ξεκινά συχνά</string>
   <string name="power_checker_wakeup_alarm_title">%1$s ξεκινά συχνά</string>
-  <string name="power_checker_wifi_scan_multi_apps_title">%1$s αναζητήσεις για WLAN συχνά</string>
-  <string name="power_checker_wifi_scan_title">%1$s αναζητήσεις για WLAN συχνά</string>
+  <string name="power_checker_wifi_scan_multi_apps_title">%1$s αναζητήσεις για Wi-Fi συχνά</string>
+  <string name="power_checker_wifi_scan_title">%1$s αναζητήσεις για Wi-Fi συχνά</string>
   <string name="power_config_apps">Εξοικονόμηση μπαταρίας</string>
   <string name="power_config_event_delete">Διαγραφή</string>
   <string name="power_config_select_apps_title">Εφαρμογές</string>
@@ -73,7 +73,7 @@
   <string name="scenario_policies_warmcontrol">Ελεγχος θερμοκρασίας</string>
   <string name="search_result_text">Δεν ήταν δυνατή η εύρεση εφαρμογών</string>
   <string name="show_system_app">Εμφάνιση εφαρμογών συστήματος</string>
-  <string name="sleep_config_enhance_description">Κάθε φορά που το MIUI εντοπίσει ότι κοιμάστε, θα κλείσει τις εφαρμογές στο παρασκήνιο, θα περιορίσει το NFC, το Bluetooth, το GPS, τα δεδομένα κινητής τηλεφωνίας και τη χρήση WLAN και δεν θα ανάψει την οθόνη για ειδοποιήσεις.</string>
+  <string name="sleep_config_enhance_description">Κάθε φορά που το MIUI εντοπίσει ότι κοιμάστε, θα κλείσει τις εφαρμογές στο παρασκήνιο, θα περιορίσει το NFC, το Bluetooth, το GPS, τα δεδομένα κινητής τηλεφωνίας και τη χρήση Wi-Fi και δεν θα ανάψει την οθόνη για ειδοποιήσεις.</string>
   <string name="sleep_config_enhance_description_non_nfc">Όποτε το MIUI εντοπίσει ότι κοιμάστε, θα κλείσει τις εφαρμογές στο παρασκήνιο, θα περιορίσει το Bluetooth, το GPS, τα δεδομένα κινητής και τη χρήση Wi-Fi και δεν θα ανάψει την οθόνη για ειδοποιήσεις.</string>
   <string name="sleep_config_enhance_title">Κατάσταση αδράνειας</string>
   <string name="sleepmode_disclaimer_agree">Συμφωνώ</string>
@@ -82,7 +82,7 @@
   <string name="sleepmode_privacy_link">Λεπτομέριες ασφάλειας και ιδιωτικότητας</string>
   <string name="sleepmode_privacy_title">Κατάσταση αδράνειας</string>
   <string name="sucess">Εντάξει</string>
-  <string name="update_profile_failture_not_connect_wifi">Δεν ήταν δυνατή η ενημέρωση. Συνδεθείτε στο WLAN και δοκιμάστε ξανά.</string>
+  <string name="update_profile_failture_not_connect_wifi">Δεν ήταν δυνατή η ενημέρωση. Συνδεθείτε στο Wi-Fi και δοκιμάστε ξανά.</string>
   <string name="update_profile_sucess">Ενημερώθηκε από το διακομιστή με επιτυχία</string>
   <string name="vip_feedback">VIP ανατροφοδότηση</string>
   <string name="vip_feedback_enable">Ενεργοποιήστε τα σχόλια VIP</string>

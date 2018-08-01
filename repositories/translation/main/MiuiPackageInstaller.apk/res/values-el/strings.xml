@@ -101,7 +101,7 @@
   <string name="caller_app">Αίτημα άδειας από %1$s</string>
   <string name="cancel">Ακύρωση</string>
   <string name="connected_via_passpoint">Συνδεδεμένο μέσω %1$s</string>
-  <string name="connected_via_wfa">Συνδεδεμένο μέσω βοηθού WLAN</string>
+  <string name="connected_via_wfa">Συνδεδεμένο μέσω βοηθού Wi-Fi</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Εξοδος</string>
   <string name="cta_dialog_msg">Η ασφάλεια απαιτεί σύνδεση στο Internet για να λαμβάνετε ενημερώσεις, καθώς και πρόσβαση στην τοποθεσία για κανονική λειτουργία.</string>
@@ -352,7 +352,7 @@
   <string name="wifi_disabled_generic">Ανενεργό</string>
   <string name="wifi_disabled_network_failure">Αποτυχία διαμόρφωσης IP</string>
   <string name="wifi_disabled_password_failure">Πρόβλημα πιστοποίησης</string>
-  <string name="wifi_disabled_wifi_failure">Αποτυχία σύνδεσης WLAN</string>
+  <string name="wifi_disabled_wifi_failure">Αποτυχία σύνδεσης Wi-Fi</string>
   <string name="wifi_fail_to_scan">Δεν είναι δυνατή η σάρωση για δίκτυα</string>
   <string name="wifi_no_internet">Δεν εντοπιστεί πρόσβαση στο Internet, δεν θα επανασυνδεθεί αυτόματα.</string>
   <string name="wifi_not_in_range">Δεν είναι στην εμβέλεια</string>

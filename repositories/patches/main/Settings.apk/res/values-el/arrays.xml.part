@@ -5,7 +5,7 @@
     <item>Ποσοστό και γραφικά</item>
     <item>Μπάρα στην Κορυφή</item>
     <item>Ποσοστό μόνο</item>
-    <item>Κλειστό</item>
+    <item>Ανενεργό</item>
   </string-array>
   <string-array name="battery_off_entries">
     <item>Ανενεργό LED</item>

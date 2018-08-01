@@ -356,8 +356,8 @@
   <string name="uploads_disabled">Η αποστολή αρχείων είναι απενεργοποιημένη</string>
   <string name="user_agreement2">Όροι Χρήσης</string>
   <string name="user_agreement4">Πολιτική Απορρήτου</string>
-  <string name="user_notice_identify_summary_format">Το τηλέφωνό σας θα χρησιμοποιεί τη βάση δεδομένων MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις, όταν συνδέεται σε WLAN. Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>
-  <string name="user_notice_identify_summary_format_cta">Το τηλέφωνό σας θα χρησιμοποιεί τη βάση δεδομένων MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις, όταν συνδέεται σε WLAN. Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>
+  <string name="user_notice_identify_summary_format">Το τηλέφωνό σας θα χρησιμοποιεί τη βάση δεδομένων MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις, όταν συνδέεται σε Wi-Fi. Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>
+  <string name="user_notice_identify_summary_format_cta">Το τηλέφωνό σας θα χρησιμοποιεί τη βάση δεδομένων MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις, όταν συνδέεται σε Wi-Fi. Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>
   <string name="user_notice_title">Σημείωση για τους χρήστες</string>
   <string name="user_notice_yp_detail_summary_format">Μερικές επισημάνσεις στον κατάλογό σας είναι παρωχημένες. Θέλετε να τις ενημερώσετε? Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>
   <string name="user_notice_yp_detail_summary_format_cta">Μερικές επισημάνσεις στον κατάλογό σας είναι παρωχημένες. Θέλετε να τις ενημερώσετε? Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>

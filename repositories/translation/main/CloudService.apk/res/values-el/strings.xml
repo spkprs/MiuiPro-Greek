@@ -78,7 +78,7 @@
     <string name="sync_dspt_entrance_provision_confirm_title">Χωρίς χρήση του Mi Cloud?</string>
     <string name="sync_dspt_entrance_provision_confirm_content">Οι ενσωματωμένες εφαρμογές MIUI, χρησιμοποιούν το Mi Cloud για να κρατάνε αντίγραφα ασφαλείας φωτογραφιών, επαφών, σημειώσεων, καθώς και πολλά άλλα. Το Mi Cloud είναι δωρεάν και έτοιμο για χρήση άμεσα.</string>
     <string name="sync_dspt_entrance_provision_skip">Παραλείψτε αυτό το βήμα</string>
-    <string name="sync_dspt_entrance_provision_network">Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Η συγχρονισμός δεδομένων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής τηλεφωνίας και ενεργοποίηση του WLAN.</string>
+    <string name="sync_dspt_entrance_provision_network">Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Η συγχρονισμός δεδομένων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής τηλεφωνίας και ενεργοποίηση του Wi-Fi.</string>
     <string name="find_device_dspt_provision">"Εάν χάσετε τη συσκευή σας, μπορείτε να πάτε στο %s για εντοπισμό, κλείδωμα ή επαναφορά της. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε  οποιαδήποτε στιγμή στις Ρυθμίσεις."</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
@@ -270,9 +270,9 @@
 2. Μεταφέρετε τα στοιχεία στο Πρώτο προφίλ."</string>
     <string name="micloud_main_cancel_sync">Ακύρωση συγχρονισμού</string>
     <string name="micloud_main_query_again">Στείλτε ένα άλλο αίτημα</string>
-    <string name="micloud_main_wait_wlan">Αναμονή για δίκτυο WLAN</string>
-    <string name="micloud_main_wait_wlan_charge_sleep">Συνδεθείτε στο WLAN, απενεργοποιήστε την οθόνη και φορτίστε πλήρως τη συσκευή σας για να συνεχίσετε τον συγχρονισμό.</string>
-    <string name="micloud_main_wait_wlan_charge">Συνδεθείτε στο WLAN και φορτίστε πλήρως τη συσκευή σας για να συνεχίσετε τον συγχρονισμό.</string>
+    <string name="micloud_main_wait_wlan">Αναμονή για δίκτυο Wi-Fi</string>
+    <string name="micloud_main_wait_wlan_charge_sleep">Συνδεθείτε στο Wi-Fi, απενεργοποιήστε την οθόνη και φορτίστε πλήρως τη συσκευή σας για να συνεχίσετε τον συγχρονισμό.</string>
+    <string name="micloud_main_wait_wlan_charge">Συνδεθείτε στο Wi-Fi και φορτίστε πλήρως τη συσκευή σας για να συνεχίσετε τον συγχρονισμό.</string>
     <string name="micloud_main_wait_charge_sleep">Απενεργοποιήστε την οθόνη και φορτίστε πλήρως τη συσκευή σας για να συνεχίσετε τον συγχρονισμό.</string>
     <string name="micloud_main_wait_charge">Φορτίστε πλήρως τη συσκευή σας για να συνεχίσετε το συγχρονισμό.</string>
     <string name="micloud_main_resume_sync_soon">Συνέχιση συγχρονισμού σύντομα</string>

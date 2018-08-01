@@ -881,12 +881,12 @@
   <string name="preference_show_yellowpage_tab_title">Εμφάνιση κίτρινων σελίδων</string>
   <string name="preference_simple_mode_description">Εμφάνιση φωτογραφιών και άλλων πληροφοριών επαφής στην προβολή λίστας</string>
   <string name="preference_simple_mode_title">Εμφάνιση στοιχείων</string>
-  <string name="preference_smart_group_company_summary">Ομαδοποίηση βάση εταιρείας</string>
-  <string name="preference_smart_group_company_title">Βάση εταιρείας</string>
-  <string name="preference_smart_group_frequency_summary">Ομάδα με την πιο πρόσφατη</string>
+  <string name="preference_smart_group_company_summary">Ομαδοποίηση βάσει εταιρείας</string>
+  <string name="preference_smart_group_company_title">Βάσει εταιρείας</string>
+  <string name="preference_smart_group_frequency_summary">Ομαδοποίηση με την πιο πρόσφατη</string>
   <string name="preference_smart_group_frequency_title">Με την πιο πρόσφατη</string>
   <string name="preference_smart_group_location_summary">Ομαδοποίηση κατά κωδικό περιοχής</string>
-  <string name="preference_smart_group_location_title">Βάση τοποθεσίας</string>
+  <string name="preference_smart_group_location_title">Βάσει τοποθεσίας</string>
   <string name="preference_smart_group_title">Έξυπνη ομαδοποίηση</string>
   <string name="preference_telocation_summary_countrycode_off">Μη αυτόματη κλήση κωδικού χώρας</string>
   <string name="preference_telocation_summary_countrycode_on">Αυτόματη κλήση κωδικού χώρας</string>
@@ -1049,7 +1049,7 @@
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Κανένα μέλος ομάδας</string>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
-  <string name="smart_group_company_label">Βάση εταιρείας</string>
+  <string name="smart_group_company_label">Βάσει εταιρείας</string>
   <string name="smart_group_company_unavailable">Καμία εταιρεία</string>
   <string name="smart_group_frequency_1">Μέσα στον προηγούμενο μήνα</string>
   <string name="smart_group_frequency_2">Εντός των τελευταίων 3 μηνών</string>
@@ -1058,7 +1058,7 @@
   <string name="smart_group_frequency_label">Με την πιο πρόσφατη</string>
   <string name="smart_group_label">Έξυπνες ομαδοποιήσεις</string>
   <string name="smart_group_loading">Φόρτωση ομαδοποιήσεων…</string>
-  <string name="smart_group_location_label">Βάση τοποθεσίας</string>
+  <string name="smart_group_location_label">Βάσει τοποθεσίας</string>
   <string name="smart_group_location_unavailable">Καμία διεύθυνση</string>
   <string name="sms">Μήνυμα κειμένου</string>
   <string name="sms_assistant">Μήνυμα %s</string>

@@ -38,7 +38,7 @@
   <string name="lock_msg_phone">Στοιχεία επικοινωνίας: %s</string>
   <string name="login_extra_steps">Επαλήθευση σύνδεσης</string>
   <string name="login_failed">Αδυναμία σύνδεσης. %s.</string>
-  <string name="open_wifi_settings">Ανοίξτε τις ρυθμίσεις WLAN</string>
+  <string name="open_wifi_settings">Ανοίξτε τις ρυθμίσεις Wi-Fi</string>
   <string name="passport_checking_vcode">Έλεγχος κωδικού…</string>
   <string name="passport_error_empty_vcode">Εισάγετε τον κωδικό επαλήθευσης</string>
   <string name="passport_notification_need_unlock_again">Προσπαθήστε να ξεκλειδώσετε ξανά</string>

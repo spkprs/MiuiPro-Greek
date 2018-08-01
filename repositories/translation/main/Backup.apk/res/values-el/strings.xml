@@ -440,7 +440,7 @@
   <string name="trans_intro_desc_1">Σε ένα τηλέφωνο Mi, συνδεθείτε στο Wi-Fi και πατήστε &amp;quot;Είμαι παραλήπτης&amp;quot;. Επιλέξτε τη συσκευή σας iOS, συνδεθείτε στο iCloud και εισαγάγετε δεδομένα.</string>
   <string name="trans_intro_desc_3">Ακυρώστε τη μεταφορά, βγείτε από το Mi Mover και αρχίστε ξανά. Τα διπλά αρχεία θα αντικατασταθούν κατά τη διάρκεια της νέας μεταφοράς.</string>
   <string name="trans_intro_desc_4">Το Mi Mover χρησιμοποιεί Wi-Fi για τη μεταφορά αρχείων. Αυτός είναι ο λόγος για τον οποίο δεν μπορείτε να συνδεθείτε στο διαδίκτυο χρησιμοποιώντας Wi-Fi σε οποιαδήποτε συσκευή κατά τη μεταφορά. Ωστόσο, μπορείτε να χρησιμοποιήσετε τα δεδομένα κινητής τηλεφωνίας. Ωστόσο, ορισμένες νεότερες συσκευές (για παράδειγμα, Mi 6) εξακολουθούν να είναι σε θέση να συνδεθούν στο διαδίκτυο χρησιμοποιώντας Wi-Fi κατά τη διάρκεια των μεταφορών.</string>
-  <string name="trans_intro_desc_4_market">Το Mi Mover χρησιμοποιεί WLAN για τη μεταφορά αρχείων. Αυτός είναι ο λόγος για τον οποίο δεν μπορείτε να συνδεθείτε στο διαδίκτυο χρησιμοποιώντας WLAN σε οποιαδήποτε συσκευή κατά τη μεταφορά. Ωστόσο, μπορείτε να χρησιμοποιήσετε τα δεδομένα κινητής τηλεφωνίας.</string>
+  <string name="trans_intro_desc_4_market">Το Mi Mover χρησιμοποιεί Wi-Fi για τη μεταφορά αρχείων. Αυτός είναι ο λόγος για τον οποίο δεν μπορείτε να συνδεθείτε στο διαδίκτυο χρησιμοποιώντας Wi-Fi σε οποιαδήποτε συσκευή κατά τη μεταφορά. Ωστόσο, μπορείτε να χρησιμοποιήσετε τα δεδομένα κινητής τηλεφωνίας.</string>
   <string name="trans_intro_desc_5">Ο χώρος αποθήκευσης σε παλιές συσκευές χρησιμοποιείται για τη δημιουργία πακέτων μεταφοράς. Βεβαιωθείτε ότι διαθέτετε τουλάχιστον 500MB - 1GB διαθέσιμου αποθηκευτικού χώρου στο παλιό σας τηλέφωνο πριν ξεκινήσετε τη μεταφορά.</string>
   <string name="trans_intro_desc_6">Υπάρχουν διάφοροι λόγοι για τους οποίους μπορεί να συμβεί αυτό: προβλήματα συμβατότητας έκδοσης συστημάτων και εφαρμογών, προβλήματα δικτύου, θέματα συμβατότητας συγκεκριμένης συσκευής κ.λπ.</string>
   <string name="trans_intro_desc_7">Ορισμένα προφίλ εφαρμογών (e-banking, finance κ.λπ.) σχετίζονται με συγκεκριμένη συσκευή για λόγους ασφαλείας. Δοκιμάστε να καθαρίσετε τα δεδομένα της εφαρμογής ή να εγκαταστήσετε ξανά την εφαρμογή σε μια νέα συσκευή.</string>
@@ -484,7 +484,7 @@
   <string name="trans_open_camera_failed_message">Επανεκκινήστε τη συσκευή σας ή ελέγξτε αν επιτρέπεται η χρήση του M Miover&lt;b&gt;ΦΩΤΟΓΡΑΦΙΚΗ ΜΗΧΑΝΗ&lt;/b&gt;.</string>
   <string name="trans_open_camera_failed_title">Δεν ήταν δυνατή η σύνδεση με την Κάμερα</string>
   <string name="trans_open_location_button">Ενεργοποίηση</string>
-  <string name="trans_open_location_message">Ενεργοποιήστε τις υπηρεσίες τοποθεσίας για να λάβετε τη λίστα των διαθέσιμων δικτύων WLAN.</string>
+  <string name="trans_open_location_message">Ενεργοποιήστε τις υπηρεσίες τοποθεσίας για να λάβετε τη λίστα των διαθέσιμων δικτύων Wi-Fi.</string>
   <string name="trans_open_location_title">Ενεργοποιήστε τις υπηρεσίες τοποθεσίας</string>
   <string name="trans_operate_func_one">Μέθοδος Α</string>
   <string name="trans_operate_func_two">Μέθοδος Β</string>
@@ -537,7 +537,7 @@
   <string name="trans_start_failed_title">Αποτυχία έναρξης</string>
   <string name="trans_success_dialog_button_market_favourable_comment">Βαθμολογήστε το Mi Mover</string>
   <string name="trans_success_dialog_market_comment_title">Η νέα συσκευή σας αισθάνεται σαν στο σπίτι της τώρα.\nΜου άρεσε ο Mi Mover;</string>
-  <string name="trans_switching_5g">Μετάβαση σε WLAN 5GHz…</string>
+  <string name="trans_switching_5g">Μετάβαση σε Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">Λιγότερο από ένα λεπτό</string>
   <string name="trans_time_spent">Χρόνος που πέρασε: %s</string>
   <string name="trans_wait_trans_data">Συνδεδεμένο με την παλιά συσκευή. \u000d\nΑναμονή για τη μεταφορά…</string>

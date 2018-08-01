@@ -603,7 +603,7 @@
   <string name="dialog_restrict_all_mobile_summary">%s Η σύνδεση δεδομένων κινητής τηλεφωνίας θα περιοριστεί για όλες τις εφαρμογές μετά από αυτό.</string>
   <string name="dialog_restrict_all_mobile_title">Περιορίστε %s σύνδεση δεδομένων</string>
   <string name="dialog_restrict_all_wlan_summary">Η σύνδεση Wi-Fi θα περιοριστεί για όλες τις εφαρμογές μετά από αυτό.</string>
-  <string name="dialog_restrict_all_wlan_title">Περιορίστε τη σύνδεση WLAN</string>
+  <string name="dialog_restrict_all_wlan_title">Περιορίστε τη σύνδεση Wi-Fi</string>
   <string name="dialog_restrict_negative">Περιορισμός</string>
   <string name="dialog_restrict_positive">Ακύρωση</string>
   <string name="dialog_roaming_message">Να επιτρέπεται σε αυτή την εφαρμογή να κάνει χρήση δεδομένων κινητής κατά την περιαγωγή στο εξωτερικό;</string>
@@ -654,9 +654,9 @@
   <string name="dlg_remove_whitelist_title">Αφαίρεση</string>
   <string name="dlg_sec_network_unavailable">Η εφαρμογή δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο διαδίκτυο. Να επιτρέπεται η σύνδεση στο Διαδίκτυο;</string>
   <string name="dlg_title_not_open_stranger_identify">Ενεργοποίηση αναγνώρισης κλήσης αγνώστων αριθμών</string>
-  <string name="dlg_update_btn_contiue">Να συνεχίσει</string>
+  <string name="dlg_update_btn_contiue">Συνέχεια</string>
   <string name="dlg_update_btn_open">Επιτρέψτε</string>
-  <string name="dlg_update_data_content">Δεν είστε συνδεδεμένοι στο WLAN. Η χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να δημιουργήσει πρόσθετα τέλη. Συνέχεια ούτως ή άλλως;</string>
+  <string name="dlg_update_data_content">Δεν είστε συνδεδεμένοι σε Wi-Fi. Η χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να δημιουργήσει πρόσθετα τέλη. Συνέχεια ούτως ή άλλως;</string>
   <string name="dlg_update_date_title">Προειδοποίηση</string>
   <string name="dlg_update_updating">Ενημέρωση…</string>
   <string name="dlg_white_address_antispam_message">Προσθήκη της τοποθεσίας στις εξαιρέσεις;</string>
@@ -1179,7 +1179,7 @@
   <string name="network_blocked_notification_summary">Δοκιμή δικτύου</string>
   <string name="network_blocked_switch_wifi">Εναλλαγή δικτύων</string>
   <string name="network_changed_noti_summary">Χρήση δεδομένων κινητής</string>
-  <string name="network_changed_noti_title">Αποσύνδεση από το δίκτυο WLAN</string>
+  <string name="network_changed_noti_title">Αποσύνδεση από το δίκτυο Wi-Fi</string>
   <string name="network_connected_exception_title">Δοκιμή δικτύου</string>
   <string name="network_control">Προβολή ρυθμίσεων εφαρμογών</string>
   <string name="network_diagnostics">Δοκιμή δικτύου</string>
@@ -2200,7 +2200,7 @@
   <string name="virus_auto_update_engine">Αυτόματες ενημερώσεις: %s</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_tips_title">Προειδοποίηση</string>
-  <string name="virus_wait_network_dialog_message">Το τηλέφωνό σας δεν είναι συνδεδεμένο στο δίκτυο Wi-Fi τώρα. Θα κοστίσει επιπλέον τη χρήση δεδομένων κινητής τηλεφωνίας. Να συνεχίσει ?</string>
+  <string name="virus_wait_network_dialog_message">Το τηλέφωνό σας δεν είναι συνδεδεμένο στο δίκτυο Wi-Fi τώρα. Θα κοστίσει επιπλέον τη χρήση δεδομένων κινητής τηλεφωνίας. Συνέχεια ?</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Επιτρέπετε στο %1$s να ανοίξει το %2$s;</string>
   <string name="website">Ιστοσελίδα</string>

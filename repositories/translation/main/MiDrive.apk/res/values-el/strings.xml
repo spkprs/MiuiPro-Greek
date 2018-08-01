@@ -128,7 +128,7 @@
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Αναμονή για δίκτυο</string>
   <string name="wait_sdcard">Αναμονή κάρτας SD…</string>
-  <string name="wait_wifi">Αναμονή για δίκτυο WLAN</string>
+  <string name="wait_wifi">Αναμονή για δίκτυο Wi-Fi</string>
   <string name="waiting">Αναμονή</string>
   <string name="wangpan_root_path">My drive</string>
   <string name="xiaomi_drive_description_content">Το Mi Drive είναι ένα online εργαλείο αποθήκευσης που σας επιτρέπει να διατηρείτε τα αρχεία σας online και να τα αποθηκεύετε στη συσκευή σας. Σταματάτε  να χρησιμοποιείτε το Drive Mi;</string>
