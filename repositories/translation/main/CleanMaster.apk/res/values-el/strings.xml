@@ -379,6 +379,8 @@
   <string name="mainbtn_text_quick_cleanup_default">Εκκαθάριση</string>
   <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d εφαρμογές, μνήμη %2$s</string>
+    <string name="memory_clean_icon_text">Καθαρισμός Μνήμης</string>
+    <string name="memory_clean_no_trash_tip">Όλα φαίνονται εντάξει</string>
   <string name="menu_add_to_white_list">Προσθήκη εξαιρέσεων</string>
   <string name="menu_clear">Καθαρισμός</string>
   <string name="menu_install">Εγκατάσταση αυτής της εφαρμογής</string>
@@ -403,12 +405,18 @@
   <string name="notification_title_of_garbage_cleanup">%s Μέγεθος αχρήστων</string>
   <string name="notify_when">Λάβετε ειδοποίηση όταν το μέγεθος του κάδου φτάσει τα 100MB</string>
   <string name="ok">Εντάξει</string>
+    <string name="onekeyclean_boosting_title">Ενίσχυση ταχύτητας</string>
+    <string name="onekeyclean_boosted_title">Εκκαθαρίστηκαν επιτυχώς</string>
+    <string name="onekeyclean_boost_cleaned">%s Εκκαθαρίστηκαν</string>
+    <string name="onekeyclean_boost_available">%s διαθέσιμα</string>
+    <string name="onekeyclean_card_summery">Καθαρισμός αχρήστων για ελευθέρωση χώρου</string>
+    <string name="onekeyclean_card_btn">Καθαρισμός τώρα</string>
   <string name="open">Ενεργοποίηση</string>
   <string name="open_app">Εκκίνηση</string>
   <string name="open_browser">Άνοιγμα στον Πλοηγό</string>
   <string name="open_file_error">Αδύνατη η εύρεση εφαρμογής για άνοιγμα αυτού τού αρχείου</string>
-  <string name="optimizecenter_data_support_cm">Τροφοδοτείται από Clean Master</string>
-  <string name="optimizecenter_data_support_tc">Τροφοδοτείται από Tencent</string>
+  <string name="optimizecenter_data_support_cm">Υποστηρίζεται από την Clean Master</string>
+  <string name="optimizecenter_data_support_tc">Υποστηρίζεται από την Tencent</string>
   <string name="output_videos">Εξαγωγή βίντεο</string>
   <string name="phone_search">Αναζήτηση Google</string>
   <string name="positive_confirm">Εντάξει</string>
@@ -438,6 +446,7 @@
   <string name="pref_title_choose_engine">Ορισμοί</string>
   <string name="pref_title_clean_alert">Υπενθύμιση εκκαθάρισης</string>
   <string name="pref_title_cleanup_white_list">Εξαιρέσεις</string>
+    <string name="pref_title_create_onekeyclean_shortcut">Εμφάνιση συντόμευσης σε Αρχική οθόνη</string>
   <string name="pref_title_expand_cache_group">Εμφάνιση αποθηκευμένων στοιχείων</string>
   <string name="pref_title_garbage_cleanup_check_size">Όριο μεγέθους αχρήστων</string>
   <string name="pref_title_garbage_cleanup_check_time">Χρονοδιάγραμμα</string>
