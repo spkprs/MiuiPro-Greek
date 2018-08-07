@@ -1101,7 +1101,7 @@
   <string name="menu_item_shortcut_title">Διαχείριση συντομεύσεων</string>
   <string name="menu_summary_antispam">Αποκλεισμός κλήσεων και μηνυμάτων</string>
   <string name="menu_summary_antispam_2">Αποκλεισμένες κλήσεις και μηνύματα</string>
-  <string name="menu_summary_antivirus">Αναζήτηση για ιούς στη συσκευή σας</string>
+  <string name="menu_summary_antivirus">Αναζήτηση για ιούς</string>
   <string name="menu_summary_antivirus_2">Εντοπίστηκαν πιθανοί κίνδυνοι</string>
   <string name="menu_summary_antivirus_3">"Δεν σαρώσατε τη συσκευή"</string>
   <string name="menu_summary_app_manager">Ενημέρωση/Απεγκατάσταση</string>
@@ -1111,7 +1111,7 @@
   <string name="menu_summary_garbage_cleanup_3">Καθαρίστε τα απορρίματα τώρα</string>
   <string name="menu_summary_networkassistants">Διαχειριστείτε το σχέδιο δεδομένων σας</string>
   <string name="menu_summary_networkassistants_2">Περάσατε το όριο</string>
-  <string name="menu_summary_networkassistants_3">Αρκετά δεδομένα απομένουν</string>
+  <string name="menu_summary_networkassistants_3">Απομένουν αρκετά δεδομένα</string>
   <string name="menu_summary_networkassistants_4">Εξαντλούνται τα δεδομένα</string>
   <string name="menu_summary_power_manager">Η εξοικονόμηση μπαταρίας σας δίνει περισσότερο χρόνο μεταξύ των χρεώσεων</string>
   <string name="menu_summary_power_manager_1">Η μπαταρία είναι πλήρως φορτισμένη</string>
@@ -1121,7 +1121,7 @@
   <string name="network_traffic_warning_text">"Το MIUI δεν μπορεί να υπολογίσει τα στατιστικά στοιχεία χρήσης δεδομένων για μεμονωμένες εφαρμογές συστήματος εδώ.Μπορείτε να δείτε τις πληροφορίες σχετικά με τη χρήση δεδομένων στις λεπτομέρειες της εφαρμογής σε περίπτωση που αυτή η εφαρμογή χρησιμοποιεί ενεργά δεδομένα κινητής τηλεφωνίας."</string>
   <string name="network_traffic_warning_title">Χρήση δεδομένων για εφαρμογές συστήματος</string>
   <string name="menu_item_uninstall">Κατάργηση</string>
-  <string name="menu_item_virus_cloud_scan_summary">Ανεβάστε και σαρώστε τα ονόματα και λεπτομέρειες των εφαρμογών με την online βάση ιών</string>
+  <string name="menu_item_virus_cloud_scan_summary">Ανεβάστε και σαρώστε τα ονόματα και λεπτομέρειες των εφαρμογών στην online βάση ιών</string>
   <string name="menu_item_virus_cloud_scan_title">Online βάση ιών</string>
   <string name="menu_item_virus_install_monitor_summary">Ελέγξτε τις εφαρμογές πριν από την εγκατάσταση</string>
   <string name="menu_item_virus_install_monitor_title">Παρακολούθηση εγκατάστασης</string>
@@ -1448,7 +1448,7 @@
   <string name="power_save_mode_end_time">Λήξη</string>
   <string name="power_save_mode_ontime_enabled">Χρονοδιάγραμμα Εξοικονόμησης ενέργειας</string>
   <string name="power_save_mode_start_time">Έναρξη</string>
-  <string name="power_save_mode_summary">Παρακολούθηση διεργασιών παρασκηνίου, απενεργοποίηση συγχρονισμού και απόκρυψη κινήσεων συστήματος. Η Εξοικονόμηση μπαταρίας θα απενεργοποιηθεί αυτόματα όταν η μπαταρία φορτίσει στο 60%.</string>
+  <string name="power_save_mode_summary">Παρακολούθηση διεργασιών παρασκηνίου, απενεργοποίηση συγχρονισμού και απόκρυψη κινήσεων συστήματος. Η Εξοικονόμηση μπαταρίας θα απενεργοποιηθεί αυτόματα όταν η μπαταρία φορτιστεί στο 60%.</string>
   <string name="power_save_on_time_end_time_summary_na">Έως</string>
   <string name="power_save_on_time_start_time_summary_na">Από</string>
   <string name="power_save_summary_text">Ενεργοποίηση Εξοικονόμησης ενέργειας για μείωση δραστηριοτήτων παρασκηνίου των εφαρμογών, διακοπή συγχρονισμού και ελαχιστοποίηση κινήσεων συστήματος.</string>
@@ -1500,7 +1500,7 @@
   <string name="pref_key_tethering_setting">Μεμονομένο όριο δεδομένων</string>
   <string name="pref_key_tethering_title">Μεμονομένο όριο δεδομένων</string>
   <string name="pref_manual_adjust">Ορισμός στατιστικών χρήσης δεδομένων χειροκίνητα</string>
-  <string name="pref_mi_sim_settings">Ρυθμίσεις Mi SIM</string>
+  <string name="pref_mi_sim_settings">%s ρυθμίσεις πακέτου</string>
   <string name="pref_more_settings">Πρόσθετες ρυθμίσεις</string>
   <string name="pref_new_installed_preconfig_title">Προεπιλογή για νέες εφαρμογές</string>
   <string name="pref_normal_traffic_limit">Όταν εξαντληθεί το πακέτο δεδομένων</string>
@@ -1514,7 +1514,7 @@
   <string name="pref_roaming_setting_gategory">Ρυθμίσεις</string>
   <string name="pref_special_package_setting">Προσαρμοσμένο Πακέτο δεδομένων</string>
   <string name="pref_special_package_setting_summary">Διαχειριστείτε τα δεδομένα εκτός αιχμής, τα επιπλέον πακέτα, τα ημερήσια πακέτα δεδομένων και τα προκαθορισμένα δεδομένα</string>
-  <string name="pref_summary_upload_data_usage">Αναφέρετε τα στατιστικά στοιχεία χρήσης δεδομένων σας για να μας βοηθήσετε να βελτιώσουμε το MIUI. Η αναφορά γίνεται σύμφωνα με την πολιτική απορρήτου μας.</string>
+  <string name="pref_summary_upload_data_usage">Αναφέρετε τις πληροφορίες χρήσης δεδομένων σας για να μας βοηθήσετε να βελτιώσουμε τις υπηρεσίες MIUI. Η αναφορά γίνεται σύμφωνα με την πολιτική απορρήτου μας.</string>
   <string name="pref_title_declaration">Σημαντική ενημέρωση</string>
   <string name="pref_title_diagnostics_show_float_notification">Αναδυόμενες ειδοποιήσεις</string>
   <string name="pref_title_manual_check_virus_db_update">Ελεγχος για ενημερώσεις</string>
@@ -1522,7 +1522,7 @@
   <string name="pref_title_traffic_limit_number">Μέγεθος</string>
   <string name="pref_title_traffic_speed_state">Εμφάνιση ταχύτητας δικτύου</string>
   <string name="pref_title_update_notification">Ειδοποιήσεις χρήσης δεδομένων</string>
-  <string name="pref_title_upload_data_usage">Αναφορά στατιστικών στοιχείων χρήσης</string>
+  <string name="pref_title_upload_data_usage">Αναφορά πληροφοριών χρήσης δεδομένων</string>
   <string name="pref_traffic_manage_title">Χρήση δεδομένων</string>
   <string name="pref_warning_values">Ποσοστό προειδοποίησης χρήσης</string>
   <string name="pref_whitelist_setting">Εξαιρέσεις περιαγωγής δεδομένων</string>
@@ -1577,6 +1577,9 @@
   <string name="report_success">Το μήνυμα αναφέρθηκε</string>
   <string name="report_warning">Αναφορά %1$s SMS στη Mi; Αυτά τα μηνύματα και οι αριθμοί τηλεφώνου από τους οποίους στάλθηκαν, θα φορτωθούν στους διακομιστές Mi για επανεξέταση. Οποιεσδήποτε προσωπικές πληροφορίες που σχετίζονται με αυτά τα μηνύματα, παραμένουν πάντα ανώνυμες.</string>
   <string name="report_warning_title">Αναφορά SMS</string>
+    <string name="reset_data_title">"Αδύνατη η επαναφορά του κωδικού"</string>
+    <string name="reset_data_dialog_message">"Αυτή η συσκευή δεν συσχετίζεται με το δικό σας Λογαριασμό Mi. Δεν είναι δυνατή η επαναφορά ή μηδενισμός του κωδικού. Δημιουργήστε αντίγραφα ασφαλείας όλων των σημαντικών αντικειμένων και πραγματοποιήστε επαναφορά Εργοστασιακών ρυθμίσεων. Όλα τα δεδομένα θα διαγραφούν οριστικά και η κάρτα SD σας θα διαμορφωθεί κατά την επαναφορά Εργοστασιακών ρυθμίσεων."</string>
+    <string name="reset_data_dialog_ok">Εργοστασιακές ρυθμίσεις</string>
   <string name="resource_antispam">Λίστα αποκλεισμών</string>
   <string name="resource_antivirus">Σάρωση Ιών</string>
   <string name="resource_app_permissions">Δικαιώματα εφαρμογής</string>

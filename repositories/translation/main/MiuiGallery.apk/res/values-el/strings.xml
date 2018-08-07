@@ -228,7 +228,7 @@
   <string name="cleaner_slim_description">Διατηρήστε τις βελτιστοποιημένες φωτογραφίες στη συσκευή σας. Τα πρωτότυπα αρχεία θα αποθηκευτούν στο Mi Cloud.</string>
   <string name="cleaner_slim_start">Βελτιστοποίηση</string>
   <string name="cleaner_slim_title">Βελτιστοποίηση φωτογραφιών</string>
-  <string name="cleaner_space_description">μπορεί να απελευθερώσει</string>
+  <string name="cleaner_space_description">μπορεί να διαγραφούν</string>
   <string name="cleaner_space_detail_description">Εκκαθάριση φωτογραφιών της Συλλογής σας για απελευθέρωση χώρου αποθήκευσης</string>
   <string name="cleaner_stop_scan">Διακοπή σάρωσης</string>
   <string name="click_download_gif">Πατήστε για λήψη GIF</string>

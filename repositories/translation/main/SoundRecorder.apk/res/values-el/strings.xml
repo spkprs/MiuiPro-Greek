@@ -75,6 +75,7 @@
   <string name="preference_scenes">Τύπος εγγραφής</string>
   <string name="preference_silent_mode">Σίγαση κουδουνίσματος κατά την εγγραφή</string>
   <string name="preference_tip_rename">Χειροκίνητη μετονομασία εγγραφών</string>
+    <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
   <string name="recognition_error_cancel">Ακυρώθηκε</string>
   <string name="recognition_error_download_cancel">Αργότερα</string>
   <string name="recognition_error_download_fail">Αδυναμία λήψης. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>

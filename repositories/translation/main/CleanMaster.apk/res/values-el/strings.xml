@@ -118,6 +118,7 @@
   <string name="clean_content_three">3 στοιχεία</string>
   <string name="clean_content_two">2 στοιχεία</string>
   <string name="clean_content_zero">Κανένα</string>
+  <string name="clean_summary">Εκκαθαρίστηκαν %1$s αρχεία</string>
   <string name="clear_bigfiles">Διαγραφή μεγάλα αρχεία, διπλές φωτογραφίες και άλλα παρωχημένα στοιχεία</string>
   <string name="clear_immediately">Καθαρισμός τώρα</string>
   <string name="clear_safe_notify">Κοινοποίηση στο widget</string>

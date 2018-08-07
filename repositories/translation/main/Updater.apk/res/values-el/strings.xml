@@ -23,11 +23,11 @@
   <string name="auto_download_sum">Λήψη ενημερώσεων όταν είστε συνδεδεμένοι σε Wi-Fi</string>
   <string name="auto_update">Αυτόματη εγκατάσταση</string>
   <string name="auto_update_global">Αυτόματη επανεκκίνηση συσκευής</string>
-  <string name="auto_update_sum">Το MIUI θα επιλέξει την καλύτερη στιγμή για να εγκαταστήσει τις ενημερώσεις</string>
+  <string name="auto_update_sum">Το MIUI θα επιλέξει την κατάλληλη στιγμή για να εγκαταστήσει τις ενημερώσεις</string>
   <string name="autosetmode">Αυτόματες ενημερώσεις</string>
   <string name="best_update">Η καλύτερη ενημέρωση μέχρι τώρα</string>
-  <string name="boot_recovery">Επανεκκίνηση σε Λειτουργία ανάκτησης;</string>
-  <string name="button_delay_update_reboot">Επανεκκίνηση &amp; ενημέρωση</string>
+  <string name="boot_recovery">Επανεκκίνηση σε λειτουργία Ανάκτησης;</string>
+  <string name="button_delay_update_reboot">Επανεκκίνηση και ενημέρωση</string>
   <string name="button_text_check">Έλεγχος για ενημερώσεις</string>
   <string name="button_text_reboot">Επανεκκίνηση τώρα</string>
   <string name="button_text_reboot_hm">Επανεκκίνηση τώρα</string>

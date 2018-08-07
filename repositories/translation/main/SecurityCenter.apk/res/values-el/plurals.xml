@@ -339,4 +339,9 @@
         <item quantity="other">%d εφαρμ. είναι κρυφές</item>
         <item quantity="one">%d εφαρμ. είναι κρυφή</item>
     </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Εργοστασιακές ρυθμίσεις (%ds)</item>
+        <item quantity="one">Εργοστασιακή ρύθμιση (%ds)</item>
+    </plurals>
+	
 </resources>

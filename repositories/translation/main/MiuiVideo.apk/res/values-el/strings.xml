@@ -95,8 +95,8 @@
   <string name="detail_shortcut">Συντόμευση</string>
   <string name="detail_summary">Περίληψη</string>
   <string name="development_setting">Ρυθμίσεις Ανάπτυξης</string>
-  <string name="device_empty_hint">Άδεια</string>
-  <string name="device_media_empty_hint">Άδεια</string>
+  <string name="device_empty_hint">Κενή</string>
+  <string name="device_media_empty_hint">Κενή</string>
   <string name="do_not_show_this_again">Μην ξαναεμφανιστεί</string>
   <string name="download_fail">Απέτυχε</string>
   <string name="download_finished">Ολοκληρώθηκε</string>

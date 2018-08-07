@@ -47,7 +47,7 @@
   <string name="station_check_favorite">Προσθήκη στις μνήμες</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="stations_list">Λίστα σταθμών</string>
-  <string name="stations_list_empty">Άδεια λίστα</string>
+  <string name="stations_list_empty">Κενή λίστα</string>
   <string name="toast_added_to_list">Προστέθηκε στην λίστα</string>
   <string name="toast_added_to_presets">Προστέθηκε στις μνήμες</string>
   <string name="toast_fm_error_startfailed">Σφάλμα εγγραφής.Μια άλλη εφαρμογή μπορεί να χρησιμοποιεί τη λειτουργία εγγραφής. Παρακαλούμε ελέγξτε και προσπαθήστε ξανά.</string>

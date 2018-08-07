@@ -108,7 +108,7 @@
      <string name="note_link_select">Επιλογή κειμένου</string>
      <string name="note_link_tel">Κλήση</string>
      <string name="note_link_web">Εξερεύνηση Internet</string>
-     <string name="note_sort_way">Επιλέξτε την ταξινόμηση των σημειώσεων σας</string>
+     <string name="note_sort_way">Ταξινόμηση σημειώσεων</string>
      <string name="notealert_enter">Ρίξτε μια ματιά</string>
      <string name="notealert_ok">Το κατάλαβα</string>
      <string name="notelist_menu_new">Προσθήκη σημείωσης</string>
@@ -223,6 +223,7 @@
      <string name="toast_unmark_privacy_notes">Επιτυχής επανεμφάνιση</string>
      <string name="toast_unmark_privacy_notes_count">Επιτυχής επανεμφάνιση %1$s σημειώσεων</string>
      <string name="toolbar_voice_description">Φωνή</string>
+     <string name="trash_folder_reminder">Sημειώσεις που διαγράφετε θα διαγραφούν μόνιμα σε 30 ημέρες.</string>
      <string name="trash_folder_name">Άχρηστα</string>
      <string name="undo">Αναίρεση</string>
      <string name="unknown_source">Άγνωστη πηγή</string>

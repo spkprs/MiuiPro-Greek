@@ -73,6 +73,10 @@
     <item quantity="other">%d συγκροτήματα</item>
     <item quantity="one">%d συγκρότημα</item>
   </plurals>
+  <plurals name="Nnowplaying_songs">
+      <item quantity="other">(%d τραγούδια)</item>
+      <item quantity="one">(%d τραγούδι)</item>
+   </plurals>
   <plurals name="Nnew_tracks_count">
     <item quantity="other">%d νέα</item>
   </plurals>

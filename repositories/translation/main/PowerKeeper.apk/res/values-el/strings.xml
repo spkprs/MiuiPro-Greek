@@ -22,7 +22,7 @@
   <string name="config_restrict_running_title">Περιορισμός δραστηριότητας</string>
   <string name="config_restrict_running_warning">Οι εφαρμογές θα κλείσουν στο παρασκήνιο. Αυτό μπορεί να τους οδηγήσει σε κακή συμπεριφορά.</string>
   <string name="config_scenario_policies_title">Σχέδια</string>
-  <string name="config_suggest_description">Χρησιμοποιείστε διαφορετικές ρυθμίσεις εξοικονόμησης ενέργειας για διαφορετικές εφαρμογές</string>
+  <string name="config_suggest_description">Χρησιμοποιεί διαφορετικές ρυθμίσεις εξοικονόμησης ενέργειας για διαφορετικές εφαρμογές</string>
   <string name="config_suggest_suffix_title">Εξοικονόμηση MIUI (συνιστάται)</string>
   <string name="current_cloud_addr_is">Διακομιστής ελέγχου Cloud, η διεύθυνση είναι:</string>
   <string name="disable_hide_mode">Απενεργοποίηση Προστασίας μπαταρίας</string>

@@ -85,6 +85,9 @@
   <string name="miui_screen_ratio_hint_message">Αυτή η εφαρμογή επιτρέπεται να εκτελείται σε κατάσταση πλήρους οθόνης, γεγονός που μπορεί να προκαλέσει την εσφαλμένη εμφάνιση της. Μπορείτε να το αλλάξετε απο τις Ρυθμίσεις&gt; Πλήρης Οθόνη.</string>
   <string name="miui_screen_ratio_hint_ok">Εντάξει</string>
   <string name="miui_upgrading_notification_title">Φόρτωση του συστήματος, ορισμένες δυνατότητες ενδέχεται να μην είναι διαθέσιμες.</string>
+  <string name="miui_warning_button_ok">OK</string>
+  <string name="miui_warning_button_cancel">Ακύρωση</string>
+  <string name="miui_warning_tip_info">Παρουσιάστηκε σφάλμα σε %1$s. Κλείνετε την εφαρμογή τώρα?</string>
   <string name="onehour">30 λεπτά</string>
   <string name="package_delete_confirm_step_1">Απεγκατάσταση %s?</string>
   <string name="package_delete_confirm_step_2">Η κατάργηση της εγκατάστασης αυτής της εφαρμογής ενδέχεται να προκαλέσει την αστάθεια του συστήματός σας.</string>

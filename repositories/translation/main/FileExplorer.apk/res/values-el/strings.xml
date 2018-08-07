@@ -525,7 +525,7 @@
      <string name="save_failed_for_length">Η υπογραφή είναι πολύ μεγάλη. Δοκιμάστε μια μικρότερη</string>
      <string name="save_name_success">Επιτυχής αλλαγή</string>
      <string name="save_to_local">Λήψη</string>
-     <string name="search_app">Εφαρμογές &amp; φάκελοι</string>
+     <string name="search_app">Εφαρμογές και Φάκελοι</string>
      <string name="search_app_more">Περισσότερα</string>
      <string name="search_description">Ψάξτε όλα τα αρχεία στη συσκευή</string>
   <string name="search_download">Λήψεις;Πρόσφατες λήψεις</string>
@@ -607,8 +607,8 @@
   <string name="shortcut_msg">Προσθήκη συντόμευσης στην Αρχική οθόνη για δημοφιλή βίντεο</string>
   <string name="skip_file">Παράλειψη</string>
      <string name="smb_loading">Μισό λεπτό…</string>
-  <string name="sort_size_asc">Μικρό σε Μεγάλο</string>
-  <string name="sort_size_desc">Μεγάλο σε Μικρό</string>
+  <string name="sort_size_asc">Μικρό πρός Μεγάλο</string>
+  <string name="sort_size_desc">Μεγάλο πρός Μικρό</string>
 <string name="start_server">Εκκίνηση διακομιστή</string>
      <string name="stay_awake_summary">Η οθόνη μένει ενεργή κατά τη χρήση του FTP</string>
      <string name="stay_awake_title">Ενεργή οθόνη</string>
@@ -624,7 +624,7 @@
   <string name="swap_tip_2">για να παρακολουθήσετε άλλα βίντεο</string>
      <string name="sys_size_enable">" διαθέσιμα"</string>
      <string name="tab_category">Κατηγορίες</string>
-     <string name="tab_common_app">Εφαρμογές &amp; φάκελοι</string>
+     <string name="tab_common_app">Εφαρμογές και Φάκελοι</string>
   <string name="tab_discover">Ανακαλύψτε</string>
   <string name="tab_explore">Ανακαλύψτε</string>
      <string name="tab_follow">Ακολουθείτε</string>

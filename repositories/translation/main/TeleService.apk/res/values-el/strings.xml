@@ -236,9 +236,10 @@
   <string name="cfnrc_title_cta">Προώθηση όταν είμαι απρόσιτος</string>
   <string name="cfnry_title">Προώθηση όταν δεν απαντώ</string>
   <string name="cfu_title">Προώθηση πάντα</string>
-  <string name="change_data_preference_4g_only_prompt">Φαίνεται ότι έχετε μια μόνο 4G κάρτα SIM. Να οριστεί ως προεπιλογή για δεδομένα κινητής;</string>
+  <string name="change_data_preference_4g_only_prompt">Φαίνεται ότι έχετε μια μόνο 4G κάρτα SIM. Για να βεβαιωθείτε ότι λειτουργεί κανονικά, ορίστε την ως προεπιλογή για δεδομένα κινητής. Ορισμός τώρα;</string>
   <string name="change_default_data_card">Προεπιλεγμένη κάρτα SIM κινητών δεδομένων</string>
   <string name="change_default_data_card_summary">Φαίνεται πως αλλάξατε κάρτες SIM. Ορίζετε αυτήν την κάρτα ως  προεπιλεγμένη κάρτα SIM δεδομένων κινητής;</string>
+    <string name="change_data_sim_4g_only_prompt">"Η SIM %1$s υποστηρίζει μόνο 4G. Όταν η SIM %2$s δεν είναι η προεπιλεγμένη για δεδομένα κινητής, η SIM ίσως να μην λειτουργεί κανονικά. Αλλαγή τώρα;"</string>
   <string name="change_num">Ενημέρωση</string>
   <string name="change_password">Αλλαγή κωδικού φραγής</string>
   <string name="change_pin">Αλλαγή PIN κάρτας SIM</string>
@@ -720,6 +721,8 @@
   <string name="onscreenSwapCallsText">Εναλλαγή</string>
   <string name="onscreenVideoCallText">Κλήση βίντεο</string>
   <string name="open_miui">Άνοιγμα</string>
+  <string name="opened_dual_4g_confirm_prompt">Φαίνεται οτι έχετε μια κάρτα SIM 4G. Η Διπλή 4G ενεργοποιήθηκε αυτόματα.</string>
+  <string name="opened_dual_4g_confirm_prompt_with_sim">Η SIM %1$s υποστηρίζει μόνο 4G. Για να βεβαιωθείτε ότι λειτουργεί κανονικά, η Διπλή 4G να είναι ενεργοποιημένη.</string>
   <string name="operation_successfully">Ολοκληρώθηκε</string>
   <string name="optional_summary">&lt;Προαιρετικό&gt;</string>
   <string name="ota_activate">Ενεργοποίηση</string>

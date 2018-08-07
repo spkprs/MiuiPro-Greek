@@ -131,9 +131,9 @@
   <string name="download_wait_connect">Λήψη σε αναμονή σύνδεσης</string>
   <string name="download_when_network_connected">Λήψη με χρήση Δικτύου Κινητής</string>
   <string name="downloaded">Ολοκλήρωση λήψης</string>
-  <string name="downloaded_empty">Άδεια</string>
+  <string name="downloaded_empty">Κενή</string>
   <string name="downloading">Λήψη…</string>
-  <string name="downloading_empty">Άδεια</string>
+  <string name="downloading_empty">Κενή</string>
   <string name="downloads_operating">Σε λειτουργία…</string>
   <string name="dredge_xunlei_account">Δημιουργία λογαριασμού Xunlei</string>
   <string name="durationDayHour">%1$d ημέρα %2$d ώρα</string>

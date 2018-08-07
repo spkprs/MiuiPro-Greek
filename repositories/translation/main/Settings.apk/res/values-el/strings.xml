@@ -865,6 +865,8 @@
   <string name="bootloader_locked_answer_1">Κλειδώνουμε τις συσκευές μας για να σιγουρευτούμε ότι είναι ασφαλείς και ότι τα προσωπικά σας στοιχεία δεν αποκαλύπτονται σε τρίτους. Εάν χρειαστεί να μπείτε σε λειτουργία Fastboot και να κάνετε flash την συσκευή σας, μπορείτε να την ξεκλειδώσετε.</string>
   <string name="bootloader_locked_answer_1_warning">Θυμηθείτε: Δεν θα μπορείτε να χρησιμοποιήσετε την \"Εύρεση συσκευής\" μετά το ξεκλείδωμα της συσκευής.</string>
   <string name="bootloader_locked_answer_2">1. Βεβαιωθείτε ότι έχετε ήδη εισάγει μια κάρτα SIM στη συσκευή σας.\n2. Πατήστε \"Προσθήκη λογαριασμού\" παρακάτω για να συσχετίσετε το Λογαριασμό Mi με αυτήν τη συσκευή.\n3. Κατεβάστε το εργαλείο ξεκλειδώματος από τον ιστότοπό μας. Σημειώστε ότι πρέπει για να ξεκλειδωθούν συσκευές χρησιμοποιείται ένας υπολογιστής. Κατεβάστε εδώ:</string>
+  <string name="bootloader_locked_answer_2_no_sim">"1. Επιλέξτε \"Προσθήκη λογαριασμού\" παρακάτω για να συσχετίσετε το Λογαριασμό Mi με αυτήν τη συσκευή.
+2. Κατεβάστε το εργαλείο ξεκλειδώματος από τον ιστότοπό μας. Σημειώστε ότι πρέπει για να ξεκλειδωθούν συσκευές χρησιμοποιείται ένας υπολογιστής. Κατεβάστε εδώ:"</string>
   <string name="bootloader_locked_check_status">Προσθήκη λογαριασμού και συσκευής</string>
   <string name="bootloader_locked_question_1">Γιατί οι συσκευές πρέπει να είναι κλειδωμένες;</string>
   <string name="bootloader_locked_question_2">Καταλαβαίνω τους κινδύνους, αλλά ακόμα θέλω να ξεκλειδώσω την συσκευή μου.</string>
@@ -2223,7 +2225,7 @@
   <string name="line_breaking_title">βελτιστοποιήσετε το κείμενο</string>
   <string name="link_speed_label">Ταχύτητα σύνδεσης:</string>
   <string name="list_bg_header_text">Εάν περιορίσετε τη σύνδεση παρασκηνίου, οι νέες εφαρμογές δεν θα μπορούν να συνδεθούν στο διαδίκτυο στο παρασκήνιο μετά την εγκατάσταση τους. Ίσως δεν είναι δυνατή η λήψη μηνυμάτων ή η λήψη περιεχομένου μετά από αυτό.</string>
-  <string name="list_empty_text">Άδεια</string>
+  <string name="list_empty_text">Κενή</string>
   <string name="loading_notification_apps">Φόρτωση εφαρμογών…</string>
   <string name="local_auto_backup_off">Ανενεργό</string>
   <string name="local_auto_backup_on">Ενεργό</string>
@@ -3902,15 +3904,17 @@
   <string name="security_encryption_progress_dialog_open">Κρυπτογράφηση…</string>
   <string name="security_encryption_rejected_via_home_manager">Αυτή η λειτουργία δεν υποστηρίζεται στην έκδοση επίδειξης.</string>
   <string name="security_encryption_title">Κρυπτογράφηση συσκευής με χρήση κωδικού κλειδώματος οθόνης</string>
+    <string name="security_input">Είσοδος Ασφαλείας</string>
+    <string name="security_input_hint">Χρησιμοποιώντας το Πληκτρολόγιο Ασφαλείας εισάγετε κωδικό</string>
   <string name="security_keyguard_category_name">Κλείδωμα οθόνης</string>
   <string name="security_password_category_name">Κωδικός</string>
   <string name="security_passwords_title">Κωδικοί πρόσβασης</string>
   <string name="security_patch">Κώδικας ασφαλείας Android</string>
   <string name="security_privacy_settings_title">Ασφάλεια και Απόρρητο</string>
   <string name="security_relative">Ασφάλεια</string>
-  <string name="security_settings_billing_desc">Αυτή η εφαρμογή μπορεί να σας χρεώσει χρήματα:</string>
-  <string name="security_settings_desc">Αυτή η εφαρμογή έχει πρόσβαση στα ακόλουθα στο τηλέφωνό σας:</string>
-  <string name="security_settings_desc_multi">Αυτή η εφαρμογή έχει πρόσβαση στα ακόλουθα στο τηλέφωνό σας. Προκειμένου να βελτιωθεί η απόδοση και να μειώσουμε τη χρήση μνήμης, μερικά από αυτά τα δικαιώματα είναι διαθέσιμα και στο %1$s επειδή τρέχει την ίδια διαδικασία όπως το %2$s:</string>
+  <string name="security_settings_billing_desc">Αυτή η εφαρμογή μπορεί να σας χρεώσει με χρήματα:</string>
+  <string name="security_settings_desc">Αυτή η εφαρμογή να έχει πρόσβαση στα ακόλουθα στο τηλέφωνό σας:</string>
+  <string name="security_settings_desc_multi">Αυτή η εφαρμογή να έχει πρόσβαση στα ακόλουθα στο τηλέφωνό σας. Προκειμένου να βελτιωθεί η απόδοση και να μειώσουμε τη χρήση μνήμης, μερικά από αυτά τα δικαιώματα είναι διαθέσιμα και στο %1$s επειδή τρέχει την ίδια διαδικασία όπως το %2$s:</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">Διαγραφή</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Όνομα</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
@@ -3977,8 +3981,8 @@
   <string name="service_manage_description">%1$s: σε χρήση. Αγγίξτε Ρυθμίσεις για έλεγχο της.</string>
   <string name="service_restarting">Επανεκκίνηση</string>
   <string name="service_started_by_app">Ξεκίνησε από την εφαρμογή.</string>
-  <string name="service_stop">Σταμάτημα</string>
-  <string name="service_stop_description">Η εφαρμογή έχει αρχίσει την τρέχουσα υπηρεσία. Διακοπή της ενδέχεται να προκαλέσει σφάλματα.</string>
+  <string name="service_stop">Διακοπή</string>
+  <string name="service_stop_description">Η εφαρμογή έχει αρχίσει την τρέχουσα υπηρεσία. Η Διακοπή της ενδέχεται να προκαλέσει σφάλματα.</string>
   <string name="services_subtitle">Υπηρεσίες</string>
   <string name="set_data_limit">Ορισμός ορίου δεδομένων</string>
   <string name="set_data_warning">Ορισμός προειδοπ. δεδομένων</string>
