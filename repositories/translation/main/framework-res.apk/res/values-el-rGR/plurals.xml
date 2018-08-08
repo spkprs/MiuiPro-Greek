@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="autofill_picker_some_suggestions">
-        <item quantity="other">%1$s προτάσεις αυτόματης συμπλήρωσης</item>
-        <item quantity="one">Μία πρόταση αυτόματης συμπλήρωσης</item>
-    </plurals>
     <plurals name="pinpuk_attempts">
         <item quantity="other">Απομένουν %d προσπάθειες πριν κλειδωθεί η κάρτα SIM.</item>
         <item quantity="one">" Απομένει %d προσπάθεια πριν κλειδωθεί η κάρτα SIM."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Εγκατεστημένα πιστοποιητικά</item>
+        <item quantity="one">Εγκατεστημένο πιστοποιητικό</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτερόλεπτα.</item>
+        <item quantity="one">Λήψη screenshot για την αναφορά σφάλματος σε %d δεύτερα.</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Τελευταία %d ημέρες</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d ώρες</item>
         <item quantity="one">1 ώρα</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%dh ώρα</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">%d ημέρα</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d χρόνια</item>
+        <item quantity="one">%d χρόνο</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε %d λεπτό</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">σε %d ώρες</item>
+        <item quantity="one">σε %d ώρα</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">σε %d ημέρες</item>
+        <item quantity="one">σε %d ημέρα</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">σε %d χρόνια</item>
+        <item quantity="one">σε %d χρόνο</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">%d λεπτό πριν</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d ώρες πρίν</item>
+        <item quantity="one">%d ώρα</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d ημέρες πριν</item>
+        <item quantity="one">%d ημέρα</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d χρόνια πρίν</item>
+        <item quantity="one">%d χρόνο πρίν</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε %d λεπτό</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">σε %d ώρες</item>
+        <item quantity="one">σε %d ώρα</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">σε %d ημέρες</item>
+        <item quantity="one">σε %d ημέρα</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">σε %d χρόνια</item>
+        <item quantity="one">σε %d χρόνο</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Διαθέσιμα δίκτυα Wi‑Fi</item>
@@ -73,79 +141,11 @@
         <item quantity="one">Για 1 ώρα</item>
     </plurals>
     <plurals name="selected_count">
-        <item quantity="other">%1$d επιλεγμένο</item>
+        <item quantity="other">%1$d επιλεγμένα</item>
         <item quantity="one">%1$d επιλεγμένο</item>
     </plurals>
-    <plurals name="ssl_ca_cert_warning">
-        <item quantity="other">Εγκατεστημένα πιστοποιητικά</item>
-        <item quantity="one">Εγκατεστημένο πιστοποιητικό</item>
-    </plurals>
-    <plurals name="bugreport_countdown">
-        <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτερόλεπτα.</item>
-        <item quantity="one">Λήψη screenshot για την αναφορά σφάλματος σε %d δεύτερα.</item>
-    </plurals>
-    <plurals name="duration_minutes_shortest">
-        <item quantity="other">%dm</item>
-        <item quantity="one">%dm</item>
-    </plurals>
-    <plurals name="duration_hours_shortest">
-        <item quantity="other">%dh</item>
-        <item quantity="one">%dh</item>
-    </plurals>
-    <plurals name="duration_days_shortest">
-        <item quantity="other">%dd</item>
-        <item quantity="one">%dd</item>
-    </plurals>
-    <plurals name="duration_years_shortest">
-        <item quantity="other">%dy</item>
-        <item quantity="one">%dy</item>
-    </plurals>
-    <plurals name="duration_minutes_shortest_future">
-        <item quantity="other">σε %dm</item>
-        <item quantity="one">σε %dm</item>
-    </plurals>
-    <plurals name="duration_hours_shortest_future">
-        <item quantity="other">σε %dh</item>
-        <item quantity="one">σε %dh</item>
-    </plurals>
-    <plurals name="duration_days_shortest_future">
-        <item quantity="other">σε %dd</item>
-        <item quantity="one">σε %dd</item>
-    </plurals>
-    <plurals name="duration_years_shortest_future">
-        <item quantity="other">σε %dy</item>
-        <item quantity="one">σε %dy</item>
-    </plurals>
-    <plurals name="duration_minutes_relative">
-        <item quantity="other">%d λεπτά πριν</item>
-        <item quantity="one">%d λεπτό πριν</item>
-    </plurals>
-    <plurals name="duration_hours_relative">
-        <item quantity="other">%d ώρες πρίν</item>
-        <item quantity="one">%d ώρα</item>
-    </plurals>
-    <plurals name="duration_days_relative">
-        <item quantity="other">%d ημέρες πριν</item>
-        <item quantity="one">%d ημέρα</item>
-    </plurals>
-    <plurals name="duration_years_relative">
-        <item quantity="other">%d χρόνια πρίν</item>
-        <item quantity="one">%d χρόνο πριν</item>
-    </plurals>
-    <plurals name="duration_minutes_relative_future">
-        <item quantity="other">σε %d λεπτά</item>
-        <item quantity="one">σε %d λεπτό</item>
-    </plurals>
-    <plurals name="duration_hours_relative_future">
-        <item quantity="other">σε %d ώρες</item>
-        <item quantity="one">σε %d ώρα</item>
-    </plurals>
-    <plurals name="duration_days_relative_future">
-        <item quantity="other">σε %d ημέρες</item>
-        <item quantity="one">σε %d ημέρα</item>
-    </plurals>
-    <plurals name="duration_years_relative_future">
-        <item quantity="other">σε %d χρόνια</item>
-        <item quantity="one">σε %d έτος</item>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s προτάσεις αυτόματης συμπλήρωσης</item>
+        <item quantity="one">Μία πρόταση αυτόματης συμπλήρωσης</item>
     </plurals>
 </resources>

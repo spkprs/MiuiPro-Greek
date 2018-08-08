@@ -825,7 +825,7 @@
   <string name="gmscore_support_service">Υπηρεσίες Google</string>
   <string name="go_to">Μετάβαση</string>
   <string name="go_to_setting_fingerprint">Πηγαίνετε στις Ρυθμίσεις</string>
-  <string name="google_base_app_install_choice">Το \"%s απαιτεί το Πλαίσιο Παροχής Υπηρεσιών Google για να λειτουργήσει κανονικά. Να γίνει λήψη και εγκατάσταση;</string>
+  <string name="google_base_app_install_choice">Η εφαρμογή απαιτεί το Google Services Framework για να λειτουργήσει κανονικά. Να γίνει λήψη και εγκατάσταση;</string>
   <string name="gs_anto_clean_memory_whitelist">Εξαιρέσεις</string>
   <string name="gs_app_back_self_start">Εξοικονόμηση μπαταρίας</string>
   <string name="gs_auto_clean_memory">Διαγραφή της κρυφής μνήμης</string>

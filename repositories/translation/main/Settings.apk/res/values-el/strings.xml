@@ -1837,6 +1837,12 @@
   <string name="floating_window_switch_label_disable">Απόκρυψη αναδυόμενων παράθυρων</string>
   <string name="fluency_mode">Animation συστήματος</string>
   <string name="fluency_mode_confirm_and_reboot">Επανεκκίνηση τώρα</string>
+    <string name="forget_password_dialog_button_text">Πίσω</string>
+    <string name="forget_password_dialog_content_four"><Data>2. Επιλέξτε &lt;font color=#e6e6e6>[Καθαρισμό Δεδομένων]&lt;/font>, και περιμένετε μέχρι να γίνει επανεκκίνηση της συσκευής σας.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>"Εάν ξεχάσετε τον κωδικό πρόσβασής σας, δεν θα μπορείτε να τον επαναφέρετε. Ωστόσο, μπορείτε να επαναφέρετε τον κωδικό πρόσβασής σας μετά από την &lt;font color=#ec2700>διαγραφή όλων των δεδομένων στη συσκευή σας&lt;/font> (συμπεριλαμβανομένων φωτογραφιών, επαφών κ.λπ.). Δημιουργήστε αντίγραφα ασφαλείας όλων των σημαντικών δεδομένων πριν από αυτό."</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"1. Απενεργοποιήστε τη συσκευή σας. Πατήστε το &lt;font color=#e6e6e6>[Power]&lt;/font> κουμπί και το &lt;font color=#e6e6e6>[Volume+]&lt;/font> πατήστε ταυτόχρονα και κρατήστε τα μέχρι να δείτε το &lt;img src=''> icon."</Data></string>
+    <string name="forget_password_dialog_content_two">Ακολουθήστε αυτά τα βήματα για να διαγραφή Δεδομένων:</string>
+    <string name="forget_password_dialog_title">Επαναφορά του κωδικού σας</string> 
   <string name="font_size_exhuge">Πολύ Τεράστια</string>
   <string name="font_size_huge">Τεράστια</string>
   <string name="font_size_large">Μεγάλη</string>
