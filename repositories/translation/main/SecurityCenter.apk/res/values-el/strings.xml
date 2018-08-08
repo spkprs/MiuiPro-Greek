@@ -427,7 +427,7 @@
   <string name="btn_text_optimize_extend_battery_time">Προσθήκη %s</string>
   <string name="btn_text_optimize_manually">Βελτιστοποίηση χειροκίνητα</string>
   <string name="btn_text_optimize_now">Βελτιστοποίηση</string>
-  <string name="btn_text_power_cleanup">Βαθύς καθαρισμός</string>
+  <string name="btn_text_power_cleanup">Υπερκαθαρισμός</string>
   <string name="btn_text_quick_cleanup">Καθαρισμός</string>
   <string name="btn_text_quick_save_power">Βελτιστοποίηση</string>
   <string name="btn_text_quick_scan">Ανάλυση</string>
@@ -474,12 +474,12 @@
   <string name="card_main_applock_summary">Προστατεύστε επιλεγμένες εφαρμογές με κωδικό. Απόκρυψη μηνυμάτων, φωτογραφιών, σημειώσεων και πολλά άλλα.</string>
   <string name="card_main_applock_title">Κλείδωμα εφαρμογής</string>
   <string name="card_main_deepclean_action">Καθαρισμός</string>
-  <string name="card_main_deepclean_qq_title">QQ καθαριστικό</string>
+  <string name="card_main_deepclean_qq_title">Δοκιμή Δικτύου</string>
   <string name="card_main_deepclean_summary">Διαγραφή περιττών αρχείων</string>
-  <string name="card_main_deepclean_title">Βαθύς καθαρισμός</string>
+  <string name="card_main_deepclean_title">Υπερκαθαρισμός</string>
   <string name="card_main_deepclean_wechat_action">Καθαρισμός</string>
   <string name="card_main_deepclean_wechat_summary">Καθαρισμός WeChat cache για να ελευθερώσετε χώρο αποθήκευσης</string>
-  <string name="card_main_deepclean_wechat_title">WeChat cache</string>
+  <string name="card_main_deepclean_wechat_title">Προστασία</string>
   <string name="card_main_gamebooster_summary">Ενίσχυση σύνδεσης παιχνιδιών</string>
   <string name="card_main_gamebooster_title">Ενίσχυση ταχύτητας</string>
   <string name="card_main_hbassistant_summary">Ώθηση ταχύτητας για βελτιώση εμπειρίας παιχνιδιών</string>

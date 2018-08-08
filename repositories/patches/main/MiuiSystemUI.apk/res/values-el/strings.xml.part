@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="status_bar_recent_memory_info1">Διαθέσιμη %1$s απο %2$s</string>
+  <string name="status_bar_recent_memory_info1">Διαθέσιμη %1$sB απο %2$sB</string>
 </resources>
