@@ -1358,7 +1358,7 @@
   <string name="status_bar_recent_guide_bottom">Σύρετε προς τα κάτω για κλείδωμα</string>
   <string name="status_bar_recent_guide_top">Σύρετε προς τα πάνω για κλείσιμο</string>
   <string name="status_bar_recent_inspect_item_title">Πληροφορίες εφαρμογής</string>
-  <string name="status_bar_recent_memory_info1">Διαθέσιμη %1$s απο %2$s</string>
+  <string name="status_bar_recent_memory_info1">Διαθέσιμη %1$sB απο %2$sB</string>
   <string name="status_bar_recent_remove_item_title">Κατάργηση από τη λίστα</string>
   <string name="status_bar_recording_back">Επιστροφή στην Ηχογράφηση</string>
   <string name="status_bar_recording_pause">Η Ηχογράφηση είναι σε παύση.</string>

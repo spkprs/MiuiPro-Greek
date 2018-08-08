@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="bugreport_countdown">
-    <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτερόλεπτα.</item>
+    <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτ..</item>
     <item quantity="one">Λήψη screenshot για την αναφορά σφάλματος σε %d δεύτερα.</item>
   </plurals>
   <plurals name="duration_days_relative">
@@ -61,8 +61,8 @@
     <item quantity="one">σε %d λεπτό</item>
   </plurals>
   <plurals name="duration_seconds">
-    <item quantity="other">%d δευτερόλεπτα</item>
-    <item quantity="one">1 δευτερόλεπτο</item>
+    <item quantity="other">%d δευτ.</item>
+    <item quantity="one">1 δευτ.</item>
   </plurals>
   <plurals name="duration_years_relative">
     <item quantity="other">%d χρόνια πρίν</item>
@@ -93,8 +93,8 @@
     <item quantity="one">" Απομένει %d προσπάθεια πριν κλειδωθεί η κάρτα SIM."</item>
   </plurals>
   <plurals name="restr_pin_countdown">
-    <item quantity="other">Δοκιμάστε ξανά σε %d δευτερόλεπτα</item>
-    <item quantity="one">Δοκιμάστε ξανά σε 1 δευτερόλεπτο</item>
+    <item quantity="other">Δοκιμάστε ξανά σε %d δευτ.</item>
+    <item quantity="one">Δοκιμάστε ξανά σε 1 δευτ.</item>
   </plurals>
   <plurals name="selected_count">
     <item quantity="other">%1$d επιλεγμένα</item>

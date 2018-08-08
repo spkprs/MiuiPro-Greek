@@ -9,7 +9,7 @@
         <item quantity="one">Εγκατεστημένο πιστοποιητικό</item>
     </plurals>
     <plurals name="bugreport_countdown">
-        <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτερόλεπτα.</item>
+        <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτ..</item>
         <item quantity="one">Λήψη screenshot για την αναφορά σφάλματος σε %d δεύτερα.</item>
     </plurals>
     <plurals name="last_num_days">
@@ -17,8 +17,8 @@
         <item quantity="one">Τελευταία %d ημέρα</item>
     </plurals>
     <plurals name="duration_seconds">
-        <item quantity="other">%d δευτερόλεπτα</item>
-        <item quantity="one">1 δευτερόλεπτο</item>
+        <item quantity="other">%d δευτ.</item>
+        <item quantity="one">1 δευτ.</item>
     </plurals>
     <plurals name="duration_minutes">
         <item quantity="other">%d λεπτά</item>
@@ -105,8 +105,8 @@
         <item quantity="one">1 αποτελεσμα</item>
     </plurals>
     <plurals name="restr_pin_countdown">
-        <item quantity="other">Δοκιμάστε ξανά σε %d δευτερόλεπτα</item>
-        <item quantity="one">Δοκιμάστε ξανά σε 1 δευτερόλεπτο</item>
+        <item quantity="other">Δοκιμάστε ξανά σε %d δευτ.</item>
+        <item quantity="one">Δοκιμάστε ξανά σε 1 δευτ.</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary">
         <item quantity="other">Για %1$d λεπτά (μέχρι να %2$s)</item>
