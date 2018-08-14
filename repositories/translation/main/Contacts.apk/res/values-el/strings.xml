@@ -363,7 +363,6 @@
   <string name="device_import_progress_begin_message">Εισαγωγή…</string>
   <string name="device_import_progress_end_message">Εισαγωγή πλήρης</string>
   <string name="device_import_progress_message">Εισαγωγή…</string>
-  <string name="device_import_progress_toast">%1$d επαφές έχουν εισαχθεί</string>
   <string name="device_import_title">Εισαγωγή</string>
   <string name="device_list_title">Επιλέξτε τηλέφωνο</string>
   <string name="device_other_guide">Εάν το τηλέφωνό σας δεν περιλαμβάνεται στη λίστα, ακολουθήστε τα παρακάτω βήματα</string>
@@ -875,6 +874,7 @@
   <string name="preference_others">Άλλο</string>
   <string name="preference_phone">Τηλέφωνο</string>
   <string name="preference_phone_more_title">Ρυθμίσεις κλήσεων</string>
+    <string name="preference_privacy_policy_title">Πολιτική Απορρήτου</string>
   <string name="preference_remove_duplicate">Συγχώνευση όμοιων επαφών</string>
   <string name="preference_show_firewall_calllog">Εμφάνιση αποκλεισμένων κλήσεων στο ιστορικό κλήσεων</string>
   <string name="preference_show_yellowpage_tab_description">Οι κίτρινες σελίδες ενδέχεται να μην λειτουργούν σωστά όταν αυτή η λειτουργία είναι απενεργοποιημένη.</string>
@@ -1113,7 +1113,7 @@
   <string name="title_paired_devices">Αξιόπιστες συσκευές</string>
   <string name="titleJoinContactDataWith">Συγχώνευση επαφών</string>
   <string name="toast_call_detail_error">Αδύνατη η ανάγνωση λεπτομερειών για την κλήση που ζητήθηκε</string>
-  <string name="toast_call_no_SoundRecorder">Η εφαρμογή Καταγραφής δεν είναι διαθέσιμη</string>
+  <string name="toast_call_no_SoundRecorder">Η Καταγραφής δεν είναι διαθέσιμη</string>
   <string name="toast_call_no_notes">Η εφαρμογή Σημειώσεων δεν είναι διαθέσιμη</string>
   <string name="toast_copy_done">Έγινε</string>
   <string name="toast_copying">Αντιγραφή…</string>

@@ -34,7 +34,7 @@
   </plurals>
   <plurals name="duration_hours_shortest">
     <item quantity="other">%d ώρες</item>
-    <item quantity="one">%dh ώρα</item>
+    <item quantity="one">%d ώρα</item>
   </plurals>
   <plurals name="duration_hours_shortest_future">
     <item quantity="other">σε %d ώρες</item>

@@ -249,7 +249,8 @@
   <string name="plus_one_submit_dialog_content">Τα επιλεγμένα σχόλιά σας, μαζί με τα αρχεία καταγραφής σφαλμάτων, θα σταλούν στους διακομιστές ΜΙ.</string>
   <string name="plus_one_submit_dialog_not_show_again">Απομνημόνευση επιλογής</string>
   <string name="post_miui_bbs_failed">Δεν ήταν δυνατή η ανάρτηση στο Φόρουμ</string>
-  <string name="pull_to_refresh_pull_label">Σύρετε κάτω για ανανέωση</string>
+   <string name="privacy_policy_title">Πολιτική απορρήτου</string>
+ <string name="pull_to_refresh_pull_label">Σύρετε κάτω για ανανέωση</string>
   <string name="pull_to_refresh_refreshing_label">Ανανέωση…</string>
   <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση</string>
   <string name="refresh">Ανανέωση</string>
@@ -279,6 +280,7 @@
   <string name="systemui">Πίνακας ειδοποιήσεων</string>
   <string name="tab_title_chat">FAQ</string>
   <string name="tab_title_my_reports">Οι αναφορές μου</string>
+  <string name="tab_title_preferences">Ρυθμίσεις</string>
   <string name="tab_title_report">Σχόλια</string>
   <string name="time_in_justnow">Μόλις τώρα</string>
   <string name="title_answer_feedback_main">Βρήκαμε απαντήσεις!</string>

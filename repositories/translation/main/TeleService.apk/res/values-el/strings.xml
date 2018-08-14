@@ -345,6 +345,8 @@
   <string name="do_not_show_again">"Χωρίς επανεμφάνιση"</string>
   <string name="domain_address_title">Διακομιστής</string>
   <string name="doneButton">Ολοκληρώθηκε</string>
+  <string name="dds_switch_warning_message_data_off">"Δεν ήταν δυνατή η εύρεση της κάρτας SIM %1$s. Η SIM %2$s έχει οριστεί ως η προεπιλεγμένη κάρτα δεδομένων κινητής τηλεφωνίας τώρα. Τα δεδομένα κινητής τηλεφωνίας είναι πλέον απενεργοποιημένα."</string>
+  <string name="dds_switch_warning_message_data_on">"Δεν ήταν δυνατή η εύρεση της κάρτας SIM %1$s. Η SIM %2$s έχει οριστεί ως η προεπιλεγμένη κάρτα δεδομένων κινητής τηλεφωνίας τώρα. Τα δεδομένα κινητής τηλεφωνίας είναι απενεργοποιημένα για να αποφευχθούν περιττές χρεώσεις στον φορέα σας."</string>
   <string name="dtmf_tone_entries_long">Μακρύς</string>
   <string name="dtmf_tone_entries_normal">Κανονικός</string>
   <string name="dtmf_tones_summary">Ρυθμίστε το μήκος των τόνων DTMF</string>

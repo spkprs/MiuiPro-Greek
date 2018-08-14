@@ -152,6 +152,8 @@
      <string name="search_setting_description">Αναζήτηση κειμένου στις σημειώσεις</string>
      <string name="select_account_prompt">Συγχρονισμός σημειώσεων</string>
      <string name="set_alarm_description">Ορισμός ξυπνητηριού</string>
+     <string name="setting_other">ΑΛΛΟ</string>
+     <string name="setting_privacy">Πολιτική Απορρήτου</string>
      <string name="sina_share_fail">Αποτυχία αποστολής</string>
      <string name="sina_share_fail_content_repeat">Δεν ήταν δυνατή η κοινή χρήση, το περιεχόμενο υπάρχει ήδη…</string>
      <string name="sina_share_pendding">Αποστέλεται…</string>

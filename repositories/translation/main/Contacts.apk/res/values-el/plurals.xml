@@ -54,6 +54,10 @@
         <item quantity="other">%1$d επαφές έχουν εισαχθεί</item>
         <item quantity="one">%1$d επαφή έχει εισαχθεί</item>
      </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Εισήχθησαν %1$d επαφές</item>
+        <item quantity="one">Εισήχθη %1$d επαφή</item>
+    </plurals>
      <plurals name="dlg_add_blacklist">
         <item quantity="other">Φραγή αυτών των %1$d αριθμών;</item>
         <item quantity="one">Φραγή αυτού του αριθμού;</item>

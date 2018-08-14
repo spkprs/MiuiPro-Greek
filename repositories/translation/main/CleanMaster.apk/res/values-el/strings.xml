@@ -442,7 +442,7 @@
   <string name="pref_title_auto_clean_content_choose">Επιλέξτε στοιχεία για καθαρισμό</string>
   <string name="pref_title_auto_clean_operation">Μέθοδος καθαρισμού</string>
   <string name="pref_title_auto_clean_trigger">Καθαρισμός αποθήκευσης</string>
-  <string name="pref_title_auto_update_cleanup_db">Update αυτόματα</string>
+  <string name="pref_title_auto_update_cleanup_db">Ενημέρωση αυτόματα</string>
   <string name="pref_title_choose_engine">Ορισμοί</string>
   <string name="pref_title_clean_alert">Υπενθύμιση εκκαθάρισης</string>
   <string name="pref_title_cleanup_white_list">Εξαιρέσεις</string>
@@ -495,7 +495,7 @@
   <string name="qq_data_type_normal_desc">Η διαγραφή τους δεν θα επηρεάσει τη χρήση σας.</string>
   <string name="qq_data_type_other">Αλλα</string>
   <string name="qq_data_type_other_desc">Προσέξτε, ίσως να μην μπορέσετε να επαναφέρετε αυτά τα αρχεία μετά τη διαγραφή τους.</string>
-  <string name="recommend_news">Λάβετε συστάσεις</string>
+  <string name="recommend_news">Λήψη συστάσεων</string>
   <string name="recommend_the_following">Λάβετε τις παρακάτω ενέργειες για να αξιοποιήσετε στο μέγιστο τη συσκευή σας</string>
   <string name="recommended">Προτεινόμενα</string>
   <string name="resutl_function_deep_clean_summary">"\"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; περισσότερα αρχεία μπορούν να διαγραφούν. Απελευθερώστε περισσότερο χώρο.\" "</string>
