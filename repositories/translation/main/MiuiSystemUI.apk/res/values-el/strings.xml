@@ -1157,7 +1157,7 @@
   <string name="quick_settings_done">Ολοκληρώθηκε</string>
   <string name="quick_settings_drivemode_label">Λειτουργία αυτοκινήτου</string>
   <string name="quick_settings_dual_location_label">Διπλό GPS</string>
-  <string name="quick_settings_edit_label">Επεξεργασία</string>
+  <string name="quick_settings_edit_label">Περισσότερα</string>
   <string name="quick_settings_flashlight_label">Φακός</string>
   <string name="quick_settings_gps_label">GPS</string>
   <string name="quick_settings_hotspot_label">Πρόσδεση</string>
