@@ -267,8 +267,9 @@
   <string name="pref_summary_no_limit_popup">Απεριόριστο</string>
   <string name="pref_title_enable_max_bytes_popup">Εμφάνιση προτροπής χρήσης δεδομένων</string>
   <string name="preferences_title">Ρυθμίσεις</string>
+  <string name="privacy_policy">Πολιτική Απορρήτου</string>
   <string name="privacy_tip_cancel">Ακύρωση</string>
-  <string name="privacy_tip_content">Χρήση του επιταχυντή Xunlei για επιτάχυνση λήψεων; Η διεύθυνση URL λήψης θα φορτωθεί στους διακομιστές της Xunlei. Επίσης θα φορτωθούν τα στοιχεία του Mi λογαριασμού σας, για να ελεγχθεί αν έχετε ενεργές συνδρομές σε αυτή την υπηρεσία.</string>
+  <string name="privacy_tip_content">Χρήση του επιταχυντή Xunlei για τις λήψεις; Η διεύθυνση URL λήψης θα φορτωθεί στους διακομιστές της Xunlei. Επίσης θα φορτωθούν τα στοιχεία του Mi λογαριασμού σας, για να ελεγχθεί αν έχετε ενεργές συνδρομές σε αυτή την υπηρεσία.</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Χρήση του επιταχυντή Xunlei;</string>
   <string name="quit_btn">Έξοδος</string>
