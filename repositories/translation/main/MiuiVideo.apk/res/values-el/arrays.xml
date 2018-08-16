@@ -39,6 +39,11 @@
     <item>αγγλικά στο επόμενο</item>
     <item>γιούκαρι νακαγκάμι</item>
   </string-array>
+    <string-array name="message_center_tab_list">
+        <item>Σχόλια</item>
+        <item>Αρέσει</item>
+        <item>Ειδοποιήσεις</item>
+    </string-array>
   <string-array name="version_list_entries">
     <item>Stable</item>
     <item>Alpha</item>

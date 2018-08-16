@@ -109,7 +109,7 @@
   <string name="cd_check_box_middle">μερική επιλογή</string>
   <string name="cd_check_box_unchecked">δεν εχει ελεγχθει</string>
   <string name="cd_list_item_collapse">κατέρρευσε</string>
-  <string name="cd_list_item_expanded">επεκταμένα</string>
+  <string name="cd_list_item_expanded">επεκτάσιμα</string>
   <string name="cd_percent">τοις εκατό</string>
   <string name="cd_settings">ρυθμίσεις</string>
   <string name="cd_sort_type">είδος ταξινόμησης</string>
@@ -420,6 +420,7 @@
   <string name="output_videos">Εξαγωγή βίντεο</string>
   <string name="phone_search">Αναζήτηση Google</string>
   <string name="positive_confirm">Εντάξει</string>
+  <string name="pref_about_privacy_title">Πολιτική Απορρήτου</string>
   <string name="pref_category_title_auto_clean_config_settings">Αυτόματος καθαρισμός</string>
   <string name="pref_category_title_auto_clean_settings">Υπενθύμιση καθαρισμού</string>
   <string name="pref_category_title_auto_update_cleanup_db">Πρόσθετες ρυθμίσεις</string>

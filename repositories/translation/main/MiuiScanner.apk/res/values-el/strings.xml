@@ -86,7 +86,8 @@
      <string name="language_entry_russian">Ρώσικα</string>
      <string name="language_entry_spanish">Ισπανικά</string>
      <string name="language_entry_swedish">Σουηδικά</string>
-     <string name="module_title_code">Κωδικός QR</string>
+ 	<string name="miracast_message">Προβολή σε %s?</string>
+    <string name="module_title_code">Κωδικός QR</string>
      <string name="module_title_document">Έγγραφο</string>
      <string name="module_title_namecard">Επαγγελματική κάρτα</string>
      <string name="module_title_shopping">Ψώνια</string>

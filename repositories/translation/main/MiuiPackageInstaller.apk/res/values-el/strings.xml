@@ -291,6 +291,7 @@
   <string name="permission_warning_template">Επιτρέπω&lt;b&gt;%1$s&lt;/b&gt;προς  %2$s?</string>
   <string name="permlab_togglePermissions">εναλλαγή δικαιωμάτων</string>
   <string name="pref_ads">Συστάσεις</string>
+  <string name="pref_key_about_privacy_title">Πολιτική Απορρήτου</string>
   <string name="pref_key_antivirus">Antivirus</string>
   <string name="pref_key_antivirus_summary">Ελέγξτε τις εφαρμογές για ιούς πριν εγκαταστήσετε</string>
   <string name="privacy_relative">Απόρρητο</string>
@@ -357,6 +358,6 @@
   <string name="wifi_no_internet">Δεν εντοπιστεί πρόσβαση στο Internet, δεν θα επανασυνδεθεί αυτόματα.</string>
   <string name="wifi_not_in_range">Δεν είναι στην εμβέλεια</string>
   <string name="wifi_remembered">Αποθηκεύτηκε</string>
-  <string name="wifi_security_none">None</string>
+  <string name="wifi_security_none">Χωρίς</string>
   <string name="wifi_security_passpoint">Σημείο ελέγχου</string>
 </resources>
