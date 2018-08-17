@@ -1087,6 +1087,7 @@
   <string name="menu_item_about_content">Έκδοση: %s</string>
   <string name="menu_item_about_summary">Έκδοση: %s</string>
   <string name="menu_item_about_title">Σχετικά με</string>
+  <string name="menu_item_about_privacy_title">Πολιτική Απορρήτου</string>
   <string name="menu_item_app_details">Λεπτομέρειες</string>
   <string name="menu_item_app_permissions_control">Διαχείριση δικαιωμάτων</string>
   <string name="menu_item_control_app_permissions">Να ζητείται η άδειά σας, πριν επιτραπεί σε εφαρμογές να διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής</string>
