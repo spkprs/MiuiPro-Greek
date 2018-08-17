@@ -28,7 +28,7 @@
   <string name="enable_vertical_clock_summary">Κάθετη εμφάνιση ώρας στην οθόνη κλειδώματος</string>
   <string name="endless_desktop_title">Συνεχής κύλιση επιφάνειας εργασίας</string>
   <string name="fade_animation_title">Σχέδιο κίνησης</string>
-  <string name="folder_count_title">Αριθμός στηλών σε φάκελο</string>
+  <string name="folder_count_title">Αριθμός στηλών στο φάκελο</string>
   <string name="foreground_notifications_title">Ειδοποιήσεις στο παρασκήνιο</string>
   <string name="ga_button_add">Προσθέστε μια χειρονομία</string>
   <string name="ga_error_missing_name">Πρέπει να εισαγάγετε ένα όνομα</string>
@@ -116,7 +116,7 @@
   <string name="statusbar_element_other">- Άλλα</string>
   <string name="statusbar_element_title">Θέση στοιχείων</string>
   <string name="swipe_up_app_title">Εφαρμογή για σάρωση προς τα επάνω</string>
-  <string name="swipe_up_home">Σύρετε προς τα πάνω</string>
+  <string name="swipe_up_home">Σάρωση προς τα πάνω</string>
   <string name="switch_mobile_title">Τύπος δικτύου κατά την κλήση</string>
   <string name="sync_icon_title">Απόκρυψη εικονιδίου συγχρονισμού</string>
   <string name="system_animation_title">Κινήσεις Συστήματος</string>

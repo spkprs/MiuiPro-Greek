@@ -68,7 +68,7 @@
   <string name="power_mode">Ρυθμίσεις ενέργειας</string>
   <string name="power_usage">Χρήση ενέργειας</string>
   <string name="pref_config_title">Βελτιστοποίηση απόδοσης</string>
-  <string name="scenario_policies_summary">Εφαρμόστε διαφορετική εξοικονόμηση ενέργειας για διαφορετικές σκηνές.</string>
+  <string name="scenario_policies_summary">Εφαρμόστε διαφορετική εξοικονόμηση ενέργειας με διαφορετικά σχέδια.</string>
   <string name="scenario_policies_title">Έξυπνα σχέδια</string>
   <string name="scenario_policies_warmcontrol">Ελεγχος θερμοκρασίας</string>
   <string name="search_result_text">Δεν ήταν δυνατή η εύρεση εφαρμογών</string>
@@ -78,7 +78,7 @@
   <string name="sleep_config_enhance_title">Κατάσταση αδράνειας</string>
   <string name="sleepmode_disclaimer_agree">Συμφωνώ</string>
   <string name="sleepmode_disclaimer_cancel">Ακύρωση</string>
-  <string name="sleepmode_privacy_content">Αυτή η λειτουργία θα χρησιμοποιεί τα δεδομένα συστήματος και πληροφορίες της συσκευής, τα οποία δεν θα μεταφορτωθούν στο διακομιστή</string>
+  <string name="sleepmode_privacy_content">Αυτή η λειτουργία θα χρησιμοποιεί τα δεδομένα συστήματος και πληροφορίες της συσκευής, τα οποία δεν θα μεταφορτωθούν στο διακομιστή.</string>
   <string name="sleepmode_privacy_link">Λεπτομέριες ασφάλειας και ιδιωτικότητας</string>
   <string name="sleepmode_privacy_title">Κατάσταση αδράνειας</string>
   <string name="sucess">Εντάξει</string>

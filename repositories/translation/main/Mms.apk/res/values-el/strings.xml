@@ -509,7 +509,7 @@
   <string name="rcs_auto_resume">Συνεχίστε τη διακοπή των μεταφορτώσεων αυτόματα</string>
   <string name="rcs_auto_resume_only_by_wifi">Συνεχίστε τις μεταφορτώσεις μόνο όταν είστε συνδεδεμένοι στο Wi-Fi</string>
   <string name="rcs_create_new_group">Νέα ομαδική συζήτηση</string>
-  <string name="rcs_dspt">Μετά την ενεργοποίηση των χρηστών της China Mobile, αποστέλλετε μηνύματα από προεπιλογή μέσω WLAN ή κινητού δικτύου.</string>
+  <string name="rcs_dspt">Μετά την ενεργοποίηση των χρηστών της China Mobile, αποστέλλετε μηνύματα από προεπιλογή μέσω Wi-Fi ή δικτύου κινητής.</string>
   <string name="rcs_forward_faild">Δεν ήταν δυνατή η προώθηση</string>
   <string name="rcs_forward_successful">Προωθήθηκε με επιτυχία</string>
   <string name="rcs_group_notification_invitation">Ομαδική πρόσκληση</string>

@@ -623,13 +623,13 @@
   <string name="msim_disable_sim_card_title">Απενεργοποίηση κάρτας SIM</string>
   <string name="msim_enable_sim">Ενεργοποίηση</string>
   <string name="msim_general_setting">Ρυθμίσεις</string>
-  <string name="msim_has_been_disabled">(Απενεργοποιημένο)</string>
+  <string name="msim_has_been_disabled">(Απενεργοποιημένη)</string>
   <string name="msim_info_editor_name">Επεξεργασία ονόματος SIM</string>
   <string name="msim_info_editor_number">Επεξεργασία αριθμού SIM</string>
   <string name="msim_info_editor_set_name_error">Παρουσιάστηκε σφάλμα. Δοκιμάστε αργότερα…</string>
   <string name="msim_mode_progress_activating_message">Ενεργοποίηση</string>
   <string name="msim_mode_progress_deactivating_message">Απενεργοποίηση</string>
-  <string name="msim_not_set_summary">Δεν ορίστηκε</string>
+  <string name="msim_not_set_summary">Χωρίς ορισμό</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Κλήση</string>
   <string name="msim_set_icc_card_error">Σφάλμα κάρτας ICC</string>

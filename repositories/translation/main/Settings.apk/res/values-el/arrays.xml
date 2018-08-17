@@ -344,9 +344,9 @@
     <item>Ασήμαντες</item>
   </string-array>
   <string-array name="check_importance_summary">
-    <item>Το MIUI θα αποφασίζει ποιές θα εμφανίζονται απευθείας</item>
-    <item>Θα εμφανίζονται απευθείας στον πίνακα ειδοποιήσεων</item>
-    <item>Όλες οι ειδοποιήσεις θα εμφανίζονται σε ξεχωριστό φάκελο</item>
+    <item>Το MIUI θα αποφασίζει ποιές θα εμφανίζονται άμεσα</item>
+    <item>Θα εμφανίζονται άμεσα </item>
+    <item>Όλες σε ξεχωριστό φάκελο</item>
   </string-array>
   <string-array name="city_name">
     <item>Αμπιτζάν</item>
