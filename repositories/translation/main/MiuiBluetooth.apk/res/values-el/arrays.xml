@@ -3,7 +3,7 @@
     <string-array name="ble_profile_mi_band">
         <item>Δόνηση όταν κουδουνίζει</item>
         <item>Δόνηση κατά τη λήψη μηνύματος</item>
-        <item>Δόνηση όταν χτυπάει ξυπνητήρι</item>
+        <item>Δόνηση όταν ηχεί η Αφύπνιση</item>
     </string-array>
     <string-array name="ble_profile_mi_key">
         <item>Λήψη φωτογραφίας</item>

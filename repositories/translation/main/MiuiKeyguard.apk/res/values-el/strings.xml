@@ -102,7 +102,7 @@
   <string name="keyguard_charging_info_tip_text5">Ο χρόνος φόρτισης αυξάνεται όταν η μπαταρίες είναι θερμότερες από ότι συνήθως.</string>
   <string name="keyguard_charging_info_tip_text6">Απενεργοποιήστε την οθόνη και αφήστε την συσκευή σας να κρυώσει.</string>
   <string name="keyguard_left_bankcard">Αριθμομηχανή</string>
-  <string name="keyguard_left_buscard">Ξυπνητήρι</string>
+  <string name="keyguard_left_buscard">Αφύπνιση</string>
   <string name="keyguard_left_remotecentral">Μηνύματα</string>
   <string name="keyguard_left_smarthome">Επαφές</string>
   <string name="keyguard_left_view_lock_wallpaper">Καθημερινές Ταπετσαρίες</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="keyguard_left_bankcard">Αριθμομηχανή</string>
-  <string name="keyguard_left_buscard">Ξυπνητήρι</string>
+  <string name="keyguard_left_buscard">Αφύπνιση</string>
   <string name="keyguard_left_remotecentral">Μηνύματα</string>
   <string name="keyguard_left_smarthome">Επαφές</string>
   <string name="open_remote_center_hint_text">Σύρετε δεξιά για εκτέλεση πρόσθετων προγραμμάτων</string>

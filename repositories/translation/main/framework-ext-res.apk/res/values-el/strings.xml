@@ -99,7 +99,7 @@
   <string name="permlab_manageLocationPolicy">Πρόσβαση στην τοποθεσία</string>
   <string name="reboot_confirm_title">Το τηλέφωνό σας θα επανεκκινήσει.</string>
   <string name="reboot_info_auto_boot">Το τηλέφωνό σας θα ενεργοποιηθεί στις %s λόγω του χρονοδιαγράμματος αυτόματης εκκίνησης</string>
-  <string name="reboot_info_shutdown_alarm">Το τηλέφωνό σας θα ενεργοποιηθεί και θα χτυπήσει το ξυπνητήρι στις %s</string>
+  <string name="reboot_info_shutdown_alarm">Το τηλέφωνό σας θα ενεργοποιηθεί και θα ηχήσει η Αφύπνιση στις %s</string>
   <string name="reboot_progress">Επανεκκίνηση…</string>
   <string name="remain">Απομένουν: %s</string>
   <string name="replace">Αντικατάσταση</string>
@@ -165,7 +165,7 @@
   <string name="switch_desc_tv">Δύο χώροι. Μία συσκευή.</string>
   <string name="switching_tv">Εναλλαγή…</string>
   <string name="total">Μην Ενοχλείτε</string>
-  <string name="total_description">Η σίγαση ήχων και απενεργοποίηση δόνησης όλων εκτός από το ξυπνητήρι</string>
+  <string name="total_description">Η σίγαση ήχων και απενεργοποίηση δόνησης όλων εκτός της Αφύπνισης</string>
   <string name="total_title">Μην Ενοχλείτε</string>
   <string name="translation_more">Περισσότερα</string>
   <string name="translation_query_error">Δεν βρέθηκαν αποτελέσματα</string>
