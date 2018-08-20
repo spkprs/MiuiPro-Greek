@@ -461,7 +461,7 @@
   <string name="theme_changed_failed_message">Αποτυχία εφαρμογής θέματος</string>
   <string name="theme_changed_message">Επιτυχής εφαρμογή</string>
   <string name="theme_changing_dialog_title">Εφαρμογή θέματος, παρακαλώ περιμένετε…</string>
-  <string name="theme_component_title_alarm">ΞΑφύπνισηstring>
+  <string name="theme_component_title_alarm">Αφύπνιση</string>
   <string name="theme_component_title_alarmstyle">Στυλ Αφύπνισης</string>
   <string name="theme_component_title_all">Θέματα</string>
   <string name="theme_component_title_audio_effect">Εφέ ήχου</string>
