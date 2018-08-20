@@ -903,6 +903,7 @@
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Προτιμώμενος τύπος δικτύου</string>
   <string name="preferred_phone_account">Προτιμώμενος λογαριασμός κλήσης</string>
+  <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
   <string name="private_num">Απόρρητος αριθμός</string>
   <string name="progress_dialog_exiting_ecm">Έξοδος από τη λειτουργία επιστροφής κλήσης έκτακτης ανάγκης</string>
   <string name="proxy_address">Διεύθυνση Proxy</string>

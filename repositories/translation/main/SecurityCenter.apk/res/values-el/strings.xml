@@ -247,7 +247,7 @@
   <string name="applock_add_account_info">Προσθέστε το Λογαριασμό Mi για να μπορέσετε να επαναφέρετε τον κωδικό πρόσβασής σας σε περίπτωση που το ξεχάσετε.</string>
   <string name="applock_add_account_setting">Λογαριασμός και ιδιωτικότητα</string>
   <string name="applock_bind_account_title">Ξεχάσατε τον κωδικό</string>
-  <string name="applock_close_dialog_summary">Οι εφαρμογές δεν θα προστατεύονται πλέον και ο κωδικός σας θα διαγραφεί αφού απενεργοποιήσετε το Κλείδωμα Εφαρμογής.</string>
+  <string name="applock_close_dialog_summary">Όλες οι κρυφές εφαρμογές θα εμφανιστούν, οι συντομεύσεις στην Αρχική οθόνη θα επαναφερθούν και ο κωδικός κλειδώματος εφαρμογών θα διαγραφούν. Απενεργοποιείτε το Κλείδωμα Εφαρμογής;.</string>
   <string name="applock_close_dialog_title">Να απενεργοποιηθεί το κλείδωμα εφαρμογής;</string>
   <string name="applock_exit_account_info">Ο λογαριασμός θα καταργηθεί αυτόματα όταν αποσυνδεθείτε</string>
   <string name="applock_header_text_less_than_half">Πολύ μικρό. Σύρετε λίγο περισσότερο.</string>
@@ -702,6 +702,14 @@
   <string name="exit_dialog_scan_message">Η βαθμολογία απόδοσης της συσκευής σας είναι χαμηλότερη από 75 μονάδες. Βελτιστοποίηση τώρα;</string>
   <string name="exit_dialog_scan_positive_button">Βελτιστοποίηση</string>
   <string name="exit_dialog_scan_title">Βελτιστοποίηση απόδοσης</string>
+    <string name="extreme_power_save_mode_title">Μέγιστη εξοικονόμηση μπαταρίας</string>
+    <string name="extreme_power_save_mode_summary">Η Μέγιστη εξοικονόμηση μπαταρίας περιορίζει τη δραστηριότητα παρασκηνίου, διακόπτει το συγχρονισμό και μειώνει τα χρώματα της οθόνης.</string>
+    <string name="extreme_power_save_description"><li>"Η Μέγιστη εξοικονόμηση μπαταρίας διακόπτει όλες τις δραστηριότητες παρασκηνίου μιας εφαρμογής αφού την αφήσετε και επιστρέψετε στην Αρχική οθόνη. Αυτή η εφαρμογή δεν θα στείλει ειδοποιήσεις ή λήψη ενημερώσεων."</li>"
+"<li>Αν θέλετε μια εφαρμογή να εκτελείται στο παρασκήνιο, κλειδώστε την στα Πρόσφατα ή προσθέστε την στις εξαιρέσεις παρασκηνίου παρακάτω. Μέχρι 4 εφαρμογές μπορούν να εκτελούνται στο παρασκήνιο όταν ενεργοποιείται η Μέγιστη εξοικονόμηση ενέργειας.</li>"
+"<li>Η Μέγιστη εξοικονόμηση μπαταρίας απενεργοποιεί το NFC απο προεπιλογή. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</li>"
+"<li>Για να βεβαιωθείτε ότι μπορείτε να χρησιμοποιήσετε κανονικά όλες τις δυνατότητες της συσκευής σας, η Μέγιστη εξοικονόμηση μπαταρίας θα απενεργοποιηθεί αυτόματα όταν η μπαταρία σας είναι 30% φορτισμένη.</li></string>
+    <string name="extreme_add_white_list_title">Εξαιρέσεις παρασκηνίου</string>
+    <string name="extreme_add_white_list_summary">Προσθέστε έως 4 εφαρμογές</string>
   <string name="finger_remind_message">Το Κλείδωμα Εφαρμογής υποστηρίζει ξεκλείδωμα με δακτυλικό αποτύπωμα. Προσθήκη δακτυλικού αποτυπώματος;</string>
   <string name="fingerprint_identify_msg">Σάρωση δακτυλικού αποτυπώματος…</string>
   <string name="fingerprint_not_identified_msg">Για να ξεκλειδώσετε τη συσκευή σας, εισάγετε τον κωδικό σας.</string>
@@ -1211,6 +1219,9 @@
   <string name="notification_battery_consume_abnormal_title">Η μπαταρία αδειάζει πολύ γρήγορα</string>
   <string name="notification_exit_power_save_mode">Εξοικονόμηση μπαταρίας ανενεργή</string>
   <string name="notification_exit_power_save_mode_subtitle">Μπαταρία %s φορτισμένη.</string>
+    <string name="notification_open_extreme_mode_text">Ενεργοποίηση Μέγιστης εξοικονόμησης μπαταρίας</string>
+    <string name="notification_exit_extreme_mode_title">Απενεργοποίηση Μέγιστης εξοικονόμησης μπαταρίας</string>
+    <string name="notification_exit_extreme_mode_text">Η μπαταρία είναι περισσότερο από %s φορτισμένη</string>
   <string name="notification_mask_summary">Απόκρυψη περιεχομένου ειδοποίησης στην οθόνη Κλείδωμα και στη σκιά ειδοποίησης</string>
   <string name="notification_mask_title">Απόκρυψη περιεχομένου</string>
   <string name="notification_masked_item">Απόκρυψη ειδοποιήσεων</string>
@@ -1535,6 +1546,20 @@
   <string name="preferred_app_entries_launcher">Επιφάνεια εργασίας</string>
   <string name="preferred_app_entries_messaging">Μηνύματα</string>
   <string name="preferred_app_entries_music">Μουσική</string>
+    <string name="privacy_apps_category_title">Κρυφές εφαρμογές</string>
+    <string name="privacy_apps">Κρυφές εφαρμογές</string>
+    <string name="privacy_apps_enable_summary">Μετακινήστε τις εφαρμογές σε ένα κρυφό φάκελο και καταργήστε τις συντομεύσεις στην Αρχική οθόνη</string>
+    <string name="privacy_apps_manage">Διαχείριση κρυφών εφαρμογών</string>
+    <string name="privacy_apps_tutorial">Οδηγίες</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">"Όταν κρύβετε μια εφαρμογή, μεταφέρεται σε ένα κρυφό φάκελο. Η συντόμευση της στην αρχική οθόνη είναι κρυμμένη επίσης.
+Αυτή η δυνατότητα δεν υποστηρίζεται για εφαρμογές συστήματος."</string>
+    <string name="privacy_apps_tutorial_prompt_pagetwo">"Ανοίξτε δύο δάχτυλα στην οθόνη. Θα δείτε ένα μήνυμα που σας ζητάει να εισαγάγετε τον κωδικό κλειδώματος εφαρμογής."</string>
+    <string name="privacy_apps_tutorial_prompt_pagethree">Αφού εισάγετε τον κωδικό σας, θα εμφανιστεί ο φάκελος με τις κρυφές εφαρμογές.</string>
+    <string name="privacy_apps_manage_dialog_title">Σχετικά με τις κρυφές εφαρμογές</string>
+    <string name="privacy_apps_manager_dialog_message">Η απόκρυψη εφαρμογών απαιτεί τη ρύθμιση εφαρμογής κλειδώματος οθόνης. Οι ειδοποιήσεις των κρυφών εφαρμογών θα απενεργοποιηθούν. Απόκρυψη αυτής της εφαρμογής?</string>
+    <string name="privacy_apps_checkbox_remind_choice">"Χωρίς επανεμφάνιση"</string>
+    <string name="privacy_apps_go_to_use">Εκκίνηση</string>
+    <string name="privacy_apps_close">Κλείστε</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Διακομιστής πολυμέσων</string>
   <string name="promotion">Διαφήμιση</string>

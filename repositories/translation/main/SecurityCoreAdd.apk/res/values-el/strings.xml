@@ -98,6 +98,11 @@
   <string name="ent_disallow_running">Η εφαρμογή απαγορεύεται να εκτελείται</string>
   <string name="ent_error_dialog_content">Τουλάχιστον ένας από τους κωδικούς που εισάγατε ήταν λανθασμένος. Ελέγξτε τους εταιρικούς κωδικούς και τους κωδικούς άδειας χρήσης και εισάγετε τους ξανά.</string>
   <string name="ent_get_code_hint">Μπορείτε να πάρετε εταιρικούς κωδικούς και κωδικούς αδειών από τον προϊστάμενό σας</string>
+    <string name="ent_installing">Εγκατάσταση…</string>
+    <string name="ent_download_install_dialog_content">Πρέπει να εγκαταστήσετε εταιρικές εφαρμογές για να ενεργοποιήσετε τη λειτουργία Επιχειρήσεων. Εγκατάσταση τώρα?</string>
+    <string name="ent_download_install_dialog_title">Λήψη εταιρικών εφαρμογών</string>
+    <string name="ent_downloading_message">Λήψη %d%%</string>
+    <string name="ent_install_dialog_content">Εγκατάσταση εφαρμογών και επανεκκίνηση της συσκευής σας τώρα;</string>
   <string name="ent_invalid_agency">Ο εταιρικός κωδικός δεν είναι έγκυρος.</string>
   <string name="ent_invalid_qr">Ο QR κωδικός δεν είναι έγκυρος.</string>
   <string name="ent_licence_code">Κωδικός άδειας</string>
@@ -163,6 +168,8 @@
   <string name="import_photo_suc">Εισηγμένες φωτογραφίες</string>
   <string name="input_space_finger">Ορίστε τώρα</string>
   <string name="input_space_password">Ορίστε τώρα</string>
+    <string name="install">Εγκατάσταση</string>
+    <string name="install_error">"Αδύνατη η εγκατάσταση. Προσπαθήστε ξανά."</string>
   <string name="invalid_qr_code">Μη έγκυρος κωδικός QR</string>
   <string name="list_empty_text">Κενή</string>
   <string name="list_empty_text_xspace">Εγκαταστήστε το WeChat/QQ/Weibo, δημιουργήστε διπλές εφαρμογές\u000d\u000d\nκαι δοκιμάστε ξανά.</string>

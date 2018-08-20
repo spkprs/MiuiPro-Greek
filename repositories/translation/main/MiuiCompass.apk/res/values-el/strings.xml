@@ -4,7 +4,7 @@
      <string name="altitude">%.1f</string>
      <string name="altitude_title">Ύψος</string>
      <string name="altitude_uncalibrate_cancel">Ακύρωση</string>
-     <string name="altitude_uncalibrate_msg">"Δεν είναι δυνατή η βαθμονόμηση υψομέτρου με ακρίβεια χωρίς GPS ή σύνδεση δεδομένων κινητής."</string>
+     <string name="altitude_uncalibrate_msg">"Αδύνατη η βαθμονόμηση υψομέτρου με ακρίβεια χωρίς GPS ή σύνδεση δεδομένων κινητής."</string>
      <string name="altitude_uncalibrate_refresh">Δοκιμάστε ξανά</string>
      <string name="altitude_uncalibrate_tip">"Αδυναμία βαθμονόμησης υψομέτρου"</string>
      <string name="altitude_unit">μ</string>
@@ -50,6 +50,8 @@
      <string name="mobiledata_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="open_perm_msg">Η πυξίδα χρειάζεται πρόσβαση σε πληροφορίες τοποθεσίας και κάμερα. Αυτό είναι απαραίτητο για τον προσδιορισμό των συντεταγμένων και την παροχή ζωντανών προεπισκοπήσεων. Επιτρέπετε?</string>
      <string name="open_perm_title">Απαιτούνται δικαιώματα</string>
+    <string name="preference_other">Άλλα</string>
+    <string name="preference_privacy_title">Πολιτική Απορρήτου</string>
      <string name="pressure">%.1f</string>
      <string name="pressure_title">Πίεση</string>
      <string name="pressure_unit">hPa</string>

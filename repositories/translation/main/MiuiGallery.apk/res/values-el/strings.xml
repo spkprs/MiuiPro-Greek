@@ -709,6 +709,7 @@
   <string name="photo_editor_beautify">Καλλωπισμός</string>
   <string name="photo_editor_beauty_compare">Αρχική</string>
   <string name="photo_editor_crop_and_rotate">Κόψτε</string>
+  <string name="photo_editor_crop_auto">Αυτόματα</string>
   <string name="photo_editor_crop_reset">Επαναφορά</string>
   <string name="photo_editor_doodle">Μουτζούρα</string>
   <string name="photo_editor_filter">Φίλτρο</string>

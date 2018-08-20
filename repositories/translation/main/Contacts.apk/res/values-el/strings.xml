@@ -920,6 +920,7 @@
   <string name="quickcontact_missing_app">Καμία εφαρμογή δεν βρέθηκε για να χειριστεί αυτή την ενέργεια</string>
   <string name="quit_dialog_confirm_message">Δεν έχετε συγχωνεύσει καμία επαφή</string>
   <string name="quit_dialog_confirm_title">Ακύρωση συγχώνευσης επαφών</string>
+  <string name="rcs_app_name">Μικρή εφαρμογή</string>
   <string name="reading_vcard_canceled_title">Η ανάγνωση δεδομένων vCard έχει ακυρωθεί</string>
   <string name="reading_vcard_failed_title">Δεν ήταν δυνατή η ανάγνωση των δεδομένων vCard</string>
   <string name="readingSimContacts">Ανάγνωση της κάρτας SIM…</string>

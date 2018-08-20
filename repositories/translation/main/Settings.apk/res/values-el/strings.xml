@@ -1359,6 +1359,7 @@
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Διαγραφή δεδομένων δακτυλικού αποτυπώματος;</string>
   <string name="delete_rule">Κατάργηση κανόνων</string>
   <string name="delete_saved_network">Διαγραφή αποθηκευμένου δικτύου</string>
+    <string name="delete_sound_effect">\"Διαγραφή\" ήχου</string>
   <string name="deleted_apps">Διαγραμμένες εφαρμ.</string>
   <string name="deletion_helper_automatic_title">Αυτόματο</string>
   <string name="deletion_helper_manual_title">Εγχειρίδιο χρήσης</string>
@@ -2131,7 +2132,9 @@
   <string name="keyboard_shortcuts_helper">Βοηθός συντομεύσεων πληκτρολογίου</string>
   <string name="keyboard_shortcuts_helper_summary">Δείτε τις διαθέσιμες συντομεύσεις</string>
   <string name="keyguard_advance_setting_title">Προχωρημένες ρυθμίσεις</string>
-  <string name="keywords_accounts">λογαριασμός</string>
+    <string name="keyguard_security_setting_others">Άλλα</string>
+    <string name="keyguard_security_setting_privacy_policy">Πολιτική Απορρήτου</string>
+  <string name="keywords_accounts">Λογαριασμός</string>
   <string name="keywords_airplane">Λειτ. πτήσης;Λειτουργία πτήσης;Αεροπλάνο;Λειτουργία ττήσης;Πτήση;Λειτουργία πτήσης</string>
   <string name="keywords_all_apps">λήψη εφαρμογών εφαρμογές σύστημα</string>
   <string name="keywords_app">RAM</string>
@@ -2629,7 +2632,7 @@
   <string name="miui_lab_slogan">Μαθαίνω. Εξερευνώ. Ανακαλύπτω.</string>
   <string name="miui_lab_super_resolution_desc">Κάντε ευκρινέστερες εικόνες</string>
   <string name="miui_lab_super_resolution_title">Σούπερ ανάλυση</string>
-  <string name="miui_lab_taplus_desc">Πατήστε και κρατήστε πατημένα τα στοιχεία για να ενεργοποίηση ενεργειών</string>
+  <string name="miui_lab_taplus_desc">Πατήστε και κρατήστε πατημένα τα στοιχεία για ενεργοποίηση ενεργειών</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Διαγράφει όλα τα δεδομένα στο τηλέφωνο</string>
   <string name="miui_touch_filtered_warning">Εάν μια εφαρμογή μπλοκάρει το πλαίσιο διαλόγου αδειών. σύρετε το αντικείμενο μακριά ή κλείστε την εφαρμογή.</string>

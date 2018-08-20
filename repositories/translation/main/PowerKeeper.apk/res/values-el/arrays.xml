@@ -28,4 +28,9 @@
          <item>Ενεργές Εφαρμογές</item>
          <item>Εφαρμογές σε αναστολή</item>
      </string-array>
+    <string-array name="emode_app_groups">
+        <item>Εφαρμ. Συστήματος</item>
+        <item>Άλλες Εφαρμογές</item>
+    </string-array>
 </resources>
+

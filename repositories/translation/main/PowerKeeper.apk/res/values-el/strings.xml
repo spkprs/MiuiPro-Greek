@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="about_extreme_mode">Μέγιστη εξοικονόμηση μπαταρίας</string>
   <string name="about_hide_mode">Περί Εξοικονόμησης μπαταρίας</string>
   <string name="active_classify">Ταξινόμηση κατά κατάσταση δραστηριότητας</string>
   <string name="app_list_title">Επιλέξτε εφαρμογές</string>
@@ -31,22 +32,24 @@
   <string name="enable_hide_mode">Ενεργοποιήστε την εξοικονόμηση μπαταρίας</string>
   <string name="enable_sleep_mode">Ενεργοποίηση κατάστασης αδράνειας για βελτιστοποίηση της μπαταρίας κατά την νύχτα</string>
   <string name="error_filename_too_long">Το όνομα αρχείου που εισαγάγατε είναι πολύ μεγάλο.</string>
+  <string name="extreme_mode_max_item_alert">Μόνο 4 εφαρμογές μπορούν να επιλεγούν για να εκτελούνται στο παρασκήνιο σε λειτουργία μέγιστης εξοικονόμησης μπαταρίας</string>
   <string name="extreme_power_config_mode_category">Ακραία λειτουργία</string>
   <string name="extreme_power_config_mode_desc">Μεταβείτε στην ακραία λειτουργία για να απενεργοποιήσετε το συγχρονισμό, το Bluetooth, το GPS, το NFC, το διπλό πάτημα, τα led των κουμπιών, την αφύπνιση της οθόνης κλειδώματος για ειδοποιήσεις, καθώς και το led ειδοποίησης. Το MIUI θα επικεντρωθεί στην εξοικονόμηση μπαταρίας.</string>
   <string name="extreme_power_config_mode_title">Ακραία λειτουργία</string>
   <string name="failure">Απέτυχε</string>
-  <string name="hide_mode_desc">Όταν μια εφαρμογή εκτελείται στο παρασκήνιο, οι δραστηριότητές της θα παρακολουθούνται για να μειωθεί η χρήση της μπαταρίας.</string>
+  <string name="hide_mode_desc"><font color="#000000">Όταν μια εφαρμογή εκτελείται στο παρασκήνιο, οι δραστηριότητές της θα παρακολουθούνται για να μειωθεί η χρήση της μπαταρίας. Αυτή η λειτουργία θα πάρει και θα χρησιμοποιήσει τα δεδομένα χρήστη σύμφωνα με την %s</font></string>
   <string name="hide_system_app">Απόκρυψη εφαρμογών συστήματος</string>
   <string name="hints_loading_text">Μισό λεπτό…</string>
   <string name="important_warning">Προσοχή</string>
   <string name="lasttime_applist_cloud">Ενημερώσεις εφαρμογών:</string>
   <string name="lasttime_feature_cloud">Ενημερωμένες λειτουργίες:</string>
+    <string name="message_i_know">Ξέρω</string>
   <string name="nonui_mode_config_description">Μην ανάβετε την οθόνη για ειδοποιήσεις, απενεργοποιείτε τη λυχνία LED, τον αισθητήρα δακτυλικών αποτυπωμάτων και τα χειριστήρια αφής για να εξοικονομήσετε μπαταρία όταν το MIUI εντοπίσει ότι δεν χρησιμοποιείτε τη συσκευή σας.</string>
   <string name="nonui_mode_config_title">Μη διαδραστική λειτουργία</string>
   <string name="performance_category">Απόδοση</string>
   <string name="power_center">Ενέργεια</string>
-  <string name="power_checker_background_cpu_multi_apps_title">%1$s τρέχει ασυνήθιστα</string>
-  <string name="power_checker_background_cpu_title">%1$s τρέχει ασυνήθιστα</string>
+  <string name="power_checker_background_cpu_multi_apps_title">%1$s λειτουργεί ασυνήθιστα</string>
+  <string name="power_checker_background_cpu_title">%1$s λειτουργεί ασυνήθιστα</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s παίρνει συχνά πληροφορίες σχετικά με την τοποθεσία</string>
   <string name="power_checker_background_gps_title">%1$s παίρνει συχνά πληροφορίες σχετικά με την τοποθεσία</string>
   <string name="power_checker_mobile_radio_multi_apps_title">%1$s προσεγγίζει συχνά το δίκτυο</string>
@@ -68,6 +71,7 @@
   <string name="power_mode">Ρυθμίσεις ενέργειας</string>
   <string name="power_usage">Χρήση ενέργειας</string>
   <string name="pref_config_title">Βελτιστοποίηση απόδοσης</string>
+  <string name="privacy">Πολιτική Απορρήτου</string>
   <string name="scenario_policies_summary">Εφαρμόστε διαφορετική εξοικονόμηση ενέργειας με διαφορετικά σχέδια.</string>
   <string name="scenario_policies_title">Έξυπνα σχέδια</string>
   <string name="scenario_policies_warmcontrol">Ελεγχος θερμοκρασίας</string>

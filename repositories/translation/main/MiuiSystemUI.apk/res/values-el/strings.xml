@@ -273,6 +273,7 @@
   <string name="available_via_passpoint">Διαθέσιμο μέσω %1$s</string>
   <string name="back">Πίσω</string>
   <string name="battery">Μπαταρία</string>
+  <string name="battery_can_use_time">Περίπου %s απομένουν</string>
   <string name="battery_detail_charging_summary">Η Εξοικονόμηση μπαταρίας δεν είναι διαθέσιμη κατά τη διάρκεια φόρτισης</string>
   <string name="battery_detail_switch_summary">Μειώνει την απόδοση και τα δεδομένα παρασκηνίου</string>
   <string name="battery_detail_switch_title">Εξοικονόμηση μπαταρίας</string>
@@ -493,6 +494,13 @@
   <string name="divider_menu_close">Κλείσιμο</string>
   <string name="divider_menu_select_apps">Επιλογή</string>
   <string name="divider_menu_swap_task">Εναλλαγή</string>
+    <string name="dlg_cancel">Ακύρωση</string>
+    <string name="dlg_confirm">Ενεργοποίηση</string>
+    <string name="dlg_summary_close_app">Περιορισμός δραστηριότητων παρασκήνιου και  ειδοποιήσεων</string>
+    <string name="dlg_summary_close_theme">Περιορισμός κινούμενων θεμάτων</string>
+    <string name="dlg_summary_close_wifi">Απενεργοποίηση Wi-Fi, Bluetooth και Hotspot</string>
+    <string name="dlg_summary_nfc">Απενεργοποίηση NFC</string>
+    <string name="dlg_summary_title">Η Μέγιστη εξοικονόμηση μπαταρίας διακόπτει όλη τη δραστηριότητα παρασκηνίου αφού αφήσετε μια εφαρμογή και επιστρέψετε στην Αρχική οθόνη. Εάν θέλετε μια εφαρμογή να εκτελείται στο παρασκήνιο, προσθέστε την σε εξαιρέσεις παρασκηνίου.</string>
   <string name="dlg_confirm_kill_storage_users_text">Εάν ενεργοποιήσετε τον αποθ.χώρο USB, κάποιες εφαρμογές που χρησιμοποιείτε θα σταματήσουν και δε θα είναι διαθέσιμες μέχρι να απενεργοποιήσετε τον αποθ.χώρο USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Ενεργοποίηση αποθ.χώρου USB.</string>
   <string name="dlg_error_title">Η λειτουργία USB απέτυχε</string>
@@ -519,6 +527,7 @@
   <string name="enable_bluetooth_message">Για να συνδέσετε το πληκτρολόγιο με το tablet σας, ενεργοποιήστε πρώτα το Bluetooth.</string>
   <string name="enable_bluetooth_title">Ενεργοποιείτε το Bluetooth;</string>
   <string name="enable_demo_mode">Ενεργοποιήστε τη λειτουργία επίδειξης</string>
+  <string name="enable_extreme_power_save_mode">Μέγιστη Εξοικονόμηση μπαταρίας</string>
   <string name="enable_freeform_support">Ενεργοποίηση παραθύρων ελεύθερης μορφής</string>
   <string name="enable_freeform_support_summary">Ενεργοποίηση υποστήριξης για πειραματικά παράθυρα ελεύθερης μορφής.</string>
   <string name="enable_opengl_traces_title">Ενεργοποίηση εντοπισμού OpenGL</string>
@@ -1046,6 +1055,7 @@
   <string name="oldman_airplane_mode_text">Λειτουργία πτήσης</string>
   <string name="oldman_incall_text">Κλήση</string>
   <string name="open_camera_hint_text">Σύρετε αριστερά για την Κάμερα</string>
+  <string name="open_extreme_power_save_mode_title">Ενεργοποίηση Μέγιστης εξοικονόμησης μπαταρίας</string>
   <string name="open_remote_center_hint_text">Σύρετε προς τα δεξιά για εκτέλεση πρόσθετων προγραμμάτων</string>
   <string name="other">Αλλα</string>
   <string name="overlay_display_devices_title">Προσομοίωση δευτερευουσών οθονών</string>
