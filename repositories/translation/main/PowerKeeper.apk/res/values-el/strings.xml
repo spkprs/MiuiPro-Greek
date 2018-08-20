@@ -43,7 +43,7 @@
   <string name="important_warning">Προσοχή</string>
   <string name="lasttime_applist_cloud">Ενημερώσεις εφαρμογών:</string>
   <string name="lasttime_feature_cloud">Ενημερωμένες λειτουργίες:</string>
-    <string name="message_i_know">Ξέρω</string>
+    <string name="message_i_know">Γνωρίζω</string>
   <string name="nonui_mode_config_description">Μην ανάβετε την οθόνη για ειδοποιήσεις, απενεργοποιείτε τη λυχνία LED, τον αισθητήρα δακτυλικών αποτυπωμάτων και τα χειριστήρια αφής για να εξοικονομήσετε μπαταρία όταν το MIUI εντοπίσει ότι δεν χρησιμοποιείτε τη συσκευή σας.</string>
   <string name="nonui_mode_config_title">Μη διαδραστική λειτουργία</string>
   <string name="performance_category">Απόδοση</string>

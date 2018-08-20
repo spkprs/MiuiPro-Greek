@@ -496,7 +496,7 @@
   <string name="divider_menu_swap_task">Εναλλαγή</string>
     <string name="dlg_cancel">Ακύρωση</string>
     <string name="dlg_confirm">Ενεργοποίηση</string>
-    <string name="dlg_summary_close_app">Περιορισμός δραστηριότητων παρασκήνιου και  ειδοποιήσεων</string>
+    <string name="dlg_summary_close_app">Περιορισμός δραστηριότητων παρασκήνιου και ειδοποιήσεων</string>
     <string name="dlg_summary_close_theme">Περιορισμός κινούμενων θεμάτων</string>
     <string name="dlg_summary_close_wifi">Απενεργοποίηση Wi-Fi, Bluetooth και Hotspot</string>
     <string name="dlg_summary_nfc">Απενεργοποίηση NFC</string>
