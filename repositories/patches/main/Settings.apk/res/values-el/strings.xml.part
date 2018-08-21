@@ -34,7 +34,7 @@
   <string name="haptic_off">Δόνηση κατά τη φόρτιση</string>
   <string name="headset_icon_title">Απόκρυψη εικονιδίου ακουστικών</string>
   <string name="hide_app">Ρυθμίσεις Ετικέτας</string>
-  <string name="hide_app_title">Λίστα απόκρυψης εφαρμογών</string>
+  <string name="hide_app_title">Λίστα απόκρυψης εφαρμ."Συστήματος"</string>
   <string name="icon_mode">Εικονίδια στη γραμμή κατάστασης</string>
   <string name="icon_name_title">Απόκρυψη ονόματος εικονιδίων</string>
   <string name="icon_off">Απόκρυψη</string>
