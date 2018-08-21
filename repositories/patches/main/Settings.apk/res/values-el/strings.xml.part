@@ -34,8 +34,8 @@
   <string name="haptic_off">Δόνηση κατά τη φόρτιση</string>
   <string name="headset_icon_title">Απόκρυψη εικονιδίου ακουστικών</string>
   <string name="hide_app">Ρυθμίσεις Ετικέτας</string>
-  <string name="hide_app_title">Λίστα απόκρυψης εφαρμογών</string>
-  <string name="icon_mode">Εικονίδια στη γραμμή κατάστασης</string>
+  <string name="hide_app_title">Λίστα απόκρυψης εφαρμ."Συστήματος"</string>
+  <string name="icon_mode">Εικονίδια γραμμής κατάστασης</string>
   <string name="icon_name_title">Απόκρυψη ονόματος εικονιδίων</string>
   <string name="icon_off">Απόκρυψη</string>
   <string name="icon_on">Προβολή</string>
@@ -62,7 +62,7 @@
   <string name="policy_control_title">Λειτουργία πλήρους οθόνης</string>
   <string name="policy_title">Λειτουργίες οθόνης</string>
   <string name="power_notifications_title">Φόρτιση μπαταρίας</string>
-  <string name="powermenu_title">Απενεργοποιήστε το εκτεταμένο μενού επανεκκίνησης</string>
+  <string name="powermenu_title">Απενεργοποίηση εκτεταμένου μενού επανεκκίνησης</string>
   <string name="round_toggle_title">Στρογγυλεμένες γωνίες της οθόνης</string>
   <string name="row_icon_title">Δυναμικά εικονίδια</string>
   <string name="runapp_notifications_title">"Ειδοποιήσεις  για εκτελούμενες εφαρμογές"</string>
