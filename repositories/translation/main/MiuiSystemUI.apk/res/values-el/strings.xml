@@ -1160,14 +1160,15 @@
   <string name="quick_settings_disclosure_named_vpn">Η συσκευή είναι συνδεδεμένη με %1$s</string>
   <string name="quick_settings_disclosure_personal_profile_named_vpn">Προσωπικό προφίλ συνδεδεμένο με %1$s</string>
   <string name="quick_settings_disclosure_vpns">Συσκευή συνδεδεμένη σε δίκτυα VPN</string>
-  <string name="quick_settings_dnd_alarms_label">Μόνο Αφυπνήσεις</string>
+  <string name="quick_settings_dnd_alarms_label">Μόνο Αφυπνίσεις</string>
   <string name="quick_settings_dnd_label">Μην Ενοχλείτε</string>
   <string name="quick_settings_dnd_none_label">Απόλυτη σίγαση</string>
   <string name="quick_settings_dnd_priority_label">Προτεραιότητα μόνο</string>
   <string name="quick_settings_done">Ολοκληρώθηκε</string>
   <string name="quick_settings_drivemode_label">Λειτουργία αυτοκινήτου</string>
   <string name="quick_settings_dual_location_label">Διπλό GPS</string>
-  <string name="quick_settings_edit_label">Περισσότερα</string>
+  <string name="quick_settings_extreme_batterysaver_label">Μέγιστη εξοικονομ.</string>
+ <string name="quick_settings_edit_label">Περισσότερα</string>
   <string name="quick_settings_flashlight_label">Φακός</string>
   <string name="quick_settings_gps_label">GPS</string>
   <string name="quick_settings_hotspot_label">Πρόσδεση</string>

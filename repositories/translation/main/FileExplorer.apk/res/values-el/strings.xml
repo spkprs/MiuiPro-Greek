@@ -411,7 +411,8 @@
      <string name="operation_reply">Σχόλιο</string>
      <string name="operation_send">Αποστολή</string>
      <string name="operation_share">Κοινή χρήση</string>
-     <string name="operation_show_sys">Εμφάνιση κρυφών αρχείων</string>
+     <string name="operation_show_privacy_policy">Εμφάνιση Πολιτικής Απορρήτου</string>
+    <string name="operation_show_sys">Εμφάνιση κρυφών αρχείων</string>
      <string name="operation_unfavorite">Αφαίρεση από τα Αγαπημένα</string>
      <string name="original_user_desc">Ανεβάζετε αυθεντικά βίντεο τακτικά, για να αποκτήσετε τον τίτλο του Δημιουργού</string>
      <string name="original_user_qq_group">Ενταχθείτε στην ομάδα Ταλέντων στο QQ</string>

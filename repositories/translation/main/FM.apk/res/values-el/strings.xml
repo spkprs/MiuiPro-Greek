@@ -23,6 +23,7 @@
   <string name="menu_headset">Αλλαγή σε ακουστικά</string>
   <string name="menu_label">Μενού</string>
   <string name="menu_new_station">Προσθήκη νέου σταθμού</string>
+    <string name="menu_privacy">Πολιτική Απορρήτου</string>
   <string name="menu_record_list">Εγγραφές</string>
   <string name="menu_record_start">Έναρξη εγγραφής</string>
   <string name="menu_record_stop">Διακοπή εγγραφής</string>

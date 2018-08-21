@@ -9,6 +9,7 @@
   <string name="license_host_unreachable">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Για να δείτε αυτές τις πληροφορίες τώρα,\nπηγαίνετε σε %s σε άλλη συνδεδεμένη συσκευή.</string>
   <string name="loading">Μισό λεπτό…</string>
   <string name="mibi_license">Mi Credits Συμφωνία Χρήστη</string>
+  <string name="open_wifi_connect_and_use_data_summary">συνεχίση της χρήσης κυκλοφορίας, πατήστε για να μετάβαση στο wifi και επιβεβαιώστε.</string>
   <string name="open_wifi_connect_summary">Πατήστε για προβολή λεπτομερειών.</string>
   <string name="open_wifi_connect_title">Συνδεδεμένο στο %1$s</string>
   <string name="permdesc_accessDrm">Αφήστε την εφαρμογή να αποκτήσει πρόσβαση σε περιεχόμενο που προστατεύεται με DRM.</string>
