@@ -19,7 +19,7 @@
   <string name="close_screen_record">Σταματήσατε την εγγραφή</string>
   <string name="date_month">-</string>
   <string name="date_year">,</string>
-  <string name="description_content">" Η Εγγραφή  οθόνης παρέχει δυνατότητα εγγραφής σε επίπεδο συστήματος. Αυτή η ενέργεια σημαίνει ότι θα απορρίψετε τη λειτουργία εγγραφής οθόνης. Επιβεβαιώστε για Συνέχεια"</string>
+  <string name="description_content">" Η Εγγραφή οθόνης παρέχει δυνατότητα εγγραφής σε επίπεδο συστήματος. Αυτή η ενέργεια σημαίνει ότι θα απορρίψετε τη λειτουργία εγγραφής οθόνης. Επιβεβαιώστε για Συνέχεια"</string>
   <string name="description_title">Σχετικά με Εγγραφή οθόνης</string>
   <string name="deselect_all">Αποεπιλογή όλων</string>
   <string name="error_open_file_failed_no_app_found">Αδυναμία εύρεσης εφαρμογής που ανοίγει το αρχείο αυτό</string>

@@ -18,6 +18,10 @@
     <item>Χωρίς ήχο</item>
     <item>Ανενεργό</item>
   </string-array>
+    <string-array name="call_windows_entries">
+        <item>Σε πλήρη οθόνη</item>
+        <item>Αναδυόμενο παράθυρο</item>
+    </string-array>
   <string-array name="incall_background_entries">
     <item>Προεπιλογή</item>
     <item>Κραυγή</item>

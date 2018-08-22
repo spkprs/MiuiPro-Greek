@@ -929,6 +929,7 @@
   <string name="pref_video_preload_value_never">ΠΟΤΕ</string>
   <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_action">Μετακίνηση με πλήκτρα έντασης</string>
+    <string name="pref_privacy_policy">Πολιτική Απορρήτου</string>
   <string name="progress_dialog_setting_wallpaper">Ορίζεται φόντο…</string>
   <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση</string>
   <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση</string>

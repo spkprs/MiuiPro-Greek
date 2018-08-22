@@ -1056,11 +1056,11 @@
   <string name="oldman_incall_text">Κλήση</string>
   <string name="open_camera_hint_text">Σύρετε αριστερά για την Κάμερα</string>
   <string name="open_extreme_power_save_mode_title">Ενεργοποίηση Μέγιστης εξοικονόμησης μπαταρίας</string>
-  <string name="open_remote_center_hint_text">Σύρετε προς τα δεξιά για εκτέλεση πρόσθετων προγραμμάτων</string>
-  <string name="other">Αλλα</string>
+  <string name="open_remote_center_hint_text">Σύρετε δεξιά, για πρόσθετα προγραμμάτα</string>
+  <string name="other">Άλλα</string>
   <string name="overlay_display_devices_title">Προσομοίωση δευτερευουσών οθονών</string>
   <string name="overview">Επισκόπηση</string>
-  <string name="phone_hint">Σύρετε από το εικονίδιο για το τηλέφωνο</string>
+  <string name="phone_hint">Σύρετε το εικονίδιο του τηλεφώνου</string>
   <string name="phone_label">Ανοίξτε το τηλέφωνο</string>
   <string name="phone_locked_foget_password">Ξεχάσατε τον κωδικό;</string>
   <string name="phone_locked_foget_password_mehod_back">Πίσω</string>
@@ -1140,7 +1140,7 @@
   <string name="quick_settings_cellular_detail_data_warning">%s προειδοποίηση</string>
   <string name="quick_settings_cellular_detail_over_limit">Πάνω από το όριο</string>
   <string name="quick_settings_cellular_detail_remaining_data">Υπολειπόμενα δεδομένα</string>
-  <string name="quick_settings_cellular_detail_title">Δεδομένα κινητής</string>
+  <string name="quick_settings_cellular_detail_title">Δεδομένα</string>
   <string name="quick_settings_color_space_label">Λειτουργία διόρθωσης χρώματος</string>
   <string name="quick_settings_connect_success">Συνδεδεμένο</string>
   <string name="quick_settings_connected">Συνδεδεμένο</string>

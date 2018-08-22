@@ -40,6 +40,12 @@
   <string name="show_group_title">Απόκρυψη ομάδων</string>
   <string name="show_profile_title">Απόκρυψη προφίλ</string>
   <string name="show_search_title">Γραμμή αναζήτησης</string>
-  <string name="sim_time_summary">Διάρκεια: %s δευτ.</string>
-  <string name="sim_time_title">Χρόνος για επιλογή SIM</string>
+  <string name="sim_time_summary">Αναμονή: %s δευτ.</string>
+  <string name="sim_time_title">Αναμονή για επιλογή SIM</string>
+    <string name="button_color_title">Χρώμα Πλήκτρου</string>
+    <string name="text_color_title">Χρώμα ετικέτας Πλήκτρου</string>
+    <string name="name_color_title">Χρώμα ονόματος, διάρκειας, κτλ.</string>
+    <string name="number_color_title">Χρώμα αριθμών, γραμμάτων, κτλ.</string>
+    <string name="icon_color_title">Χρώμα SIM, συμβόλων, κτλ.</string>
+    <string name="call_windows_title">Παράθυρο Κλήσης</string>
 </resources>

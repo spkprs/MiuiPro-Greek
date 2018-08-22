@@ -145,10 +145,10 @@
   <string name="call_settings_with_label">Ρυθμίσεις κλήσεων (%s)</string>
   <string name="call_waiting_summary">Κατά τη διάρκεια μιας κλήσης, ειδοποιήστε με για άλλες εισερχόμενες κλήσεις</string>
   <string name="call_waiting_title">Αναμονή κλήσης</string>
-  <string name="call_waiting_tone_continuously">Αναπαραγωγή ήχου ειδοποίησης συνεχώς</string>
+  <string name="call_waiting_tone_continuously">Αναπαραγωγή ήχου συνεχώς</string>
   <string name="call_waiting_tone_title">Ειδοποίηση αναμονής κλήσεων</string>
-  <string name="call_waiting_tone_twice_and_vibrate">Ήχος ειδοποίησης και δόνηση δύο φορές</string>
-  <string name="call_waiting_tone_twice_only">Αναπαραγωγή ήχου ειδοποίησης δύο φορές</string>
+  <string name="call_waiting_tone_twice_and_vibrate">Ήχος και δόνηση δύο φορές</string>
+  <string name="call_waiting_tone_twice_only">Αναπαραγωγή ήχου δύο φορές</string>
   <string name="caller_id_summary">Απόκρυψη του αριθμού μου για εξερχόμενες κλήσεις (επιβεβαιώστε ότι ο φορέας σας υποστηρίζει αυτή τη λειτουργία)</string>
   <string name="caller_id_title">Ταυτότητα καλούντος</string>
   <string name="callFailed_cb_enabled">Δεν μπορείτε να πραγματοποιήσετε εξερχόμενες κλήσεις όσο η φραγή κλήσεων είναι ενεργή.</string>
@@ -641,7 +641,7 @@
   <string name="msim_setting_screen_title">Κάρτες SIM και δίκτυα κινητής</string>
   <string name="msim_setting_sim_info_editor_title">Επεξεργασία πληροφοριών SIM</string>
   <string name="msim_sim_lock">Κλειδωμένο</string>
-  <string name="msim_sim_radio_off">Απενεργοποιημένο</string>
+  <string name="msim_sim_radio_off">Απενεργοποιημένη</string>
   <string name="msim_switch_data_conn_toast">Βεβαιωθείτε για την κανονική είσοδο στο Internet, επιλέξατε ως προτιμώμενο δίκτυο το 4G (προτίμηση 3G ), μπορείτε να το αλλάξετε στις πληροφ. SIM.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">Η υποδοχή κάρτας SIM 2 υποστηρίζει μόνο δίκτυα GSM. Προτιμώμενος τύπος δικτύου για αυτή την υποδοχή έχει αλλάξει σε \"μόνο 2G\".</string>
   <string name="multi_category_disable">Πολλαπλών κατηγοριών ανενεργό</string>
@@ -1035,8 +1035,8 @@
   <string name="sim_roaming_settings_summary">Σύνδεση σε δίκτυα δεδομένων κινητής κατά την περιαγωγή</string>
   <string name="sim_roaming_settings_title">Περιαγωγή Mi</string>
   <string name="sim_service_setting">Mi SIM &amp; Περιαγωγή Mi</string>
-  <string name="sim_time_summary">Διάρκεια: %s δευτ.</string>
-  <string name="sim_time_title">Χρόνος για επιλογή SIM</string>
+  <string name="sim_time_summary">Αναμονή: %s δευτ.</string>
+  <string name="sim_time_title">Αναμονή για επιλογή SIM</string>
   <string name="sim_unlock_failed">Αίτημα ξεκλειδώματος κάρτας SIM ανεπιτυχής.</string>
   <string name="sim_unlock_success">Η SIM ξεκλείδωσε με επιτυχία.</string>
   <string name="simContacts_airplaneMode">Για να εισαγάγετε επαφές από την κάρτα SIM, απενεργοποιήστε πρώτα τη λειτουργία πτήσης.</string>
@@ -1232,5 +1232,10 @@
    <string name="wifi_call_setting">Wi-Fi κλήσεις</string>
    <string name="wificall_switch_summary">Η συσκευή σας μπορεί να αλλάξει μεταξύ Wi-Fi και VoLTE όταν η σύνδεση είναι ασθενής</string>
    <string name="wificall_switch_title">Κάντε κλήσεις με χρήση Wi-Fi</string>
-  
+    <string name="button_color_title">Χρώμα Πλήκτρου</string>
+    <string name="text_color_title">Χρώμα ετικέτας Πλήκτρου</string>
+    <string name="name_color_title">Χρώμα ονόματος, διάρκειας, κτλ.</string>
+    <string name="number_color_title">Χρώμα αριθμών, γραμμάτων, κτλ.</string>
+    <string name="icon_color_title">Χρώμα SIM, συμβόλων, κτλ.</string>
+    <string name="call_windows_title">Παράθυρο Κλήσης</string>
 </resources>
