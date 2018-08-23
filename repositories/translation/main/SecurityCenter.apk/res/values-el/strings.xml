@@ -1674,6 +1674,7 @@
   <string name="section_title_security_defend">Ασφάλεια</string>
   <string name="section_title_system">Ασφάλεια συστήματος</string>
   <string name="security_scan_optimizing">Βελτιστοποίηση…</string>
+  <string name="see_more_content">Ενημερώστε το κέντρο παιχνιδιών να δείτε περισσότερα ενδιαφέροντα θεμάτα</string>
   <string name="see_detail">Λεπτομέρειες</string>
   <string name="set_applock_password">Ορισμός κωδικού</string>
   <string name="set_mixed_password_name">Εισαγωγή κωδικού</string>

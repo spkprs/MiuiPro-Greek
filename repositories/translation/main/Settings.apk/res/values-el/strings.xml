@@ -3889,6 +3889,7 @@
   <string name="second_space">Δεύτερο προφίλ</string>
   <string name="secondspace_category">Δεύτερος χώρος</string>
   <string name="secondspace_delete_space_title">Διαγραφή Δεύτερου χώρου</string>
+   <string name="sccret_code_error">Ο κωδικός που εισάγατε είναι εσφαλμένος.</string>
   <string name="secspace_fod_finger_tips">"Αδύνατη η επαλήθευση. Δοκιμάστε ξανά."</string>
   <string name="secspace_fod_finger_title">Επαλήθευση δακτυλικού αποτυπώματος</string>
   <string name="secspace_fod_use_password">Εισαγωγή κωδικού</string> 
@@ -4289,6 +4290,9 @@
   <string name="status_wimax_mac_address">Διεύθυνση 4G MAC</string>
   <string name="status_write_success">Επιτυχής εγγραφή!</string>
   <string name="statusbar_permission_desc">Τα ακόλουθα δικαιώματα ισχύουν μόνο για σημαντικές ειδοποιήσεις.</string>
+    <string name="stop_upload_audio_log">Ολοκλήρωση λήψης ήχου log</string>
+    <string name="stop_upload_gps_log">Ολοκλήρωση λήψης GPS log</string>
+    <string name="stop_upload_modem_log">Ολοκλήρωση λήψης modem log</string>
   <string name="storage_detail_apps">Εφαρμογές</string>
   <string name="storage_detail_audio">Ήχοι</string>
   <string name="storage_detail_cached">Δεδομένα στη μνήμη Cache</string>
@@ -4726,6 +4730,9 @@
   <string name="update_new_version">Υπάρχει διαθέσιμη ενημέρωση</string>
   <string name="update_progress_for_updates">Ενημέρωση (%s)</string>
   <string name="upload_debug_log_summary">Ανεβάστε το debug log, μόνο όταν η σύνδεση Wi-Fi είναι διαθέσιμη, για να βοηθήσετε την ομάδα της MIUI να αναπτύξει μια πιο σταθερή ROM</string>
+    <string name="upload_audio_log">Έναρξη απόκτησης ήχου log</string>
+    <string name="upload_gps_log">Έναρξη απόκτησης GPS log</string>
+    <string name="upload_modem_log">Έναρξη απόκτησης modem log</string>
   <string name="upload_debug_log_title">"Ανεβάστε αυτόματα το debug log "</string>
   <string name="usage">Χρήση</string>
   <string name="usage_access">Πρόσβαση χρήσης</string>
