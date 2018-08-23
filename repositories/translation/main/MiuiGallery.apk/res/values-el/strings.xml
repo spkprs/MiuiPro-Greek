@@ -1157,7 +1157,7 @@
   <string name="video_editor_filter_rainy">Βροχερό</string>
   <string name="video_editor_filter_rouge">Ρουζ</string>
   <string name="video_editor_filter_sunny">Ηλιόλουστο</string>
-  <string name="video_editor_invalid_trim_arguments">Πρέπει να είναι περισσότερο από 1 δευτερόλεπτο</string>
+  <string name="video_editor_invalid_trim_arguments">Πρέπει να είναι περισσότερο από 1 δευτ.</string>
   <string name="video_editor_loading_plugin">Φόρτωση…</string>
   <string name="video_editor_loading_warning_msg">Λόγω σφάλματος κωδικοποίησης, ορισμένες λειτουργίες και προεπισκοπήσεις ενδέχεται να μην είναι διαθέσιμες κατά τη διαδικασία επεξεργασίας. Ωστόσο, αυτό δεν θα επηρεάσει το τελικό αρχείο βίντεο.</string>
   <string name="video_editor_loading_warning_title">Σφάλμα κωδικοποίησης</string>

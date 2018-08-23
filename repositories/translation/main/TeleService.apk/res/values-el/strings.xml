@@ -43,9 +43,9 @@
   <string name="audio_mode_wired_headset">Ενσύρματα ακουστικά</string>
   <string name="auth_username_summary">Όνομα χρήστη που χρησιμοποιείται για τον έλεγχο ταυτότητας</string>
   <string name="auth_username_title">Πιστοποίηση ταυτότητος χρήστη</string>
-  <string name="auto_answer_delay_entries_delay_3s">3 δευτερόλεπτα</string>
-  <string name="auto_answer_delay_entries_delay_5s">5 δευτερόλεπτα</string>
-  <string name="auto_answer_delay_entries_delay_10s">10 δευτερόλεπτα</string>
+  <string name="auto_answer_delay_entries_delay_3s">3 δευτ.</string>
+  <string name="auto_answer_delay_entries_delay_5s">5 δευτ.</string>
+  <string name="auto_answer_delay_entries_delay_10s">10 δευτ.</string>
   <string name="auto_answer_delay_entries_immediately">Χωρίς καθυστέρηση</string>
   <string name="auto_answer_delay_title">Καθυστέρηση αυτόματης απάντησης</string>
   <string name="auto_answer_pref_summary">Αυτόματη απάντηση εισερχόμενων κλήσεων</string>

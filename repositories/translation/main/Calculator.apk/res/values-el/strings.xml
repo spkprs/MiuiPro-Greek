@@ -484,13 +484,13 @@
      <string name="unit_data_display_time_week">Εβδομάδα</string>
      <string name="unit_data_display_time_yr">Έτος</string>
      <string name="unit_data_display_velocity_c">Ταχύτητα φωτός</string>
-     <string name="unit_data_display_velocity_ftps">Πόδια ανά δευτερόλεπτο</string>
-     <string name="unit_data_display_velocity_inps">Ίντσες ανά δευτερόλεπτο</string>
+     <string name="unit_data_display_velocity_ftps">Πόδια ανά δευτ.</string>
+     <string name="unit_data_display_velocity_inps">Ίντσες ανά δευτ.</string>
      <string name="unit_data_display_velocity_kmph">Χιλιόμετρα ανά ώρα</string>
-     <string name="unit_data_display_velocity_kmps">Χιλιόμετρα ανά δευτερόλεπτο</string>
+     <string name="unit_data_display_velocity_kmps">Χιλιόμετρα ανά δευτ.</string>
      <string name="unit_data_display_velocity_mach">Mach</string>
      <string name="unit_data_display_velocity_mileph">Μίλια ανά ώρα</string>
-     <string name="unit_data_display_velocity_mps">Μέτρα ανά δευτερόλεπτο</string>
+     <string name="unit_data_display_velocity_mps">Μέτρα ανά δευτ.</string>
      <string name="unit_data_display_velocity_nmiph">Κόμβος</string>
      <string name="unit_data_display_volume_cl">Εκατοστόλιτρο</string>
      <string name="unit_data_display_volume_cu.cm">Κυβικό εκατοστό</string>

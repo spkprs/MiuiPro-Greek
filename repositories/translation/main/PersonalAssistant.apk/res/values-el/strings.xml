@@ -672,7 +672,7 @@
     <string name="note_name">Δημιουργία</string>
     <string name="note_parent">Σημειώσεις</string>
     <string name="notification_content_fail_not_support">Δεν ήταν δυνατή η λήψη πληροφοριών πληρωμής, προσθέστε την εγγραφή με μη αυτόματο τρόπο.</string>
-    <string name="notification_content_fail_stay_longer">Μείνετε στη σελίδα πληρωμής για τουλάχιστον 1 δευτερόλεπτο</string>
+    <string name="notification_content_fail_stay_longer">Μείνετε στη σελίδα πληρωμής για τουλάχιστον 1 δευτ.</string>
     <string name="notification_content_success">%2$s Πληρωμή CNY σε %1$s</string>
     <string name="notification_express_app_open">Ενεργοποιήστε</string>
     <string name="notification_express_content">Παρακολουθήστε τις παραγγελίες χρησιμοποιώντας το Smart assistant</string>

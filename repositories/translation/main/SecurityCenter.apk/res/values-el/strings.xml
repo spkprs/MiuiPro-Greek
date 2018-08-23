@@ -309,7 +309,7 @@
   <string name="auto_task_manager_group_title">Οι αυτοματοποιημένες εργασίες μου</string>
   <string name="auto_task_notify_do_task_title">Η αυτοματοποιημένη εργασία ξεκίνησε</string>
   <string name="auto_task_notify_exit_task_title">Η αυτοματοποιημένη εργασία έκλεισε</string>
-  <string name="auto_task_notify_task_cancel_count_down">Η αυτοματοποιημένη ενέργεια θα ακυρωθεί σε 5 δευτερόλεπτα</string>
+  <string name="auto_task_notify_task_cancel_count_down">Η αυτοματοποιημένη ενέργεια θα ακυρωθεί σε 5 δευτ.</string>
   <string name="auto_task_notify_task_cancel_do">Ακύρωση ενέργειας</string>
   <string name="auto_task_notify_task_canceled_summary">Μπορείτε να κάνετε και να λαμβάνετε κλήσεις</string>
   <string name="auto_task_notify_task_canceled_summary2">Φαίνεται ότι παίζεις τώρα ένα παιχνίδι.</string>
@@ -317,7 +317,7 @@
   <string name="auto_task_notify_task_canceled_summary4">Ακυρώθηκε από τον πρώτο χώρο</string>
   <string name="auto_task_notify_task_canceled_title">Η ενέργεια ακυρώθηκε</string>
   <string name="auto_task_notify_task_continue_do">Έναρξη ενέργειας</string>
-  <string name="auto_task_notify_task_count_down">Η αυτοματοποιημένη ενέργεια θα ξεκινήσει σε 5 δευτερόλεπτα</string>
+  <string name="auto_task_notify_task_count_down">Η αυτοματοποιημένη ενέργεια θα ξεκινήσει σε 5 δευτ.</string>
   <string name="auto_task_notify_task_exit_task">Ακύρωση εργασίας</string>
   <string name="auto_task_operation_airplane_mode">Λειτουργία πτήσης</string>
   <string name="auto_task_operation_auto_brightness">Αυτόματη φωτεινότητα</string>
@@ -1407,7 +1407,7 @@
   <string name="pm_remember_choice">Απομνημόνευση επιλογής</string>
   <string name="pm_root_success_notification_infomation">Βεβαιωθείτε ότι κατανοείτε τους κινδύνους σχετικά με την πρόσβαση root</string>
   <string name="pm_root_success_notification_title">Πρόσβαση root ενεργή</string>
-  <string name="power_20s_shutdown">Η συσκευή θα απενεργοποιηθεί σε %d δευτερόλεπτα</string>
+  <string name="power_20s_shutdown">Η συσκευή θα απενεργοποιηθεί σε %d δευτ.</string>
   <string name="power_analysis_consume_title">Χρήση μπαταρίας</string>
   <string name="power_analysis_suggestion_need_optimize">Ανιχνεύτηκαν προβλήματα χρήσης μπαταρίας.</string>
   <string name="power_autorun_apps_empty">Δεν υπάρχουν εφαρμογές αυτόματης εκκίνησης</string>

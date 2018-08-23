@@ -893,7 +893,7 @@
   <string name="lockscreen_carrier_default">Καμία υπηρεσία</string>
   <string name="lockscreen_charging_msg">Φορτίζει</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Εάν αποτύχετε ακόμη %d φορές, θα γίνει επαναφορά εργοστασιακών ρυθμίσεων, και όλα τα δεδομένα χρήστη θα χαθούν.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Έχετε πληκτρολογήσει εσφαλμένα τον κωδικό σας %d φορές. Μετά από %d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τα στοιχεία του λογαριασμού σας.\n\n Δοκιμάστε ξανά σε %d δευτερόλεπτα.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Έχετε πληκτρολογήσει εσφαλμένα τον κωδικό σας %d φορές. Μετά από %d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τα στοιχεία του λογαριασμού σας.\n\n Δοκιμάστε ξανά σε %d δευτ..</string>
   <string name="lockscreen_failed_attempts_now_wiping">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Θα πρέπει να γίνει τώρα Επαναφορά εργοστασιακών ρυθμίσεων.</string>
   <string name="lockscreen_none">Χωρίς</string>
   <string name="lockscreen_shortcut_left">Αριστερή συντόμευση</string>

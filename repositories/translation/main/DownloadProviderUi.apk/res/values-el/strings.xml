@@ -144,10 +144,10 @@
   <string name="durationHours">%1$d ώρες</string>
   <string name="durationMinute">%1$d λεπτό</string>
   <string name="durationMinutes">%1$d λεπτά</string>
-  <string name="durationMinuteSecond">%1$d λεπτό %2$d δευτερόλεπτο</string>
-  <string name="durationMinuteSeconds">%1$d λεπτό %2$d δευτερόλεπτα</string>
-  <string name="durationSecond">%1$d δευτερόλεπτο</string>
-  <string name="durationSeconds">%1$d δευτερόλεπτα</string>
+  <string name="durationMinuteSecond">%1$d λεπτό %2$d δευτ.</string>
+  <string name="durationMinuteSeconds">%1$d λεπτό %2$d δευτ.</string>
+  <string name="durationSecond">%1$d δευτ.</string>
+  <string name="durationSeconds">%1$d δευτ.</string>
   <string name="edit_hint"> Πληκτρολογήστε μια διεύθυνση URL (http or https)</string>
   <string name="editmode_menu_delete">Διαγραφή</string>
   <string name="editmode_menu_share">Κοινή χρήση</string>

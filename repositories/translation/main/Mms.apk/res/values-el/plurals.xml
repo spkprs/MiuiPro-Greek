@@ -48,14 +48,14 @@
     <item quantity="one">Απεσταλμένα %1$s μήνυμα</item>
   </plurals>
   <plurals name="slide_audio_duration">
-    <item quantity="other">%s δευτερόλεπτα</item>
-    <item quantity="one">%s δευτερόλεπτο</item>
-    <item quantity="few">%s δευτερόλεπτα</item>
+    <item quantity="other">%s δευτ.</item>
+    <item quantity="one">%s δευτ.</item>
+    <item quantity="few">%s δευτ.</item>
   </plurals>
   <plurals name="slide_duration">
-    <item quantity="other">%s δευτερόλεπτα</item>
-    <item quantity="one">%s δευτερόλεπτο</item>
-    <item quantity="few">%s δευτερόλεπτα</item>
+    <item quantity="other">%s δευτ.</item>
+    <item quantity="one">%s δευτ.</item>
+    <item quantity="few">%s δευτ.</item>
   </plurals>
   <plurals name="timed_message_expired_title">
     <item quantity="other">%d χρονικά μηνύματα δεν έχουν σταλεί</item>

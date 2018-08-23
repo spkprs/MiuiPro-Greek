@@ -69,7 +69,7 @@
   <string name="cit_miss">Αποτυχία!!!</string>
   <string name="cit_pass">Με επιτυχία!!!</string>
   <string name="cit_success">Γράψτε τη σημαία CIT με επιτυχία !!!</string>
-  <string name="cit_warn">Γράφει γραμμικό κώδικα CIT, περιμένετε 5 δευτερόλεπτα</string>
+  <string name="cit_warn">Γράφει γραμμικό κώδικα CIT, περιμένετε 5 δευτ.</string>
   <string name="clean_state">"Καθαρισμός κατάσταση "</string>
   <string name="compare_result">Συγκρίνετε Επιτυχία!</string>
   <string name="control_center_quit_confirm">Θέλετε να βγείτε;</string>
@@ -188,7 +188,7 @@
   <string name="headset_name">Ακουστικά</string>
   <string name="headset_playing">Αναπαράγεται, παρακαλώ ακούστε στο ακουστικό.</string>
   <string name="headset_record_first">Παρακαλούμε καταγράψτε πρώτα τους ήχους και αφαιρέστε το ακουστικό</string>
-  <string name="headset_recording">Ηχογράφηση, παρακαλώ πείτε μερικές λέξεις στο EarPhone MIC. Θα καταγραφούν 3 δευτερόλεπτα</string>
+  <string name="headset_recording">Ηχογράφηση, παρακαλώ πείτε μερικές λέξεις στο EarPhone MIC. Θα καταγραφούν 3 δευτ.</string>
   <string name="headset_remove_name">Αφαιρέστε το ακουστικό</string>
   <string name="headset_replay_end">Έφτασε στο τέλος.</string>
   <string name="headset_stoprecordering">Σταματήστε την εγγραφή τώρα, παρακαλώ εισάγετε ακουστικά!</string>
@@ -240,8 +240,8 @@
   <string name="lightsensor_name">Αισθητήρας φωτός</string>
   <string name="low_battery_tips">Δεν είναι δυνατή η ενεργοποίηση του φακού λόγω της χαμηλής μπαταρίας.</string>
   <string name="ls_name">ALS (PcbaTest)</string>
-  <string name="lscalib_hint">Κάντε κλικ στο κουμπί βαθμονόμησης, στη συνέχεια, τοποθετήστε το κινητό τηλέφωνο στο πλαίσιο φωτισμού και αφαιρέστε το τηλέφωνο μετά από 15 δευτερόλεπτα</string>
-  <string name="lscalib_hint_dark">Κάντε κλικ στο κουμπί βαθμονόμησης, στη συνέχεια, τοποθετήστε το κινητό τηλέφωνο στο πλαίσιο φωτισμού και αφαιρέστε το τηλέφωνο μετά από 5 δευτερόλεπτα</string>
+  <string name="lscalib_hint">Κάντε κλικ στο κουμπί βαθμονόμησης, στη συνέχεια, τοποθετήστε το κινητό τηλέφωνο στο πλαίσιο φωτισμού και αφαιρέστε το τηλέφωνο μετά από 15 δευτ.</string>
+  <string name="lscalib_hint_dark">Κάντε κλικ στο κουμπί βαθμονόμησης, στη συνέχεια, τοποθετήστε το κινητό τηλέφωνο στο πλαίσιο φωτισμού και αφαιρέστε το τηλέφωνο μετά από 5 δευτ.</string>
   <string name="lsensor_name_calibrate1">Βαθμονόμηση αισθητήρα φωτός</string>
   <string name="lsensor_name_calibrate2">Βαθμονόμηση αισθητήρα φωτός σκούρο</string>
   <string name="lsensor_title_dark">Βαθμονόμηση σκοτεινών συνθηκών</string>

@@ -261,11 +261,11 @@
     <item>VE</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
-    <item>1 δευτερόλεπτο</item>
-    <item>2 δευτερόλεπτα</item>
-    <item>5 δευτερόλεπτα</item>
-    <item>10 δευτερόλεπτα</item>
-    <item>20 δευτερόλεπτα</item>
+    <item>1 δευτ.</item>
+    <item>2 δευτ.</item>
+    <item>5 δευτ.</item>
+    <item>10 δευτ.</item>
+    <item>20 δευτ.</item>
     <item>Πάντα</item>
   </string-array>
   <string-array name="captioning_edge_type_selector_titles">
@@ -970,8 +970,8 @@
   </string-array>
   <string-array name="dream_timeout_entries">
     <item>Ποτέ</item>
-    <item>15 δευτερόλεπτα</item>
-    <item>30 δευτερόλεπτα</item>
+    <item>15 δευτ.</item>
+    <item>30 δευτ.</item>
     <item>1 λεπτό</item>
     <item>2 λεπτά</item>
     <item>5 λεπτά</item>
@@ -1057,20 +1057,20 @@
     <item>Βιολετί</item>
   </string-array>
   <string-array name="led_freq_entries">
-    <item>2 δευτερόλεπτα</item>
-    <item>3 δευτερόλεπτα</item>
-    <item>4 δευτερόλεπτα</item>
-    <item>5 δευτερόλεπτα</item>
-    <item>6 δευτερόλεπτα</item>
-    <item>7 δευτερόλεπτα</item>
-    <item>8 δευτερόλεπτα</item>
-    <item>9 δευτερόλεπτα</item>
+    <item>2 δευτ.</item>
+    <item>3 δευτ.</item>
+    <item>4 δευτ.</item>
+    <item>5 δευτ.</item>
+    <item>6 δευτ.</item>
+    <item>7 δευτ.</item>
+    <item>8 δευτ.</item>
+    <item>9 δευτ.</item>
   </string-array>
   <string-array name="lock_after_timeout_entries">
     <item>Αμέσως</item>
-    <item>5 δευτερόλεπτα</item>
-    <item>15 δευτερόλεπτα</item>
-    <item>30 δευτερόλεπτα</item>
+    <item>5 δευτ.</item>
+    <item>15 δευτ.</item>
+    <item>30 δευτ.</item>
     <item>1 λεπτό</item>
     <item>2 λεπτά</item>
     <item>5 λεπτά</item>
@@ -1090,7 +1090,7 @@
   </string-array>
   <string-array name="lock_screen_secure_after_timeout_entries">
     <item>Αμέσως</item>
-    <item>30 δευτερόλεπτα</item>
+    <item>30 δευτ.</item>
     <item>1 λεπτό</item>
     <item>2 λεπτά</item>
     <item>5 λεπτά</item>
@@ -1543,10 +1543,10 @@
     <item>Κρύο</item>
   </string-array>
   <string-array name="screen_key_long_press_timeout">
-    <item>0.5 δευτερόλεπτα</item>
-    <item>1 δευτερόλεπτο</item>
-    <item>1.5 δευτερόλεπτο</item>
-    <item>2 δευτερόλεπτα</item>
+    <item>0.5 δευτ.</item>
+    <item>1 δευτ.</item>
+    <item>1.5 δευτ.</item>
+    <item>2 δευτ.</item>
   </string-array>
   <string-array name="screen_key_press_action">
     <item>Εμφάνιση πίνακα πρόσφατων εφαρμογών</item>

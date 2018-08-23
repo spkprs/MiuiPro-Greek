@@ -21,7 +21,7 @@
   <string name="desc_international_fingerprint">Χρησιμοποιήστε το δακτυλικό σας αποτύπωμα για να ξεκλειδώσετε τη συσκευή σας ή για να συνδεθείτε σε εφαρμογές και υπηρεσίες.</string>
   <string name="disagree">Ακύρωση</string>
   <string name="enable_accessibility_canceled">Η προσβασιμότητα ακυρώθηκε.</string>
-  <string name="enable_accessibility_dialog_message">Ενεργοποιήσατε το TalkBack έχοντας πατήσει στην οθόνη με 2 δάκτυλα για παραπάνω από 10 δευτερόλεπτα. Το TalkBack παρέχει φωνητική βοήθεια για άτομα με προβλήματα όρασης. Εάν το ενεργοποιήσατε κατά λάθος, πατήστε το πλήκτρο Ακύρωση και στην συνέχεια κάντε διπλό χτύπημα στην οθόνη.</string>
+  <string name="enable_accessibility_dialog_message">Ενεργοποιήσατε το TalkBack έχοντας πατήσει στην οθόνη με 2 δάκτυλα για παραπάνω από 10 δευτ.. Το TalkBack παρέχει φωνητική βοήθεια για άτομα με προβλήματα όρασης. Εάν το ενεργοποιήσατε κατά λάθος, πατήστε το πλήκτρο Ακύρωση και στην συνέχεια κάντε διπλό χτύπημα στην οθόνη.</string>
   <string name="enable_accessibility_dialog_negative_btn">Ακύρωση</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="ime_privacy_policy">Πολιτική απορρήτου για το επιλεγμένο πληκτρολόγιο</string>

@@ -33,7 +33,7 @@
   <string name="apply_font_tip">Το Θέμα περιέχει γραμματοσειρά. Απαιτείται επανεκκίνηση.</string>
   <string name="apply_theme_with_ringtones">Ενεργοποίηση ήχων κλήσης</string>
   <string name="audio_duration_minutes_format">%1$d λεπτά</string>
-  <string name="audio_duration_seconds_format">%1$d δευτερόλεπτα</string>
+  <string name="audio_duration_seconds_format">%1$d δευτ.</string>
     <string name="automatically_update_using_theme_tips">Αυτόματη ενημέρωση την επόμενη φορά</string>
   <string name="backup_theme_dialog_message">Δημιουργία αντιγράφων ασφαλείας για το τρέχον θέμα;</string>
   <string name="backup_theme_dialog_ok">Αντίγραφο ασφαλείας</string>

@@ -9,12 +9,12 @@
         <item quantity="one">"%1$d λεπτό "</item>
     </plurals>
     <plurals name="timer_message_second">
-        <item quantity="other">%1$d δευτερόλεπτα</item>
-        <item quantity="one">%1$d δευτερόλεπτο</item>
+        <item quantity="other">%1$d δευτ.</item>
+        <item quantity="one">%1$d δευτ.</item>
     </plurals>
     <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d δευτερόλεπτα</item>
-        <item quantity="one">Ένα δευτερόλεπτο</item>
+        <item quantity="other">%1$d δευτ.</item>
+        <item quantity="one">Ένα δευτ.</item>
     </plurals>
     <plurals name="timer_item_duration_display_minutes">
         <item quantity="other">%1$d λεπτά</item>

@@ -119,7 +119,7 @@
   <plurals name="seconds">
     <item quantity="other">%1$d δευτερολέπτων</item>
     <item quantity="zero">%1$d δευτερολέπτων</item>
-    <item quantity="one">%1$d δευτερόλεπτο</item>
+    <item quantity="one">%1$d δευτ.</item>
     <item quantity="two">%1$d δευτερολέπτων</item>
     <item quantity="few">%1$d δευτερολέπτων</item>
     <item quantity="many">%1$d δευτερολέπτων</item>

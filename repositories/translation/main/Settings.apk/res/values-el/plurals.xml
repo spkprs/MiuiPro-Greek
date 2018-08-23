@@ -205,8 +205,8 @@
     <item quantity="one">%1$d άδεια του %2$d χορηγήθηκε</item>
   </plurals>
   <plurals name="seconds">
-    <item quantity="other">%s δευτερόλεπτα</item>
-    <item quantity="one">1 δευτερόλεπτο</item>
+    <item quantity="other">%s δευτ.</item>
+    <item quantity="one">1 δευτ.</item>
   </plurals>
   <plurals name="security_settings_fingerprint_preference_summary">
     <item quantity="other">%1$d δακτυλικά αποτυπώματα ρυθμίστηκαν</item>

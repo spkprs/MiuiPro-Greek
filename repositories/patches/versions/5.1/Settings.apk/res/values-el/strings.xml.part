@@ -86,7 +86,7 @@
   <string name="lockpassword_pin_fixed_length">PIN πρέπει να είναι %d ψηφία</string>
   <string name="lockpassword_press_continue">Πατήστε Continue (συνέχεια) όταν γίνεται</string>
   <string name="lockpattern_need_to_unlock">Επιβεβαίωση σωθεί μοτίβο</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Δοκιμάστε ξανά σε %d δευτερόλεπτα.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Δοκιμάστε ξανά σε %d δευτ..</string>
   <string name="lte_ram_dump_off">Απενεργοποιήστε lte ram χωματερή</string>
   <string name="lte_ram_dump_on">Ενεργοποίηση lte ram χωματερή</string>
   <string name="manage_condition_providers">Κατάσταση παρόχους</string>
