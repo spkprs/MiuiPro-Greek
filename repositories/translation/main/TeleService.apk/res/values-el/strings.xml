@@ -97,7 +97,7 @@
   <string name="call_background_lock_wallpaper">Ταπετσαρία Οθόνης κλειδώματος</string>
   <string name="call_background_setting">Φόντο κλήσεων</string>
   <string name="call_backlight_condition_title">Αλλαγή όρων</string>
-  <string name="call_backlight_mode">Φωτεινή οθόνης κατά την κλήση</string>
+  <string name="call_backlight_mode">Φωτεινή οθόνη κατά την κλήση</string>
   <string name="call_backlight_new_off">Πρόσθετη λειτουργία</string>
   <string name="call_backlight_new_on">Κύρια λειτουργία</string>
   <string name="call_backlight_new_title">Τύπος ρύθμισης φωτεινότητας</string>

@@ -308,7 +308,7 @@
      <string name="menu_item_sort">Ταξινόμηση κατά</string>
      <string name="menu_item_sort_add_time">"Δημιουργήθηκε "</string>
      <string name="menu_item_sort_by_added_time">Προστέθηκε</string>
-     <string name="menu_item_sort_date">Ημερομηνία τροποποίησης</string>
+     <string name="menu_item_sort_date">Ημ. Τροποποίησης</string>
      <string name="menu_item_sort_name">Όνομα</string>
      <string name="menu_item_sort_type">Τύπο</string>
      <string name="menu_item_usb">USB</string>
@@ -615,7 +615,7 @@
      <string name="stay_awake_title">Ενεργή οθόνη</string>
   <string name="sticker_btn_str_explore_tab">Εξερευνήστε τόνους διασκέδασης!</string>
      <string name="stop_server">Διακοπή διακομιστή</string>
-     <string name="storage_cloned_app">Αποθ.χώρος για τις διπλές εφαρμογές</string>
+     <string name="storage_cloned_app">Αποθ.χώρος Διπλών εφαρμογών</string>
      <string name="storage_info_detail">Διαθέσιμα: %1$s Σύνολο: %1$s</string>
      <string name="storage_internal">Εσωτερική μνήμη</string>
      <string name="storage_sd_card">Κάρτα SD</string>

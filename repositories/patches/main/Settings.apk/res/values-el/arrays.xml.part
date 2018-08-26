@@ -196,7 +196,7 @@
     <item>Προηγούμενο</item>
   </string-array>
   <string-array name="def_audio_entries"> 
-        <item>Ηχος κλησης</item> 
+        <item>Ήχος κλήσης</item> 
         <item>Πολυμέσα</item> 
         <item>Ειδοποιήσεις</item> 
    </string-array> 

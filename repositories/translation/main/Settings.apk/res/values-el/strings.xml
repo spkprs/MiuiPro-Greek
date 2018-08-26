@@ -1359,7 +1359,7 @@
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Διαγραφή δεδομένων δακτυλικού αποτυπώματος;</string>
   <string name="delete_rule">Κατάργηση κανόνων</string>
   <string name="delete_saved_network">Διαγραφή αποθηκευμένου δικτύου</string>
-    <string name="delete_sound_effect">\"Διαγραφή\" ήχου</string>
+  <string name="delete_sound_effect">Ήχος Διαγραφής</string>
   <string name="deleted_apps">Διαγραμμένες εφαρμ.</string>
   <string name="deletion_helper_automatic_title">Αυτόματο</string>
   <string name="deletion_helper_manual_title">Εγχειρίδιο χρήσης</string>

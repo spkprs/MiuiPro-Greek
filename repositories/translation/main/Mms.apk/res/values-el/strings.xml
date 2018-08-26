@@ -13,7 +13,7 @@
   <string name="add_slide_before">Προσθήκη διαφάνειας (πριν)</string>
   <string name="add_slide_hint">Πατήστε για δημιουργία νέας διαφάνειας</string>
   <string name="add_smiley">Χαμόγελα</string>
-  <string name="add_timing">Χρόνος αποστολής</string>
+  <string name="add_timing">Ώρα αποστολής</string>
   <string name="add_to_browser_favorite_failed">Αδυναμία προσθήκης</string>
   <string name="add_to_browser_favorite_success">Επιτυχής προσθήκη</string>
   <string name="add_video">Προσθήκη βίντεο</string>
@@ -542,7 +542,7 @@
   <string name="recommend_bar_message_mx_rcs">Το Mi Message σάς επιτρέπει να στέλνετε μηνύματα σε άλλες συσκευές MIUI και χρήστες της China Mobile χωρίς να χρεώνεστε.</string>
   <string name="recommend_bar_message_rcs">Το Mobile Messaging της Κίνας σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες χωρίς επιβαρύνσεις.</string>
   <string name="recommend_bar_message_smart_message">Αντιγράψτε έναν κωδικό πρόσβασης, πακέτα κομματιών, χρησιμοποιήστε έξυπνα μενού και πολλά άλλα</string>
-  <string name="recommend_bar_ok">Ενεργοποιήστε</string>
+  <string name="recommend_bar_ok">Ενεργοποίηση</string>
   <string name="recommend_bar_title_mx_rcs">Mi Μήνυμα</string>
   <string name="recommend_bar_title_smart_message">Έξυπνα μηνύματα</string>
   <string name="recording_failed">Αδυναμία εγγραφής</string>

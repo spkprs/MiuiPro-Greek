@@ -299,6 +299,7 @@
   <plurals name="zen_mode_summary_alarms_only_by_minute">
     <item quantity="other">Αλλαγή αφυπνίσεων για %1$d λεπτά (μέχρι %2$s)</item>
     <item quantity="one">Αλλαγή αφυπνίσεων για ένα λεπτό μέχρι %2$s</item>
+  </plurals>
     <plurals name="show_audio_logcat_countdown">
         <item quantity="other">%1$d βήματα πριν λάβετε το log ήχου</item>
         <item quantity="one">%1$d βήμα πριν λάβετε το log ήχου</item>
@@ -311,5 +312,4 @@
         <item quantity="other">%1$d βήματα πριν λάβετε το log modem</item>
         <item quantity="one">%1$d βήμα πριν λάβετε το log modem</item>
     </plurals>
-  </plurals>
 </resources>

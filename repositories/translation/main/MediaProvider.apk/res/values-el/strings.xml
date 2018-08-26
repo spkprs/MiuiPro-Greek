@@ -3,8 +3,8 @@
   <string name="alarm_sound_default">Ήχος προειδοποίησης</string>
   <string name="app_label">Αποθήκευση Πολυμέσων</string>
   <string name="artist_label">Καλλιτέχνης</string>
-  <string name="notification_sound_default">Προεπιλεγμένος ήχος ειδοποίησης</string>
-  <string name="ringtone_default">Προεπιλεγμένος ήχος κλήσης</string>
+  <string name="notification_sound_default">Ήχος ειδοποίησης</string>
+  <string name="ringtone_default">Ήχος κλήσης</string>
   <string name="root_audio">Ήχος</string>
   <string name="root_images">Εικόνες</string>
   <string name="root_videos">Βίντεο</string>
