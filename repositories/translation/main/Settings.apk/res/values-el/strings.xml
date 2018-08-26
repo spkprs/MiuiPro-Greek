@@ -4797,7 +4797,7 @@
   <string name="usb_tethering_available_subtext">Το USB συνδέθηκε επιλέξτε για πρόσδεση</string>
   <string name="usb_tethering_button_text">Πρόσδεση USB</string>
   <string name="usb_tethering_errored_subtext">Σφάλμα πρόσδεσης USB</string>
-  <string name="usb_tethering_storage_active_subtext">Δεν μπορώ να γίνει πρόσδεση όταν η συσκευή αποθήκευσης USB είναι σε χρήση</string>
+  <string name="usb_tethering_storage_active_subtext">Δεν μπορεί να γίνει πρόσδεση όταν η συσκευή αποθήκευσης USB είναι σε χρήση</string>
   <string name="usb_tethering_turnon_subtext">Συνδεθείτε για ενεργοποίηση</string>
   <string name="usb_tethering_unavailable_subtext">Το USB δεν έχει συνδεθεί</string>
   <string name="usb_title">USB</string>

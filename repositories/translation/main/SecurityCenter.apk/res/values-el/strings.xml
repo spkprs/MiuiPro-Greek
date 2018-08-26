@@ -2317,7 +2317,7 @@
     <string name="first_aid_item4_content">Μπαταρία</string>
     <string name="first_aid_item5_content">Άλλα θέματα</string>
     <string name="first_aid_card_consume_power_title">Χρήση μπαταρίας</string>
-    <string name="first_aid_card_consume_power_summary1">Περισσότερες από 5 εφαρμογές επιτρέπεται να πραγματοποιούν αυτόματη εκκίνηση. Περιορίστε για εξοικονόμηση μπαταρίας.</string>
+    <string name="first_aid_card_consume_power_summary1">Περισσότερες από 5 εφαρμογές επιτρέπεται η αυτόματη εκκίνηση. Περιορίστε τις για εξοικονόμηση μπαταρίας.</string>
     <string name="first_aid_card_consume_power_button1">Περιορισμός</string>
     <string name="first_aid_card_consume_power_summary2">Απενεργοποίηση Hotspot για εξοικονόμηση μπαταρίας</string>
     <string name="first_aid_card_consume_power_button2">Απενεργοποίηση</string>
@@ -2345,7 +2345,7 @@
     <string name="first_aid_card_unable_install_button">Απελευθέρωση</string>
     <string name="first_aid_result_summary_normal">Όλα φαίνονται καλά!</string>
     <string name="first_aid_result_feedback_title">Σχόλια</string>
-    <string name="first_aid_result_feedback_summary">"Δεν μπορώ να επιλύσω προβλήματα στη συσκευή μου."</string>
+    <string name="first_aid_result_feedback_summary">"Αδύνατη η επίλυση των προβλημάτων μου."</string>
     <string name="first_aid_result_feedback_button">Υποβολή</string>
     <string name="first_aid_card_kadun_title">Η συσκευή είναι αργή</string>
     <string name="first_aid_card_kadun_summary1">Απελευθερώστε χώρο αποθήκευσης έτσι ώστε η συσκευή σας να λειτουργεί κανονικά.</string>

@@ -29,20 +29,20 @@
         <item quantity="one">1 ώρα</item>
     </plurals>
     <plurals name="duration_minutes_shortest">
-        <item quantity="other">%d λεπτά</item>
-        <item quantity="one">%d λεπτό</item>
+        <item quantity="other">πριν %d λεπτά</item>
+        <item quantity="one">πριν %d λεπτό</item>
     </plurals>
     <plurals name="duration_hours_shortest">
-        <item quantity="other">%d ώρες</item>
-        <item quantity="one">%d ώρα</item>
+        <item quantity="other">πριν %d ώρες</item>
+        <item quantity="one">πριν %d ώρα</item>
     </plurals>
     <plurals name="duration_days_shortest">
-        <item quantity="other">%d ημέρες</item>
-        <item quantity="one">%d ημέρα</item>
+        <item quantity="other">πριν %d ημέρες</item>
+        <item quantity="one">πριν %d ημέρα</item>
     </plurals>
     <plurals name="duration_years_shortest">
-        <item quantity="other">%d χρόνια</item>
-        <item quantity="one">%d χρόνο</item>
+        <item quantity="other">πριν %d χρόνια</item>
+        <item quantity="one">πριν %d χρόνο</item>
     </plurals>
     <plurals name="duration_minutes_shortest_future">
         <item quantity="other">σε %d λεπτά</item>
