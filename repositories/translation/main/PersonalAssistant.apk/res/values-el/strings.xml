@@ -62,8 +62,8 @@
     <string name="app_setting_has_setted">Έχει ρυθμιστεί</string>
     <string name="app_setting_more_setting">Περισσότερες ρυθμίσεις</string>
     <string name="app_setting_on_off_setting">Ρύθμιση διακόπτη</string>
-    <string name="app_setting_search">Μπαρα αναζήτησης</string>
-    <string name="app_setting_xiaoai">Xiao AI κουμπί</string>
+    <string name="app_setting_search">Μπάρα αναζήτησης</string>
+    <string name="app_setting_xiaoai">Xiao AI διακόπτης</string>
     <string name="arrive">Άφιξη</string>
     <string name="assistant_day_deadline">Τελευταία μέρα</string>
     <string name="assistant_format_MMdd">MM/dd</string>
@@ -794,12 +794,12 @@
     <string name="scan_exercise">Μελέτη</string>
     <string name="scan_parent">Πληρωμή</string>
     <string name="scan_trans">Μετάφραση</string>
-    <string name="search_add_header">Προσθέστε την εικόνα καλύμματος</string>
+    <string name="search_add_header">Προσθέστε την εικόνα φόντου</string>
     <string name="search_category_article">Άρθρα</string>
     <string name="search_category_shopping">Ψώνια</string>
     <string name="search_category_video">Βίντεο</string>
-    <string name="search_change_header">Αντικαταστήστε την εικόνα καλύμματος</string>
-    <string name="search_clear_header">Αφαιρέστε την εικόνα καλύμματος</string>
+    <string name="search_change_header">Αντικαταστήστε την εικόνα φόντου</string>
+    <string name="search_clear_header">Αφαιρέστε την εικόνα φόντου</string>
     <string name="search_hint">Αναζήτηση στοιχείων στη συσκευή και στο διαδίκτυο</string>
     <string name="search_label">Αναζήτηση…</string>
     <string name="search_setting_description">Τίτλοι στα αγαπημένα</string>

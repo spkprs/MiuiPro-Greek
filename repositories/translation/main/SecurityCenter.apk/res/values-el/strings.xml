@@ -1465,9 +1465,9 @@
   <string name="power_save_title_text">Εξοικονόμηση μπαταρίας</string>
   <string name="power_screen">Οθόνη</string>
   <string name="power_settings_category_title">Ένδειξη μπαταρίας</string>
-  <string name="power_settings_number">Ποσοστό και γραφικό</string>
+  <string name="power_settings_number">Ποσοστό και γραφική</string>
   <string name="power_settings_saver_title">Εξοικονόμηση ενέργειας</string>
-  <string name="power_settings_shape">Γραφικό</string>
+  <string name="power_settings_shape">Γραφική</string>
   <string name="power_settings_title">Ρύθμιση</string>
   <string name="power_settings_top">Μπάρα στην κορυφή</string>
   <string name="power_wifi">Wi‑Fi</string>
@@ -2253,7 +2253,7 @@
   <string name="xunyou_net_booster">Ενίσχυση ταχύτητας δικτύου</string>
   <string name="xunyou_net_booster_detail">Χρησιμοποιήστε υπηρεσίες ενίσχυσης ταχύτητας Xunyou για παιχνίδια</string>
   <string name="xunyou_pay_webview">Ποσοστό μόνο</string>
-  <string name="xunyou_server_expired">Απενεργοποίηση</string>
+  <string name="xunyou_server_expired">Χωρίς</string>
   <string name="zhifubao_not_found">η έκδοση της εφαρμογής σας είναι πολύ παλιά ή δεν έχει εγκατασταθεί</string>
   <string name="gb_msg_not_shielded_summary">Προβολή</string>
     <string name="exo_controls_fastforward_description">Γρήγορη προώθηση</string>
