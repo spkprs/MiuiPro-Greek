@@ -20,7 +20,7 @@
     <item>Αυτό το μήνα (δεδομένα)</item>
     <item>Χθες Wi-Fi</item>
     <item>Σήμερα Wi-Fi</item>
-    <item>Τον τελευταίο μήνα Wi-Fi</item>
+    <item>Τον προηγούμενο μήνα Wi-Fi</item>
     <item>Αυτό το μήνα Wi-Fi</item>
   </string-array>
   <string-array name="date_of_traffic">
@@ -55,8 +55,8 @@
     <item>Χρήση Wi‑Fi...</item>
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
-    <item>Εμφάνιση προειδοποίησης</item>
-    <item>Προειδοποίηση/Απενεργοποίηση</item>
+    <item>Προειδοποίηση</item>
+    <item>Προειδ./Απενερ.</item>
   </string-array>
   <string-array name="roaming_network_type">
     <item>Πάντα</item>
