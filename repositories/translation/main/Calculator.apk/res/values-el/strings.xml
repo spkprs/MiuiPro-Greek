@@ -538,5 +538,7 @@
 Μέγεθος ενημέρωσης Delta: %2$s"</string>
      <string name="xiaomi_update_dialog_title">%1$s νέα έκδοση!</string>
      <string name="year" />
-     <string name="yesterday">Χθες</string>
+     <string name="yesterday">Χθές</string>
+     <string name="preference_other">Άλλα</string>
+    <string name="preference_privacy_title">Πολιτική Απορρήτου</string>
 </resources>

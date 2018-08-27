@@ -35,8 +35,8 @@
         <item quantity="one">Διαγραφή επαφής</item>
      </plurals>
      <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Κουδούνισε %d φορές</item>
-        <item quantity="one">Κουδούνισε %d φορά</item>
+        <item quantity="other">Ήχησε %d φορές</item>
+        <item quantity="one">Ήχησε %d φορά</item>
      </plurals>
      <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d επαφές δεν έχουν συγχρονιστεί"</item>

@@ -28,7 +28,7 @@
   <string name="balance_inquiry_send_sms_summmary">Έλεγχος υπολοίπου</string>
   <string name="balance_inquiry_title">Ερώτηση υπολοίπου</string>
   <string name="call">Κλήση</string>
-  <string name="callNoAnswerTimeFormat">Κουδούνισε %s φορές</string>
+  <string name="callNoAnswerTimeFormat">Ήχησε %s φορές</string>
   <string name="callrecordview_item_newcontact">Νέα επαφή</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d λεπτά %2$d δευτ.</string>
   <string name="callrecordview_item_op_time_missed">Χωρίς σύνδεση</string>
@@ -49,7 +49,7 @@
   <string name="content_desc_send_sms">Αποστολή SMS</string>
   <string name="coupon_bought_count">%d αγόρασαν</string>
   <string name="currency_character">RMB</string>
-  <string name="custom_mark_category">Προσαρμοσμένο</string>
+  <string name="custom_mark_category">Προσαρμογή</string>
   <string name="data_error">Δυστυχώς, αυτή η υπηρεσία δεν είναι διαθέσιμη, δοκιμάστε ξανά αργότερα</string>
   <string name="data_error_show">Παρουσιάστηκε σφάλμα</string>
   <string name="delete">Διαγραφή</string>

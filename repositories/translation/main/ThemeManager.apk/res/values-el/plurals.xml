@@ -12,4 +12,8 @@
     <item quantity="other">%1$s | %2$d εικόνες</item>
     <item quantity="one">%1$s | %2$d εικόνα</item>
   </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d σχόλια</item>
+        <item quantity="one">%d σχόλιο</item>
+    </plurals>
 </resources>
