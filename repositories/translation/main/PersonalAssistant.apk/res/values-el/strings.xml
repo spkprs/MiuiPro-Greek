@@ -1088,4 +1088,6 @@
     <string name="card_expand_note_toast_save_done">Η σημείωση αποθηκεύτηκε</string>
     <string name="card_expand_note_toast_save_dup">Επιτυχής αποθήκευση</string>
 	<string name="card_expand_note_clear">Καθαρισμός</string>
+    <string name="express_select_send_providers">Επιλέξτε έναν πάροχο ταχυμεταφορών</string>
+    <string name="express_send_not_available">Η υπηρεσία είναι προσωρινά μη διαθέσιμη, δοκιμάστε ξανά αργότερα</string>
 </resources>

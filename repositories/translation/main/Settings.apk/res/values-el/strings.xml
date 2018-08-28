@@ -1008,9 +1008,9 @@
   <string name="charge_length_format">%1$s πριν</string>
   <string name="charging_sounds_title">Ήχοι Φόρτισης</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
-  <string name="check_importance">Επισημάνσεις</string>
+  <string name="check_importance">Κανόνες Ομαδοποιημένων ειδοποιήσεων</string>
   <string name="check_update">Έλεγχος για ενημερώσεις</string>
-  <string name="checkbox_notification_same_as_incoming_call">Χρήση της έντασης κουδουνίσματος και για ειδοποιήσεις</string>
+  <string name="checkbox_notification_same_as_incoming_call">Χρήση έντασης κουδουνίσματος και για τις ειδοποιήσεις</string>
   <string name="checking_decryption">Έλεγχος…</string>
   <string name="checking_find_device_status">Έλεγχος κατάστασης του Εύρεση συσκευής…</string>
   <string name="checking_for_updates">Έλεγχος για ενημερώσεις…</string>
@@ -5689,4 +5689,6 @@
   <string name="navigation_guide_appswitch_anim_summary">Σαρώστε κατά μήκος της οθόνης ξεκινώντας από την άκρη για να επιστρέψετε στην προηγούμενη εφαρμογή</string>
   <string name="navigation_guide_appswitch_anim_title">Μετάβαση σε προηγούμενη εφαρμογή</string>
   <string name="navigation_guide_appswitch_click">Ενεργοποιήστε πρώτα την \"Επιστροφή στην προηγούμενη εφαρμογή\"</string>
+    <string name="check_importance_dialog_cancel">Ακύρωση</string>
+    <string name="handy_mode_tips_full_screen">"Όταν χρησιμοποιείτε Χειρονομίες πλήρους οθόνης, μπορείτε να ενεργοποιήσετε τη Λειτουργία με ένα χέρι χρησιμοποιώντας το Quick Ball. Μπορείτε επίσης να μεταβείτε στη χρήση Κουμπιών αντί για Χειρονομίες πλήρους οθόνης."</string>
 </resources>

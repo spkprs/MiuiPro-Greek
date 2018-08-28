@@ -6,8 +6,8 @@
         <item>Χωρίς</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Προεπιλεγμένη σελίδα</item>
-        <item>Προσαρμοσμένη</item>
+        <item>Προεπιλογή</item>
+        <item>Προσαρμογή</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Τηλέφωνο</item>
