@@ -701,7 +701,7 @@
   <string name="exit_dialog_scan_positive_button">Βελτιστοποίηση</string>
   <string name="exit_dialog_scan_title">Βελτιστοποίηση απόδοσης</string>
     <string name="extreme_power_save_mode_title">Μέγιστη εξοικον. μπαταρίας</string>
-    <string name="extreme_power_save_mode_summary">Η Ακραία Εξοικονόμηση μπαταρίας περιορίζει τη δραστηριότητα φόντου και σταματά το συγχρονισμό.</string>
+    <string name="extreme_power_save_mode_summary">Η Μέγιστη Εξοικονόμηση μπαταρίας περιορίζει τη δραστηριότητα παρασκηνίου και σταματά το συγχρονισμό.</string>
     <string name="extreme_power_save_description"><li>"Η Μέγιστη εξοικονόμηση μπαταρίας διακόπτει όλες τις δραστηριότητες παρασκηνίου μιας εφαρμογής αφού την αφήσετε και επιστρέψετε στην Αρχική οθόνη. Αυτή η εφαρμογή δεν θα στείλει ειδοποιήσεις ή λήψη ενημερώσεων."</li>"
 "<li>Αν θέλετε μια εφαρμογή να εκτελείται στο παρασκήνιο, κλειδώστε την στα Πρόσφατα ή προσθέστε την στις εξαιρέσεις παρασκηνίου παρακάτω. Μέχρι 4 εφαρμογές μπορούν να εκτελούνται στο παρασκήνιο όταν ενεργοποιείται η Μέγιστη εξοικονόμηση ενέργειας.</li>"
 "<li>Η Μέγιστη εξοικονόμηση μπαταρίας απενεργοποιεί το NFC απο προεπιλογή. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</li>"
@@ -1554,7 +1554,7 @@
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Ανοίξτε δύο δάχτυλα στην οθόνη. Θα δείτε ένα μήνυμα που σας ζητάει να εισαγάγετε τον κωδικό κλειδώματος εφαρμογής."</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Αφού εισάγετε τον κωδικό σας, θα εμφανιστεί ο φάκελος με τις κρυφές εφαρμογές.</string>
     <string name="privacy_apps_manage_dialog_title">Σχετικά με τις κρυφές εφαρμογές</string>
-    <string name="privacy_apps_manager_dialog_message">Η απόκρυψη εφαρμογών απαιτεί τη ρύθμιση εφαρμογής κλειδώματος οθόνης. Οι ειδοποιήσεις των κρυφών εφαρμογών θα απενεργοποιηθούν. Απόκρυψη αυτής της εφαρμογής?</string>
+    <string name="privacy_apps_manager_dialog_message">Τα εικονίδια των εφαρμογών δεν θα εμφανίζονται στην Αρχική οθόνη μετά την απόκρυψη τους.Απόκρυψη αυτής της εφαρμογής?</string>
     <string name="privacy_apps_checkbox_remind_choice">"Χωρίς επανεμφάνιση"</string>
     <string name="privacy_apps_go_to_use">Εκκίνηση</string>
     <string name="privacy_apps_close">Κλείστε</string>
