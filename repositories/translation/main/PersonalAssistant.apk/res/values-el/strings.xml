@@ -49,7 +49,7 @@
     <string name="app_setting_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="apps">Προτάσεις εφαρμογών</string>
     <string name="apps_label">Εφαρμογές</string>
-    <string name="app_setting_xiaoai">Φωνητικός Βοηθός Google</string>
+    <string name="app_setting_xiaoai">Φωνητικός Βοηθός</string>
     <string name="agenda_disclaimer">Αποποίηση</string>
     <string name="agenda_disclaimer_content">Αυτή η υπηρεσία παρέχεται από Alipay. Οι σχετικές υπηρεσίες και ευθύνες θα βαρύνουν τρίτους. Αν έχετε οποιαδήποτε απορία, επικοινωνήστε με την εξυπηρέτηση πελατών της εταιρείας.</string>
     <string name="agenda_i_known">Το γνωρίζω</string>
@@ -64,7 +64,6 @@
     <string name="app_setting_more_setting">Περισσότερες ρυθμίσεις</string>
     <string name="app_setting_on_off_setting">Ρύθμιση διακόπτη</string>
     <string name="app_setting_search">Μπάρα αναζήτησης</string>
-    <string name="app_setting_xiaoai">Xiao AI διακόπτης</string>
     <string name="arrive">Άφιξη</string>
     <string name="assistant_day_deadline">Τελευταία μέρα</string>
     <string name="assistant_format_MMdd">MM/dd</string>

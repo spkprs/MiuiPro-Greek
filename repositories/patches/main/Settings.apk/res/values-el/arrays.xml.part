@@ -210,4 +210,8 @@
         <item>3 στήλες</item> 
         <item>4 στήλες</item> 
     </string-array> 
+    <string-array name="app_assistant_entries"> 
+        <item>Βοηθός Google</item> 
+        <item>Βοηθός Yandex</item> 
+     </string-array>
 </resources>

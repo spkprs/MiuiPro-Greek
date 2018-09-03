@@ -1279,4 +1279,8 @@
     <item>Κλίμακα κίνησης 5.0x</item>
     <item>Κλίμακα κίνησης 10x</item>
   </string-array>
+  <string-array name="app_assistant_entries"> 
+        <item>Βοηθός Google</item> 
+        <item>Βοηθός Yandex</item> 
+   </string-array>
 </resources>

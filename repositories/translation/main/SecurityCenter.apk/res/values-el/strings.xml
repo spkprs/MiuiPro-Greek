@@ -2386,5 +2386,5 @@
   <string name="power_center_scan_item_title_running_app">Εφαρμ. που εκτελούνται στο παρασκήνιο</string>
   <string name="power_center_scan_result_safe">Δεν βρέθηκαν προβλήματα μπαταρίας</string>
   <string name="power_center_stop_scan_title">Διακοπή σάρωσης</string>
-  <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Η εξοικονόμηση μπαταρίας είναι ενεργοποιημένη. Μειώνει τη δραστηριότητα των εφαρμ. παρασκηνίου, διακόπτει το συγχρονισμό και ελαχιστοποιεί τις κινούμενες εικόνες του συστήματος."</string>
+  <string name="power_save_started_summary_text">"Η εξοικονόμηση μπαταρίας είναι ενεργοποιημένη. Μειώνει τη δραστηριότητα των εφαρμ. παρασκηνίου, διακόπτει το συγχρονισμό και ελαχιστοποιεί τις κινούμενες εικόνες του συστήματος."</string>
 </resources>
