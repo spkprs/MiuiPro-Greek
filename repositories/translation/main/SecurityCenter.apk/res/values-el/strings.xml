@@ -290,7 +290,7 @@
   <string name="auto_task_condition_time_text">Στις %s</string>
   <string name="auto_task_dialog_button_close">Τέλος</string>
   <string name="auto_task_edit_abandon_change">Απόρριψη αλλαγών;</string>
-  <string name="auto_task_edit_activity_title">Οι αυτοματοποιημένες μου εργασίες</string>
+  <string name="auto_task_edit_activity_title">Οι αυτοματ. μου εργασίες</string>
   <string name="auto_task_edit_adandon_button_text">Απόρριψη</string>
   <string name="auto_task_edit_choose_condition_title">Επιλέξτε κατάσταση</string>
   <string name="auto_task_edit_choose_new_operation">Προσθήκη ενέργειας</string>
@@ -302,7 +302,7 @@
   <string name="auto_task_edit_step1">1.</string>
   <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Όνομα</string>
-  <string name="auto_task_main_title">Αυτοματοποιημένες εργασίες</string>
+  <string name="auto_task_main_title">Αυτοματοποιημένες Εργασίες</string>
   <string name="auto_task_mamange_activity_title">Ρυθμίσεις</string>
   <string name="auto_task_manage_delete_prompt">Διαγραφή επιλεγμένων εργασιών;</string>
   <string name="auto_task_manage_new_task">Νέα αυτοματοποιημένη εργασία</string>
@@ -510,7 +510,7 @@
   <string name="choose">Επιλέξτε</string>
   <string name="clean_immediately">Καθαρισμός</string>
   <string name="cleaned">Καθαρίστηκαν</string>
-  <string name="clear_garbage">Καθαρίστε τα σκουπίδια για να ελευθερώσετε χώρο</string>
+  <string name="clear_garbage">Καθαρίστε τα σκουπίδια για απελευθέρωση χώρου</string>
   <string name="clear_immediately">Καθαρισμός τώρα</string>
   <string name="close">Κλείσιμο</string>
   <string name="close_callwait">Ανενεργή</string>
@@ -1116,7 +1116,7 @@
   <string name="menu_summary_garbage_cleanup">Δεν βρέθηκαν απορρίματα</string>
   <string name="menu_summary_garbage_cleanup_2">Μέγεθος απορριμμάτων</string>
   <string name="menu_summary_garbage_cleanup_3">Καθαρίστε τα απορρίματα τώρα</string>
-  <string name="menu_summary_networkassistants">Διαχειριστείτε το σχέδιο δεδομένων σας</string>
+  <string name="menu_summary_networkassistants">Διαχείριση σχεδίου δεδομένων</string>
   <string name="menu_summary_networkassistants_2">Περάσατε το όριο</string>
   <string name="menu_summary_networkassistants_3">Απομένουν αρκετά δεδομένα</string>
   <string name="menu_summary_networkassistants_4">Εξαντλούνται τα δεδομένα</string>
@@ -1442,9 +1442,9 @@
   <string name="power_optimize_btn_text_fixed">Βελτιστοποιήθηκε</string>
   <string name="power_optimize_catagory_fixed_title">Βελτιστοποιήθηκε</string>
   <string name="power_optimize_close_app">Κλείσιμο εφαρμογών που καταναλώνουν υπερβολική ενέργεια</string>
-  <string name="power_optimize_disable_app_autostart">Αποτροπή αυτόματου ανοίγματος εφαρμογών</string>
+  <string name="power_optimize_disable_app_autostart">Αποτροπή αυτ. εκκίνησης εφαρμογών</string>
   <string name="power_optimize_disable_gps">Απενεργοποίηση GPS</string>
-  <string name="power_optimize_disable_start_other_app">Αποτροπή ανοίγματος εφαρμογών από άλλες εφαρμογές</string>
+  <string name="power_optimize_disable_start_other_app">Αποτροπή αυτ. εκκίνησης από άλλες εφαρμογές</string>
   <string name="power_optimize_loading">Φόρτωση…</string>
   <string name="power_optimize_open_hide_mode">Ενεργοποίηση Κρυφής λειτουργίας</string>
   <string name="power_optimize_save_mode_not_opened">Εξοικονόμηση μπαταρίας ανενεργή</string>

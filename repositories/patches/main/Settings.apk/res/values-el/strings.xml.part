@@ -181,4 +181,5 @@
     <string name="allowed_set">Επιτρέπεται</string>
     <string name="not_allowed_set">Δεν επιτρέπεται</string>
     <string name="no_neighboring_cells">Χωρίς γειτονικά κελιά</string>
+    <string name="app_assistant_title">Πλήκτρο Φωνητικού Βοηθού</string>
 </resources>

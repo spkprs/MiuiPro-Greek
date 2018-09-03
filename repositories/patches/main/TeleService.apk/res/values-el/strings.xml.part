@@ -48,4 +48,7 @@
     <string name="number_color_title">Χρώμα αριθμών, γραμμάτων, κτλ.</string>
     <string name="icon_color_title">Χρώμα SIM, συμβόλων, κτλ.</string>
     <string name="call_windows_title">Παράθυρο Κλήσης</string>
+    <string name="background_color_title">Φόντο Κλήσης</string>
+    <string name="background_color_on">Προεπιλογή</string>
+    <string name="background_color_off">Ταπετσ. Οθόν. Κλειδώματος</string>	
 </resources>

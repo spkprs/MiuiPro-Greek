@@ -621,7 +621,7 @@
   <string name="no_artist_info">Καμία πληροφορία καλλιτέχνη</string>
   <string name="no_downloads">Χωρίς λήψεις</string>
   <string name="no_enough_info">Δεν υπάρχουν αρκετές πληροφορίες για το τραγούδι</string>
-  <string name="no_favorites_songs">Κενό</string>
+  <string name="no_favorites_songs">Δεν υπάρχουν τραγούδια.</string>
   <string name="no_file_picker_find">Η εφαρμογή Αρχεία δεν είναι εγκατεστημένη στη συσκευή</string>
   <string name="no_introduction">Χωρίς περίληψη</string>
   <string name="no_local_songs">Κενό</string>
@@ -773,7 +773,7 @@
   <string name="radar_support_by">Παρέχεται από ACRCloud</string>
   <string name="really_pay">Πληρωμή τώρα;</string>
   <string name="recently_played">Έπαιξαν πρόσφατα</string>
-  <string name="recently_played_songs">Έπαιξαν πρόσφατα</string>
+  <string name="recently_played_songs">Πρόσφατα</string>
   <string name="recognition_reverted_message">Μπορείτε να κάνετε το ίδιο για όλα τα τραγούδια στις Ρυθμίσεις.</string>
   <string name="recognition_reverted_title">Εξώφυλλα και τους στίχους</string>
   <string name="recognize_call">Βελτιστοποίηση</string>
@@ -826,7 +826,7 @@
   <string name="search_for_album">Άλμπουμ</string>
   <string name="search_for_artist">Καλλιτέχνης</string>
   <string name="search_hint">Αναζήτηση καλλιτεχνών, τραγουδιών, άλμπουμ και προτάσεων</string>
-  <string name="search_hint_not_support_online">Καλλιτέχνες/Τραγούδια/Άλμπουμ</string>
+  <string name="search_hint_not_support_online">Καλλιτ./Τραγ./Άλμπουμ</string>
   <string name="search_history_clear_all">Καθαρισμός</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_songs_count">Τραγούδια: %d</string>
@@ -1052,9 +1052,9 @@
     <string name="multiple_select">Πολλαπλή επιλογή</string>
     <string name="nowplaying_find_more">Εύρεση περισσότερα</string>
     <string name="play_all"><Data>Αναπαραγωγή όλων&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
-    <string name="play_mode_circle">Κυκλική Λειτουργία</string>
-    <string name="play_mode_shuffle">Τυχαία Λειτουργία</string>
-    <string name="play_mode_single">Μεμονωμένη Λειτουργία</string>
+    <string name="play_mode_circle">Κυκλικά</string>
+    <string name="play_mode_shuffle">Τυχαία</string>
+    <string name="play_mode_single">Μεμονωμένα</string>
     <string name="song_group_float_save_picture">Αποθήκευση εικόνας</string>
     <string name="song_group_float_save_picture_success">Αποθηκεύτηκε με επιτυχία</string>
     <string name="song_group_float_to_save_picture">Αποθήκευση σε %1$s</string>
