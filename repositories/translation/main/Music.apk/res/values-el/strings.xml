@@ -1028,7 +1028,7 @@
   <string name="vip_renew_message">Δεν θα μπορείτε να κάνετε stream ήχου υψηλής ποιότητας, αλλά μερικά τραγούδια θα είναι διαθέσιμα σε κανονική ποιότητα.</string>
   <string name="vip_renew_title">Η συνδρομή έληξε</string>
   <string name="vip_required">Αποκτήστε το Premium Πακέτο Μουσικής για να ακούσετε αυτό το τραγούδι. Το έχουμε παραλείψει για σας.</string>
-  <string name="vip_required_with_song">Αποκτήστε το Premium Πακέτο Μουσικής για να ακούσετε το “%s”. Το έχουμε παραλείψει για σας.</string>
+  <string name="vip_required_with_song">Το %s είναι διαθέσιμο μόνο για μέλη PRO. Παραλείψτε αυτό το τραγούδι προσωρινά.</string>
   <string name="vip_tomorrow_auto_renew_message">Η συνδρομή σας για μουσική θα ανανεωθεί αυτόματα αύριο το βράδυ. Βεβαιωθείτε ότι έχετε αρκετές πιστώσεις Mi στον λογαριασμό σας για να ολοκληρώσετε αυτήν την πληρωμή.</string>
   <string name="vip_tomorrow_renew_message">Δεν θα μπορείτε να μεταδώσετε ήχο υψηλής ποιότητας, αλλά ορισμένα τραγούδια θα είναι διαθέσιμα σε κανονική ποιότητα.</string>
   <string name="warning_tip_cancel">Λήψη</string>
@@ -1123,5 +1123,43 @@
     <string name="privacy_preference">Πολιτική Απορρήτου</string>
     <string name="tab_video_list">Βίντεο</string>
     <string name="title_online_recommend_type">Επιλέξτε μία κατηγορία</string>
+  <string name="abc_action_bar_home_description">Πλοήγηση στην Αρχική</string>
+  <string name="abc_action_bar_up_description">Πλοήγηση επάνω</string>
+  <string name="abc_action_menu_overflow_description">Περισ. Ρυθμίσεις</string>
+  <string name="abc_action_mode_done">Ολοκλήρωση</string>
+  <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
+  <string name="abc_activitychooserview_choose_application">Επιλέξτε μια εφαρμογή</string>
+  <string name="abc_capital_off">OFF</string>
+  <string name="abc_capital_on">ON</string>
+  <string name="abc_search_hint">Αναζήτηση...</string>
+  <string name="abc_searchview_description_clear">Καθαρίστε το ερώτημα</string>
+  <string name="abc_searchview_description_query">Αναζήτηση ερωτ.</string>
+  <string name="abc_searchview_description_search">Αναζήτηση</string>
+  <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+  <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+  <string name="abc_shareactionprovider_share_with">Μοιραστείτε με</string>
+  <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε με %s</string>
+  <string name="abc_toolbar_collapse_description">Κατάρρευση</string>
+  <string name="dialog_renew_failure">Λυπούμαστε, η ενέργεια απέτυχε</string>
+  <string name="dialog_renew_positive_text">YEAH, I WANNA ROCK LIKE A PRO</string>
+  <string name="dialog_renew_success">Ευχαριστώ για την επιβεβαίωση σας</string>
+  <string name="download_dialog_fail">"Αδύνατη η λήψη"</string>
+  <string name="download_dialog_success">Η Λήψη ολοκληρώθηκε</string>
+  <string name="due_date">Ημερ. λήξης: %s</string>
+  <string name="enjoy_hungama_pro">Απολαύστε το Hungama PRO</string>
+  <string name="hd_quality_audio">HD ποιότητα ήχου</string>
+  <string name="hungama_batch_download_alert_summary">Μόνο τα μέλη του PRO μπορούν να λάβουν πολλαπλά τραγούδια. Θέλετε τώρα μια προσφορά PRO;</string>
+  <string name="hungama_free_download_out_summary">"Δεν μπορείτε να λάβετε άλλα δωρεάν τραγούδια. Θέλετε τώρα μια προσφορά PRO για λήψη απεριόριστων τραγουδιών;"</string>
+  <string name="individuation_card_login_button">Σύνδεση</string>
+  <string name="individuation_card_login_message">"Συνδεθείτε για να βρείτε περισσότερα αγαπημένα σας τραγούδια"</string>
+  <string name="individuation_card_title">Για εσάς</string>
+  <string name="individuation_cart_login_title">Θέλετε να δείτε περισσότερες συστάσεις;</string>
+  <string name="pro_member">PRO Μέλος</string>
+  <string name="renew_dialog_title">"Γίνε Pro
+Είσαι Χαρούμενος"</string>
+  <string name="search_menu_title">Αναζήτηση</string>
+  <string name="sliding_pro_center">PRO Κέντρο</string>
+  <string name="unlimited_downloads">Απεριόριστες λήψεις</string>
+  <string name="unlimited_offline_songs">Απεριόρ. τραγ. εκτός σύνδεσης</string>
 </resources>
 

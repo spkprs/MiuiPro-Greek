@@ -141,4 +141,16 @@
     <item quantity="other">Προσπαθήστε ξανά σε %d δευτ.</item>
     <item quantity="one">Προσπαθήστε ξανά σε %d δευτ.</item>
   </plurals>
+   <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+      <item quantity="other">Απομένουν %d ώρ.</item>
+      <item quantity="one">Απομένει %d ώρ.</item>
+   </plurals>
+   <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+      <item quantity="other">Απομένουν %d λεπ.</item>
+      <item quantity="one">Απομένει %d λεπ.</item>
+   </plurals>
+   <plurals name="keyguard_extreme_power_info_could_use_time_text">
+      <item quantity="other">Απομένουν %1$d ώρ. %2$d λεπ.</item>
+      <item quantity="one">Απομένει %1$d ώρ. %2$d λεπ.</item>
+   </plurals>
 </resources>

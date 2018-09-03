@@ -2070,7 +2070,7 @@
   <string name="install_no_market_app_summary">Να επιτρέπεται η εγκατάσταση εφαρμογών από άλλες πηγές εκτός από το App Store</string>
   <string name="install_no_market_app_title">Άγνωστες πηγές</string>
   <string name="install_other_apps">Εγκατ. άγνωστων εφ.</string>
-  <string name="install_preinstall_app">Φόρτωση εφαρμογών…</string>
+  <string name="install_preinstall_app">Αλλαγή περιοχής…</string>
   <string name="install_text">Εγκατάσταση</string>
   <string name="install_type_instant">Instant Εφαρμογή</string>
   <string name="install_whole_rom">Λήψη ROM (standard)</string>
@@ -4716,7 +4716,7 @@
   <string name="unlock_set_unlock_password_title">Κωδικός</string>
   <string name="unlock_set_unlock_pattern_summary">Σχεδιάστε ένα απλό μοτίβο με το δάκτυλό σας για να ξεκλειδώσετε τη συσκευή</string>
   <string name="unlock_set_unlock_pattern_title">Μοτίβο</string>
-  <string name="unlock_set_unlock_pin_summary">Εισάγετε 4 αριθμούς για να ξεκλειδώσετε τη συσκευή</string>
+  <string name="unlock_set_unlock_pin_summary">Εισάγετε 4~16 αριθμούς για να ξεκλειδώσετε τη συσκευή</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">"Παρακαλούμε ενεργοποιήστε ενα κωδικό οθόνης "</string>
   <string name="unlock_setup_wizard_fingerprint_details">Από τη στιγμή που ορίσετε ένα κλείδωμα οθόνης, μπορείτε επίσης να ορίσετε το δακτυλικό σας αποτύπωμα στις Ρυθμίσεις &gt; Ασφάλεια.</string>
@@ -5695,4 +5695,5 @@
   <string name="close_fod">"Δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή σας χρησιμοποιώντας το δακτυλικό σας αποτύπωμα όταν η οθόνη είναι ανενεργή. Θα λειτουργήσει μόνο όταν η οθόνη είναι ενεργοποιημένη."</string>
   <string name="close_fod_aod">"Δεν θα είστε σε θέση να ξεκλειδώσετε τη συσκευή σας με το δακτυλικό σας αποτύπωμα όταν η οθόνη είναι ανενεργή. Η \"Πάντα σε λειτουργία\" δεν θα είναι διαθέσιμη επίσης. Το ξεκλείδωμα μέσω δακτυλικών αποτ. θα λειτουργήσει μόνο όταν η οθόνη είναι ενεργή. "</string>
   <string name="to_close">Απενεργοποίηση</string>
+ <string name="title_jeejen">Jeejen Αρχική οθόνη</string>
 </resources>

@@ -355,4 +355,12 @@
         <item quantity="other">%1$d ζητήματα απαιτούν βελτιστοποίηση</item>
         <item quantity="one">%1$d  ζητήμα απαιτεί βελτιστοποίηση</item>
     </plurals>
+   <plurals name="power_center_menu_text">
+      <item quantity="other">στοιχεία</item>
+      <item quantity="one">στοιχείο</item>
+   </plurals>
+   <plurals name="power_center_list_item_optimize_button">
+      <item quantity="other">Προστέθηκαν %d λεπ.</item>
+      <item quantity="one">Προστέθηκε %d λεπ.</item>
+   </plurals>
 </resources>

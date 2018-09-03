@@ -831,7 +831,7 @@
   <string name="kg_invalid_confirm_pin_hint">Οι κωδικοί PIN δεν ταιριάζουν</string>
   <string name="kg_invalid_puk">Καταχωρίστε τον σωστό κωδικό PUK. Επαναλαμβανόμενες προσπάθειες θα απενεργοποιήσουν μόνιμα την κάρτα SIM.</string>
   <string name="kg_invalid_sim_pin_hint">Εισάγετε ένα PIN που να αποτελείται από 4 έως 8 αριθμούς.</string>
-  <string name="kg_invalid_sim_puk_hint">Ο κωδικός PUK πρέπει να είναι 8 ή περισσότεροι αριθμοί.</string>
+  <string name="kg_invalid_sim_puk_hint">Ο κωδικός PUK πρέπει να είναι 8 αριθμοί.</string>
   <string name="kg_login_too_many_attempts">Πάρα πολλές προσπάθειες μοτίβου</string>
   <string name="kg_password_instructions">Εισάγετε τον Κωδικό πρόσβασης</string>
   <string name="kg_password_pin_failed">"Αδυναμία ξεκλειδώματος χρησιμοποιώντας το PIN SIM"</string>
