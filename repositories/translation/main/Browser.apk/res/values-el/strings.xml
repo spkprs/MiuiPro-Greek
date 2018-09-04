@@ -1297,4 +1297,7 @@
   <string name="suggestion_input_history_title_text">ΕΙΣΑΓΩΓΗ ΙΣΤΟΡΙΑΣ</string>
   <string name="suggestion_input_hitory_clear_text">ΚΑΘΑΡΙΣΜΟΣ</string>
   <string name="url_hint_head">Ο καθένας αναζητεί：</string>
+  <string name="data_traffic_download_cancel">Ακύρωση</string>
+  <string name="data_traffic_download_prompt">Το τρέχον βίντεο μπορεί να ληφθεί μόνο σε περιβάλλον wifi</string>
+  <string name="data_traffic_download_setting">Ρυθμίσεις</string>
 </resources>

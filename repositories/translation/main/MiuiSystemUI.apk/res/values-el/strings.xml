@@ -1668,4 +1668,5 @@
   <string name="keyguard_charging_back_to_lockscreen">Επιστροφή στην Οθόνη Κλειδώματος</string>
   <string name="keyguard_left_torch">Φακός</string>
   <string name="switch_system_user">Άνοιγμα Πρώτου Χώρου</string>
+  <string name="miui_screen_rotation_freeze_message">Ανενεργή Αυτ. Περιστροφή.</string>
 </resources>

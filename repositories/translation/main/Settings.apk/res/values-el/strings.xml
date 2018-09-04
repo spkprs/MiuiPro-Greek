@@ -4263,7 +4263,7 @@
   <string name="status_bar_settings_style">Διάταξη ειδοποιήσεων και διακοπτών</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Σύμπτυξη μετά το άγγιγμα</string>
   <string name="status_bar_settings_toggle_position">Οργάνωση διακοπτών</string>
-  <string name="status_bar_settings_user_fold">Φάκελος ειδοποιήσεων</string>
+  <string name="status_bar_settings_user_fold">Φάκελος Ειδοποιήσεων</string>
   <string name="status_bar_settings_user_fold_summary">Όλες οι ασήμαντες ειδοποιήσεις θα εμφανίζονται σε έναν ξεχωριστό φάκελο</string>
   <string name="status_bar_style_list">Συνδυασμένη</string>
   <string name="status_bar_style_page">Ξεχωριστή</string>
@@ -5697,5 +5697,12 @@
   <string name="to_close">Απενεργοποίηση</string>
   <string name="title_jeejen">Jeejen Αρχική οθόνη</string>
   <string name="app_assistant_title">Πλήκτρο Φωνητικού Βοηθού</string>
+  <string name="status_bar_settings_customer_feedback">Σχόλια</string>
+  <string name="status_bar_settings_function_description">Σχετικά με αυτή τη λειτουργία</string>
+  <string name="status_bar_settings_user_fold_description1">Ο Φάκελος Ειδοποιήσεων εισήχθη στο MIUI 9. Φιλτράρει ασήμαντες ειδοποιήσεις και τις τοποθετεί σε έναν ξεχωριστό φάκελο.</string>
+  <string name="status_bar_settings_user_fold_description2">Το MIUI θα θυμάται ποιές ειδοποιήσεις αγγίζετε και, στη συνέχεια, θα χρησιμοποιεί πολλαπλά κριτήρια για να προσδιορίσει αν είναι σημαντικές.</string>
+  <string name="status_bar_settings_user_fold_description3">"Εάν οι ειδοποιήσεις που θεωρείτε σημαντικές, εξακολουθούν να εισέρχονται στο Φάκελο Ειδοποιήσεων, βεβαιωθείτε ότι αναφέρατε αυτό το ζήτημα σε εμάς. Θα εκτιμούσαμε τα σχόλιά σας."</string>
+  <string name="status_bar_settings_user_fold_disable">Ανενεργός</string>
+  <string name="status_bar_settings_user_fold_enable">Ενεργός</string>
 </resources>
 

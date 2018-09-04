@@ -96,4 +96,8 @@
   <string name="voice_assist_title">Φωνητική Αφύπνιση</string>
   <string name="voice_assist_desp_screen_light">Αφού ενεργοποιηθεί η οθόνη, πείτε \"Mi AI\" στο τηλέφωνό σας. Mi AI θα αναγνωρίσει τη φωνή σας και θα μπορέσει να ελέγξει τη συσκευή σας).</string>
   <string name="welcome">Καλωσορίσατε!</string>
+  <string name="voice_assist_advice">Το Mi AI σας επιτρέπει τη χρήση φωνητικού ελέγχου, αλλά καταναλώνει περισσότερη ενέργεια (+1% κάθε ώρα).</string>
+  <string name="voice_assist_condition">"Θα μπορείτε τη χρήση του Mi AI στις ακόλουθες περιπτώσεις:
+1. Όταν η οθόνη είναι ενεργή.
+2. Όταν ακούτε μουσική με την οθόνη σας ανενεργή."</string>
 </resources>

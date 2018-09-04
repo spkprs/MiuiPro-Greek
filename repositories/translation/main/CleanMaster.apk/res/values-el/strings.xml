@@ -665,4 +665,6 @@
   <string name="wqfile_group_chat_voice">Συζήτηση Φωνής</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yesterday">Χθές</string>
+  <string name="toast_updater_close_4g_text">"Οι εφαρμ. δεν θα ενημ. με χρήση δεδ. (4G)"</string>
+  <string name="toast_updater_open_4g_text">Οι εφαρμ. θα ενημερωθούν με χρήση δεδ. (4G)</string>
 </resources>

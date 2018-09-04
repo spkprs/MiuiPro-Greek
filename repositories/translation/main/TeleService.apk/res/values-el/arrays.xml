@@ -106,7 +106,7 @@
     <string-array name="call_home_entries">
         <item>Αποδοχή κλήσης</item>
         <item>Απόρριψη κλήσης</item>
-        <item>Χωρίς ήχο</item>
+        <item>Σίγαση</item>
         <item>Ανενεργό</item>
     </string-array>
     <string-array name="call_windows_entries">
