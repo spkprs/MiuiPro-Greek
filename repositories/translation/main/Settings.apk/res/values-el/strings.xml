@@ -5701,8 +5701,11 @@
   <string name="status_bar_settings_function_description">Σχετικά με αυτή τη λειτουργία</string>
   <string name="status_bar_settings_user_fold_description1">Ο Φάκελος Ειδοποιήσεων εισήχθη στο MIUI 9. Φιλτράρει ασήμαντες ειδοποιήσεις και τις τοποθετεί σε έναν ξεχωριστό φάκελο.</string>
   <string name="status_bar_settings_user_fold_description2">Το MIUI θα θυμάται ποιές ειδοποιήσεις αγγίζετε και, στη συνέχεια, θα χρησιμοποιεί πολλαπλά κριτήρια για να προσδιορίσει αν είναι σημαντικές.</string>
-  <string name="status_bar_settings_user_fold_description3">"Εάν οι ειδοποιήσεις που θεωρείτε σημαντικές, εξακολουθούν να εισέρχονται στο Φάκελο Ειδοποιήσεων, βεβαιωθείτε ότι αναφέρατε αυτό το ζήτημα σε εμάς. Θα εκτιμούσαμε τα σχόλιά σας."</string>
+  <string name="status_bar_settings_user_fold_description3">"Εάν οι ειδοποιήσεις που θεωρείτε σημαντικές, εξακολουθούν να εισέρχονται στο Φάκελο Ειδοποιήσεων, βεβαιωθείτε ότι αναφέρατε αυτό το ζήτημα σε εμάς. Θα εκτιμούσαμε τα δικά σας Σχόλια."</string>
   <string name="status_bar_settings_user_fold_disable">Ανενεργός</string>
   <string name="status_bar_settings_user_fold_enable">Ενεργός</string>
+  <string name="aod_close_color_inversion">"Αυτή η λειτουργία δεν μπορεί να συνδυαστεί με αντιστροφή χρώματος. Απενεργοποιήστε πρώτα την αντιστροφή χρώματος."</string>
+  <string name="aod_got_it">Εντάξει</string>
+  <string name="aod_to_close">Απενεργοποίηση</string>
 </resources>
 

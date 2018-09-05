@@ -14,8 +14,8 @@
     <item quantity="one">1 μήνυμα δεν έχει συγχρονιστεί</item>
   </plurals>
   <plurals name="confirm_delete_conversation">
-    <item quantity="other">Διαγραφή επιλεγμένων %1$s συνομιλιών;</item>
-    <item quantity="one">Διαγραφή αυτής της συνομιλίας;</item>
+    <item quantity="other">Διαγραφή %1$d επιλεγμένων συνομιλιών;</item>
+    <item quantity="one">Διαγραφή %1$d επιλεγμένης συνομιλίας;</item>
   </plurals>
   <plurals name="custom_select_title_items_selected">
     <item quantity="other">%d επιλεγμένα</item>
