@@ -1197,6 +1197,17 @@
   <string name="who_is_this">Ποιος είναι αυτός;</string>
   <string name="xiaomi_account_not_exists_toast">Ο λογαριασμός Mi δεν υπάρχει</string>
   <string name="yes">Ναι</string>
-  <string name="yesterday">Χθες</string>
+  <string name="yesterday">Χθές</string>
   <string name="you_are">Είσαι το μωρό</string>
+  <string name="privacy_permission_request_message">Η Συλλογή χρειάζεται πρόσβαση σε %3$s. Οι πληροφορίες που συλλέγουμε θα χρησιμοποιηθούν σύμφωνα με την %1$s και %2$s. Επιτρέπετε?</string>
+  <string name="privacy_permission_request_negative">Αρνούμαι</string>
+  <string name="privacy_permission_request_positive">Επιτρέπω</string>
+  <string name="privacy_permission_request_title">Απαιτούμενα δικαιώματα</string>
+  <string name="video_editor_cancel_download">Ακύρωση</string>
+  <string name="video_editor_download">Λήψη</string>
+  <string name="video_editor_download_failed_for_notwork">"Αδύνατη η λήψη. Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά."</string>
+  <string name="video_editor_download_without_wifi_msg">"Η χρήση της σύνδεσης δεδομένων για λήψη αρχείων θα αυξήσει τη χρήση τους. Εάν υπερβείτε το όριο δεδομένων του σχεδίου σας, ο φορέας σας μπορεί να σας χρεώσει με πρόσθετα τέλη."</string>
+  <string name="video_editor_download_without_wifi_title">Προειδοποίηση χρήσης</string>
+  <string name="video_editor_return">Πίσω</string>
+  <string name="video_editor_save">Αποθήκευση</string>
 </resources>
