@@ -95,7 +95,7 @@
   <string name="delete_calendar">Διαγραφή</string>
   <string name="delete_recurring_event_title">Διαγραφή %s;</string>
   <string name="delete_this_event_title">Διαγραφή γεγονότος;</string>
-  <string name="directory_searching_fmt">Ψάχνει %s…</string>
+  <string name="directory_searching_fmt">Αναζήτηση %s…</string>
   <string name="discard_label">Άκυρο</string>
   <string name="does_not_repeat">Μεμονωμένο γεγονός</string>
   <string name="done">Επόμενο</string>
@@ -114,11 +114,11 @@
   <string name="edit_event_input_year">Εισάγετε έτος</string>
   <string name="edit_event_label">Λεπτομέρειες</string>
   <string name="edit_event_reminder_3_days_before">Υπενθύμιση επίσης 3 ημ πρίν</string>
-  <string name="edit_event_reminder_summary">Την ημέρα εκείνη στο %1$s</string>
+  <string name="edit_event_reminder_summary">Την ημέρα εκείνη στις %1$s</string>
   <string name="edit_event_reminder_summary_3_days_before">3 ημ πριν και εκείνη την ημ στις %1$s</string>
-  <string name="edit_event_reminder_text">Στις %1$s στο %2$s</string>
+  <string name="edit_event_reminder_text">Την %1$s στις %2$s</string>
   <string name="edit_event_reminder_time">Ώρα υπενθύμισης</string>
-  <string name="edit_event_reminder_with_another_day_text">Στις %1$s, %2$s στο %3$s</string>
+  <string name="edit_event_reminder_with_another_day_text">Την %1$s, %2$s στις %3$s</string>
   <string name="edit_event_show_all">Εμφάνιση όλων</string>
   <string name="edit_event_tab_anniversary">Επέτειος</string>
   <string name="edit_event_tab_birthday">Γενέθλια</string>

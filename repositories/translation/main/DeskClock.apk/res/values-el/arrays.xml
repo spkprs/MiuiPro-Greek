@@ -96,13 +96,13 @@
   </string-array>
   <string-array name="stat_volume_button_behaviors">
     <item>Καμία ενέργεια</item>
-    <item>Αναβολή αφύπνισης</item>
-    <item>Διακοπή αφύπνισης</item>
+    <item>Αναβολή</item>
+    <item>Διακοπή</item>
   </string-array>
   <string-array name="volume_button_setting_entries">
     <item>Καμία ενέργεια</item>
-    <item>Αναβολή αφύπνισης</item>
-    <item>Διακοπή αφύπνισης</item>
+    <item>Αναβολή</item>
+    <item>Διακοπή</item>
   </string-array>
   <string-array name="volume_button_setting_values">
     <item>0</item>

@@ -5,28 +5,28 @@
     <item quantity="one">%1$s ημέρα</item>
   </plurals>
   <plurals name="anniversary_notify_before_3_day_title">
-    <item quantity="other">Επέτειος: %2$d χρόνια από τότε %1$s σε 3 ημέρες</item>
-    <item quantity="one">Επέτειος: %2$d έτος από τότε %1$s σε 3 ημέρες</item>
+    <item quantity="other">Επέτειος: %2$d έτη από %1$s σε 3 ημέρες</item>
+    <item quantity="one">Επέτειος: %2$d έτος από %1$s σε 3 ημέρες</item>
   </plurals>
   <plurals name="anniversary_notify_title">
-    <item quantity="other">Επέτειος: %2$d χρόνια από τότε %1$s</item>
-    <item quantity="one">Επέτειος: %2$d έτος από τότε %1$s</item>
+    <item quantity="other">Επέτειος: %2$d έτη από %1$s</item>
+    <item quantity="one">Επέτειος: %2$d έτος από %1$s</item>
   </plurals>
   <plurals name="anniversary_year">
-    <item quantity="other">%1$s χρόνια</item>
+    <item quantity="other">%1$s έτη</item>
     <item quantity="one">%1$s έτος</item>
   </plurals>
   <plurals name="birthday_event_description_days_ago">
-    <item quantity="other">%1$d ημέρες από τότε</item>
-    <item quantity="one">%1$d ημέρα από τότε</item>
+    <item quantity="other">Πέρασαν %1$d ημέρες</item>
+    <item quantity="one">Πέρασε %1$d ημέρα</item>
   </plurals>
   <plurals name="birthday_event_description_days_later">
     <item quantity="other">%1$d ημέρες μέχρι</item>
     <item quantity="one">%1$d ημέρα μέχρι</item>
   </plurals>
   <plurals name="birthday_notification_age_term">
-    <item quantity="other">%1$s-year-old</item>
-    <item quantity="one">%1$s-year-old</item>
+    <item quantity="other">%1$s-χρονών</item>
+    <item quantity="one">%1$s-χρονών</item>
   </plurals>
   <plurals name="countdown_day">
     <item quantity="other">%1$s μέρες που απομένουν</item>
@@ -57,12 +57,12 @@
     <item quantity="one">%d μέρα πρίν</item>
   </plurals>
   <plurals name="Ndays_after_at">
-    <item quantity="other">Σε %1$d ημέρες σε %2$s</item>
+    <item quantity="other">Σε %1$d ημέρες στις %2$s</item>
     <item quantity="one">Σε %1$d ημέρα στις %2$s</item>
   </plurals>
   <plurals name="Ndays_ago_at">
-    <item quantity="other">%1$d πριν από μέρες στις %2$s</item>
-    <item quantity="one">%1$d πριν από μία ημέρα στην %2$s</item>
+    <item quantity="other">%1$d ημέρες πριν από %2$s</item>
+    <item quantity="one">%1$d ημέρα πριν από %2$s</item>
   </plurals>
   <plurals name="Nhours">
     <item quantity="other">%d ώρες πριν</item>
@@ -89,11 +89,12 @@
     <item quantity="one">%1$d εβδομάδα</item>
   </plurals>
   <plurals name="repeat_interval_frequency_year_multiple">
-    <item quantity="other">%1$d χρόνια</item>
+    <item quantity="other">%1$d έτη</item>
     <item quantity="one">%1$d έτος</item>
   </plurals>
   <plurals name="weekN">
-    <item quantity="other">EΒΔΟΜΑΔΑ %d</item>
+        <item quantity="other">Εβδομάδα %d</item>
+        <item quantity="one">Εβδομάδα %d</item>
   </plurals>
   <plurals name="work_days">
     <item quantity="other">%d εργάσιμες μέρες</item>
