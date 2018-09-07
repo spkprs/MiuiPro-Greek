@@ -225,7 +225,7 @@
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_tips">Βεβαιωθείτε ότι οι δύο συσκευές εφάπτονται και στη συνέχεια επιλέξτε το περιεχόμενο που θέλετε να μεταβιβάσετε.</string>
   <string name="android_beam_witch_label">Ενεργοποίηση Android Beam</string>
-  <string name="animator_duration_scale_title">Διάρκεια Animator</string>
+  <string name="animator_duration_scale_title">Διάρκεια κίνησης</string>
   <string name="another_migration_already_in_progress">Μια άλλη αλλαγή είναι ήδη σε εξέλιξη.</string>
   <string name="anti_spam">Λίστα αποκλεισμών</string>
   <string name="aod_mode_summary">Να εμφανίζεται πάντα ο χρόνος, η ημερομηνία και τα μηνύματα σε ανενεργή οθόνη .</string>
@@ -2952,7 +2952,7 @@
   <string name="notification_toggle_off">Ανενεργές</string>
   <string name="notification_toggle_on">Ενεργές</string>
   <string name="notification_unknown_sound_title">Προσθήκη παρεχόμενου ήχου</string>
-  <string name="notification_update_new_version">Υπάρχει διαθέσιμη ενημέρωση</string>
+  <string name="notification_update_new_version">Διαθέσιμη ενημέρωση</string>
   <string name="notification_update_now">Ενημέρωση τώρα</string>
   <string name="notification_vibrate_title">Δόνηση</string>
   <string name="notification_volume_option_title">Ένταση ειδοποίησης</string>
@@ -4727,7 +4727,7 @@
   <string name="unrestricted_app_title">Χρήση απεριόριστων δεδομένων</string>
   <string name="unrestricted_data_saver">Απερ/στη πρόσβ. δεδ.</string>
   <string name="untitled_apn">Χωρίς τίτλο</string>
-  <string name="update_new_version">Υπάρχει διαθέσιμη ενημέρωση</string>
+  <string name="update_new_version">Διαθέσιμη ενημέρωση</string>
   <string name="update_progress_for_updates">Ενημέρωση (%s)</string>
   <string name="upload_debug_log_summary">Ανεβάστε το debug log, μόνο όταν η σύνδεση Wi-Fi είναι διαθέσιμη, για να βοηθήσετε την ομάδα της MIUI να αναπτύξει μια πιο σταθερή ROM</string>
     <string name="upload_audio_log">Έναρξη απόκτησης ήχου log</string>
