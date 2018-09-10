@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_label">Διαχειριστής λήψεων</string>
-     <string name="auto_restart_under_wifi">Το Wi‑Fi θα κατεβάσει αυτόματα το αρχείο αυτό</string>
+     <string name="auto_restart_under_wifi">Μέσω Wi‑Fi θα ληφθεί αυτόματα το αρχείο αυτό</string>
      <string name="button_cancel_download">Ακύρωση</string>
      <string name="button_download_now">Λήψη τώρα</string>
-     <string name="button_queue_for_wifi">Ουρά</string>
+     <string name="button_queue_for_wifi">Ανομονή</string>
      <string name="button_start_now">Έναρξη τώρα</string>
      <string name="button_wait_for_wifi">Αναμονή</string>
     <string name="channel_active">Ενεργή Λήψη</string>
     <string name="channel_complete">Η Λήψη ολοκληρώθηκε</string>
     <string name="channel_insufficient_space">Ανεπαρκής χώρος</string>
     <string name="channel_waiting">Αναμονή Λήψης</string>		
-     <string name="dialog_insufficient_space_on_cache">Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης</string>
-     <string name="dialog_insufficient_space_on_external">Δεν υπάρχει αρκετός χώρος στον εξωτερικό χώρο αποθήκευσης</string>
+     <string name="dialog_insufficient_space_on_cache">Δεν υπάρχει αρκετός χώρος στον εσωτ. χώρο αποθήκευσης</string>
+     <string name="dialog_insufficient_space_on_external">Δεν υπάρχει αρκετός χώρος στον εξωτ. χώρο αποθήκευσης</string>
      <string name="dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
      <string name="download_apk_desktop_installing">Εγκατάσταση…</string>
      <string name="download_apk_desktop_pause">Σε παύση</string>
@@ -21,13 +21,13 @@
      <string name="download_error">Ανεπιτυχής</string>
      <string name="download_no_application_title">"Αδυναμία ανοίγματος αρχείου"</string>
      <string name="download_percent">%d%%</string>
-     <string name="download_queued">Στην ουρά</string>
-     <string name="download_remaining">%s υπόλοιπο</string>
+     <string name="download_queued">Σε αναμονή</string>
+     <string name="download_remaining">%s απομένουν</string>
      <string name="download_running">Σε εξέλιξη</string>
      <string name="download_running_percent">Σε εξέλιξη, %d%%</string>
      <string name="download_unknown_title">&lt;Ανώνυμο></string>
-     <string name="enter_garbage_clean">Καθαρισμός εσωτερικού χώρου αποθήκευσης.</string>
-     <string name="insufficient_space">"Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης της συσκευής"</string>
+     <string name="enter_garbage_clean">Καθαρισμός εσωτ. χώρου αποθήκευσης.</string>
+     <string name="insufficient_space">"Δεν υπάρχει αρκετός χώρος στον εσωτ. χώρο αποθήκευσης της συσκευής"</string>
      <string name="mobile_recommended_title">Χρήση δεδομένων κινητής</string>
      <string name="notif_text_engine_off">Η επιτάχυνση λήψεων της Xunlei είναι ανενεργή.</string>
      <string name="notif_text_engine_on">Επιτάχυνση…</string>

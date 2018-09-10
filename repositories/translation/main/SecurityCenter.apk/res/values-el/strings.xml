@@ -572,7 +572,7 @@
   <string name="data_usage_protected_dialog_message">Το MIUI απενεργοποίησε τα δεδομένα κινητής για να αποτρέψει τη δημιουργία επιπλέον χρεώσεων φορέα.\n\nΟ φορέας σας ενδέχεται να χρεώσει επιπλέον χρεώσεις αν ενεργοποιήσετε ξανά τα δεδομένα κινητής τηλεφωνίας.</string>
   <string name="data_usage_protected_notify_message">Το MIUI απενεργοποίησε τα δεδομένα κινητής για να αποτρέψει τη δημιουργία επιπλέον χρεώσεων φορέα.</string>
   <string name="data_usage_protected_notify_title">Έχετε ήδη χρησιμοποιήσει 5GB δεδομένων για κινητά</string>
-  <string name="data_usage_warning_body">Αγγίξτε για να δείτε τις λεπτομέρειες χρήσης δεδομένων.</string>
+  <string name="data_usage_warning_body">Αγγίξτε για προβολή λεπτομ. χρήσης δεδομένων.</string>
   <string name="data_usage_warning_body_notify">Πατήστε για λεπτομέρειες</string>
   <string name="data_usage_warning_title_notify">Ξεπεράσατε το όριο δεδομένων σας</string>
   <string name="databooster_tips_message">Ενεργοποιήστε το για να περιορίσετε όλες τις κάρτες SIM εκτός από την κάρτα δεδομένων. Απενεργοποιήστε αυτή τη λειτουργία αν προκύψουν σφάλματα στα παιχνίδια της επιλογής σας.</string>
@@ -957,7 +957,7 @@
   <string name="lock_screen_traffic_purchase_textview">Αγορά δεδομένων κινητής</string>
   <string name="lock_screen_traffic_warn_title">Ειδοποιήσεις οθόνης κλειδώματος</string>
   <string name="lock_screen_warning_category">Ειδοποιήσεις οθόνης κλειδώματος</string>
-  <string name="lock_screen_warning_switch_summary">Εμφάνιση προειδοποίησης στην Οθόνη κλειδώματος όταν η χρήση των δεδομένων υπερβαίνει ένα ορισμένο όριο</string>
+  <string name="lock_screen_warning_switch_summary">Εμφάνιση προειδοποίησης στην Οθόνη κλειδώματος όταν η χρήση δεδομένων υπερβαίνει ένα ορισμένο όριο</string>
   <string name="lock_screen_warning_switch_title">Εμφάνιση ειδοποιήσεων στην Οθόνη κλειδώματος</string>
   <string name="lock_screen_warning_value">Προειδοποίηση χρήσης δεδομένων</string>
   <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Δεν ήταν δυνατή η αναγνώριση του δακτυλικού αποτυπώματος, δοκιμάστε ξανά.</string>
