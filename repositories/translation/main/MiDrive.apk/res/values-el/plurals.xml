@@ -29,7 +29,7 @@
     <item quantity="many">Διαγραφή %1$d αρχεία</item>
   </plurals>
   <plurals name="delete_folders">
-    <item quantity="other">Διαγραφή %1$d φακέλους;</item>
+    <item quantity="other">Διαγραφή %1$d φακέλων;</item>
     <item quantity="one">Να διαγραφεί αυτός ο φάκελος;</item>
   </plurals>
   <plurals name="delete_folders_confirm">
@@ -71,7 +71,7 @@
   <plurals name="hours_ago">
     <item quantity="other">%1$d ώρες πριν</item>
     <item quantity="zero">%1$d ώρες πριν</item>
-    <item quantity="one">%1$d πριν από μία ώρα</item>
+    <item quantity="one">%1$d ώρα πριν</item>
     <item quantity="two">%1$d ώρες πριν</item>
     <item quantity="few">%1$d ώρες πριν</item>
     <item quantity="many">%1$d ώρες πριν</item>
@@ -117,20 +117,20 @@
     <item quantity="many">%1$d επιλεγμένο</item>
   </plurals>
   <plurals name="seconds">
-    <item quantity="other">%1$d δευτερολέπτων</item>
-    <item quantity="zero">%1$d δευτερολέπτων</item>
+    <item quantity="other">%1$d δευτ.</item>
+    <item quantity="zero">%1$d δευτ.</item>
     <item quantity="one">%1$d δευτ.</item>
-    <item quantity="two">%1$d δευτερολέπτων</item>
-    <item quantity="few">%1$d δευτερολέπτων</item>
-    <item quantity="many">%1$d δευτερολέπτων</item>
+    <item quantity="two">%1$d δευτ.</item>
+    <item quantity="few">%1$d δευτ.</item>
+    <item quantity="many">%1$d δευτ.</item>
   </plurals>
   <plurals name="ui_bar_txt_download_progress">
-    <item quantity="other">%1$d τα αρχεία που έχετε αφήσει για λήψη</item>
-    <item quantity="zero">%1$d τα αρχεία που έχετε αφήσει για λήψη</item>
-    <item quantity="one">%1$d αρχείο που έχετε αφήσει για λήψη</item>
-    <item quantity="two">%1$d τα αρχεία που έχετε αφήσει για λήψη</item>
-    <item quantity="few">%1$d τα αρχεία που έχετε αφήσει για λήψη</item>
-    <item quantity="many">%1$d τα αρχεία που έχετε αφήσει για λήψη</item>
+    <item quantity="other">%1$d αρχεία έχετε αφήσει για λήψη</item>
+    <item quantity="zero">%1$d αρχεία έχετε αφήσει για λήψη</item>
+    <item quantity="one">%1$d αρχείο έχετε αφήσει για λήψη</item>
+    <item quantity="two">%1$d αρχεία έχετε αφήσει για λήψη</item>
+    <item quantity="few">%1$d αρχεία έχετε αφήσει για λήψη</item>
+    <item quantity="many">%1$d αρχεία έχετε αφήσει για λήψη</item>
   </plurals>
   <plurals name="ui_bar_txt_transport_progress">
     <item quantity="other">%1$d αρχεία που απομένουν για μετάδοση</item>
