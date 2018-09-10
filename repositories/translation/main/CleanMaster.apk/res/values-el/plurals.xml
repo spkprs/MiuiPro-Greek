@@ -94,8 +94,8 @@
         <item quantity="one">Αδύνατη η εξαγωγή %d βίντεο. Ελευθερώστε χώρο και δοκιμάστε ξανά.</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">(%1$d άδεια αρχεία) %2$s</item>
-        <item quantity="one">(%1$d άδειο αρχείο) %2$s</item>
+        <item quantity="other">(%1$d κενά αρχεία) %2$s</item>
+        <item quantity="one">(%1$d κενό αρχείο) %2$s</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Χωρίς χρήση για %d ημέρες</item>

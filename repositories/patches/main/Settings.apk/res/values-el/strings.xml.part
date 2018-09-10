@@ -57,7 +57,7 @@
   <string name="mtp_default_title">Προεπιλεγμένη λειτουργία USB</string>
   <string name="notification_icon_title">Εικονίδια στις ειδοποιήσεις</string>
   <string name="numberpicker_change_title">Ήχος κατά την ρύθμιση Αφύπνισης</string>
-  <string name="numberpicker_change_summary">Ημερολόγια, Αφυπνήσεις, κ.τ.λ.</string>
+  <string name="numberpicker_change_summary">Ημερολόγια, Αφυπνίσεις, κ.τ.λ.</string>
   <string name="picker_activities">Ενέργεια</string>
   <string name="policy_control_title">Λειτουργία πλήρους οθόνης</string>
   <string name="policy_title">Λειτουργίες οθόνης</string>
