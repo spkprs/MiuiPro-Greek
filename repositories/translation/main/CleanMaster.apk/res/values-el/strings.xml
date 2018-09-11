@@ -118,7 +118,7 @@
   <string name="clean_content_three">3 στοιχεία</string>
   <string name="clean_content_two">2 στοιχεία</string>
   <string name="clean_content_zero">Κανένα</string>
-  <string name="clean_summary">Εκκαθαρίστηκαν %1$s αρχεία</string>
+  <string name="clean_summary">Εκκαθαρίστηκαν %1$s</string>
   <string name="clear_bigfiles">Διαγραφή μεγάλα αρχεία, διπλές φωτογραφίες και άλλα παρωχημένα στοιχεία</string>
   <string name="clear_immediately">Καθαρισμός τώρα</string>
   <string name="clear_safe_notify">Κοινοποίηση στο widget</string>
@@ -667,4 +667,5 @@
   <string name="yesterday">Χθές</string>
   <string name="toast_updater_close_4g_text">"Οι εφαρμ. δεν θα ενημ. με χρήση δεδ. (4G)"</string>
   <string name="toast_updater_open_4g_text">Οι εφαρμ. θα ενημερωθούν με χρήση δεδ. (4G)</string>
+  <string name="cd_scanning">Σάρωση...</string>
 </resources>

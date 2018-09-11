@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">Εγγραφή οθόνης</string>
   <string name="app_notification_info">Η Εγγραφή Οθόνης λειτουργεί στο παρασκήνιο</string>
-  <string name="app_notification_title">Εγγραφή οθόνης</string>
+  <string name="app_notification_title">Εγγραφή οθόν.</string>
   <string name="auto_stop_title">Επιτυχής αποθήκευση βίντεο</string>
   <string name="battery_not_allowed" formatted="false">Αδυναμία εγγραφής όταν η μπαταρία είναι χαμηλότερη από 3%. Βεβαιωθείτε ότι η μπαταρία είναι φορτισμένη τουλάχιστον 20%.</string>
   <string name="bit_rate">Ποιότητα βίντεο</string>

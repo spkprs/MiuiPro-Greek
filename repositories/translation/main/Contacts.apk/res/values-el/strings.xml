@@ -1211,4 +1211,6 @@
   <string name="yellowPageNavigationLabel">Φάκελος</string>
   <string name="yesterday">Χθές</string>
   <string name="zero_items_selected">Επιλέξτε στοιχεία</string>
+  <string name="conference_call_disable_tip">"Αδυναμία κλήσεων. Βεβαιωθείτε ότι είστε συνδεδεμένοι σε δίκτυο 4G με υποστήριξη VoLTE."</string>
+  <string name="open_wifi_connect_and_use_data_summary">Χρήση δεδομένων. Πατήστε για μετάβαση σε Wi-Fi.</string>
 </resources>

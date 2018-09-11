@@ -2375,7 +2375,7 @@
   <string name="power_center_list_item_set_lockscreen_time">Απενεργοποίηση οθόνης μετά από 30 δευτ. αδράνειας</string>
   <string name="power_center_scan_item_title_GPS">Ρύθμιση ακρίβειας GPS</string>
   <string name="power_center_scan_item_title_abnormal">Θέματα μπαταρίας</string>
-  <string name="power_center_scan_item_title_abnormal_apps">Ανώμαλη εφαρμογή κατανάλωσης ισχύος</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Εφαρμογές κατανάλωσης ενέργειας</string>
   <string name="power_center_scan_item_title_auto_invoke">Chain start</string>
   <string name="power_center_scan_item_title_auto_start">Αυτόματη εκκίνηση</string>
   <string name="power_center_scan_item_title_battery_details">Λεπτομ. χρήσης μπαταρίας</string>
@@ -2387,4 +2387,8 @@
   <string name="power_center_scan_result_safe">Δεν βρέθηκαν προβλήματα μπαταρίας</string>
   <string name="power_center_stop_scan_title">Διακοπή σάρωσης</string>
   <string name="power_save_started_summary_text">"Η εξοικονόμηση μπαταρίας είναι ενεργοποιημένη. Μειώνει τη δραστηριότητα των εφαρμ. παρασκηνίου, διακόπτει το συγχρονισμό και ελαχιστοποιεί τις κινούμενες εικόνες του συστήματος."</string>
+  <string name="device_manager_apply_step_1">Ενεργοποίηση διαχειριστή συσκ. για αυτήν την εφαρμογή;</string>
+  <string name="device_manager_apply_step_2">"Η ενεργοποίηση του διαχειριστή συσκευής για αυτήν την εφαρμογή ενδέχεται να οδηγήσει σε έκθεση προσωπικών σας δεδομένων.
+Όλα τα δεδομένα στη συσκευή σας ενδέχεται να διαγραφούν και ο κωδικός πρόσβασης οθόνης κλειδώματος ενδέχεται επίσης"</string>
+  <string name="device_manager_apply_step_3">Βεβαιωθείτε ότι έχετε κατανοήσει όλους τους πιθανούς κινδύνους πρίν προχωρήσετε. Ενεργοποίηση του διαχειριστή  συσκ. για αυτήν την εφαρμ. τώρα;</string>
 </resources>

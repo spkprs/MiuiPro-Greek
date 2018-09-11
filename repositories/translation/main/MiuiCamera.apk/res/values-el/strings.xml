@@ -49,7 +49,7 @@
   <string name="audio_focus_exit_button_text">"Απενεργοποίηση Eστίασης ήχου "</string>
   <string name="back_bokeh_use_hint">"Βεβαιωθείτε ότι το αντικείμενο δεν απέχει περισσότερο από 1,5 μέτρο."</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Αισθητική</string>
-  <string name="beauty_fragment_tab_name_3d_makeup">Makeup</string>
+  <string name="beauty_fragment_tab_name_3d_makeup">Μακιγιάζ</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Αναδιαμόρφωση</string>
   <string name="beauty_fragment_tab_name_beauty">Αισθητική</string>
   <string name="beauty_fragment_tab_name_makeup">Για προχωρημένους</string>
@@ -587,4 +587,21 @@
 Καθαρίστε το φακό για καλύτερο αποτέλεσμα."</string>
    <string name="lens_dirty_detected_title_back">Ο φακός της Πίσω κάμερας είναι ακάθαρτος</string>
    <string name="lens_dirty_detected_title_front">Ο φακός της Εμπρός κάμερας είναι ακάθαρτος</string>
+  <string name="beauty_mode_reset_toast">Αφαιρέθηκαν τα αποτελέσματα αναδιαμόρφωσης</string>
+  <string name="beauty_reset">Επαναφορά</string>
+  <string name="capture_back_pressed_hint">Αγγίξτε ξανά για Έξοδο</string>
+  <string name="eye_light">Φώς ματιών</string>
+  <string name="eye_light_angel">Φώς Αγγέλων</string>
+  <string name="eye_light_comic">Κωμικό φως</string>
+  <string name="eye_light_crescent">Φώς Ημισελήνου</string>
+  <string name="eye_light_nature">Φώς της φύσης</string>
+  <string name="eye_light_off">Χωρίς</string>
+  <string name="eye_light_rainbow">Φώς Ουράνιου Τόξου</string>
+  <string name="eye_light_star">Φώς Αστεριού</string>
+  <string name="eye_light_window">Φως παραθύρου</string>
+  <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει όταν ο χρονομετρητής φτάσει στη λευκή κουκίδα</string>
+  <string name="hint_eye_light">Το Φώς ματιών θα είναι καλύτερο όταν το φλας είναι αναμμένο</string>
+  <string name="makeup_reset_toast">Αφαιρέθηκαν τα εφέ μακιγιάζ</string>
+  <string name="module_name_new_slow_motion">Αργή κίνηση</string>
+  <string name="pref_new_slow_motion_video_quality_240_720only">Μπορείτε να εγγράψετε βίντεο μόνο σε 720P με 240FPS</string>
 </resources>

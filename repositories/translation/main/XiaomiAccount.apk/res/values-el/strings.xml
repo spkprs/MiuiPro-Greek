@@ -463,5 +463,5 @@
   <string name="vip_account_settings">Ρυθμίσεις VIP</string>
   <string name="vip_settings_info">Ρυθμίσεις VIP</string>
   <string name="xiao_mi_vip">Mi VIP</string>
-  <string name="account_invalid_user_avatar">Η φωτγραφία δεν είναι έγκυρη</string>
+  <string name="account_invalid_user_avatar">Αυτή η φωτογραφία είναι άκυρη. Δοκιμάστε μια διαφορετική</string>
 </resources>

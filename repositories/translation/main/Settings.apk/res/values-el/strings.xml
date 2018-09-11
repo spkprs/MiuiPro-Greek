@@ -5687,7 +5687,7 @@
   <string name="failed_to_erase_text">Απενεργοποιήστε τον κωδικό Οθόνης Κλειδώματος πριν εκτελέσετε τη λειτουργία 1217.</string>
   <string name="failed_to_erase_title">Απαγορευμένη λειτουργία</string>
   <string name="navigation_guide_appswitch_anim_summary">Σαρώστε κατά μήκος της οθόνης ξεκινώντας από την άκρη για να επιστρέψετε στην προηγούμενη εφαρμογή</string>
-  <string name="navigation_guide_appswitch_anim_title">Μετάβαση σε προηγούμενη εφαρμογή</string>
+  <string name="navigation_guide_appswitch_anim_title">Επιστροφή στην προηγούμενη εφαρμογή</string>
   <string name="navigation_guide_appswitch_click">Ενεργοποιήστε πρώτα την \"Επιστροφή στην προηγούμενη εφαρμογή\"</string>
     <string name="check_importance_dialog_cancel">Ακύρωση</string>
     <string name="handy_mode_tips_full_screen">"Όταν χρησιμοποιείτε Χειρονομίες πλήρους οθόνης, μπορείτε να ενεργοποιήσετε τη Λειτουργία με ένα χέρι χρησιμοποιώντας το Quick Ball. Μπορείτε επίσης να μεταβείτε στη χρήση Κουμπιών αντί για Χειρονομίες πλήρους οθόνης."</string>
