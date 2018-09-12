@@ -24,4 +24,5 @@
   <string name="settings_safetylegal_activity_title">Πληροφορίες ασφαλείας</string>
   <string name="settings_safetylegal_activity_unreachable">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Για να δείτε αυτές τις πληροφορίες τώρα, πηγαίνετε στο %s από οποιονδήποτε υπολογιστή συνδεδεμένο στο Internet.</string>
   <string name="settings_safetylegal_title">Πληροφορίες ασφαλείας</string>
+  <string name="poco_privacy_policy">POCO Εκκινητής Πολιτική Απορρήτου &amp; POCO Εκκινητής Συμφωνία Χρήστη</string>
 </resources>

@@ -5684,8 +5684,8 @@
   <string name="zone_auto_summaryOn">Μέσω δικτύου</string>
   <string name="zone_list_menu_sort_alphabetically">Ταξινόμηση αλφαβητικά</string>
   <string name="zone_list_menu_sort_by_timezone">Ταξινόμηση κατά ζώνη ώρας</string>
-  <string name="failed_to_erase_text">Απενεργοποιήστε τον κωδικό Οθόνης Κλειδώματος πριν εκτελέσετε τη λειτουργία 1217.</string>
-  <string name="failed_to_erase_title">Απαγορευμένη λειτουργία</string>
+  <string name="failed_to_erase_text">Απενεργοποιήστε τον κωδικό Oθόνης Kλειδώματος πριν εισάγετε τον κωδικό \"1217\".</string>
+  <string name="failed_to_erase_title">"Αδύνατη η ολοκλήρωση αυτής της ενέργειας"</string>
   <string name="navigation_guide_appswitch_anim_summary">Σαρώστε κατά μήκος της οθόνης ξεκινώντας από την άκρη για να επιστρέψετε στην προηγούμενη εφαρμογή</string>
   <string name="navigation_guide_appswitch_anim_title">Επιστροφή στην προηγούμενη εφαρμογή</string>
   <string name="navigation_guide_appswitch_click">Ενεργοποιήστε πρώτα την \"Επιστροφή στην προηγούμενη εφαρμογή\"</string>
@@ -5708,5 +5708,8 @@
   <string name="aod_got_it">Εντάξει</string>
   <string name="aod_to_close">Απενεργοποίηση</string>
   <string name="following_us_title">Ακολουθήστε μας</string>  
+  <string name="bootloader_device_bind_no_data_network">Απενεργοποιήστε το Wi-Fi και προσθέστε το λογαριασμό και τη συσκευή σας χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας.</string>
+  <string name="bootloader_device_bind_server_token_expired_1">"Αδύνατη η επαλήθευση. Δοκιμάστε να προσθέσετε ξανά τον λογαριασμό και τη συσκευή σας."</string>
+  <string name="bootloader_device_bind_server_token_expired_2">"Αδύνατη η επαλήθευση. Συνδεθείτε ξανά στο λογαριασμό σας και επαναλάβετε."</string>
 </resources>
 

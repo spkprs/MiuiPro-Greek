@@ -162,4 +162,11 @@
      <string name="upload_succ_line5">Το αρχείο εστάλει</string>
      <string name="upload_succ_ok">ΟΚ</string>
      <string name="upload_success">%1$s Η αποστολή ολοκληρώθηκε</string>
+  <string name="trans_cancel_dialog_survey_title">Γιατί διακόπτετε τη μεταφορά;</string>
+  <string name="trans_dialog_survey_finish">Αποστολή</string>
+  <string name="trans_success_dialog_button_market_comment">Σχόλιο</string>
+  <string name="trans_success_dialog_button_survey">Αξιολόγηση</string>
+  <string name="trans_success_dialog_market_comment_and_survey_title">"Είστε έτοιμοι! Πείτε μας τι σκέφτεστε για το Mi Mover."</string>
+  <string name="trans_success_dialog_survey_title">Εκτιμούμε τα σχόλιά σας</string>
+  <string name="trans_success_survey_hint">Συμπληρώστε πρώτα όλα τα πεδία.</string>
 </resources>

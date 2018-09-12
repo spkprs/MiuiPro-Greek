@@ -363,4 +363,8 @@
       <item quantity="other">Προστέθηκαν %d λεπ.</item>
       <item quantity="one">Προστέθηκε %d λεπ.</item>
    </plurals>
+  <plurals name="first_aid_card_float_window_summary">
+    <item quantity="other">%d εφαρμογές ίσως να εμφανίζονται εσφαλμένα. Περιορίστε τις αναδυόμενες ειδοποιήσεις.</item>
+    <item quantity="one">%d εφαρμογή ίσως να εμφανίζεται εσφαλμένα. Περιορίστε τις αναδυόμενες ειδοποιήσεις.</item>
+  </plurals> 
 </resources>

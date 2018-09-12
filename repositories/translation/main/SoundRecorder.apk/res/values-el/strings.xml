@@ -153,4 +153,5 @@
   <string name="toast_uninstall_fileexplorer">Η εφαρμογή Αρχεία δεν έχει εγκατασταθεί</string>
   <string name="wifi_recommended_body" formatted="false">Χρήση των δεδομένων κινητής για να κατεβάσετε αυτό το αρχείο (%s) θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα. Για αναμονή μιας σύνδεσης Wi‑Fi για τη λήψη αυτού του αρχείου, πατήστε %s.</string>
   <string name="wifi_recommended_title">Προειδοποίηση χρήσης δεδομένων</string>
+  <string name="alert_message_delete_local_record">Διαγραφή αυτής της εγγραφής;</string>
 </resources>

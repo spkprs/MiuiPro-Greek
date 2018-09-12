@@ -419,4 +419,6 @@
   <string name="xspace_weibo_title">Weibo</string>
   <string name="xspace_weixin_title">WeChat</string>
   <string name="qq_login">Συνδεθείτε στο QQ</string> 
+  <string name="confirm_close_password_desc">"Δεν θα μπορείτε να εισέλθετε στον Δεύτερο Χώρο από την Οθόνη Κλείδωματος μετά την απενεργοποίηση του κωδικού. Απενεργοποίηση ούτως ή άλλως;"</string>
+  <string name="confirm_close_password_title">Απενεργοποίηση κωδικού</string>
 </resources>

@@ -756,4 +756,5 @@
   <string name="yellowpage_recommend_msg">Δοκιμάστε τις δυνατότητες των μηνυμάτων SMS της MIUI</string>
   <string name="yes">OK</string>
   <string name="yesterday">Χθές</string>
+  <string name="cmcc_privacy">Συμφωνία απορρήτου μεταφορέα της China Mobile</string>
 </resources>

@@ -2345,7 +2345,7 @@
     <string name="first_aid_card_unable_install_button">Απελευθέρωση</string>
     <string name="first_aid_result_summary_normal">Όλα φαίνονται καλά!</string>
     <string name="first_aid_result_feedback_title">Σχόλια</string>
-    <string name="first_aid_result_feedback_summary">"Αδύνατη η επίλυση των προβλημάτων μου."</string>
+    <string name="first_aid_result_feedback_summary">"Η σάρωση Πρώτων Βοηθειών δεν βρήκε κανένα πρόβλημα. Ωστόσο, εντόπισα κάποιο."</string>
     <string name="first_aid_result_feedback_button">Υποβολή</string>
     <string name="first_aid_card_kadun_title">Η συσκευή είναι αργή</string>
     <string name="first_aid_card_kadun_summary1">Απελευθερώστε χώρο αποθήκευσης έτσι ώστε η συσκευή σας να λειτουργεί κανονικά.</string>
@@ -2391,4 +2391,5 @@
   <string name="device_manager_apply_step_2">"Η ενεργοποίηση του διαχειριστή συσκευής για αυτήν την εφαρμογή ενδέχεται να οδηγήσει σε έκθεση προσωπικών σας δεδομένων.
 Όλα τα δεδομένα στη συσκευή σας ενδέχεται να διαγραφούν και ο κωδικός πρόσβασης οθόνης κλειδώματος ενδέχεται επίσης"</string>
   <string name="device_manager_apply_step_3">Βεβαιωθείτε ότι έχετε κατανοήσει όλους τους πιθανούς κινδύνους πρίν προχωρήσετε. Ενεργοποίηση του διαχειριστή  συσκ. για αυτήν την εφαρμ. τώρα;</string>
+  <string name="first_aid_result_summary_not_finished">"Η Σάρωση δεν ολοκληρώθηκε. Ορισμένοι κίνδυνοι ενδέχεται να μην έχουν εντοπιστεί."</string>
 </resources>
