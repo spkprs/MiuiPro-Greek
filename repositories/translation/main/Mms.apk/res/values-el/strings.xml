@@ -48,9 +48,9 @@
   <string name="bcc_label">"Bcc: "</string>
   <string name="block_messaging_entry_title">Αποκλεισμένα SMS</string>
   <string name="block_support_text">Υποστηρίζεται από Antiy.</string>
-  <string name="bookmark">Αγαπημένα</string>
+  <string name="bookmark">Προστέθηκε στα αγαπημένα</string>
   <string name="bookmark_confirm_delete_message">Αφαίρεση επιλεγμένων μηνυμάτων από τα αγαπημένα;</string>
-  <string name="bookmark_empty">Δεν υπάρχουν αγαπημένα</string>
+  <string name="bookmark_empty">Δεν υπάρχουν μηνύματα στα αγαπημένα</string>
   <string name="bookmark_list_title">Αγαπημένα</string>
   <string name="button_fold">Διπλώστε</string>
   <string name="button_next_slide">Επόμενο</string>
@@ -137,13 +137,13 @@
   <string name="delivery_toast_body">Μήνυμα ελήφθη από %s</string>
   <string name="delivery_toast_body_more">Μήνυμα παραλήφθηκε από %1$s, και %2$d άλλα άτομα</string>
   <string name="dialog_message_fake_cell_detect_error">Διορθώστε τις πληροφορίες σχετικά με αυτό το μήνυμα; Για να γίνει αυτό, το MIUI πρέπει να φορτώσει τον αριθμό τηλεφώνου (%1$s), το περιεχόμενο του μηνύματος και τις πληροφορίες σχετικά με την κοντινή τοποθεσία στους διακομιστές του.</string>
-  <string name="dialog_message_mx">Το Mi Message σάς επιτρέπει να στέλνετε μηνύματα σε άλλες συσκευές MIUI χωρίς επιβαρύνσεις. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση του μηνύματος Mi. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνείτε με μας \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το μήνυμα Mi.</string>
+  <string name="dialog_message_mx">Το Mi Message σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβαρύνσεις. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση του μηνύματος Mi. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνείτε με μας \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το μήνυμα Mi.</string>
   <string name="dialog_message_mx_rcs">Το Mi Message σάς επιτρέπει να στέλνετε μηνύματα σε άλλες συσκευές MIUI και χρήστες της China Mobile χωρίς να χρεώνεστε. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση του μηνύματος Mi. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνείτε με μας \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το μήνυμα Mi. Συμφωνώ?</string>
-  <string name="dialog_message_networking">Τα μηνύματα πρέπει να συνδεθούν στο Internet και να αποκτήσουν πρόσβαση στην τοποθεσία σας, προκειμένου να παρέχουν Smart Messaging, αναγνώριση ID αποστολέα και άλλες υπηρεσίες. Πρέπει να συμφωνείτε με μας \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε αυτές τις υπηρεσίες. Επιτρέπω?</string>
+  <string name="dialog_message_networking">Τα μηνύματα πρέπει να χρησιμοποιούν Yellow pages για να είναι σε θέση να παρέχουν αναγνώριση ID αποστολέα. Τα μηνύματα και οι Yellow pages πρέπει να συνδεθούν στο διαδίκτυο και να έχουν πρόσβαση στην τοποθεσία σας για να λειτουργούν κανονικά. Επιτρέπετε?</string>
   <string name="dialog_message_networking_mx">Το Mi Message σάς επιτρέπει να στέλνετε μηνύματα σε άλλες συσκευές MIUI χωρίς επιβαρύνσεις. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση του μηνύματος Mi. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνείτε με μας \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το μήνυμα Mi. Τα μηνύματα πρέπει να συνδεθούν στο Internet και να αποκτήσουν πρόσβαση στην τοποθεσία σας, προκειμένου να παρέχουν Smart Messaging, αναγνώριση ID αποστολέα και άλλες υπηρεσίες. Επιτρέπω?</string>
   <string name="dialog_message_networking_mx_rcs">Το Mi Message σάς επιτρέπει να στέλνετε μηνύματα σε άλλες συσκευές MIUI και χρήστες της China Mobile χωρίς να χρεώνεστε. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση του μηνύματος Mi. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνείτε με μας \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το μήνυμα Mi. Τα μηνύματα πρέπει να συνδεθούν στο Internet και να αποκτήσουν πρόσβαση στην τοποθεσία σας, προκειμένου να παρέχουν Smart Messaging, αναγνώριση ID αποστολέα και άλλες υπηρεσίες. Επιτρέπω?</string>
   <string name="dialog_message_networking_rcs">Το Mobile Messaging της Κίνας σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες της China Mobile χωρίς να χρεώνεστε. Πρέπει να συμφωνήσετε \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το China Mobile Messaging. Τα μηνύματα πρέπει να συνδεθούν στο Internet και να αποκτήσουν πρόσβαση στην τοποθεσία σας, προκειμένου να παρέχουν Smart Messaging, αναγνώριση ID αποστολέα και άλλες υπηρεσίες. Επιτρέπω?</string>
-  <string name="dialog_message_rcs">Το Mobile Messaging της Κίνας σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες της China Mobile χωρίς να χρεώνεστε. Πρέπει να συμφωνήσετε \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το China Mobile Messaging. Συμφωνώ?</string>
+  <string name="dialog_message_rcs">Το Mobile Messaging της Κίνας σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες της ηπηρωτικής Κίνας χωρίς να χρεώνεστε. Πρέπει να συμφωνήσετε \"%1$s\" πριν χρησιμοποιήσετε το China Mobile Messaging.</string>
   <string name="dialog_message_sms_report">Τα μηνύματα ανεπιθύμητης αλληλογραφίας και οι πληροφορίες του αποστολέα θα μεταφορτωθούν στο MIUI όταν τα αναφέρετε. Θα χρησιμοποιηθούν μόνο για τη βελτίωση των φίλτρων ανεπιθύμητης αλληλογραφίας του MIUI.</string>
   <string name="dialog_title_fake_cell_detect_error">Διόρθωση</string>
   <string name="dialog_title_mx_rcs">Mi Μήνυμα</string>
@@ -196,7 +196,7 @@
   <string name="fake_cell_detection_entry">Ανιχνεύτηκε ψεύτικος σταθμός βάσης</string>
   <string name="fake_cell_safe_hint">Αυτό το μήνυμα είναι ασφαλές</string>
   <string name="fake_cell_timeout_hint">Αδυναμία ελέγχου ασφάλειας</string>
-  <string name="favorite_at_time">Αστέρι σε: %1s</string>
+  <string name="favorite_at_time">Προστέθηκε στα αγαπημένα την: %1s</string>
   <string name="fdn_check_failure">Μπορείτε να στείλετε μηνύματα μόνο στους αριθμούς κλήσης συγκεκριμένων αριθμών.</string>
   <string name="festival_sms_loading">Φορτώνει…</string>
   <string name="fetion_prefix">[Φήμη]</string>
@@ -499,7 +499,7 @@
   <string name="private_message">Προσωπικό μήνυμα</string>
   <string name="private_new_notification">Ειδοποιήσεις μηνυμάτων</string>
   <string name="private_protect">Κωδικοί πρόσβασης</string>
-  <string name="private_settings">Ρυθμίσεις προσωπικών μηνυμάτων</string>
+  <string name="private_settings">Ρυθμίσεις</string>
   <string name="processing">Επεξεργασία…</string>
   <string name="prvate_contact">Ιδιωτικές επαφές</string>
   <string name="quick_reply">Απάντηση</string>
@@ -757,4 +757,7 @@
   <string name="yes">OK</string>
   <string name="yesterday">Χθές</string>
   <string name="cmcc_privacy">Συμφωνία απορρήτου μεταφορέα της China Mobile</string>
+  <string name="mark_number_by_own_dialog_subtitle">Επισημαίνεται ως %1$s</string>
+  <string name="rcs_dspt_unavailable">"Δεν είναι δυνατή η χρήση αυτής της λειτουργίας τώρα. Η κάρτα China Mobile SIM δεν είναι η προεπιλεγμένη κάρτα δεδομένων σας."</string>
+  <string name="rcs_service_agreement">Συμφωνία παροχής υπηρεσιών</string>
 </resources>

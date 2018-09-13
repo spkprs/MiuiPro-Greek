@@ -607,4 +607,6 @@
      <string name="yesterday">Χθές</string>
      <string name="preference_other">Άλλα</string>
     <string name="preference_privacy_title">Πολιτική Απορρήτου</string>
+    <string name="tax_thershold_native_new">%s (νεο)</string>
+    <string name="tax_thershold_native_new_description">Οι φόροι υπολογίζονται σύμφωνα με τον νέο φορολογικό νόμο που αρχίζει την 1η Οκτωβρίου 2018</string>
 </resources>

@@ -69,4 +69,8 @@
     <item quantity="other">%d παραλήπτες</item>
     <item quantity="one">%d παραλήπτης</item>
   </plurals>
+  <plurals name="mark_number_dialog_subtitle">
+     <item quantity="other">Επισημαίνεται ως %2$s by %1$d άτομα</item>
+     <item quantity="one">Επισημαίνεται ως %2$s by %1$d ά</item>
+  </plurals>
 </resources>

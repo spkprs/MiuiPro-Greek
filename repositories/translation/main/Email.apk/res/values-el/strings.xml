@@ -1121,4 +1121,12 @@
   <string name="version_string">Έκδοση: %s</string>
   <string name="wps_title">WPS Mail</string>
   <string name="privacy_policy">Πολιτική απορρήτου</string>
+  <string name="chinese">Chinese</string>
+  <string name="notify_channel_new_mail">Ειδοποίηση για νέα μηνύματα</string>
+  <string name="notify_channel_permission_notice">Ειδοποίηση Υπενθύμισης άδειας</string>
+  <string name="notify_channel_send_fail">Ειδοποίηση αποτυχημένης παράδοσης</string>
+  <string name="show_more_attachment">Περισσότερα συνημμένα</string>
+  <string name="overlays_tip_23">Ανοίξτε το αναδυόμενο παράθυρο Δικαιωμάτων και απολαύστε άμεσα το 139 mailbox για να ρυθμίσετε αυτόματα την μέγιστη εμπειρία.</string>
+  <string name="mail_search_lab">Ετικέτα αναζήτησης</string>
+  <string name="overlays_tip">Ρυθμίσεις τηλεφώνου - Εφαρμογή - Λεπτομέρειες εφαρμογής - Ανοίξτε το αναδυόμενο παράθυρο Δικαιωμάτων στον Διαχειριστή Δικαιωμάτων, και απολαύστε άμεσα το 139 mailbox για να ρυθμίσετε αυτόματα την μέγιστη εμπειρία.</string>
 </resources>

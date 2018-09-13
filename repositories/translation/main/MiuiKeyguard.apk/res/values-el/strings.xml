@@ -124,7 +124,7 @@
   <string name="lockscreen_failed_attempts_now_wiping">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Θα πρέπει να γίνει τώρα Επαναφορά εργοστασιακών ρυθμίσεων.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Ξεκλειδώθηκε από συσκευή Bluetooth</string>
   <string name="open_camera_hint_text">Σύρετε αριστερά για την Κάμερα</string>
-  <string name="open_remote_center_hint_text">Σύρετε δεξιά για εκτέλεση πρόσθετων προγραμμάτων</string>
+  <string name="open_remote_center_hint_text">Σύρετε δεξιά, για πρόσθετα προγράμματα</string>
   <string name="phone_locked_foget_password">Ξεχάσατε τον κωδικό;</string>
   <string name="phone_locked_foget_password_mehod_back">Πίσω</string>
   <string name="phone_locked_foget_password_method">Ξεχάσατε τον κωδικό;</string>

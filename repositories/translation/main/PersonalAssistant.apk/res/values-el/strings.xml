@@ -60,7 +60,7 @@
     <string name="app_setting_datetime">Εμφάνιση ημερομηνίας</string>
     <string name="app_setting_dialog_cancel">Ακύρωση</string>
     <string name="app_setting_has_not_setted">Δεν ορίστηκε</string>
-    <string name="app_setting_has_setted">Έχει ρυθμιστεί</string>
+    <string name="app_setting_has_setted">Προστέθηκε</string>
     <string name="app_setting_more_setting">Περισσότερες ρυθμίσεις</string>
     <string name="app_setting_on_off_setting">Ρύθμιση διακόπτη</string>
     <string name="app_setting_search">Μπάρα αναζήτησης</string>
@@ -185,8 +185,8 @@
     <string name="corpus_label_apps">Εφαρμογές</string>
     <string name="cta_desc">Λάβετε προτάσεις, πληροφορίες σχετικά με την κυκλοφορία, την παράδοση και πολλά άλλα.</string>
     <string name="cta_dialog_negative">Έξοδος</string>
-    <string name="cta_dialog_positive">Συμφωνώ και συνεχίζω</string>
-    <string name="cta_dialog_text_all">Για να χρησιμοποιήσετε τη θυρίδα εφαρμογής, θα πρέπει να διαβάσετε και να συμφωνήσετε με αυτήν %1$s\"User Συμφωνία&amp;quot; %2$s και %3$s &amp;quot;Πολιτική απορρήτου&amp;quot; %4$s. Η υπηρεσία απαιτεί επίσης σύνδεση στο διαδίκτυο και πρόσβαση στις υπηρεσίες τοποθεσίας. Συμφωνώ?</string>
+    <string name="cta_dialog_positive">Συμφωνώ</string>
+    <string name="cta_dialog_text_all">Για να χρησιμοποιήσετε τη θυρίδα εφαρμογής, θα πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s\"Συμφωνία χρήστη&amp;quot; %2$s και %3$s &amp;quot;Πολιτική απορρήτου&amp;quot; %4$s. Η υπηρεσία απαιτεί επίσης σύνδεση στο διαδίκτυο και πρόσβαση στις υπηρεσίες τοποθεσίας. Συμφωνείτε?</string>
     <string name="cta_dialog_title">Οροι και Προϋποθέσεις</string>
     <string name="cta_negative">Κλείστε</string>
     <string name="cta_positive">Λεπτομέρειες</string>
@@ -798,8 +798,8 @@
     <string name="search_category_article">Άρθρα</string>
     <string name="search_category_shopping">Ψώνια</string>
     <string name="search_category_video">Βίντεο</string>
-    <string name="search_change_header">Αντικαταστήστε την εικόνα φόντου</string>
-    <string name="search_clear_header">Αφαιρέστε την εικόνα φόντου</string>
+    <string name="search_change_header">Αντικατάσταση εικόνας φόντου</string>
+    <string name="search_clear_header">Αφαίρεση εικόνας φόντου</string>
     <string name="search_hint">Αναζήτηση στοιχείων στη συσκευή και στο διαδίκτυο</string>
     <string name="search_label">Αναζήτηση…</string>
     <string name="search_setting_description">Τίτλοι στα αγαπημένα</string>
@@ -909,8 +909,8 @@
     <string name="steps_auto_misport">Να επιτρέπεται η αυτόματη εκκίνηση</string>
     <string name="steps_get_misport">Εγκαταστήστε το Mi Fit</string>
     <string name="steps_misport">Επιλεγμένο Mi Fit</string>
-    <string name="steps_misport_dialog_content">Έχετε εγκαταστήσει Mi Fit; Για να μετρήσετε τα βήματα, κατεβάστε και εγκαταστήστε την εφαρμογή.</string>
-    <string name="steps_misport_dialog_title">Δεν έχετε εγκαταστήσει το Mi Fit ακόμα.</string>
+    <string name="steps_misport_dialog_content">Έχετε εγκαταστήσει το Mi Fit; Για να μετρήσετε τα βήματα, κατεβάστε και εγκαταστήστε την εφαρμογή.</string>
+    <string name="steps_misport_dialog_title">Δεν έχετε εγκατ. το Mi Fit ακόμα.</string>
     <string name="steps_misport_download">Λήψη</string>
     <string name="steps_misport_go">Επιτρέπω</string>
     <string name="steps_misport_ok">Το κατάλαβα</string>

@@ -120,10 +120,10 @@
      <string name="count_down">Αντ.μέτρηση: %1$s</string>
      <string name="create_shortcut_success">>Επιτυχής προσθήκη συντόμευσης</string>
      <string name="daily_clockin">Σύνδεση</string>
-     <string name="data_consumption_cancel">Έξοδος</string>
+     <string name="data_consumption_cancel">"Δεν συμφωνώ"</string>
      <string name="data_consumption_checkbox_hint">Να μην εμφανιστεί ξανά</string>
      <string name="data_consumption_confirm">OK</string>
-     <string name="data_consumption_message">Αυτή η εφαρμογή θα πρέπει να συνδεθεί με το Internet μέσω Wi‑Fi για να λειτουργήσει κανονικά.</string>
+     <string name="data_consumption_message">"Ο διαχειριστής αρχείων θα πρέπει να συνδεθεί στο δίκτυο ενώ το χρησιμοποιείτε. Συμφωνείτε;"</string>
      <string name="data_consumption_message1">Η συσκευή θα πρέπει να συνδεθεί με το Internet για να δείτε δημοφιλή αυτοκόλλητα και βίντεο.</string>
      <string name="data_consumption_title">Σύνδεση στο Internet</string>
      <string name="decompress_cancel">Άκυρο</string>

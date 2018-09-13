@@ -42,7 +42,7 @@
   <string name="continue_download">Συνέχεια</string>
   <string name="copy">Αντιγραφή</string>
   <string name="copy_info">Αντιγράφτηκε στο πρόχειρο. Μπορείτε να το μοιραστείτε με φίλους!</string>
-  <string name="creat_task_success">Προστέθηκε στην ουρά λήψης</string>
+  <string name="creat_task_success">Προστέθηκε σε αναμονή λήψης</string>
   <string name="create_task">Δημιουργία διεργασίας</string>
   <string name="delete">Διαγραφή</string>
   <string name="delete_download">Διαγραφή</string>
@@ -183,7 +183,7 @@
   <string name="high_speed_tryout_speedup_confirm">Προετοιμασία ενίσχυσης ταχύτητας…</string>
   <string name="high_speed_tryout_time">Δωρεάν χρόνος που απομένει: %1$s. Γίνετε μέλος στην Xunlei.</string>
   <string name="hint">Προσοχή</string>
-  <string name="home_page_new_download_guide">Οι νέες λήψεις πηγαίνουν εδώ</string>
+  <string name="home_page_new_download_guide">Φάκ. νέων λήψεων</string>
   <string name="immediately_a_renewal">Ανανέωση τώρα</string>
   <string name="info_flow_only_load_wifi">Φόρτωση όταν συνδεθεί σε Wi‑Fi</string>
   <string name="info_flow_setting">Ρυθμίσεις</string>
