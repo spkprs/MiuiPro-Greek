@@ -387,7 +387,7 @@
   <string name="speed_result_broadband_text1">Τρέχουσα ταχύτητα λήψης</string>
   <string name="speed_result_broadband_text2">%s του εύρους ζώνης</string>
   <string name="speed_result_broadband_text3">Ευρυζωνικότητα</string>
-  <string name="speed_result_finish">Εγινε</string>
+  <string name="speed_result_finish">Τέλος</string>
   <string name="speed_result_restart">Δοκιμάστε ξανά</string>
   <string name="speed_start">Δοκιμή</string>
   <string name="speed_stop">Ακύρωση</string>

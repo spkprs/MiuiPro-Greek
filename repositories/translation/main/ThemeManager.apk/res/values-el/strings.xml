@@ -618,7 +618,7 @@
   <string name="exit_extreme_mode_dialog_agree">Συμφωνώ</string>
   <string name="exit_extreme_mode_dialog_cancel">Ακύρωση</string>
   <string name="exit_extreme_mode_dialog_title"> Απενεργοποίηση Ακραίας λειτουργίας</string>
-  <string name="extreme_mode_dialog_message">"Αυτή η λειτουργία δεν είναι διαθέσιμη σε Ακραία λειτουργία. Απενεργοποιήστε την Ακραία λειτουργία για να μπορέσετε να την χρησιμοποιήσετε."</string>
+  <string name="extreme_mode_dialog_message">"Αυτή η λειτουργία δεν είναι διαθέσιμη σε Μέγιστη λειτουργία. Απενεργοποιήστε την για να μπορέσετε να την χρησιμοποιήσετε."</string>
   <string name="extreme_mode_dialog_ok">Εντάξει</string>
   <string name="extreme_mode_dialog_title">Ειδοποίηση</string>
 </resources>

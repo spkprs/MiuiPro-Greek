@@ -5481,7 +5481,7 @@
   <string name="wifi_tether_starting">Ενεργοποίηση Hotspot…</string>
   <string name="wifi_tether_stopping">Απενεργοποίηση Hotspot…</string>
   <string name="wifi_traffic_priority">Λειτουργία ταχύτητας Wi-Fi</string>
-  <string name="wifi_traffic_priority_extreme">Ακραία λειτουργία</string>
+  <string name="wifi_traffic_priority_extreme">Μέγιστη λειτουργία</string>
   <string name="wifi_traffic_priority_extreme_summary">Δίνεται μεγαλύτερο μέρος του εύρους ζώνης στην εφαρμογή στο προσκήνιο. Οι διεργασίες παρασκηνίου ενδέχεται να μην είναι σε θέση να συνδεθούν στο δίκτυο.</string>
   <string name="wifi_traffic_priority_off">Ανενεργό</string>
   <string name="wifi_traffic_priority_on">Ενεργό</string>
