@@ -2392,4 +2392,6 @@
 Όλα τα δεδομένα στη συσκευή σας ενδέχεται να διαγραφούν και ο κωδικός πρόσβασης οθόνης κλειδώματος ενδέχεται επίσης"</string>
   <string name="device_manager_apply_step_3">Βεβαιωθείτε ότι έχετε κατανοήσει όλους τους πιθανούς κινδύνους πρίν προχωρήσετε. Ενεργοποίηση του διαχειριστή  συσκ. για αυτήν την εφαρμ. τώρα;</string>
   <string name="first_aid_result_summary_not_finished">"Η Σάρωση δεν ολοκληρώθηκε. Ορισμένοι κίνδυνοι ενδέχεται να μην έχουν εντοπιστεί."</string>
+  <string name="card_main_deepclean_whatsapp_title">WhatsApp Καθαριστής</string>
+  <string name="card_main_hwtest_title">Δοκιμή υλικού</string>
 </resources>

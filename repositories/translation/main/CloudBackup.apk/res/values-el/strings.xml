@@ -177,4 +177,7 @@
     <string name="restore_task_in_process">Επαναφορά…</string>
     <string name="restore_unfinished">Επαναφορά, δοκιμάστε ξανά αργότερα</string>
     <string name="size_unknown">Άγνωστο μέγεθος</string>
+  <string name="error_retry_later">Απέτυχε, προσπαθήστε αργότερα παρακαλώ.</string>
+  <string name="home_hint_other_launcher">Άλλη Αρχική οθόνη</string>
+  <string name="unsupported_home">Ενημερώστε στο τελευταίο OS.</string>
 </resources>

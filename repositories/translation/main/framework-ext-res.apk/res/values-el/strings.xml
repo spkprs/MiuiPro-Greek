@@ -182,4 +182,6 @@
   <string name="voice_button_action_up">Πατήστε για να μιλήσετε</string>
   <string name="voice_input_error_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά."</string>
   <string name="voice_input_error_other">Παρουσιάστηκε σφάλμα. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
+  <string name="talk_back_water_mark_string1">TalkBack είναι ενεργό</string>
+  <string name="talk_back_water_mark_string2">Κρατήστε πατημένο \"Volume+\" και \"Volume-\" για 3 δευτ για απενεργοποίηση</string>
 </resources>
