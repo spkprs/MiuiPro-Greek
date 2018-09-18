@@ -818,8 +818,8 @@
    <string name="gb_first_window_antimsg_summary_quick_answer">Χρήση γρήγορων απαντήσεων</string>
    <string name="gb_first_window_antimsg_summary_transparent_show">Δείτε κείμενο σε διαφανές φόντο</string>
    <string name="gb_first_window_antimsg_title">Χρήσιμες ειδοποιήσεις</string>
-   <string name="gb_first_window_gamebox_summary_four">Χρήση γρήγορων απαντήσεων, κάντε εγγραφές οθόνης και στιγμιότυπων</string>
-   <string name="gb_first_window_gamebox_summary_six">Καθαρισμός Cache, κάντε εγγραφές οθόνης και στιγμιότυπα</string>
+   <string name="gb_first_window_gamebox_summary_four">Καθαρισμός Cache, κάντε εγγραφές οθόνης και στιγμιότυων</string>
+   <string name="gb_first_window_gamebox_summary_six">Χρήση γρήγορων απαντήσεων, κάντε εγγραφές οθόνης και στιγμιότυπων</string>
    <string name="gb_first_window_handsfree_summary">Αυτόματη ενεργοποίηση του ηχείου</string>
    <string name="gb_first_window_handsfree_title">Hands-free κλήσεις</string>
    <string name="gb_first_window_start">Αρχίστε να παίζετε</string>

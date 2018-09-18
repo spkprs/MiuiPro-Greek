@@ -92,4 +92,6 @@
   <string name="vip_feedback_enable">Ενεργοποιήστε τα σχόλια VIP</string>
   <string name="warm_configure">Ρυθμίσεις ελέγχου θερμοκρασίας</string>
   <string name="warm_performance_tip">Η συσκευή σας θα ζεσταίνεται όταν εκτελούνται περισσότερες διαδικασίες.</string>
+  <string name="high_temp_state">Υψηλή θερμοκρασία</string>
+  <string name="high_temp_state_message">Η Προστασία Υψηλής θερμοκρασίας, θα περιορίσει, τα δεδομένα, wifi, gps, κάμερα κ.λπ.</string>
 </resources>
