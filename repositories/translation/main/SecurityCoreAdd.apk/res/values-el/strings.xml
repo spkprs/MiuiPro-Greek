@@ -132,12 +132,12 @@
   <string name="fingerprint_number_upper_limit">Πολλές αποτυχημένες προσπάθειες ξεκλειδώματος</string>
   <string name="fingerprint_removal_failed">Αδυναμία διαγραφής δακτυλικού αποτυπώματος</string>
   <string name="function_not_support">Δεν υποστηρίζεται σε αυτή τη συσκευή</string>
-  <string name="gms_message">Η δημιουργία διπλών εφαρμογών απαιτεί συνεργασία με τις υπηρεσίες Google. Δημιουργήστε μια διπλή εφαρμογή για τις υπηρεσίες Google;</string>
-  <string name="gms_open_button">Ενεργοποιήστε</string>
-  <string name="gms_title">Ενεργοποιήστε τις υπηρεσίες Google</string>
+  <string name="gms_message">Η δημιουργία διπλών εφαρμογών απαιτεί συνεργασία με τις υπηρεσίες Google. Δημιουργία διπλής εφαρμογής για τις υπηρεσίες Google;</string>
+  <string name="gms_open_button">Ενεργοποίηση</string>
+  <string name="gms_title">Ενεργοποίηση υπηρεσιών Google</string>
   <string name="go_on_import">Συνέχεια εισαγωγής</string>
   <string name="goToSecondSpacce">Πηγαίνετε στο Δεύτερο προφίλ</string>
-  <string name="gpg_message">Η δημιουργία διπλών εφαρμογών για παιχνίδια απαιτεί συνεργασία με τα Παιχνίδια Google Play. Δημιουργήστε μια διπλή εφαρμογή για τα Παιχνίδια Google Play;</string>
+  <string name="gpg_message">Η δημιουργία διπλών εφαρμογών για παιχνίδια απαιτεί συνεργασία με τα Παιχνίδια Google Play. Δημιουργία διπλής εφαρμογής για τα Παιχνίδια Google Play;</string>
   <string name="gpg_title">Διπλή εφαρμογή για Παιχνίδια Google Play</string>
   <string name="green_guard">Γονικοί ελέγχοι</string>
   <string name="green_guard_des1">Προσθέστε συσκευές για να τις διαχειριστείτε εξ αποστάσεως</string>
@@ -172,7 +172,8 @@
     <string name="install_error">"Αδύνατη η εγκατάσταση. Προσπαθήστε ξανά."</string>
   <string name="invalid_qr_code">Μη έγκυρος κωδικός QR</string>
   <string name="list_empty_text">Κενή</string>
-  <string name="list_empty_text_xspace">Εγκαταστήστε το WeChat/QQ/Weibo, δημιουργήστε διπλές εφαρμογές\u000d\u000d\nκαι δοκιμάστε ξανά.</string>
+  <string name="list_empty_text_xspace">Εγκαταστήστε το WeChat/QQ/Weibo, δημιουργήστε διπλές
+εφαρμογές και δοκιμάστε ξανά.</string>
   <string name="loading">Μισό λεπτό…</string>
   <string name="loading_apps">Φόρτωση εφαρμογών…</string>
   <string name="loading_space">Μισό λεπτό…</string>

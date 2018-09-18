@@ -39,7 +39,7 @@
   <string name="app_not_found_dlg_title">Η εφαρμογή δεν βρέθηκε</string>
   <string name="app_permissions">Δικαιώματα εφαρμογής</string>
   <string name="app_permissions_breadcrumb">Εφαρμογές</string>
-  <string name="app_permissions_group_summary">%1$d του %2$d επιτρεπόμενες εφαρμογές</string>
+  <string name="app_permissions_group_summary">επιτρέπεται σε %1$d απο %2$d εφαρμογές</string>
   <string name="app_store_install_hint">Εγκατάσταση τώρα</string>
   <string name="app_store_installing_message">Εγκατάσταση…</string>
   <string name="app_store_missing_message">Φαίνεται ότι δεν έχετε εγκαταστήσει το επίσημο App Store. Εγκαταστήστε το τώρα;</string>

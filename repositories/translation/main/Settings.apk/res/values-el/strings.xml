@@ -874,7 +874,7 @@
   <string name="bootloader_status_locked">Κλειδωμένο</string>
   <string name="bootloader_status_locked_info">Αυτή η συσκευή είναι κλειδωμένη</string>
   <string name="bootloader_status_locked_summary">Αυτό το τηλέφωνο είναι ασφαλές</string>
-  <string name="bootloader_status_privacy_dialog_message">Το Mi Unlock χρειάζεται να έχει πρόσβαση στο Λογαριασμό Mi, στο ID της CPU, στο IMEI, στο IMSI για να δουλέψει κανονικά. Συλλέγουμε, χρησιμοποιούμε και επεξεργαζόμαστε τα δεδομένα σας σύμφωνα με την %s. Συμφωνείτε?</string>
+  <string name="bootloader_status_privacy_dialog_message">Το Mi Unlock χρειάζεται να έχει πρόσβαση στο Λογαριασμό Mi, στο ID της CPU, στο IMEI, στο IMSI για να λειτουργήσει κανονικά. Συλλέγουμε, χρησιμοποιούμε και επεξεργαζόμαστε τα δεδομένα σας σύμφωνα με την %s. Συμφωνείτε?</string>
   <string name="bootloader_status_privacy_dialog_no">Ακύρωση</string>
   <string name="bootloader_status_privacy_dialog_title">Απαιτούνται δικαιώματα</string>
   <string name="bootloader_status_privacy_dialog_url_text">Πολιτική Απορρήτου</string>

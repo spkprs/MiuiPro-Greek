@@ -575,7 +575,7 @@
   <string name="face_data_introduction_title">Αναγνώριση προσώπου</string>
   <string name="face_data_manage_delete">Διαγραφή δεδομένων προσώπου;</string>
   <string name="face_data_manage_delete_msg">Διαγραφή δεδομένων προσώπου</string>
-  <string name="face_data_manage_delete_sure">Δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή χρησιμοποιώντας τα δεδομένα του προσώπου σας αφού τα διαγράψετε.\"</string>
+  <string name="face_data_manage_delete_sure">Δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή χρησιμοποιώντας τα δεδομένα του προσώπου σας όταν τα διαγράψετε.</string>
   <string name="face_data_manage_delete_title">Δεδομένα προσώπου</string>
   <string name="face_data_manage_unlock_msg">Ξεκλειδώστε τη συσκευή σας με χρήση δεδομένων προσώπου</string>
   <string name="face_data_manage_unlock_title">Ξεκλείδωμα με χρήση δεδομένων προσώπου</string>
