@@ -1090,4 +1090,5 @@
 	<string name="card_expand_note_clear">Καθαρισμός</string>
     <string name="express_select_send_providers">Επιλέξτε έναν πάροχο ταχυμεταφορών</string>
     <string name="express_send_not_available">Η υπηρεσία είναι προσωρινά μη διαθέσιμη, δοκιμάστε ξανά αργότερα</string>
+  <string name="miot_device_click_show_detail">Αγγίξτε να μάθετε σχετικά για το Έξυπνο σπίτι</string>
 </resources>

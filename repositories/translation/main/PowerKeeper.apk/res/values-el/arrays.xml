@@ -32,6 +32,7 @@
     <string-array name="emode_app_groups">
         <item>Εφαρμ. Συστήματος</item>
         <item>Άλλες Εφαρμογές</item>
+        <item>Επιλεγμένες εφαρμογές</item>
     </string-array>
 </resources>
 

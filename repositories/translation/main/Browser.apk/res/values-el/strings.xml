@@ -1300,4 +1300,13 @@
   <string name="data_traffic_download_cancel">Ακύρωση</string>
   <string name="data_traffic_download_prompt">Το τρέχον βίντεο μπορεί να ληφθεί μόνο σε περιβάλλον wifi</string>
   <string name="data_traffic_download_setting">Ρυθμίσεις</string>
+  <string name="bubble_guide_bottom_message_text">Έχετε %d μη αναγνωσμένα μηνύματα</string>
+  <string name="bubble_guide_portrait_message_text">Αγγίξτε για προβολή</string>
+  <string name="dialog_recovery_tabs_disc">Η ανίχνευση μη κλειστών σελίδων απαιτεί πλήρη επαναφορά.</string>
+  <string name="dialog_recovery_tabs_title">Άνοιγμα σελίδας πριν την επαναφορά</string>
+  <string name="exit_browser_confirmation">Ξαναπατήστε για επιστροφή στην επιφάνεια εργασίας</string>
+  <string name="pref_checkbox_tab_restore">Θυμηθείτε αυτή την επιλογή ( μεταβείτε στις Προηγμένες ρυθμίσεις για τροποποίηση)</string>
+  <string name="pref_slide_back_forward">Σύρετε πίσω ή εμπρός</string>
+  <string name="pref_tab_restore">Επαναφορά της τελευταίας ανοικτής σελίδας κατά την εκκίνηση</string>
+  <string name="slide_guide">Σύρετε για επιστροφή</string>
 </resources>
