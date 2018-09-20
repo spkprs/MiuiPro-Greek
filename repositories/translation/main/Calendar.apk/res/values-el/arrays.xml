@@ -157,4 +157,11 @@
     <item>Διαφανές</item>
     <item>Άσπρο φόντο</item>
   </string-array>
+    <string-array name="edit_event_dislike">
+        <item>Δεν υπάρχει ο τύπος συμβάντος που θέλω να κάνω</item>
+        <item>Περισσότερες ρυθμίσεις</item>
+        <item>Ορισμένες ρυθμίσεις δεν μπορούν να καθοριστούν</item>
+        <item>Απλά κοιτάξτε γύρω</item>
+        <item>"Μη σας πω"</item>
+    </string-array>
 </resources>

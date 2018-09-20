@@ -100,4 +100,8 @@
     <item quantity="other">%d εργάσιμες μέρες</item>
     <item quantity="one">%d εργάσιμη μέρα</item>
   </plurals>
+	 <plurals name="event_reminders_to_max">
+        <item quantity="other">Μπορεί να οριστούν %d υπενθυμίσεις</item>
+        <item quantity="one">Μπορεί να οριστεί %d υπενθύμιση</item>
+    </plurals>
 </resources>

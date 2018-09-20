@@ -367,5 +367,5 @@
   <string name="date_interval_description">Μάθετε πόσες ημέρες υπάρχουν μεταξύ 2 ημερομηνιών</string>
   <string name="date_interval_start">Απο</string>
   <string name="date_interval_end">Εως</string>
-  
-</resources>
+  <string name="edit_event_dislike_title">Γιατί ακυρώσατε;</string>
+ </resources>

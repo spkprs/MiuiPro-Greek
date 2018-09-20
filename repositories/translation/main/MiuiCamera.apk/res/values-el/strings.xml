@@ -599,7 +599,7 @@
   <string name="eye_light_rainbow">Φώς Ουράνιου Τόξου</string>
   <string name="eye_light_star">Φώς Αστεριού</string>
   <string name="eye_light_window">Φως παραθύρου</string>
-  <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει όταν ο χρονομετρητής φτάσει στη λευκή κουκίδα</string>
+  <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει το τελευταίο τέταρτο της εγγραφής</string>
   <string name="hint_eye_light">Το Φώς ματιών θα είναι καλύτερο όταν το φλας είναι αναμμένο</string>
   <string name="makeup_reset_toast">Αφαιρέθηκαν τα εφέ μακιγιάζ</string>
   <string name="module_name_new_slow_motion">Αργή κίνηση</string>
