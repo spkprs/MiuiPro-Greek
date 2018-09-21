@@ -149,11 +149,11 @@
   <string name="callrecordview_menu_show_stranger">Κλήσεις από άγνωστους αριθμούς</string>
   <string name="callrecordview_menu_show_title">Προβολή μητρώου κλήσεων</string>
   <string name="callShortcutActivityTitle">Επιλέξτε έναν αριθμό για να καλέσετε</string>
-  <string name="cancel_confirmation_dialog_message">Απορρίψετε τις αλλαγές σας;</string>
+  <string name="cancel_confirmation_dialog_message">Απόρριψη των αλλαγών σας;</string>
   <string name="cancel_confirmation_dialog_title">Ακύρωση</string>
   <string name="cancel_export_confirmation_message">Ακύρωση εξαγωγής %s;</string>
   <string name="cancel_import_confirmation_message">Ακύρωση εισαγωγής %s;</string>
-  <string name="cancel_import_dialog_message">Ακυρώστε την εισαγωγή επαφών;</string>
+  <string name="cancel_import_dialog_message">Ακυρώνετε την εισαγωγή επαφών;</string>
   <string name="cancel_import_dialog_title">Ακύρωση</string>
   <string name="cancel_vcard_import_or_export_failed">Δεν ήταν δυνατή η ακύρωση εισαγωγής/εξαγωγής vCard</string>
   <string name="chat">Συζήτηση</string>

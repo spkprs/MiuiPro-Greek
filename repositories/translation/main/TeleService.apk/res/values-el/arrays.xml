@@ -51,10 +51,10 @@
         <item>Τριπλή λειτουργία</item>
     </string-array>
     <string-array name="call_backlight_entries">
-        <item>Μόνο εισερχόμενης κλήσης</item>
-        <item>Μετά την απάντηση κλήσης</item>
+        <item>Μόνο σε εισερχόμενη κλήση</item>
+        <item>Μετά την απάντηση στην κλήση</item>
         <item>Πάντα με τις εισερχόμενες</item>
-        <item>Πάντα με εξερχόμενες</item>
+        <item>Πάντα με τις εξερχόμενες</item>
     </string-array>
     <string-array name="call_entries">
         <item>Καμιά</item>

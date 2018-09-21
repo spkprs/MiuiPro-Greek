@@ -710,7 +710,7 @@
   <string name="operation_in_process">Επεξεργασία…</string>
   <string name="operation_move_to_other_albums">Μετακίνηση σε άλλα άλμπουμ</string>
   <string name="operation_not_show_in_photos_tab">Να μην εμφανίζεται στην καρτέλα Φωτογραφίες</string>
-  <string name="operation_projection">Προβολή</string>
+  <string name="operation_projection">Προβολή μέσω...</string>
   <string name="operation_remove_face">Κατάργηση</string>
   <string name="operation_remove_from_face_album">Κατάργηση από το άλμπουμ</string>
   <string name="operation_remove_from_other_albums">Μετακίνηση από άλλα άλμπουμ</string>
@@ -753,7 +753,7 @@
   <string name="photo_editor_crop_and_rotate">Κόψτε</string>
   <string name="photo_editor_crop_auto">Αυτόματα</string>
   <string name="photo_editor_crop_reset">Επαναφορά</string>
-  <string name="photo_editor_doodle">Μουτζούρα</string>
+  <string name="photo_editor_doodle">Γράφημα</string>
   <string name="photo_editor_filter">Φίλτρο</string>
   <string name="photo_editor_label">Επεξεργασία</string>
   <string name="photo_editor_long_crop">Κόψτε</string>
@@ -878,10 +878,10 @@
   <string name="privacy_permission_request_title">Απαιτούμενα δικαιώματα</string>
   <string name="projection_cancel">Ακύρωση</string>
   <string name="projection_checkbox_text">Να θυμάται αυτή την οθόνη προβολής</string>
-  <string name="projection_device_connection_failed">Ασύνατη η σύνδεση του προβολέα</string>
+  <string name="projection_device_connection_failed">Αδύνατη η σύνδεση του προβολέα</string>
   <string name="projection_local_mobile">Αυτό το τηλέφωνο</string>
   <string name="projection_multi_title">Λίστα συσκευών</string>
-  <string name="projection_single_title">Προβολή στο %s</string>
+  <string name="projection_single_title">Προβολή σε %s</string>
   <string name="projection_slide_exit">Έξοδος παρουσίασης διαφανειών</string>
   <string name="projection_slide_fail_cause_loading">Επανέναρξη παρουσίασης διαφανειών μετά τη φόρτωση της εικόνας</string>
   <string name="projection_slide_playing">Η παρουσίαση διαφανειών παίζει στο %s</string>

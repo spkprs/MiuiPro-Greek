@@ -37,8 +37,8 @@
     <item>Κλασικό</item>
   </string-array>
   <string-array name="transformation_entries">
-    <item>Κλασική ολίσθηση (χωρίς υπέρβαση)</item>
-    <item>Σταδιακό σβήσιμο</item>
+    <item>Κανονική</item>
+    <item>Εξασθένιση</item>
     <item>Κατρακύλισμα</item>
     <item>Σελίδα</item>
     <item>Αλληλουχία</item>

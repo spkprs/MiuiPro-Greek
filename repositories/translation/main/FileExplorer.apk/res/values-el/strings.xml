@@ -466,7 +466,7 @@
      <string name="phone_storage_image_title">Εικόνες: </string>
      <string name="phone_storage_info_str">%1$s από %2$s διαθέσιμα</string>
      <string name="phone_storage_other_title">Άλλα: </string>
-     <string name="phone_storage_size_tip">Το ποσό του διαθέσιμου χώρου που εμφανίζεται εδώ, μπορεί να διαφέρει από αυτό που αναφέρεται σε άλλες εφαρμογές.</string>
+     <string name="phone_storage_size_tip">Το μέγεθος του διαθέσιμου χώρου που εμφανίζεται εδώ, μπορεί να διαφέρει σε σύγκριση απο άλλες εφαρμογές.</string>
      <string name="phone_storage_video_title">Βίντεο: </string>
      <string name="phone_storage_zip_title">Αρχεία: </string>
      <string name="phone_valid_code_tip">Ο κωδικός έχει εισαχθεί πάρα πολλές φορές. Προσπαθήστε να πάρετε έναν νέο</string>
