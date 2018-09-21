@@ -263,7 +263,7 @@
   <string name="connect_disconnect_vibrate_none">Χωρίς</string>
   <string name="connect_disconnect_vibrate_normal">Κανονική</string>
   <string name="connect_disconnect_vibrate_summary">Δόνηση όταν το πρόσωπο που καλείτε απαντά στην κλήση σας</string>
-  <string name="connect_disconnect_vibrate_title">Δόνηση όταν συνδέθει</string>
+  <string name="connect_disconnect_vibrate_title">Δόνηση όταν συνδεθεί</string>
   <string name="connect_disconnect_vibrate_weak">Σύντομη</string>
   <string name="connect_later">Δεν είναι δυνατή η σύνδεση σε αυτό το δίκτυο τώρα. Δοκιμάστε ξανά αργότερα.</string>
   <string name="connection_service_default_label">Ενσωματωμένη υπηρεσία σύνδεσης</string>
