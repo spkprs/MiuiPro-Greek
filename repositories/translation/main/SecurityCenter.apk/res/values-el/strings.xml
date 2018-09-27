@@ -2394,4 +2394,6 @@
   <string name="first_aid_result_summary_not_finished">"Η Σάρωση δεν ολοκληρώθηκε. Ορισμένοι κίνδυνοι ενδέχεται να μην έχουν εντοπιστεί."</string>
   <string name="card_main_deepclean_whatsapp_title">WhatsApp Καθαριστής</string>
   <string name="card_main_hwtest_title">Δοκιμή υλικού</string>
+  <string name="midrop_post_notification_contentText">Δοκιμάστε το Mi drop, με ταχύτητα μεταφοράς μέχρι 50 M/δ.</string>
+  <string name="midrop_post_notification_contentTitle">Κοινή χρήση?</string>
 </resources>

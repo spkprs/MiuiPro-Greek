@@ -513,7 +513,7 @@
   <string name="dock_forced_resizable">Αυτή η εφαρμογή μπορεί να μην λειτουργεί σε Διαιρούμενη οθόνη</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Η Διαιρούμενη οθόνη δεν υποστηρίζεται στην οθόνη κλειδώματος.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Αυτή η εφαρμ. δεν υποστηρίζεται σε Διαιρούμενη οθόνη</string>
-  <string name="drag_to_add_tiles">Σύρετε για να προσθέσετε πλακίδια</string>
+  <string name="drag_to_add_tiles">Αγγίξτε παρατεταμένα για προσθήκη ή αναδιάταξη στοιχείων</string>
   <string name="drag_to_remove_tiles">Σύρετε εδώ για να το αφαιρέσετε</string>
   <string name="drive_mode_tip">Είστε σε λειτουργία Αυτοκινήτου</string>
   <string name="drive_mode_tip_idle">Πατήστε για έξοδο από τη λειτουργία Car</string>
@@ -1234,7 +1234,7 @@
   <string name="recents_accessibility_split_screen_top">Διαιρέστε την οθόνη προς τα επάνω</string>
   <string name="recents_app_info_button_label">Πληροφορίες εφαρμογής</string>
   <string name="recents_caption_resize">Επιλέξτε νέα διάταξη εργασίας</string>
-  <string name="recents_drag_hint_message">Σύρετε στοιχεία εδώ</string>
+  <string name="recents_drag_hint_message">Αγγίξτε παρατεταμένα μια εφαρμογή και, σύρετέ την εδώ.</string>
   <string name="recents_empty_message">Δεν υπάρχουν πρόσφατα στοιχεία</string>
   <string name="recents_empty_message_dismissed_all">Καταργήσατε όλα τα στοιχεία</string>
   <string name="recents_empty_message_multi_window">Ανοίξτε τις εφαρμογές από την Αρχική οθόνη</string>
@@ -1670,4 +1670,5 @@
   <string name="switch_system_user">Άνοιγμα Πρώτου Χώρου</string>
   <string name="miui_screen_rotation_freeze_message">Ανενεργή Αυτ. Περιστροφή.</string>
   <string name="face_unlock_sc_status">Σύρετε την οθόνη πρός τα κάτω για άνοιγμα της Κάμερας</string>
+	<string name="quick_settings_toast_drag_to_enable_custom_tile">Για να προσθέσετε ένα στοιχείο, πατήστε το παρατεταμένα και, σύρετέ το στο επάνω μέρος του πίνακα.</string>
 </resources>

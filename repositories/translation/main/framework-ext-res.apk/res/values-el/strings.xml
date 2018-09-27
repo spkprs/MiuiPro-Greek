@@ -184,4 +184,5 @@
   <string name="voice_input_error_other">Παρουσιάστηκε σφάλμα. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
   <string name="talk_back_water_mark_string1">TalkBack είναι ενεργό</string>
   <string name="talk_back_water_mark_string2">Κρατήστε πατημένο \"Volume+\" και \"Volume-\" για 3 δευτ για απενεργοποίηση</string>
+	<string name="security_permission_network_failed_text">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
 </resources>

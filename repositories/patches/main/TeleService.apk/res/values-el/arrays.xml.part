@@ -8,8 +8,8 @@
   </string-array>
     <string-array name="call_entries">
         <item>Καμιά</item>
-        <item>Άνοιγμα Πληκτρολογίου</item>
-        <item>Έξοδος/Επιφάνεια</item>
+        <item>Πληκτρολόγιο</item>
+        <item>Έξοδος/Αρχική</item>
         <item>Έξοδος/Κλείδωμα</item>
     </string-array>
   <string-array name="call_home_entries">

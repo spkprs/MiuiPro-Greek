@@ -2362,7 +2362,7 @@
   <string name="lockpassword_choose_your_pattern_header">Επιλέξτε το μοτίβο σας</string>
   <string name="lockpassword_choose_your_pin_header">Επιλέξτε το PIN σας</string>
   <string name="lockpassword_choose_your_pin_header_second_space">Ορίστε PIN \n για το Δεύτερο προφίλ</string>
-  <string name="lockpassword_choose_your_pin_title">Εισάγετε 4-16 ψηφία</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">Εισάγετε %d-%d ψηφία</string>
   <string name="lockpassword_confirm_for_second_user">Επιβεβαίωση κωδικού Δεύτερου προφίλ</string>
   <string name="lockpassword_confirm_passwords_dont_match">Οι κωδικοί δεν ταιριάζουν</string>
   <string name="lockpassword_confirm_pins_dont_match">Τα PIN δεν ταιριάζουν</string>
@@ -4716,7 +4716,7 @@
   <string name="unlock_set_unlock_password_title">Κωδικός</string>
   <string name="unlock_set_unlock_pattern_summary">Σχεδιάστε ένα απλό μοτίβο με το δάκτυλό σας για να ξεκλειδώσετε τη συσκευή</string>
   <string name="unlock_set_unlock_pattern_title">Μοτίβο</string>
-  <string name="unlock_set_unlock_pin_summary">Εισάγετε 4~16 αριθμούς για να ξεκλειδώσετε τη συσκευή</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">Εισάγετε %d-%d αριθμούς για να ξεκλειδώσετε τη συσκευή</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">"Παρακαλούμε ενεργοποιήστε ενα κωδικό οθόνης "</string>
   <string name="unlock_setup_wizard_fingerprint_details">Από τη στιγμή που ορίσετε ένα κλείδωμα οθόνης, μπορείτε επίσης να ορίσετε το δακτυλικό σας αποτύπωμα στις Ρυθμίσεις &gt; Ασφάλεια.</string>
@@ -5768,5 +5768,11 @@
 Για να διασφαλίσετε την κανονική χρήση της λειτουργίας βοήθειας έκτακτης ανάγκης SOS, μπορεί να χρειαστεί να αποκτήσει στην τοποθεσία σας, να χρησιμοποιήσετε το δίκτυο κινητής τηλεφωνίας και να διαβάσετε το βιβλίο διευθύνσεών σας, επιβεβαιώνετε;"</string>
   <string name="sos_privacy_dialog_title">Οροι και Προϋποθέσεις</string>
   <string name="talkback_watermark_enable">Υδατογράφημα TalkBack</string>
+	<string name="fingerprint_others_title">Άλλα</string>
+	<string name="gxzw_anim_light">Νέον</string>
+	<string name="gxzw_anim_metal">Μέταλο</string>
+	<string name="gxzw_anim_pulse">Παλμός</string>
+	<string name="gxzw_anim_rhythm">Ρυθμός</string>
+	<string name="gxzw_anim_title">Κίνηση δακτυλικού αποτυπώματος</string>
 </resources>
 

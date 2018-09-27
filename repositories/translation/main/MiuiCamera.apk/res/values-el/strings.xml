@@ -599,7 +599,7 @@
   <string name="eye_light_comic">Κωμικό φως</string>
   <string name="eye_light_crescent">Φώς Ημισελήνου</string>
   <string name="eye_light_nature">Φώς της φύσης</string>
-  <string name="eye_light_off">Χωρίς</string>
+  <string name="eye_light_off"/>
   <string name="eye_light_rainbow">Φώς Ουράνιου Τόξου</string>
   <string name="eye_light_star">Φώς Αστεριού</string>
   <string name="eye_light_window">Φως παραθύρου</string>

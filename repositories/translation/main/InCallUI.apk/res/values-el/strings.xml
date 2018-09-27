@@ -251,5 +251,6 @@
   <string name="crbt_second_hold_prompt_conference">Κλήση συνδιάσκεψης σε αναμονή…</string>
   <string name="crbt_second_hold_prompt_no_name">Προηγούμενη κλήση σε αναμονή…</string>  
   <string name="prompt_no_volte_when_failed">"Η υπηρεσία VoLTE δεν είναι διαθέσιμη."</string>
- <string name="description_message_list_title">Λίστα γρήγορων απαντήσεων</string> 
+  <string name="description_message_list_title">Λίστα γρήγορων απαντήσεων</string> 
+  <string name="volume_boost_text">Ολοκληρώθηκε η ενίσχυση έντασης</string>
 </resources>
