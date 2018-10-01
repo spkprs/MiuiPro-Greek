@@ -139,11 +139,11 @@
   <string name="ts_vibration_title">Διάρκεια δόνησης</string>
   <string name="vibrate_on">Δόνηση κατά το ξεκλείδωμα</string>
   <string name="volbtn_timeout_summary">Κάθε %s ms</string>
-  <string name="volbtn_timeout_title">Χρονοκαθυστερηση</string>
+  <string name="volbtn_timeout_title">Χρονοκαθυστέρηση</string>
   <string name="volbtn_title">Μουσική</string>
   <string name="volbtn_toggle_title">Διαχείριση μουσικής</string>
-  <string name="volbtn_vol_down_title">Μείωση</string>
-  <string name="volbtn_vol_up_title">Αύξηση</string>
+  <string name="volbtn_vol_down_title">Μείωση έντασης</string>
+  <string name="volbtn_vol_up_title">Αύξηση έντασης</string>
   <string name="volume_full_title">Επέκταση πίνακα</string>
   <string name="volume_one_title">Ενιαίος πίνακας</string>
   <string name="volume_panel_summary">Διάρκεια: %s δευτ.</string>
