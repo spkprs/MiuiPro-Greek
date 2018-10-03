@@ -94,13 +94,14 @@
   <string name="accessibility_sync_enabled">Ο συγχρονισμός ενεργοποιήθηκε</string>
   <string name="accessibility_sync_error">Σφάλμα συγχρονισμού</string>
   <string name="accessibility_sync_in_progress">Συγχρονισμός τώρα</string>
-    <string name="accessibility_summary_source">Παρέχεται απο %s</string>
+  <string name="accessibility_summary_source">Παρέχεται απο %s</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Κείμενο υψηλής αντίθεσης</string>
   <string name="accessibility_toggle_large_pointer_icon_title">Μεγάλος δείκτης ποντικιού</string>
   <string name="accessibility_toggle_master_mono_summary">Συνδιασμός καναλιών κατά την αναπαραγωγή ήχου</string>
   <string name="accessibility_toggle_master_mono_title">Μονοφωνικός ήχος</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Ενημέρωση της μεγέθυνσης οθόνης στις μεταβάσεις των εφαρμογών</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Αυτόματη ενημέρωση μεγέθυνσης οθόνης</string>
+  <string name="accessibility_toggle_speak_password_preference_title">Εκφώνηση κωδικών πρόσβασης</string>
   <string name="accessibility_vpn_settings_info">Διαμόρφωση VPN</string>
   <string name="accessibility_wifi_off">Wi-Fi ανενεργό.</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi μια γραμμή.</string>

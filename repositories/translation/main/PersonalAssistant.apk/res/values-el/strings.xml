@@ -315,7 +315,7 @@
     <string name="express_state_reject">Απορρίφθηκε</string>
     <string name="express_state_shipped">Αποστολή σύντομα</string>
     <string name="express_state_sign">Υπογεγραμμένο</string>
-    <string name="express_state_transport">Καθ' οδόν</string>
+    <string name="express_state_transport">Καθ οδόν</string>
     <string name="express_state_unknown">Χωρίς στοιχεία ακόμη</string>
     <string name="express_update_provider_app_description">Ενημερώστε τη %s για χρήση αυτής της δυνατότητας.</string>
     <string name="express_update_provider_app_ok">Ενημέρωση</string>
