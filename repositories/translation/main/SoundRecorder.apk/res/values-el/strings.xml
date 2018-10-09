@@ -51,8 +51,8 @@
   <string name="mark_point_list_title">Ετικέτες</string>
   <string name="menu">Μενού</string>
   <string name="message_file_size_error">Η εγγραφή έχει φτάσει το μέγιστο επιτρεπόμενο μήκος που υποστηρίζεται από %s</string>
-  <string name="network_tip_dialog_cancel">Άκυρο</string>
-  <string name="network_tip_dialog_content">Η μηχανή αναγνώρισης φωνής χρειάζεται σύνδεση στο ίντερνετ για να λειτουργήσει κανονικά..</string>
+  <string name="network_tip_dialog_cancel">Δεν συμφωνώ</string>
+  <string name="network_tip_dialog_content">Η Ηχογράφηση πρέπει να συνδεθεί με το διαδίκτυο για να λειτουργήσει κανονικά. Συμφωνείτε?</string>
   <string name="network_tip_dialog_ok">Επίτρεψε</string>
   <string name="network_tip_dialog_title">Απαιτείται σύνδεση στο Internet</string>
   <string name="new_record_name">Νέα εγγραφή</string>

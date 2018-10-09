@@ -35,11 +35,11 @@
     <string name="cloud_back_up_share_activity_discription">Αποκτήστε περισσότερο χώρο αποθήκευσης, καθημερινά αντίγραφα ασφαλείας, και πολλά άλλα.</string>
     <string name="cloud_back_up_share_activity_confirm">Αναβάθμιση</string>
     <string name="cloud_back_up_detail_discription">"Αυτά τα στοιχεία θα αντιγραφούν στο Mi Cloud όταν η συσκευή σας είναι συνδεδεμένη σε Wi‑Fi: 
-*\u0009\u0009\u0009\u0009Εφαρμογές, Αρχική οθόνη, Ταπετσαρίες 
-*\u0009\u0009\u0009\u0009Ξυπνητήρια, ρολόι και ρυθμίσεις ώρας 
-*\u0009\u0009\u0009\u0009Ρυθμίσεις ειδοποιήσεων 
-*\u0009\u0009\u0009\u0009Ρυθμίσεις συστήματος MIUI 
-Σημείωση: Τα δεδομένα από εφαρμογές που έχετε εγκαταστήσει δεν θα αντιγραφούν στο Mi Cloud."</string>
+*  Εφαρμογές, Αρχική οθόνη, Ταπετσαρίες 
+*  Ξυπνητήρια, ρολόι και ρυθμίσεις ώρας 
+*  Ρυθμίσεις ειδοποιήσεων 
+*  Ρυθμίσεις συστήματος και MIUI 
+Σημείωση: Τα δεδομένα εφαρμογών που έχετε εγκαταστήσει δεν θα αντιγραφούν στο Mi Cloud."</string>
     <string name="cloud_app_no_data">Δεν υπάρχουν αντίγραφα ασφαλείας</string>
     <string name="cloud_app_restore_error">Αδυναμία επαναφοράς</string>
     <string name="cloud_app_restore_success">Οι εφαρμογές αποκαταστάθηκαν</string>
@@ -180,4 +180,10 @@
   <string name="error_retry_later">Απέτυχε, προσπαθήστε αργότερα παρακαλώ.</string>
   <string name="home_hint_other_launcher">Άλλη Αρχική οθόνη</string>
   <string name="unsupported_home">Ενημερώστε στο τελευταίο OS.</string>
+  <string name="load_backup_failed">Σφάλμα φόρτωσης Αντιγράφων</string>
+  <string name="loading_user_backup">Φόρτωση Αντιγράφων χρήστη…</string>
+  <string name="main_space">Κύριος Χώρος</string>
+  <string name="try_continue">Αγγίξτε για συνέχεια</string>
+  <string name="second_space">Δεύτερος Χώρος</string>
+  <string name="self_device">"Αυτό το τηλέφωνο"</string>
 </resources>

@@ -8,4 +8,8 @@
         <item quantity="other">%d αρχεία σε αναμονή</item>
         <item quantity="one">1 αρχείο σε αναμονή</item>
     </plurals>
+     <plurals name="notification_download_failed_more">
+        <item quantity="other">"Αδύνατη η λήψη %1$d στοιχείων"</item>
+        <item quantity="one">"Αδύνατη η λήψη %1$d στοιχείου"</item>
+    </plurals>
 </resources>

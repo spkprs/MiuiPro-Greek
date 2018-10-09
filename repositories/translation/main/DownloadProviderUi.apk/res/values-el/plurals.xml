@@ -12,4 +12,12 @@
         <item quantity="other">Βρέθηκαν %d αποτελέσματα</item>
         <item quantity="one">Βρέθηκε 1 αποτέλεσμα</item>
      </plurals>
+     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Διαγραφή %d λήψεων?</item>
+        <item quantity="one">Διαγραφή %d λήψης?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Διαγράφηκαν %s λήψεις με επιτυχία</item>
+        <item quantity="one">Διαγράφηκε %s λήψη με επιτυχία</item>
+    </plurals>
 </resources>

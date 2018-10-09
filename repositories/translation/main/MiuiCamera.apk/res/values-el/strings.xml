@@ -603,5 +603,7 @@
   <string name="module_name_new_slow_motion">Αργή κίνηση</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Μπορείτε να εγγράψετε βίντεο μόνο σε 720P με 240FPS</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Δοκιμάστε τη λειτουργία Πορτρέτο
-Κρατάει το θέμα ευκρινές ενώ θολώνει το φόντο."</string>
+Παραμένει το θέμα ευκρινές ενώ θολώνει το φόντο."</string>
+  <string name="close_back_flash_toast">"Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση φλας τώρα."</string>
+  <string name="close_front_flash_toast">"Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση φλας τώρα."</string>
 </resources>

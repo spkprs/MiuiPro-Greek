@@ -352,7 +352,7 @@
   <string name="passport_skip_login">Παράλειψη σύνδεσης</string>
   <string name="passport_skip_register">Παράλειψη Εγγραφής</string>
   <string name="passport_skip_setup_account_msg">Μπορείτε να ρυθμίσετε τον λογαριασμό σας αργότερα από τις Ρυθμίσεις.</string>
-  <string name="passport_skip_setup_account_title">Παράλειψη ρύθμισης</string>
+  <string name="passport_skip_setup_account_title">"Χωρίς χρήση του Mi Cloud?"</string>
   <string name="passport_sms_send_success">Απεσταλμένα</string>
   <string name="passport_sms_verification_code_login">Κωδικός επαλήθευσης σύνδεσης SMS</string>
   <string name="passport_sync_account_data">Συγχρονισμός πληροφοριών λογαριασμού…</string>

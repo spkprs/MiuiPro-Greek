@@ -1671,4 +1671,10 @@
   <string name="miui_screen_rotation_freeze_message">Ανενεργή Αυτ. Περιστροφή.</string>
   <string name="face_unlock_sc_status">Σύρετε την οθόνη πρός τα κάτω για άνοιγμα της Κάμερας</string>
 	<string name="quick_settings_toast_drag_to_enable_custom_tile">Για να προσθέσετε ένα στοιχείο, πατήστε το παρατεταμένα και, σύρετέ το στο επάνω μέρος του πίνακα.</string>
+  <string name="lock_screen_carrier_airplane_mode_on">Λειτουργία Πτήσης</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Μόνο Επείγουσες Κλήσεις</string>
+  <string name="lock_screen_no_sim_card_no_service">Καμμιά υπηρεσία</string>
+  <string name="torch_high_temperature_warning">"Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση του Φακού τώρα."</string>
+  <string name="status_bar_network_name_separator">-</string>
+  <string name="sos_status_bar_summary">Αγγίξτε για Έξοδο</string>
 </resources>

@@ -2548,7 +2548,7 @@
   <string name="mem_use_zram_type">ZRam swap</string>
   <string name="memory">Μνήμη</string>
   <string name="memory_apps_usage">Εφαρμογές (δεδομένα και πολυμέσα)</string>
-  <string name="memory_available">Διαθέσιμο</string>
+  <string name="memory_available">Διαθέσιμα</string>
   <string name="memory_available_read_only">Διαθέσιμο (μόνο για ανάγνωση)</string>
   <string name="memory_avg_desc">Μέση χρήση %1$s</string>
   <string name="memory_avg_use">Μέση χρήση</string>
@@ -2566,8 +2566,8 @@
   <string name="memory_media_misc_usage">Άλλα αρχεία</string>
   <string name="memory_media_usage">Πολυμέσα</string>
   <string name="memory_music_usage">Ήχοι (μουσική, ήχοι κλήσεις, podcasts κλπ)</string>
-  <string name="memory_performance">Επίδοση</string>
-  <string name="memory_rightvalue">Διαθέσιμη: %s</string>
+  <string name="memory_performance">Επιδόσεις</string>
+  <string name="memory_rightvalue">Διαθέσιμα: %s</string>
   <string name="memory_settings_title">Μνήμη</string>
   <string name="memory_size">Συνολικός χώρος</string>
   <string name="memory_summary">Διαθέσιμη %1$s απο %2$s μνήμης σε χρήση</string>
@@ -5767,7 +5767,7 @@
   <string name="sos_privacy_dialog_button_cancel">Ακύρωση</string>
   <string name="sos_privacy_dialog_button_ok">Συνέχεια</string>
   <string name="sos_privacy_dialog_message">"Ενεργοποιήστε τη λειτουργία βοήθειας SOS, επιβεβαιώστε και διαβάστε το %s. 
-Για να διασφαλίσετε την κανονική χρήση της λειτουργίας βοήθειας έκτακτης ανάγκης SOS, μπορεί να χρειαστεί να αποκτήσει στην τοποθεσία σας, να χρησιμοποιήσετε το δίκτυο κινητής τηλεφωνίας και να διαβάσετε το βιβλίο διευθύνσεών σας, επιβεβαιώνετε;"</string>
+Για να διασφαλίσετε την κανονική χρήση της λειτουργίας βοήθειας έκτακτης ανάγκης SOS, μπορεί να χρειαστεί πρόσβαση στην τοποθεσία σας, να χρησιμοποιήσει δίκτυο κινητής τηλεφωνίας και να διαβάσει το βιβλίο διευθύνσεών σας, το επιβεβαιώνετε;"</string>
   <string name="sos_privacy_dialog_title">Οροι και Προϋποθέσεις</string>
   <string name="talkback_watermark_enable">Υδατογράφημα TalkBack</string>
 	<string name="fingerprint_others_title">Άλλα</string>
@@ -5776,5 +5776,18 @@
 	<string name="gxzw_anim_pulse">Παλμός</string>
 	<string name="gxzw_anim_rhythm">Ρυθμός</string>
 	<string name="gxzw_anim_title">Κίνηση δακτυλικού αποτυπώματος</string>
+  <string name="ai_settings_double_click_category">Διπλό πάτημα του πλήκτρου AI</string>
+  <string name="ai_settings_double_click_title">Διπλό πάτημα</string>
+  <string name="ai_settings_long_press_des">Πατήστε παρατεταμένα το πλήκτρο AI και μιλήστε στο βοηθό φωνής Google, μπορείτε να λάβετε την απάντηση.</string>
+  <string name="ai_settings_single_click_category">Πατήστε το πλήκτρο AI</string>
+  <string name="ai_settings_single_click_title">Πατήστε</string>
+  <string name="long_press_AI_button">Κρατήστε πατημένο το πλήκτρο AI</string>
+  <string name="gxzw_dialog_message">"Για να χρησιμοποιηθεί κανονικά ο αισθητήρας δακτυλικών αποτυπωμάτων οθόνης, μην χρησιμοποιείτε προστατευτικά οθόνης. Αν νομίζετε ότι αυτό να είναι απαραίτητο, επιλέξτε ανάμεσα σε εξουσιοδοτημένες συμβατές επιλογές."</string>
+  <string name="gxzw_dialog_not_show_again">"Μην επανεμφανιστεί"</string>
+  <string name="gxzw_dialog_ok">Τέλος</string>
+  <string name="gxzw_dialog_title">Σχετικά με τον αισθητ. δακτ. αποτυπωμ. στην οθόνη</string>
+  <string name="dangerous_option">Επιλογές προγραμματιστή Υψηλού Κινδύνου</string>
+  <string name="dangerous_option_hint">%1$s είναι ενεργό. Πατήστε για αλλαγή ρυθμίσεων.</string>
+  <string name="dangerous_option_hint_title">Ενεργό το χαρακτηριστικό Υψηλού Κινδύνου</string> 
 </resources>
 
