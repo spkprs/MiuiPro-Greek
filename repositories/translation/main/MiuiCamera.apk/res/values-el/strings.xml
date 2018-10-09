@@ -231,11 +231,10 @@
   <string name="pref_camcorder_settings">Βίντεο</string>
   <string name="pref_camcorder_settings_category">Ρυθμίσεις κάμερας</string>
   <string name="pref_camera_ai_scene_title">Κάμερα AI</string>
-  <string name="pref_camera_antibanding_60">60hz</string>
-  <string name="pref_camera_antibanding_default">50hz</string>
+  <string name="pref_camera_antibanding_default_0">Ανενεργό</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
-  <string name="pref_camera_antibanding_entry_3">Auto</string>
+  <string name="pref_camera_antibanding_entry_3">Αυτόματα</string>
   <string name="pref_camera_antibanding_title">Αντιστάθμιση</string>
   <string name="pref_camera_asd_night_title">Βελτιώνει αυτόματα τις φωτογραφίες χαμηλής φωτεινότητας</string>
   <string name="pref_camera_asd_popup_title">Ειδοποίηση όταν απαιτείται Φλάς</string>
