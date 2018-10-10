@@ -116,7 +116,7 @@
   <string name="call_forwarding_number_hint">Εισάγετε τον αριθμό που θα προωθείτε τις εισερχόμενες κλήσεις</string>
   <string name="call_forwarding_settings">Ρυθμίσεις προώθησης κλήσεων</string>
   <string name="call_forwarding_settings_with_label">Ρυθμίσεις προώθησης κλήσεων (%s)</string>
-  <string name="call_home_title">Πλήκτρο ενέργειας [HOME]</string>
+  <string name="call_home_title">Πλήκτρο [HOME]</string>
   <string name="call_record_add_numbers">Προσθήκη αριθμών</string>
   <string name="call_record_auto_always">Όλοι οι αριθμοί</string>
   <string name="call_record_auto_scenario_title">Εγγραφή κλήσεων από</string>

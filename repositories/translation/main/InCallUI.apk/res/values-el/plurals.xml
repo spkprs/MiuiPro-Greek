@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="call_recording_notification_complete">
-    <item quantity="other">%d κλήσεις καταγράφηκαν.</item>
-    <item quantity="one">1 κλήση καταγράφηκε.</item>
-  </plurals>
-  <plurals name="livetalk_left_minute">
-    <item quantity="other">%d λεπτά υπόλοιπο</item>
-    <item quantity="one">%d λεπτό υπόλοιπο</item>
-  </plurals>
+	  <plurals name="call_recording_notification_complete">
+		<item quantity="other">%d κλήσεις καταγράφηκαν.</item>
+		<item quantity="one">1 κλήση καταγράφηκε.</item>
+	  </plurals>
+	  <plurals name="livetalk_left_minute">
+		<item quantity="other">%d λεπτά απομένουν</item>
+		<item quantity="one">%d λεπτό απομένει</item>
+	  </plurals>
+	 <plurals name="duration_seconds">
+		<item quantity="other">%d δευτ.</item>
+		<item quantity="one">1 δευτ.</item>
+	</plurals>
+	<plurals name="duration_minutes">
+		<item quantity="other">%d λεπτά</item>
+		<item quantity="one">1 λεπτό</item>
+	</plurals>
+	<plurals name="duration_hours">
+		<item quantity="other">%d ώρες</item>
+		<item quantity="one">1 ώρα</item>
+	</plurals>
 </resources>

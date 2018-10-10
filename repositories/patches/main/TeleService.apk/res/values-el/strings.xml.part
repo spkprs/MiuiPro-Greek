@@ -13,7 +13,7 @@
   <string name="call_backlight_stop_time">Ώρα λήξης</string>
   <string name="call_backlight_stop_time_summary">%s:00</string>
   <string name="call_backlight_title">Μέγιστη φωτεινότητα</string>
-  <string name="call_home_title">Πλήκτρο ενέργειας [HOME]</string>
+  <string name="call_home_title">Πλήκτρο [HOME]</string>
   <string name="call_record_setrate">Ρυθμίσεις ποιότητας εγγραφής</string>
   <string name="default_image_pick">Επιλέξτε εικόνα από τη Συλλογή</string>
   <string name="end_call_title">Mετά την ολοκλήρωση της κλήσης</string>

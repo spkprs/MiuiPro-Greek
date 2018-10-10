@@ -40,7 +40,7 @@
   <string name="access_control_reset_by_account">Συνδεθείτε στον λογαριασμό Mi για να επαναφέρετε τον κωδικό πρόσβασης</string>
   <string name="access_point_names">Ονόματα σημείων πρόσβασης</string>
   <string name="accessibility_autoclick_delay_preference_title">Καθυστέρηση πριν κάνετε κλικ</string>
-  <string name="accessibility_autoclick_preference_title">Κάντε κλικ όταν ο δείκτης σταματήσει να κινείται</string>
+  <string name="accessibility_autoclick_preference_title">Κλικ όταν ο δείκτης σταματήσει</string>
   <string name="accessibility_captioning_title">Υπότιτλοι</string>
   <string name="accessibility_category_personal">Λογαριασμοί προσωπικού προφίλ</string>
   <string name="accessibility_category_work">Λογαριασμοί προφίλ εργασίας - %s</string>

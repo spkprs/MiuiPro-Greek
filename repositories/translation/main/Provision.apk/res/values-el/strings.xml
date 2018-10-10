@@ -108,6 +108,6 @@
   <string name="ai_button_single_press">Πατήστε</string>
   <string name="ai_button_single_press_desc">Ξεκινήστε το Mi AI</string>
   <string name="ai_button_title">Σχετικά με το κουμπί AI</string>
-  <string name="accessibility_summary_source">Παρέχεται από%s</string>
+  <string name="accessibility_summary_source">Παρέχεται από %s</string>
   <string name="credentials_title_verification">Επαλήθευση</string>
 </resources>
