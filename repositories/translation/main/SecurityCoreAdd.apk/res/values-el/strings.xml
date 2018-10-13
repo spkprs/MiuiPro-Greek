@@ -325,11 +325,11 @@
   <string name="skip">Παράλειψη</string>
   <string name="space_create_guide_desc_1">Αποθήκευση εφαρμογών και φωτογραφιών με ασφάλεια</string>
   <string name="space_create_guide_desc_2">Πλήρως έτοιμος για χρήση ξεχωριστός χώρος</string>
-  <string name="space_create_guide_desc_3">Ο δεύτερος χώρος δεν επηρεάζει άλλα στοιχεία στη συσκευή σας</string>
+  <string name="space_create_guide_desc_3">Ο Δεύτερος χώρος δεν επηρεάζει άλλα στοιχεία στη συσκευή σας</string>
   <string name="space_create_guide_switchmode_title">Εναλλαγή μεταξύ Χώρων</string>
   <string name="space_create_guide_title_1">Προστασία Απορρήτου</string>
   <string name="space_create_guide_title_2">Άμεση Δημιουργία</string>
-  <string name="space_create_guide_title_3">Απολύτως Ακίνδυνο</string>
+  <string name="space_create_guide_title_3">Απολύτως Ασφαλής</string>
   <string name="space_created_success">Δημιουργήθηκε ο Δεύτερος χώρος με επιτυχία</string>
   <string name="space_deleted">Αυτός ο χώρος διαγράφηκε</string>
   <string name="space_des_default">Απομονωμένος χώρος με κρυπτογραφημένα δεδομένα</string>

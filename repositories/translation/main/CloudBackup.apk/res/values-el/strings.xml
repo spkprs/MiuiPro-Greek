@@ -14,7 +14,7 @@
     <string name="cloud_app_restore_data">Προσωπικά δεδομένα και εφαρμογές που έχουν εγκατασταθεί προηγουμένως θα εμφανιστούν στη συσκευή σας αυτόματα</string>
     <string name="cloud_app_dont_restore">Ρύθμιση ως νέα συσκευή</string>
     <string name="cloud_app_restore_wifi_prompt">Για την επαναφορά από ένα αντίγραφο ασφαλείας Mi Cloud, πρέπει να συνδεθείτε σε ένα δίκτυο Wi‑Fi.</string>
-    <string name="cloud_backup_detail_state">Αντίγραφα Ασφαλείας απο το Mi Cloud</string>
+    <string name="cloud_backup_detail_state">Αντίγραφα Ασφαλείας στο Mi Cloud</string>
     <string name="cloud_backup_detail_title">Αρχική οθόνη, εφαρμογές και ρυθμίσεις.</string>	
     <string name="cloud_backup_detail_state_summary">Εφαρμογές, Αρχική οθόνη και ρυθμίσεις συστήματος</string>
     <string name="cloud_backup_detail_frequence">Χρονοδιάγραμμα αντιγράφων</string>

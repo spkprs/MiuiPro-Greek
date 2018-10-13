@@ -77,8 +77,8 @@
   <string name="scenario_policies_warmcontrol">Ελεγχος θερμοκρασίας</string>
   <string name="search_result_text">Δεν ήταν δυνατή η εύρεση εφαρμογών</string>
   <string name="show_system_app">Εμφάνιση εφαρμογών συστήματος</string>
-  <string name="sleep_config_enhance_description">Κάθε φορά που το MIUI εντοπίσει ότι κοιμάστε, θα κλείσει τις εφαρμογές στο παρασκήνιο, θα περιορίσει το NFC, το Bluetooth, το GPS, τα δεδομένα κινητής τηλεφωνίας και τη χρήση Wi-Fi και δεν θα ανάψει την οθόνη για ειδοποιήσεις.</string>
-  <string name="sleep_config_enhance_description_non_nfc">Όποτε το MIUI εντοπίσει ότι κοιμάστε, θα κλείσει τις εφαρμογές στο παρασκήνιο, θα περιορίσει το Bluetooth, το GPS, τα δεδομένα κινητής και τη χρήση Wi-Fi και δεν θα ανάψει την οθόνη για ειδοποιήσεις.</string>
+  <string name="sleep_config_enhance_description">Κάθε φορά που το MIUI εντοπίσει ότι κοιμάστε, θα κλείσει τις εφαρμογές στο παρασκήνιο, θα περιορίσει το NFC, το Bluetooth, το GPS, τα δεδομένα κινητής τηλεφωνίας και τη χρήση Wi-Fi και δεν θα ενεργοποιήσει την οθόνη για ειδοποιήσεις.</string>
+  <string name="sleep_config_enhance_description_non_nfc">Όποτε το MIUI εντοπίσει ότι κοιμάστε, θα κλείσει τις εφαρμογές στο παρασκήνιο, θα περιορίσει το Bluetooth, το GPS, τα δεδομένα κινητής και τη χρήση Wi-Fi και δεν θα ενεργοποιήσει την οθόνη για ειδοποιήσεις.</string>
   <string name="sleep_config_enhance_title">Κατάσταση αδράνειας</string>
   <string name="sleepmode_disclaimer_agree">Συμφωνώ</string>
   <string name="sleepmode_disclaimer_cancel">Ακύρωση</string>
