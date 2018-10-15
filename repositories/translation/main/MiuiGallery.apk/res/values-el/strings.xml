@@ -1285,4 +1285,12 @@
   <string name="yes">Ναι</string>
   <string name="yesterday">Χθές</string>
   <string name="you_are">Είσαι το μωρό</string>
+  <string name="collage_select_image_range">Το Κολάζ μπορεί να περιέχει 1-4 φωτογραφίες</string>
+  <string name="frame_not_support_image_ratio">"Αυτή η αναλογία διαστάσεων δεν υποστηρίζεται"</string>
+  <string name="operation_produce">Δημιουργικότητα</string>
+  <string name="photo_editor_crop_auto_tips">Αυτόματη περικοπή</string>
+  <string name="photo_editor_frame">Πλαίσιο</string>
+  <string name="photo_movie_select_image_range">Το Κλιπ μπορεί να περιέχει 3-6 φωτογραφίες</string>
+  <string name="select_image_operation">Προσθήκη φωτογραφιών</string>
+  <string name="unsupport_video">"%s δεν λειτουργεί με βίντεο"</string>
 </resources>

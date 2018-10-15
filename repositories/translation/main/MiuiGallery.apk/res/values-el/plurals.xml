@@ -260,4 +260,8 @@
         <item quantity="other">%d στοιχεία</item>
         <item quantity="one">%d στοιχείο</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Επιλέξτε έως %d εικόνες</item>
+        <item quantity="one">Επιλέξτε έως %d εικόνα</item>
+    </plurals>
 </resources>

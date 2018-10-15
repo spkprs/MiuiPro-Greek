@@ -211,7 +211,7 @@
     </plurals>
 	    <plurals name="select_all_exceed_plurals">
         <item quantity="other">"Επιλέξτε έως %1$d, αδύνατη η επιλογή όλων"</item>
-        <item quantity="one">"Επιλέξτε έως %1$d, αδύνατη η επιλογή όλωl"</item>
+        <item quantity="one">"Επιλέξτε έως %1$d, αδύνατη η επιλογή όλων"</item>
     </plurals>
     <plurals name="select_exceed_plurals">
         <item quantity="other">Επιλέξτε έως %1$d</item>

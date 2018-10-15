@@ -37,7 +37,7 @@
         <item quantity="one">Διαγραφή αυτής της αφύπνισης;</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Διαγραφή της επιλεγμένης ζώνης ώρας;</item>
+        <item quantity="other">Διαγραφή των επιλεγμένων ζωνών ώρας;</item>
         <item quantity="one">Διαγραφή αυτής της ζώνης ώρας;</item>
     </plurals>
 </resources>

@@ -5789,5 +5789,8 @@
   <string name="dangerous_option">Επιλογές προγραμματιστή Υψηλού Κινδύνου</string>
   <string name="dangerous_option_hint">%1$s είναι ενεργό. Πατήστε για αλλαγή ρυθμίσεων.</string>
   <string name="dangerous_option_hint_title">Ενεργό το χαρακτηριστικό Υψηλού Κινδύνου</string> 
+  <string name="camera_front">Εμπρός %s</string>
+  <string name="camera_rear">Πίσω %s</string>
+  <string name="device_camera">Κάμερα</string>
 </resources>
 
