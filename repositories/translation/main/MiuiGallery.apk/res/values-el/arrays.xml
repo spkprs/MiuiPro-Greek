@@ -134,4 +134,9 @@
     <item>Μητρικός παππούς</item>
     <item>Γιαγιά απο τη μεριά της μητέρας</item>
   </string-array>
+  <string-array name="menu_copy_or_move">
+        <item>Μετακίνηση</item>
+        <item>Αντιγραφή</item>
+        <item>@string/cancel</item>
+   </string-array>
 </resources>
