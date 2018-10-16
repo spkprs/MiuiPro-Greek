@@ -1156,10 +1156,14 @@
   <string name="individuation_cart_login_title">Θέλετε να δείτε περισσότερες συστάσεις;</string>
   <string name="pro_member">PRO Μέλος</string>
   <string name="renew_dialog_title">"Γίνε Pro
-Είσαι Χαρούμενος"</string>
+Γίνε Χαρούμενος"</string>
   <string name="search_menu_title">Αναζήτηση</string>
   <string name="sliding_pro_center">PRO Κέντρο</string>
   <string name="unlimited_downloads">Απεριόριστες λήψεις</string>
   <string name="unlimited_offline_songs">Απεριόρ. τραγ. εκτός σύνδεσης</string>
+  <string name="nowplaying_bar_switch_songs_by_sliding">Σύρετε για αλλαγή τραγουδιού</string>
+  <string name="toast_is_pro">"Είστε ήδη μέλος του PRO."</string>
+  <string name="toast_not_pro">Αυτή η λειτουργία είναι διαθέσιμη μόνο στα μέλη PRO.</string>
+  <string name="com.crashlytics.android.build_id">1058e55f-a71d-44db-93d1-5a03e004498e</string>  
 </resources>
 

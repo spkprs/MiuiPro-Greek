@@ -2396,4 +2396,6 @@
   <string name="card_main_hwtest_title">Δοκιμή υλικού</string>
   <string name="midrop_post_notification_contentText">Δοκιμάστε το Mi drop, με ταχύτητα μεταφοράς μέχρι 50 M/δ.</string>
   <string name="midrop_post_notification_contentTitle">Κοινή χρήση?</string>
+  <string name="summary_rcs_switch">Στείλτε SMS σε χρήστες της China Mobile χωρίς να χρεώνεστε</string>
+  <string name="title_rcs_switch">Ενεργοποίηση μηνυμάτων της China Mobile</string>   
 </resources>

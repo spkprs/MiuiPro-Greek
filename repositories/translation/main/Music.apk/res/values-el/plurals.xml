@@ -179,5 +179,13 @@
       <item quantity="other">Μπορείτε να λάβετε %1$d δωρεάν τραγούδια. Λήψη %2$s τώρα;</item>
       <item quantity="one">Μπορείτε να λάβετε %1$d δωρεάν τραγούδι. Λήψη %2$s τώρα;</item>
    </plurals>
+    <plurals name="check_in_day_label">
+        <item quantity="other">%1$d ημέρες</item>
+        <item quantity="one">%1$d ημέρα</item>
+    </plurals>
+    <plurals name="Ndownload_fee_alert_message">
+        <item quantity="other">"Κατόπιν αιτήματος του κατόχου των πνευματικών δικαιωμάτων, %d τα επιλεγμένα τραγούδια δεν μπορούν να μεταφορτωθούν δωρεάν. Αυτά τα τραγούδια προστέθηκαν στις λήψεις."</item>
+        <item quantity="one">"Κατόπιν αιτήματος του κατόχου των πνευματικών δικαιωμάτων, %d το επιλεγμένο τραγούδι δεν μπορεί να μεταφορτωθεί δωρεάν. Αυτό το τραγούδι προστέθηκε στις λήψεις."</item>
+    </plurals>
 </resources>
 

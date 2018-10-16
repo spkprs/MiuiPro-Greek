@@ -96,10 +96,10 @@
   <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
   <string name="search_widget">Αναζήτηση</string>
   <string name="send_secret_code">Αποστολή κωδικού</string>
-  <string name="setting_other">Άλλο</string>
+  <string name="setting_other">Άλλα</string>
     <string name="setting_privacy_policy">Πολιτική Απορρήτου</string>
   <string name="setting_version">Έκδοση εφαρμογής</string>
-  <string name="setting_version_title">Έκδοση της εφαρμογής</string>
+  <string name="setting_version_title">Έκδοση εφαρμογής</string>
   <string name="settings_description">Ονόματα εγκατεστημένων εφαρμογών</string>
   <string name="show_more">Δείτε περισσότερα</string>
   <string name="suggest_open_app_failed">Αδυναμία ανοίγματος εφαρμογής</string>
