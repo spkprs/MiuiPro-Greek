@@ -6,7 +6,7 @@
      <string name="altitude_uncalibrate_cancel">Ακύρωση</string>
      <string name="altitude_uncalibrate_msg">"Αδύνατη η βαθμονόμηση υψομέτρου με ακρίβεια χωρίς GPS ή σύνδεση δεδομένων κινητής."</string>
      <string name="altitude_uncalibrate_refresh">Δοκιμάστε ξανά</string>
-     <string name="altitude_uncalibrate_tip">"Αδυναμία βαθμονόμησης υψομέτρου"</string>
+     <string name="altitude_uncalibrate_tip">Αδιαβάθμητα δεδομένα</string>
      <string name="altitude_unit">μ</string>
      <string name="app_label">Πυξίδα</string>
      <string name="calibrate_failed">Αποτυχία βαθμονόμησης υψομέτρου</string>

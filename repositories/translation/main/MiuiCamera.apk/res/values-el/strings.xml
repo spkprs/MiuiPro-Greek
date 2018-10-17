@@ -608,4 +608,5 @@
   <string name="accessibility_camera_lighting_close_panel">Κλειστό μενού φωτισμού</string>
   <string name="accessibility_camera_lighting_open_panel">Ανοιχτό μενού φωτισμού</string>
   <string name="lighting_pattern_null">Κενό</string>
+  <string name="ultra_wide_mode">Υπέρ ευρεία γωνία</string>
 </resources>
