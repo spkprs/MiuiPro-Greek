@@ -526,7 +526,7 @@
   <string name="title_component">Προσαρμογή θέματος</string>
   <string name="title_my_audio_resource">Οι ήχοι κλήσης μου</string>
   <string name="title_my_miwallpaper_resource">Οι ζωντανές ταπετσαρίες μου</string>
-    <string name="title_my_miwallpaper_video_file_resource">Οι βιντεο-ταπετσαρίες μου</string>
+    <string name="title_my_miwallpaper_video_file_resource">Οι ταπετσαρίες ταινιών μου</string>
   <string name="title_my_wallpaper_resource">Οι ταπετσαρίες μου</string>
   <string name="title_system_audio_notification_resource">Ειδοποιήσεις συστήματος</string>
   <string name="title_system_audio_resource">Ήχοι κλήσης συστήματος</string>
@@ -621,4 +621,8 @@
   <string name="extreme_mode_dialog_message">"Αυτή η λειτουργία δεν είναι διαθέσιμη σε Μέγιστη λειτουργία. Απενεργοποιήστε την για να μπορέσετε να την χρησιμοποιήσετε."</string>
   <string name="extreme_mode_dialog_ok">Εντάξει</string>
   <string name="extreme_mode_dialog_title">Ειδοποίηση</string>
+  <string name="component_title_settings_video_wallpaper">Ταπετσαρίες με ειδικά εφέ</string>
+  <string name="theme_detail_tab_comment">Σχόλια</string>
+  <string name="theme_detail_tab_recommend">Προτεινόμενα</string>
+  <string name="theme_detail_tab_theme">Θέματα</string>
 </resources>

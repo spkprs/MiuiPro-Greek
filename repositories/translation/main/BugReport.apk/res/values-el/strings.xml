@@ -320,5 +320,34 @@
   <string name="warning_field_invalid">Επιλέξτε ένα έγκυρο %1$s</string>
   <string name="issue_search">Εύρεση</string>
   <string name="submit_dialog_content_global"><Data>"Τα σχόλιά σας, μαζί με τα συνημμένα (αν υπάρχουν) και τα αρχεία καταγραφής (μπορείτε να καταργήσετε την επιλογή των αντίστοιχων πλαισίων για τα στοιχεία που δεν θέλετε να μεταφορτώσετε) θα σταλούν στους διακομιστές του MIUI και σε περιορισμένη ενότητα του MIUI Forum για προγραμματιστές. Οι πληροφορίες σχετικά με τα θέματα και τη δραστηριότητα του φόρουμ σας θα συλλεχθούν επίσης για ανάλυση και περαιτέρω επικοινωνία. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και δεδομένα τοποθεσίας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και συμφωνήσει μαζί μας &lt;a  href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a> και &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Συμφωνία χρήστη&lt;/a>."</Data></string>  
+  <string name="catch_full_log_action_cancel">Ακύρωση</string>
+  <string name="catch_full_log_action_complete">Ολοκλήρωση και αποστολή</string>
+  <string name="catch_full_log_action_start">Δημιουργία log</string>
+  <string name="catch_full_log_add_original_photo">Προσθήκη φωτό</string>
+  <string name="catch_full_log_add_photo">Προσθήκη φωτό</string>
+  <string name="catch_full_log_add_photo_dialog_content">"Εάν το ζήτημα που αναφέρετε σχετίζεται με την ποιότητα της φωτογραφίας, προσθέστε μια πρωτότυπη φωτογραφία δείγμα (χωρίς περικοπή) για να μας βοηθήσετε να εντοπίσουμε το πρόβλημα. Προσθήκη φωτογραφίας τώρα;"</string>
+  <string name="catch_full_log_dialog_confirm_text">Μετάβαση στην Αρχική οθόνη</string>
+  <string name="catch_full_log_dialog_content">"Το MIUI δημιουργεί ένα αρχείο καταγραφής. Αυτό μπορεί να επηρεάσει τη συνολική παραγωγικότητα της συσκευής σας. Εάν δεν μπορείτε να αναπαραγάγετε το ζήτημα που θέλετε να αναφέρετε, επιστρέψτε στα αρχεία καταγραφής και πατήστε \"Ακύρωση\"."</string>
+  <string name="catch_full_log_dump_hprof_failed">"Αδύνατη η δημ. Επιβράνδυσης log"</string>
+  <string name="catch_full_log_item_content_catch_direct">"Βήματα:
+1. Επιστρέψτε στην λειτουργία που θέλετε να αναφέρετε και αναπαράγετε την.
+2. Επιστρέψτε σε αυτήν τη σελίδα και αγγίξτε \"Ολοκλήρωση και αποστολή\"."</string>
+  <string name="catch_full_log_item_content_need_open">"Βήματα:
+1. Αγγίξτε \"Δημιουργία log\".
+2. Επιστρέψτε στην λειτουργία που θέλετε να αναφέρετε και αναπαράγετε την.
+3. Επιστρέψτε σε αυτήν τη σελίδα και αγγίξτε \"Ολοκλήρωση και αποστολή\"."</string>
+  <string name="catch_full_log_item_title_audio">Ήχος, εγγραφή ήχου, και ήχος κλήσης</string>
+  <string name="catch_full_log_item_title_bt">Bluetooth</string>
+  <string name="catch_full_log_item_title_dump_heap">Επιβράνδυση</string>
+  <string name="catch_full_log_item_title_gps">Υπηρεσίες τοποθεσίας</string>
+  <string name="catch_full_log_item_title_sensor">Αισθητήρες</string>
+  <string name="catch_full_log_item_title_signal">Τηλέφωνο, σήμα, και δίκτυα κινητής</string>
+  <string name="catch_full_log_item_title_wifi">Wi-Fi και Mi Drop</string>
+  <string name="catch_full_log_notification_content">Πατήστε για επιστροφή στα logs</string>
+  <string name="catch_full_log_notification_title">Δημιουργία log…</string>
+  <string name="catch_full_log_start_dump_hprof">Δημιουργία Επιβράνδυσης log</string>
+  <string name="catch_full_log_submit_directly">Υποβολή</string>
+  <string name="title_catch_full_log">Logs</string>
+  <string name="toast_catch_full_log_catching">Μπορείτε να δημιουργήσετε μόνο ένα Log τη φορά.</string>
 </resources>
   

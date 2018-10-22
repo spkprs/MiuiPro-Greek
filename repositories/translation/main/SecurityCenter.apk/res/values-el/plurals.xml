@@ -359,4 +359,10 @@
     <item quantity="other">%d εφαρμογές ίσως να εμφανίζονται εσφαλμένα. Περιορίστε τις αναδυόμενες ειδοποιήσεις.</item>
     <item quantity="one">%d εφαρμογή ίσως να εμφανίζεται εσφαλμένα. Περιορίστε τις αναδυόμενες ειδοποιήσεις.</item>
   </plurals> 
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+    </plurals>
 </resources>

@@ -1167,7 +1167,7 @@
   <string name="tty_mode_option_title">Λειτουργία TTY</string>
   <string name="turn_off_dual_4g_failed">Αδύνατη η απενεργοποίηση του Διπλού 4G.</string>
   <string name="turn_on_dual_4g_failed">Αδύνατη η ενεργοποίηση του Διπλού 4G.</string>
-  <string name="turnover_mute_summary">Όταν το τηλέφωνο βρίσκεται σε οριζόντια θέση, αναποδογυρίστε το για σίγαση</string>
+  <string name="turnover_mute_summary">Όταν το τηλέφωνο βρίσκεται σε οριζόντια θέση, αναποδογυρίστε το για σίγαση κλήσης, απενεργοποίησης δόνησης και φωτισμού ειδοποίησης.</string>
   <string name="turnover_mute_title">Αναποδογυρίστε για σίγαση</string>
   <string name="undefined">Απροσδιόριστο</string>
   <string name="unknown">Άγνωστος</string>

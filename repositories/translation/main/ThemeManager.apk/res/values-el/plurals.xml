@@ -16,4 +16,8 @@
         <item quantity="other">%d σχόλια</item>
         <item quantity="one">%d σχόλιο</item>
     </plurals>
+     <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s έργα</item>
+        <item quantity="one">%1$s έργο</item>
+    </plurals>
 </resources>
