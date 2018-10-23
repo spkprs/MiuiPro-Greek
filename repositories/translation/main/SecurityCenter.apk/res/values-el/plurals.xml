@@ -365,4 +365,8 @@
     <plurals name="game_booster_incoming_call_duration_p2">
         <item quantity="other">%1$s</item>
     </plurals>
+      <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Καταναλώθηκε το %2$d%% στα τελευταία %1$d λεπτά</item>
+        <item quantity="one">Καταναλώθηκε το %2$d%% στο τελευταίο %1$d λεπτό</item>
+    </plurals>
 </resources>

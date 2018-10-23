@@ -528,8 +528,8 @@
   <string name="rcs_send_rms_remind_title">Στείλτε μηνύματα χρησιμοποιώντας την υπηρεσία China Mobile Messaging</string>
   <string name="rcs_setting">Ρυθμίσεις Κινητών μηνυμάτων της Κίνας</string>
   <string name="rcs_silence_message">Ειδοποιήσεις μηνυμάτων σίγασης</string>
-  <string name="rcs_summary_auto_resend_mms">Μετατρέψτε τα μηνύματα πολυμέσων της China Mobile σε SMS, αφού δεν ήταν δυνατή η αποστολή του αρχικού μηνύματος. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
-  <string name="rcs_summary_auto_resend_sms">Μετατρέψτε τα μηνύματα κειμένου της κινητής τηλεφωνίας China Mobile σε SMS αφού δεν ήταν δυνατή η αποστολή του αρχικού μηνύματος. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
+  <string name="rcs_summary_auto_resend_mms">Μετατρέψτε τα μηνύματα πολυμέσων της China Mobile σε SMS, όταν δεν ήταν δυνατή η αποστολή του αρχικού μηνύματος. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
+  <string name="rcs_summary_auto_resend_sms">Μετατρέψτε τα μηνύματα πολυμέσων της China Mobile σε MMS όταν δεν ήταν δυνατή η αποστολή του αρχικού μηνύματος. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
   <string name="rcs_summary_silence_message">Ειδοποιήσεις μηνύματος σίγασης όταν λειτουργεί ο υπολογιστής-πελάτης επιφάνειας εργασίας</string>
   <string name="rcs_wait_for_retry_text">Αναμονή…</string>
   <string name="received_at_time">Λήφθηκε στο: %1s</string>
@@ -760,4 +760,6 @@
   <string name="mark_number_by_own_dialog_subtitle">Επισημαίνεται ως %1$s</string>
   <string name="rcs_dspt_unavailable">"Δεν είναι δυνατή η χρήση αυτής της λειτουργίας τώρα. Η κάρτα China Mobile SIM δεν είναι η προεπιλεγμένη κάρτα δεδομένων σας."</string>
   <string name="rcs_service_agreement">Συμφωνία παροχής υπηρεσιών</string>
+  <string name="rcs_unavailable">"Αδύνατη η χρήση της China Mobile Messaging τώρα. Η κάρτα SIM της China Mobile δεν είναι η προεπιλεγμένη κάρτα δεδομένων σας."</string>
+  <string name="add_miui_contact">Επαφή</string>
 </resources>

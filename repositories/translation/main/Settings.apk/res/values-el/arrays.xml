@@ -1292,4 +1292,8 @@
         <item>Ενεργοποίηση λειτουργίας Ανάγνωσης</item>
         <item>Χωρίς</item>
     </string-array>
+    <string-array name="status_bar_settings_notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
 </resources>

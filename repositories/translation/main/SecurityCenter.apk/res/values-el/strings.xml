@@ -2398,6 +2398,9 @@
   <string name="midrop_post_notification_contentTitle">Κοινή χρήση?</string>
   <string name="summary_rcs_switch">Στείλτε SMS σε χρήστες της China Mobile χωρίς να χρεώνεστε</string>
   <string name="title_rcs_switch">Ενεργοποίηση μηνυμάτων της China Mobile</string>   
-	<string name="gamebox_app_not_find">Εγκατάσταση της εφαρμογής πρώτα.</string>|
-	<string name="gs_gamebox_slip">Σύρετε προς τα κάτω την οθόνη για άνοιγμα</string>
+  <string name="gamebox_app_not_find">Εγκατάσταση της εφαρμογής πρώτα.</string>|
+  <string name="gs_gamebox_slip">Σύρετε προς τα κάτω την οθόνη για άνοιγμα</string>
+  <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+  <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+  <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
 </resources>
