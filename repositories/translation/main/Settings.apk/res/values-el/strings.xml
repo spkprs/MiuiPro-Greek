@@ -5838,5 +5838,17 @@
   <string name="restore_dialog_positive">Επαναφορά</string>
   <string name="restore_dialog_title">Υπενθύμιση</string>
   <string name="status_bar_settings_expandable_under_keyguard">Εμφάνιση στην οθόνη κλειδώματος</string>
+  <string name="call_records_name_1">Debbie Smith</string>
+  <string name="call_records_name_2">Jason Lee</string>
+  <string name="call_records_name_3">Tom Fowles</string>
+  <string name="call_records_summary_1">9:35 ΠΜ | 26 δευτ. | China Unicom</string>
+  <string name="call_records_summary_2">Αύγουστος 16 | 1λ 16δ | China Mobile</string>
+  <string name="call_records_summary_3">Αύγουστος 16 | 2λ 24δ | China Unicom</string>
+  <string name="launcher_icon">Εικονίδια</string>
+  <string name="miui_optimization_disabled">Ανενεργή βελτιστοποίηση MIUI </string>
+  <string name="page_layout_34">Τηλέφωνο</string>
+  <string name="page_layout_35">Σημειώσεις</string>
+  <string name="switch_access_service_on">Εναλλαγή Πρόσβασης</string>
+  <string name="words_title">Κείμενο</string>
 </resources>
 
