@@ -668,4 +668,17 @@
   <string name="toast_updater_close_4g_text">"Οι εφαρμ. δεν θα ενημ. με χρήση δεδ. (4G)"</string>
   <string name="toast_updater_open_4g_text">Οι εφαρμ. θα ενημερωθούν με χρήση δεδ. (4G)</string>
   <string name="cd_scanning">Σάρωση...</string>
+  <string name="app_clean_group_document_recv">Λήψη αρχείων</string>
+  <string name="app_clean_group_document_send">Αποστολή αρχείων</string>
+  <string name="app_clean_group_image_recv">Λήψη εικόνων</string>
+  <string name="app_clean_group_image_send">Αποστολή εικόνων</string>
+  <string name="facebook_clean_exit_confirm_cancel">Συνέχιση σάρωσης?</string>
+  <string name="facebook_clean_exit_confirm_msg">"Δεν έχετε τελειώσει τη σάρωση του Facebook ακόμα. Διακοπή σάρωσης τώρα?"</string>
+  <string name="facebook_clean_exit_confirm_ok">Διακοπή</string>
+  <string name="facebook_clean_exit_confirm_title">Διακοπή σάρωσης?</string>
+  <string name="facebook_cleaner">Καθαριστής Facebook</string>
+  <string name="facebook_group_cache">Αρχεία Cache</string>
+  <string name="facebook_group_gif">GIFs</string>
+  <string name="facebook_group_image">Εικόνες</string>
+  <string name="facebook_group_video">Βίντεο</string>
 </resources>

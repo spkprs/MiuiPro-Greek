@@ -1271,7 +1271,9 @@
   <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε με %s</string>
   <string name="abc_toolbar_collapse_description">Αναδίπλωση</string>
   <string name="expand_button_title">Προηγμένες</string>
-  <string name="guide_chosen_type_main_title">Πείτε μας τι σας αρέσει</string>
+  <!--string name="guide_chosen_type_main_title">Πείτε μας τι σας αρέσει</string-->
+  <string name="guide_chosen_type_main_title_behind">τι σας αρέσει</string>
+  <string name="guide_chosen_type_main_title_front">Πείτε μας</string>
   <string name="guide_chosen_type_subtitle">Επισημάνετε τι σας αρέσει για λήψη σχετ. συστάσεων</string>
   <string name="guide_entertainment_text">Διασκέδαση</string>
   <string name="guide_fashion_text">Μόδα</string>

@@ -77,7 +77,7 @@
   <string name="config_name_sound">Ήχος</string>
   <string name="config_name_straighten">Ευθυγράμμιση</string>
   <string name="config_name_super_resolution">Σούπερ ανάλυση</string>
-  <string name="config_name_tilt">Κλίση-Μετατόπιση</string>
+  <string name="config_name_tilt">Θάμπωμα</string>
   <string name="config_name_scene">Σκηνή</string>
   <string name="config_name_timer">Χρονόμετρο</string>
   <string name="confirm_install_scanner_message">Ο Σαρωτής σας επιτρέπει να σαρώσετε κωδικούς QR, γραμμικούς κώδικες, και άλλα. Δεν χρειάζεται να συνδεθείτε στο internet για να εγκατασταθεί.</string>
@@ -189,7 +189,7 @@
   <string name="pano_how_to_use_prompt_align_reference_line">Ευθυγραμμίστε το βέλος με τη γραμμή αναφοράς</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Συνέχιστε την κίνηση...</string>
   <string name="pano_how_to_use_prompt_slow_down">Παρακαλώ πιο αργά</string>
-  <string name="pano_how_to_use_prompt_start">Αγγίξτε το βέλος για να αλλάξετε κατεύθυνση και αρχίστε να κινείστε αργά.</string>
+  <string name="pano_how_to_use_prompt_start">Αγγίξτε το βέλος για αλλαγή κατεύθυνσης και αρχίστε να κινείστε αργά.</string>
   <string name="pano_how_to_use_prompt_to_move">Ξεκινήστε αργά</string>
   <string name="path_settings">Εφαρμογές συστήματος/Κάμερα/Ρυθμίσεις</string>
   <string name="photos_portrait_type_description">Οι λήψεις πορτρέτων έχουν εφέ βάθους που διατηρούν το θέμα σας εστιασμένο και θολώνουν το υπόλοιπο φόντο.</string>
@@ -308,12 +308,12 @@
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
-  <string name="pref_camera_hdr_entry_off">Ανενεργό</string>
+  <string name="pref_camera_hdr_entry_off">Off</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
-  <string name="pref_camera_hfr_entry_off">Ανενεργό</string>
+  <string name="pref_camera_hfr_entry_off">Off</string>
   <string name="pref_camera_hfr_value_2x">60</string>
   <string name="pref_camera_hfr_value_3x">90</string>
   <string name="pref_camera_hfr_value_4x">120</string>
@@ -413,7 +413,7 @@
   <string name="pref_camera_super_resolution_title">Ενεργοποίηση SR</string>
   <string name="pref_camera_tilt_shift_entry_circle">Κύκλος</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Παράλληλα</string>
-  <string name="pref_camera_tilt_shift_title">Κλίση-Μετατόπιση</string>
+  <string name="pref_camera_tilt_shift_title">Θάμπωμα</string>
   <string name="pref_camera_touchafaec_entry_off">Off</string>
   <string name="pref_camera_touchafaec_entry_on">On</string>
   <string name="pref_camera_ubifocus_title">Επανεστίαση</string>
@@ -544,7 +544,7 @@
   <string name="simple_mode_button_text_slow_video">Απενεργοποίηση Χρονοκαθυστέρησης</string>
   <string name="simple_mode_button_text_square">Απενεργοποίηση Τετράγωνης</string>
   <string name="simple_mode_button_text_stereo_mode">Απενεργοποίηση ρύθμισης Εστίασης</string>
-  <string name="simple_mode_button_text_tilt_shift">Απενεργοποίηση Κλίση-Μετατόπιση</string>
+  <string name="simple_mode_button_text_tilt_shift">Απενεργοποίηση Θάμπωμα</string>
   <string name="simple_mode_button_text_ubifocus">Απενεργοποίηση Επανεστίασης</string>
   <string name="snap_cancel">Άκυρο</string>
   <string name="snap_confirmed">Αντικατάσταση</string>
@@ -609,4 +609,10 @@
   <string name="accessibility_camera_lighting_open_panel">Ανοιχτό μενού φωτισμού</string>
   <string name="lighting_pattern_null">Κενό</string>
   <string name="ultra_wide_mode">Υπέρ ευρεία γωνία</string>
+  <string name="beauty_body">Σώμα</string>
+  <string name="beauty_body_body">Αδυνάτισμα</string>
+  <string name="beauty_body_head">Λεπτό κεφάλι</string>
+  <string name="beauty_body_legged">Μακριά πόδια</string>
+  <string name="beauty_body_reset_tip">Το εφέ σώματος εκκαθαρίστηκε</string>
+  <string name="beauty_body_shoulder">Λεπτός ώμος</string>
 </resources>

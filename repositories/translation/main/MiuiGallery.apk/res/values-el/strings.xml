@@ -1293,4 +1293,8 @@
   <string name="photo_movie_select_image_range">Το Κλιπ μπορεί να περιέχει 3-6 φωτογραφίες</string>
   <string name="select_image_operation">Προσθήκη φωτογραφιών</string>
   <string name="unsupport_video">"%s δεν λειτουργεί με βίντεο"</string>
+  <string name="operation_set_slide_wallpaper">Ορισμός ως ταπετσαρίας παρουσίασης</string>
+  <string name="picker_origin_request_progress_fail">"Αδύνατη η λήψη της αρχικής εικόνας λόγω σφάλματος δικτύου."</string>
+  <string name="set_as_slide_wallpaper_description">Αυτή η εικόνα είναι μικρογραφία, λήψη πρωτότυπης?</string>
+  <string name="set_as_slide_wallpaper_title">Ορισμός ως ταπετσαρίας παρουσίασης</string>
 </resources>

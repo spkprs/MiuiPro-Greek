@@ -5,8 +5,8 @@
   <string name="ac_firstUseApplock_subTitle">Ενεργοποιήστε τον για επιπλέον προστασία</string>
   <string name="ac_firstUseApplock_title">Ορίστε κωδικό για τις επιλεγμένες εφαρμογές</string>
   <string name="ac_mask_all_apps">Απόκρυψη για όλες τις εφαρμογές</string>
-  <string name="ac_notification_contentText">Πατήστε για ενεργοποίηση</string>
-  <string name="ac_notification_contentTitle">Προστατέψτε τις εφαρμογές με το κλείδωμα εφαρμογής</string>
+  <string name="ac_notification_contentText">Αγγίξτε για ενεργοποίηση</string>
+  <string name="ac_notification_contentTitle">Προστατέψτε τις εφαρμογές με κωδικό</string>
   <string name="ac_post_notification_contentText">Αποκτήστε προστασία σε επίπεδο συστήματος</string>
   <string name="ac_post_notification_contentTitle">Ενεργοποιήστε το Κλείδωμα εφαρμογής</string>
   <string name="ac_pre_notification_contentText">Προστατεύστε τις προσωπικές σας πληροφορίες</string>
@@ -15,7 +15,7 @@
   <string name="ac_summaryOn">Ενεργό. Απαιτείται κωδικός για το άνοιγμα εφαρμογών</string>
   <string name="ac_unmask_all_apps">Αποκτήστε πρόσβαση σε όλες τις εφαρμογές</string>
   <string name="access_control_app_is_launching">Η εφαρμογή ξεκινά</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Εισαγάγετε τον κωδικό πρόσβασης πριν ξεκλειδώσετε με ένα νέο δακτυλικό αποτύπωμα</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Εισάγετε τον κωδικό πρόσβασης πριν ξεκλειδώσετε με ένα νέο δακτυλικό αποτύπωμα</string>
   <string name="access_control_fingerprint_not_identified_msg">Αδυναμία ανάγνωσης δακτυλικού αποτυπώματος.</string>
   <string name="access_control_need_password">%s προστέθηκε με επιτυχία</string>
   <string name="access_control_need_to_unlock_nofingerprint">Εισάγετε κωδικό ξεκλειδώματος</string>
