@@ -1213,4 +1213,8 @@
   <string name="zero_items_selected">Επιλέξτε στοιχεία</string>
   <string name="conference_call_disable_tip">"Αδυναμία κλήσεων. Βεβαιωθείτε ότι είστε συνδεδεμένοι σε δίκτυο 4G με υποστήριξη VoLTE."</string>
   <string name="open_wifi_connect_and_use_data_summary">Χρήση δεδομένων. Πατήστε για μετάβαση σε Wi-Fi.</string>
+  <string name="scan_business_card">Σάρωση Επαγγελματικής Κάρτας</string>
+  <string name="scan_bussiness_card_merge_tip">Δεδομένα σε διένεξη αντικαταστάθηκαν</string>
+  <string name="description_image_button_sim1_named_dial">Κλήση μέσω SIM1 %s</string>
+  <string name="description_image_button_sim2_named_dial">Κλήση μέσω SIM2 %s</string>  
 </resources>

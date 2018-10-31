@@ -1296,4 +1296,9 @@
         <item>MIUI</item>
         <item>Android</item>
     </string-array>
+    <string-array name="keyguard_notification_status_entries">
+        <item>Ενεργοποίηση οθόνης</item>
+        <item>Εμφάνιση κίνησης</item>
+        <item>"Χωρίς ενεργοποίηση οθόνης"</item>
+    </string-array>
 </resources>

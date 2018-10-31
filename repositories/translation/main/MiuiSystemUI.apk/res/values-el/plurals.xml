@@ -153,4 +153,12 @@
       <item quantity="other">Απομένουν %1$d ώρ. %2$d λεπ.</item>
       <item quantity="one">Απομένει %1$d ώρ. %2$d λεπ.</item>
    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Απαιτείται εισαγωγή κωδικού μετά απο %d ώρες αδράνειας</item>
+        <item quantity="one">Απαιτείται εισαγωγή κωδικού μετά απο %d ώρα αδράνειας</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Απαιτείται εισαγωγή μοτίβου μετά απο %d ώρες αδράνειας</item>
+        <item quantity="one">Απαιτείται εισαγωγή μοτίβου μετά απο %d ώρα αδράνειας</item>
+    </plurals>
 </resources>
