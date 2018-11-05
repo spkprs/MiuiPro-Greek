@@ -186,4 +186,5 @@
   <string name="talk_back_water_mark_string2">Κρατήστε πατημένο \"Volume+\" και \"Volume-\" για 3 δευτ για απενεργοποίηση</string>
 	<string name="security_permission_network_failed_text">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
   <string name="security_permission_open_wifi_settings">Ρυθμίσεις Wi-Fi</string>
+  <string name="xspace_head">Διπλές εφαρμογές</string>
 </resources>

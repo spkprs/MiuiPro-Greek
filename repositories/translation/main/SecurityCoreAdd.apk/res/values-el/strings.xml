@@ -342,7 +342,7 @@
   <string name="start_setting_guide_desc_title">Υπάρχουν μερικά πράγματα που πρέπει να ρυθμιστούν</string>
   <string name="startSet">Ρύθμιση</string>
   <string name="startTransfer">Μεταφορά</string>
-  <string name="stop_xspace_alert_content">Διαγράψατε όλες τις διπλές εφαρμογές. Διαγράφετε επίσης διπλούς λογαριασμούς  και δεδομένα εφαρμογών; Μετά από αυτό, θα πρέπει να δημιουργήσετε ξανά διπλές εφαρμογές όταν τις χρειαστείτε.</string>
+  <string name="stop_xspace_alert_content">"Όλες οι Διπλές εφαρμογές και τα δεδομένα τους θα διαγραφούν οριστικά. Θα πρέπει να επανεκκινήσετε τη συσκευή σας για να εφαρμόσετε αυτήν την αλλαγή. Διαγραφή τώρα?"</string>
   <string name="stop_xspace_alert_title">Διαγραφή λογαριασμών διπλών εφαρμογών</string>
   <string name="summary_switch_apps_settings">Επιλέξτε εφαρμογές που χρησιμοποιούνται στο Δεύτερο προφίλ</string>
   <string name="support_desc">Υπηρεσίες ασφαλείας που παρέχει η Spaces Mobile</string>
@@ -422,4 +422,5 @@
   <string name="qq_login">Συνδεθείτε στο QQ</string> 
   <string name="confirm_close_password_desc">"Δεν θα μπορείτε να εισέλθετε στον Δεύτερο Χώρο από την Οθόνη Κλείδωματος μετά την απενεργοποίηση του κωδικού. Απενεργοποίηση ούτως ή άλλως;"</string>
   <string name="confirm_close_password_title">Απενεργοποίηση κωδικού</string>
+ <string name="xspace_remove">"Διαγραφή λογαριασμών Διπλών εφαρμογών"</string>
 </resources>

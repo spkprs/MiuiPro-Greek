@@ -304,7 +304,7 @@
     <string name="micloud_detail_pause">Παύση συγχρονισμού</string>
     <string name="micloud_detail_need_charge_or_sleep">Συνδέστε το φορτιστή και απενεργοποιήστε την οθόνη για συγχρονισμό</string>
     <string name="micloud_privacy_cloud_off">Συγχρονισμός Ανενεργός</string>
-    <string name="micloud_privacy_licence_agreed">Συμφωνείτε με την Πολιτική απορρήτου Mi Cloud.</string>
+    <string name="micloud_privacy_licence_agreed">Συμφωνείτε με του Mi Cloud &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;Πολιτική Απορρήτου&lt;/u&gt;&lt;/a&gt;.</string>
     <string name="micloud_privacy_licence_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="micloud_privacy_explanation">Χορήγηση άδειας για την ενεργοποίηση των υπηρεσιών Mi Cloud</string>
     <string name="micloud_privacy_cloud_sync">Ενεργοποιήστε τις υπηρεσίες Mi Cloud</string>
@@ -479,8 +479,8 @@
     <string name="micloud_find_device_guide_button">Ενεργοποίηση του Εύρεση συσκευής</string>
     <string name="micloud_find_device_guide_progress">Ενεργοποίηση του Εύρεση συσκευής…</string>
     <string name="micloud_find_device_verify_button">Ενεργοποιήστε ξανά τη λειτουργία Εύρεση συσκευής</string>
-    <string name="micloud_find_device_verify_progress">Επαναενεργοποίηση συσκευής εύρεσης…</string>
-    <string name="micloud_find_device_verify_close">Απενεργοποιήστε τη Εύρεση συσκευής</string>
+    <string name="micloud_find_device_verify_progress">Επανεργοποίηση Εύρεση συσκευής…</string>
+    <string name="micloud_find_device_verify_close">Απενεργοποίηση Εύρεση συσκευής</string>
     <string name="micloud_find_device_close_progress">Απενεργοποίηση Εύρεση συσκευής…</string>
     <string name="micloud_find_device_opened">Εύρεση συσκευής, ενεργή</string>
     <string name="micloud_find_device_open_fail">Αδυναμία ενεργοποίησης του Εύρεση συσκευής</string>
@@ -510,8 +510,8 @@
     <string name="micloud_find_device_guide_alert_negtive_activate">Οχι ευχαριστώ</string>
     <string name="micloud_find_device_close_alert_title">Απενεργοποίηση Εύρεση συσκευής;</string>
     <string name="micloud_find_device_close_alert_content">Εάν απενεργοποιήσετε αυτήν τη λειτουργία, δεν θα μπορείτε να εντοπίσετε τη συσκευή σας σε περίπτωση που χαθεί.</string>
-    <string name="micloud_find_device_close_alert_positive">Συνέχεια</string>
-    <string name="micloud_find_device_close_alert_negtive">Απενεργοποιήστε ούτως ή άλλως</string>
+    <string name="micloud_find_device_close_alert_positive">Διατήρηση</string>
+    <string name="micloud_find_device_close_alert_negtive">Απενεργοποίηση</string>
     <string name="activate_finddevice">Συνδεθείτε στο δίκτυο για να ενεργοποιήσετε τη συσκευή</string>
     <string name="account_related">Η συσκευή σας είναι συνδεδεμένη με έναν υπάρχοντα λογαριασμό Mi(%s). Συνδεθείτε στο δίκτυο για επαλήθευση της συσκευής.</string>
     <string name="connect_network">Συνδεθείτε στο Wi‑Fi ή τοποθετείστε μια κάρτα SIM</string>

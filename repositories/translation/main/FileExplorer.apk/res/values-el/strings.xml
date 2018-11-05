@@ -823,4 +823,5 @@
   <string name="you_liao_xunlei_desc">Υπογράψτε συμβόλαιο μαζί μας για να αποκτήσετε την κατάσταση Host</string>
   <string name="you_liao_xunlei_str">Xunlei host</string>
   <string name="youliao_master_rank">Κορυφαία του Youliao</string>
+  <string name="rename_input_null">Εισάγετε νέο όνομα αρρχείου</string>
 </resources>

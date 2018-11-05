@@ -369,4 +369,8 @@
         <item quantity="other">Καταναλώθηκε το %2$d%% στα τελευταία %1$d λεπτά</item>
         <item quantity="one">Καταναλώθηκε το %2$d%% στο τελευταίο %1$d λεπτό</item>
     </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d κλειδωμένες εφαρμογές</item>
+        <item quantity="one">%d κλειδωμένη εφαρμογή</item>
+    </plurals>
 </resources>

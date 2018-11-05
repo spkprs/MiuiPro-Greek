@@ -33,11 +33,11 @@
   <string name="activity_title_create_shortcut">Διαχείριση συντομεύσεων</string>
   <string name="activity_title_garbage_cleanup">Καθαρισμός</string>
   <string name="activity_title_license_manager">Δικαιώματα</string>
-  <string name="activity_title_networkassistants">Χρήση δεδομένων</string>
+  <string name="activity_title_networkassistants">Διαχείριση δεδομένων</string>
   <string name="activity_title_other_permission_manager">Άλλα δικαιώματα</string>
   <string name="activity_title_permission_manager">Δικαιώματα</string>
   <string name="activity_title_permissions_manager">Δικαιώματα</string>
-  <string name="activity_title_power_manager">Ενέργεια</string>
+  <string name="activity_title_power_manager">Διαχείριση μπαταρίας</string>
   <string name="activity_title_root_acquired">Επιτρέψτε την πρόσβαση root</string>
   <string name="activity_title_root_manager">Πρόσβαση Root</string>
   <string name="activity_title_root_note">Σχετικά με την πρόσβαση root</string>
@@ -749,7 +749,7 @@
   <string name="fod_finger_notice_title">Τοποθετήστε το δάκτυλό σας στην οθόνη</string>
   <string name="fod_finger_windows_tips">Επαλήθευση αποτυπώματος</string>
   <string name="fod_tips_split_screen_more_than_half">Εισάγετε κωδικό</string>
-  <string name="forbid_autobright_summary">Η φωτεινότητα της οθόνης θα παραμείνει η ίδια όταν παίζετε παιχνίδια</string>
+  <string name="forbid_autobright_summary">Η αυτόματη φωτεινότητα θα απενεργοποιηθεί ενώ παίζετε και θα επανέλθει αφού τελειώσετε</string>
   <string name="forbid_autobright_title">Καθορίστε τη φωτεινότητα της οθόνης</string>
   <string name="foreground_traffic">Προσκήνιο %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Ξεχάσατε τον κωδικό&lt;/u&gt;</string>
@@ -818,7 +818,7 @@
    <string name="gb_first_window_antimsg_summary_quick_answer">Χρήση γρήγορων απαντήσεων</string>
    <string name="gb_first_window_antimsg_summary_transparent_show">Δείτε κείμενο σε διαφανές φόντο</string>
    <string name="gb_first_window_antimsg_title">Χρήσιμες ειδοποιήσεις</string>
-   <string name="gb_first_window_gamebox_summary_four">Καθαρισμός Cache, κάντε εγγραφές οθόνης και στιγμιότυων</string>
+   <string name="gb_first_window_gamebox_summary_four">Καθαρισμός Cache, σε εγγραφές οθόνης και στιγμιότυπων</string>
    <string name="gb_first_window_gamebox_summary_six">Χρήση γρήγορων απαντήσεων, κάντε εγγραφές οθόνης και στιγμιότυπων</string>
    <string name="gb_first_window_handsfree_summary">Αυτόματη ενεργοποίηση του ηχείου</string>
    <string name="gb_first_window_handsfree_title">Hands-free κλήσεις</string>
@@ -1092,7 +1092,7 @@
   <string name="menu_edit">Επεξεργασία</string>
   <string name="menu_item_about_content">Έκδοση: %s</string>
   <string name="menu_item_about_summary">Έκδοση: %s</string>
-  <string name="menu_item_about_title">Σχετικά με</string>
+  <string name="menu_item_about_title">Σχετικά</string>
   <string name="menu_item_about_privacy_title">Πολιτική Απορρήτου</string>
   <string name="menu_item_app_details">Λεπτομέρειες</string>
   <string name="menu_item_app_permissions_control">Διαχείριση δικαιωμάτων</string>
@@ -1441,7 +1441,7 @@
   <string name="power_optimize_brightness">Φωτεινότητα οθόνης</string>
   <string name="power_optimize_btn_text_fixed">Βελτιστοποιήθηκε</string>
   <string name="power_optimize_catagory_fixed_title">Βελτιστοποιήθηκε</string>
-  <string name="power_optimize_close_app">Κλείσιμο εφαρμογών που καταναλώνουν υπερβολική ενέργεια</string>
+  <string name="power_optimize_close_app">Κλείσιμο εφαρμογών με υπερβολική κατανάλωση  ενέργειας</string>
   <string name="power_optimize_disable_app_autostart">Αποτροπή αυτ. εκκίνησης εφαρμογών</string>
   <string name="power_optimize_disable_gps">Απενεργοποίηση GPS</string>
   <string name="power_optimize_disable_start_other_app">Αποτροπή αυτ. εκκίνησης από άλλες εφαρμογές</string>
@@ -1684,8 +1684,8 @@
   <string name="Setting_lock">Ρυθμίσεις</string>
   <string name="setting_privacy_password">Ορισμός κωδικού Προσωπικής προστασίας</string>
   <string name="settings">Ρυθμίσεις χρήσης δεδομένων</string>
-  <string name="settings_battery_consume_abnormal_summary">Ειδοποίηση όταν αδειάζει γρήγορα η μπαταρία</string>
-  <string name="settings_battery_consume_abnormal_title">Ειδοποιήσεις αδειάσματος μπαταρίας</string>
+  <string name="settings_battery_consume_abnormal_summary">Ειδοποίηση όταν η μπαταρία εξαντλείται γρήγορα</string>
+  <string name="settings_battery_consume_abnormal_title">Ειδοποιήσεις εξάντλησης μπαταρίας</string>
   <string name="settings_category_other">Άλλες ρυθμίσεις</string>
   <string name="settings_category_overheat">Θερμοκρασία</string>
   <string name="settings_choice_no_notification">Ανενεργό</string>
@@ -1764,7 +1764,7 @@
   <string name="sp_settings_check_item_title_virus_exception">Εξαιρέσεις ιών</string>
   <string name="sp_settings_check_item_title_wifi">Wi‑Fi</string>
   <string name="sp_settings_exception_count_zero">Χωρίς στοιχεία</string>
-  <string name="sp_settings_group_title_check_item">Έλεγχος πολλαπλών ρυθμίσεων</string>
+  <string name="sp_settings_group_title_check_item">Έλεγχος πολλαπλών στοιχείων</string>
   <string name="sp_settings_info_input_method">Χρήση πληκτρολογίου συστήματος σε εφαρμογές πληρωμών</string>
   <string name="sp_settings_info_monitor">Παρακολούθηση περιβάλλοντος συστήματος όταν ξεκινούν εφαρμογές πληρωμών</string>
   <string name="sp_settings_title_input_method">Ασφαλής πληκτρολόγηση</string>
@@ -2358,7 +2358,7 @@
     <string name="first_aid_dialog_msg_stop_scan">Διακοπή σάρωσης τώρα?</string>
   <string name="auto_task_result_summary_text">Ορίστε αυτομ. εργασίες εξοικον. μπαταρίας</string>
   <string name="extreme_power_save_mode_card_summary">Ενεργοποιήστε την Μέγιστη εξοικον. όταν η μπαταρία είναι χαμηλή.</string>
-  <string name="handle_title_abnormal">Άδειασμα μπαταρίας</string>
+  <string name="handle_title_abnormal">Εξάντληση μπαταρίας</string>
   <string name="handle_title_app">Εφαρμογές</string>
   <string name="handle_title_details">Λεπτομ. χρήσης μπαταρίας</string>
   <string name="handle_title_system">Χρήση μπατ. Συστήματος</string>
@@ -2398,9 +2398,16 @@
   <string name="midrop_post_notification_contentTitle">Κοινή χρήση?</string>
   <string name="summary_rcs_switch">Στείλτε SMS σε χρήστες της China Mobile χωρίς να χρεώνεστε</string>
   <string name="title_rcs_switch">Ενεργοποίηση μηνυμάτων της China Mobile</string>   
-  <string name="gamebox_app_not_find">Εγκατάσταση της εφαρμογής πρώτα.</string>|
+  <string name="gamebox_app_not_find">Εγκατάσταση της εφαρμογής πρώτα.</string>
   <string name="gs_gamebox_slip">Σύρετε προς τα κάτω την οθόνη για άνοιγμα</string>
   <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
   <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
   <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+  <string name="gs_slip_gamebox_detail">Χρησιμοποιήστε το ρυθμιστικό για να εμφανιστεί ο πίνακας συντομεύσεων. Γρήγορες απαντήσεις και επιλογές εγγραφής οθόνης είναι διαθέσιμες.</string>
+  <string name="om_locked_apps_summary">Οι κλειδωμένες εφαρμογές θα αγνοηθούν από την Ενίσχυση ταχύτητας.</string>
+  <string name="om_not_finish_speedboost">Απαιτείται Ενίσχυση ταχύτητας</string>
+  <string name="om_promotion">Διαφήμιση</string>
+  <string name="om_running_locked_apps">Κλειδωμένες εφαρμογές που εκτελούνται</string>
+  <string name="om_running_system_apps">Εφαρμογές συστήματος που εκτελούνται</string>
+  <string name="om_running_third_apps">Εκτέλεση εφαρμογών τρίτου μέρους</string>
 </resources>

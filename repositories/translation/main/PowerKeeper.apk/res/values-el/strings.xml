@@ -33,9 +33,12 @@
   <string name="enable_sleep_mode">Ενεργοποίηση κατάστασης αδράνειας για βελτιστοποίηση της μπαταρίας κατά την νύχτα</string>
   <string name="error_filename_too_long">Το όνομα αρχείου που εισαγάγατε είναι πολύ μεγάλο.</string>
   <string name="extreme_mode_max_item_alert">Έως 4 εφαρμ. επιλέξτε να εκτελούνται στο παρασκήνιο σε λειτουργία Μέγιστης λειτουργίας</string>
-  <string name="extreme_power_config_mode_category">Μέγιστη λειτουργία</string>
-  <string name="extreme_power_config_mode_desc">Μεταβείτε στην Μέγιστη λειτουργία για να απενεργοποιήσετε το συγχρονισμό, το Bluetooth, το GPS, το NFC, το διπλό πάτημα, τα led των κουμπιών, την αφύπνιση της οθόνης κλειδώματος για ειδοποιήσεις, καθώς και το led ειδοποίησης. Το MIUI θα επικεντρωθεί στην εξοικονόμηση μπαταρίας.</string>
-  <string name="extreme_power_config_mode_title">Μέγιστη λειτουργία</string>
+  <string name="extreme_power_config_mode_category">Μέγιστη εξοικονόμηση</string>
+  <string name="extreme_power_config_mode_desc">&lt;li&gt;"Η Μέγιστη εξοικονόμηση μπαταρίας διακόπτει όλη την δραστηριότητα παρασκηνίου μιας εφαρμογής, αφού την αφήσετε και επιστρέψετε στην Αρχική οθόνη. Αυτή η εφαρμογή δεν θα σας στείλει ειδοποιήσεις ή δεν θα λάβει ενημερώσεις."&lt;/li&gt;"</string>
+"&lt;li&gt;Αν θέλετε μια εφαρμογή να εκτελείται στο παρασκήνιο, κλειδώστε την στα Πρόσφατα ή προσθέστ την στις εξαιρέσεις παρασκηνίου παρακάτω. Μέχρι 4 εφαρμογές μπορούν να εκτελούνται στο παρασκήνιο όταν είναι ενεργή η Μέγιστη εξοικονόμηση.&lt;/li&gt;"
+"&lt;li&gt;Η Μέγιστη εξοικονόμηση απενεργοποιεί το NFC απο προεπιλογή. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.&lt;/li&gt;"
+"&lt;li&gt;Για να βεβαιωθείτε ότι μπορείτε να χρησιμοποιήσετε κανονικά όλες τις δυνατότητες της συσκευής σας, η Μέγιστη εξοικονόμηση μπαταρίας θα απενεργοποιηθεί αυτόματα όταν η μπαταρία σας είναι 30% φορτισμένη.&lt;/li&gt;</string>
+  <string name="extreme_power_config_mode_title">Μέγιστη εξοικονόμηση</string>
   <string name="failure">Απέτυχε</string>
   <string name="hide_mode_desc"><font color="#000000">Όταν μια εφαρμογή εκτελείται στο παρασκήνιο, οι δραστηριότητές της θα παρακολουθούνται για να μειωθεί η χρήση της μπαταρίας. Αυτή η λειτουργία θα λάβει και θα χρησιμοποιήσει τα δεδομένα χρήστη σύμφωνα με την %s</font></string>
   <string name="hide_system_app">Απόκρυψη εφαρμογών συστήματος</string>
@@ -94,4 +97,14 @@
   <string name="warm_performance_tip">Η συσκευή σας θα ζεσταίνεται όταν εκτελούνται περισσότερες διαδικασίες.</string>
   <string name="high_temp_state">Υψηλή θερμοκρασία</string>
   <string name="high_temp_state_message">Η Προστασία Υψηλής θερμοκρασίας, θα περιορίσει, τα δεδομένα, wifi, gps, κάμερα κ.λπ.</string>
+  <string name="atrace_saved">Αποθηκεύτηκε με επιτυχία</string>
+  <string name="atrace_saving">Αποθήκευση atrace log…</string>
+  <string name="atrace_start">Εγγραφή atrace log…</string>
+  <string name="extreme_add_white_list_summary">Προσθήκη έως 4 εφαρμογές</string>
+  <string name="extreme_add_white_list_title">Εξαιρέσεις παρασκηνίου</string>
+  <string name="extreme_power_config_mode_summary">Η Μέγιστη εξοικονόμηση περιορίζει τη δραστηριότητα παρασκηνίου και διακόπτει το συγχρονισμό.</string>
+  <string name="extreme_power_settings_title">ρυθμίσεις</string>
+  <string name="notification_exit_extreme_mode_text">Η Μπαταρία είναι πάνω απο %s φορτισμένη</string>
+  <string name="notification_exit_extreme_mode_title">Απενεργοποίηση Μέγιστης εξοικονόμησης</string>
+  <string name="notification_open_extreme_mode_text">Ενεργοποίηση Μέγιστης εξοικονόμησης</string>
 </resources>

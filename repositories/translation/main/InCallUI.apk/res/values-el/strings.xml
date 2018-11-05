@@ -147,7 +147,7 @@
   <string name="incall_error_supp_service_switch">Αδύνατη η εναλλαγή κλήσεων.</string>
   <string name="incall_error_supp_service_transfer">Δεν ήταν δυνατή η μεταφορά της κλήσης.</string>
   <string name="incall_error_supp_service_unknown">Μη υποστηριζόμενη υπηρεσία.</string>
-  <string name="inCallLabel">InCallUI</string>
+  <string name="inCallLabel">Τηλέφωνο</string>
   <string name="incoming_answer_voice_text">Φωνητική απάντηση</string>
   <string name="incoming_call_forwarded_title">Προώθηση εισερχόμενων κλήσεων</string>
   <string name="incoming_circle_text_answer" />
