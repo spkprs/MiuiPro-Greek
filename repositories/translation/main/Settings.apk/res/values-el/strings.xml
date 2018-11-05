@@ -4203,7 +4203,6 @@
   <string name="sound_settings_summary">Ένταση ήχου κλήσης στο %1$s</string>
   <string name="sound_settings_summary_silent">Η ειδοποίηση ήχου τέθηκε σε σίγαση</string>
   <string name="sound_settings_summary_vibrate">Η ειδοποίηση ήχου ορίστηκε σε δόνηση</string>
-  <string name="sound_stereo_mode_summary">Λειτουργεί μόνο με το ηχείο</string>
   <string name="sound_stereo_mode_title">Στερεοφωνικός ήχος</string>
   <string name="sound_vibrate_settings">Ήχος και δόνηση</string>
   <string name="sound_work_settings">Ήχοι προφίλ εργασίας</string>
