@@ -1680,4 +1680,5 @@
   <string name="enable_atrace">Ενεργοποίηση ATrace</string>
   <string name="enable_atrace_summary">Καταγραφή συμβάντων πυρήνα με χρήση ATrace</string>
   <string name="structure_face_unlock_tof_covered">"Αδύνατη η η προσθήκη δεδομένων προσώπου. Μετακινηθείτε πιο μακριά από την οθόνη."</string>
+  <string name="download_lock_wallpaper">Διπλό άγγιγμα για λήψη Μουσικής</string>
 </resources>
