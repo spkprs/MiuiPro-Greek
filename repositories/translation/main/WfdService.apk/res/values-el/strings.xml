@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Υπηρεσία Wfd</string>
+    <string name="perm_label">QC Wi-Fi Εμφάνιση στοίβα</string>
+    <string name="perm_desc">API πρόσβαση σε Wi-Fi προβολή</string>
+    <string name="notification_title">Ασύρματη προβολή</string>
+    <string name="notification_text">Κατοπτρισμός οθόνης είναι Ενεργός</string>
+</resources>
