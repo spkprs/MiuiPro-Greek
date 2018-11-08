@@ -5865,5 +5865,11 @@
   <string name="slider_vocie_online_theme">Σύρετε για online ήχο</string>
   <string name="sound_stereo_mode_summary">Διατίθεται μόνο όταν αναπαράγετε ήχο σε ηχείο</string>
   <string name="slider_voice_online_theme">Online Ήχοι</string>
+  <string name="ai_button_title_global">Πλήκτρο AI</string>
+  <string name="ai_settings_long_click_category">Αγγίξτε παρατεταμένα το πλήκτρο AI</string>
+  <string name="ai_settings_long_click_title">Αγγίξτε παρατεταμένα</string>
+  <string name="ai_settings_single_press_des">Αγγίξτε το πλήκτρο AI για να μιλήσετε με το Βοηθό Google, στη συνέχεια αφήστε, να πάρετε την απάντηση.</string>
+  <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
+  <string name="single_press_AI_button">Άγγιγμα πλήκτρου AI</string>
 </resources>
 

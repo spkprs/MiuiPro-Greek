@@ -95,4 +95,9 @@
     <item>Χρήση κινητής...</item>
     <item>Χρήση Wi‑Fi...</item>
   </string-array>
+   <string-array name="traffic_package_type">
+        <item>Μηνιαίο πρόγραμμα δεδομένων</item>
+        <item>Ημερήσιο πρόγραμμα δεδομένων</item>
+        <item>Απεριόριστο πρόγραμμα δεδομένων</item>
+    </string-array>
 </resources>
