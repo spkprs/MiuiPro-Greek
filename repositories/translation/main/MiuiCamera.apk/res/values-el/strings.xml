@@ -611,10 +611,10 @@
   <string name="ultra_wide_mode">Υπέρ ευρεία γωνία</string>
   <string name="beauty_body">Σώμα</string>
   <string name="beauty_body_body">Αδυνάτισμα</string>
-  <string name="beauty_body_head">Λεπτό κεφάλι</string>
+  <string name="beauty_body_head">Κεφάλι</string>
   <string name="beauty_body_legged">Μακριά πόδια</string>
   <string name="beauty_body_reset_tip">Το εφέ σώματος εκκαθαρίστηκε</string>
-  <string name="beauty_body_shoulder">Λεπτός ώμος</string>
+  <string name="beauty_body_shoulder">Ώμος</string>
   <string name="ultra_wide_open_tip">Λειτουργία Υπέρ Ευρείας Γωνίας</string>
   <string name="super_night_toast">Λήψη μιας φωτογραφίας, παρακαλώ κρατήστε το τηλέφωνό σας</string>
 </resources>

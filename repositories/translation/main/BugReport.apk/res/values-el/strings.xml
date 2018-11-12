@@ -80,7 +80,7 @@
   <string name="feedback_report_remind_login_desc">Συνδεθείτε στο Mi λογαριασμό σας έτσι ώστε οι μηχανικοί μας να μπορούν να επικοινωνούν μαζί σας.</string>
   <string name="feedback_report_remind_login_desc2">Μπορείτε επίσης να βλέπετε την εξέλιξη της αναφοράς σας στο \"Οι αναφορές μου\".</string>
   <string name="feedback_retest_label">Βήματα για αναπαραγωγή</string>
-  <string name="feedback_select_images">Προσθήκη εικόνων</string>
+  <string name="feedback_select_images">Προσθήκη μιας εικόνας ή σύντομο βίντεο</string>
   <string name="feedback_select_modem_log">Προσθέστε αρχεία καταγραφής μόντεμ</string>
   <string name="feedback_select_problem">Προβλήματα</string>
   <string name="feedback_select_suggestion">Προτάσεις</string>
@@ -301,7 +301,7 @@
   <string name="toast_fill_brackets">Παρακαλώ συμπληρώστε μέσα στις παρενθέσεις</string>
   <string name="toast_loading_app_id">Λήψη πληροφοριών…</string>
   <string name="toast_log_not_exists">Το απαιτούμενο αρχείο καταγραφής διαγράφηκε ή δεν υπάρχει</string>
-  <string name="toast_log_too_large">Δεν είναι δυνατή η μεταφόρτωση. Το αρχείο είναι πολύ μεγάλο.</string>
+  <string name="toast_log_too_large">Αδυναμία μεταφόρτωσης. Το αρχείο log είναι πολύ μεγάλο.</string>
   <string name="toast_module_required">Επιλέξτε στοιχείο</string>
   <string name="toast_network_unavailable">Αδυναμία αποστολής. Δεν είναι δυνατή η σύνδεση με το δίκτυο.</string>
   <string name="toast_pending_log_collection">Συλλογή αρχείων καταγραφής…</string>
@@ -311,7 +311,7 @@
   <string name="toast_report_copied_to_clipboard">Αναφορά αντιγράφτηκε στο πρόχειρο</string>
   <string name="toast_report_sent_failed">Αποτυχία αποστολής αναφοράς</string>
   <string name="toast_report_sent_succeed">Η αναφορά έχει σταλεί</string>
-  <string name="toast_screenshot_too_large">Δεν είναι δυνατή η μεταφόρτωση αρχείων μεγαλύτερων από 10MB.</string>
+  <string name="toast_screenshot_too_large">Αδυναμία μεταφόρτωσης εικόνων ή βίντεο μεγαλύτερων από 10MB.</string>
   <string name="toast_third_packagename_required">Εισαγωγή ονόματος εφαρμογής</string>
   <string name="toast_title_required">Περιγράψτε το πρόβλημά σας</string>
   <string name="try_again">Προσπαθήστε ξανά</string>
@@ -323,7 +323,7 @@
   <string name="catch_full_log_action_cancel">Ακύρωση</string>
   <string name="catch_full_log_action_complete">Ολοκλήρωση και αποστολή</string>
   <string name="catch_full_log_action_start">Δημιουργία log</string>
-  <string name="catch_full_log_add_original_photo">Προσθήκη φωτό</string>
+  <string name="catch_full_log_add_original_photo">Προσθήκη πρωτότυπης εικόνας ή σύντομου βίντεο</string>
   <string name="catch_full_log_add_photo">Προσθήκη φωτό</string>
   <string name="catch_full_log_add_photo_dialog_content">"Εάν το ζήτημα που αναφέρετε σχετίζεται με την ποιότητα της φωτογραφίας, προσθέστε μια πρωτότυπη φωτογραφία δείγμα (χωρίς περικοπή) για να μας βοηθήσετε να εντοπίσουμε το πρόβλημα. Προσθήκη φωτογραφίας τώρα;"</string>
   <string name="catch_full_log_dialog_confirm_text">Μετάβαση στην Αρχική οθόνη</string>
@@ -349,5 +349,6 @@
   <string name="catch_full_log_submit_directly">Υποβολή</string>
   <string name="title_catch_full_log">Logs</string>
   <string name="toast_catch_full_log_catching">Μπορείτε να δημιουργήσετε μόνο ένα Log τη φορά.</string>
+  <string name="title_first_aid">Πρώτες Βοήθειες</string>
 </resources>
   

@@ -470,4 +470,14 @@
   <string name="passport_input_phone_password">Εισάγετε τον κωδικό πρόσβασης για τον αριθμό κινητού %s</string>
   <string name="passport_international_register_by_email">Δημιουργήστε έναν λογαριασμό με χρήση e-mail</string>
   <string name="passport_sms_verification_code_login_or_register">Είσοδος ή Εγγραφή με χρήση SMS</string>
+  <string name="collect_diagnosis_log">Συλλογή καταγραφής διαγνωστικών</string>
+  <string name="diagnosis_log_send_failed">Το αρχείο καταγραφής διαγνωστικών απέτυχε.</string>
+  <string name="diagnosis_log_sent_format">"Η καταγραφής διαγνωστικών στάλθηκε.
+ID:%s
+Στείλτε αυτόν τον κωδικό στον τεχνικό."</string>
+  <string name="for_diagnosis_usage_only">Χρήση της πληροφ. για διάγνωση μόνο.</string>
+  <string name="ok">OK</string>
+  <string name="send_diagnosis_log">Αποστολή καταγραφής διάγνωσης</string>
+  <string name="sending">Αποστέλεται...</string>
+  <string name="temporary_not_available">προσωρινά μη διαθέσιμη</string>
 </resources>

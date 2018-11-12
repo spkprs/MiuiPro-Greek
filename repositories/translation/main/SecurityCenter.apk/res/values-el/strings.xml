@@ -164,7 +164,7 @@
   <string name="app_manager_details_traffic_title">Χρήση δεδομένων μηνιαία</string>
   <string name="app_manager_disable">Να μην επιτρέπεται</string>
   <string name="app_manager_disable_dlg_text">Εάν απενεργοποιήσετε αυτήν την εφαρμογή, άλλες εφαρμογές ενδέχεται να μην λειτουργούν πλέον όπως προβλέπεται.</string>
-  <string name="app_manager_disable_dlg_title">Απενεργοποίηση προεγκατεστημένης εφαρμογής;</string>
+  <string name="app_manager_disable_dlg_title">Απεν. προεγκατεστημένης εφαρμ ;</string>
   <string name="app_manager_disable_text">Απενεργοποίηση</string>
   <string name="app_manager_disabled">Απενεργοποιήθηκε</string>
   <string name="app_manager_disabled_by_admin">Απενεργοποιήθηκε από τον Διαχειριστή</string>
@@ -1289,7 +1289,7 @@
   <string name="om_settings_lock_app">Κλείδωμα εφαρμογών</string>
   <string name="om_settings_lock_app_manage">Κλείδωμα εφαρμογών</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Ειδοποίηση όταν το μέγεθος της προσωρινής μνήμης είναι πολύ μεγάλο</string>
-  <string name="om_settings_memory_clean_lock_screen">Διαγραφή προσωρινής μνήμης όταν είναι κλειδωμένη</string>
+  <string name="om_settings_memory_clean_lock_screen">Διαγραφή προσωρινής μνήμης όταν κλειδώσει η συσκευή</string>
   <string name="om_settings_memory_occupy_notify">Υψηλό μέγεθος μνήμης cache</string>
   <string name="om_settings_memory_occupy_notify_never">Ποτέ</string>
   <string name="om_settings_notify_manage">Ειδοποιήσεις</string>

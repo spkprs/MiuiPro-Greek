@@ -112,4 +112,6 @@
      <string name="sync_notification_title_format">Τρέχον στοιχείο συγχρονισμού: %1$s</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xmsf_activate_info">XMSF πληροφορίες ενεργοποίησης</string>
+     <string name="pop_up_allow_notify_dialog">Αποδοχή</string>
+     <string name="pop_up_deny_notify_dialog">Απόρριψη</string>
 </resources>

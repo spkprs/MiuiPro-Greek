@@ -5,8 +5,8 @@
 		<item quantity="one">1 κλήση καταγράφηκε.</item>
 	  </plurals>
 	  <plurals name="livetalk_left_minute">
-		<item quantity="other">%d λεπτά απομένουν</item>
-		<item quantity="one">%d λεπτό απομένει</item>
+		<item quantity="other">%d λεπ απομένουν</item>
+		<item quantity="one">%d λεπ απομένει</item>
 	  </plurals>
 	 <plurals name="duration_seconds">
 		<item quantity="other">%d δευτ.</item>
@@ -20,4 +20,16 @@
 		<item quantity="other">%d ώρες</item>
 		<item quantity="one">1 ώρα</item>
 	</plurals>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s άτομα</item>
+        <item quantity="one">%s άτομο</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Επανακλήθηκε %d φορές</item>
+        <item quantity="one">Επανακλήθηκε %d φορά</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">Αναφέρθηκε από %d χρήστες MIUI</item>
+        <item quantity="one">Αναφέρθηκε από %d χρήστη MIUI</item>
+    </plurals>
 </resources>

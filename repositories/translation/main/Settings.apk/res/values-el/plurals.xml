@@ -153,12 +153,12 @@
     <item quantity="one">Περιμένετε για %d και δοκιμάστε ξανά.</item>
   </plurals>
   <plurals name="manage_notification_access_summary_nonzero">
-    <item quantity="other">%d εφαρμογές μπορούν να διαβάσουν τις ειδοποιήσεις</item>
-    <item quantity="one">%d εφαρμογή μπορεί να διαβάσει τις ειδοποιήσεις</item>
+    <item quantity="other">%d εφαρμογές έχουν πρόσβαση στις ειδοποιήσεις</item>
+    <item quantity="one">%d εφαρμογή έχει πρόσβαση στις ειδοποιήσεις</item>
   </plurals>
   <plurals name="manage_trust_agents_summary_on">
-    <item quantity="other">%d ενεργοί παράγοντες εμπιστοσύνης</item>
-    <item quantity="one">1 ενεργός παράγοντας εμπιστοσύνης</item>
+    <item quantity="other">%d ενεργοί έμπιστοι παράγοντες</item>
+    <item quantity="one">1 ενεργός έμπιστος παράγοντας</item>
   </plurals>
   <plurals name="master_clear_with_account_summary">
     <item quantity="other">Θα γίνει επαναφορά %1$d λογαριασμών</item>

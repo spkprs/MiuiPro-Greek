@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d ώρες "</item>
-        <item quantity="one">"%1$d ώρα "</item>
+        <item quantity="other">"%1$d ώρ "</item>
+        <item quantity="one">"%1$d ώρ"</item>
     </plurals>
     <plurals name="timer_message_minute">
-        <item quantity="other">"%1$d λεπτά "</item>
-        <item quantity="one">"%1$d λεπτό "</item>
+        <item quantity="other">"%1$d λεπ "</item>
+        <item quantity="one">"%1$d λεπ "</item>
     </plurals>
     <plurals name="timer_message_second">
         <item quantity="other">%1$d δευτ.</item>
@@ -14,23 +14,23 @@
     </plurals>
     <plurals name="timer_item_duration_display_seconds">
         <item quantity="other">%1$d δευτ.</item>
-        <item quantity="one">Ένα δευτ.</item>
+        <item quantity="one">1 δευτ.</item>
     </plurals>
     <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d λεπτά</item>
-        <item quantity="one">1 λεπτό</item>
+        <item quantity="other">%1$d λεπ</item>
+        <item quantity="one">1 λεπ</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Αναβολή για %d λεπτά</item>
-        <item quantity="one">Αναβολή για %d λεπτό</item>
+        <item quantity="other">Αναβολή για %d λεπ</item>
+        <item quantity="one">Αναβολή για %d λεπ</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Αναβολή για %d λεπτά.</item>
-        <item quantity="one">Αναβολή για %d λεπτό.</item>
+        <item quantity="other">Αναβολή για %d λεπ</item>
+        <item quantity="one">Αναβολή για %d λεπ</item>
     </plurals>
     <plurals name="auto_silence_summary">
-        <item quantity="other">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπτά</item>
-        <item quantity="one">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπτό</item>
+        <item quantity="other">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπ</item>
+        <item quantity="one">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπ</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Διαγραφή των επιλεγμένων αφυπνίσεων;</item>

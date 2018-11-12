@@ -91,9 +91,9 @@
   <string name="all_video_album_display_name">Όλα τα βίντεο</string>
   <string name="already_create_baby_album">Το άλμπουμ του μωρού υπάρχει ήδη στο Mi Cloud.</string>
   <string name="and">και</string>
-  <string name="app_is_launching">%s ξεκινάει…</string>
+  <string name="app_is_launching">%s εκκινείται…</string>
   <string name="app_is_launching_common">Εκκίνηση εφαρμογής…</string>
-  <string name="app_name">Άλμπουμ</string>
+  <string name="app_name">Συλλογή</string>
   <string name="app_name_view_picture">Προβολή εικόνας</string>
   <string name="app_name_view_video">Προβολή βίντεο</string>
   <string name="apply">Εφαρμογή</string>

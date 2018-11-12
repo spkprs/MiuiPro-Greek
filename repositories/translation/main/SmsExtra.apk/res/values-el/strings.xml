@@ -26,7 +26,12 @@
      <string name="message_type_label">"Τύπος: "</string>
      <string name="received_label">"Ελήφθη: "</string>
      <string name="sent_label">"Απεστάλη: "</string>
-    <string name="summary_pref_cm_smart_sms">Παρέχει Πρότυπα καρτών, αριθμούς υπηρεσιών SMS, κ.τ.λ.</string>
+     <string name="summary_pref_cm_smart_sms">Παρέχει Πρότυπα καρτών, αριθμούς υπηρεσιών SMS, κ.τ.λ.</string>
      <string name="text_message">Μήνυμα κειμένου</string>
      <string name="view_message_details">Δείτε λεπτομέρειες</string>
+     <string name="allow_network_hint">Ενεργοποιήστε την \"Ενημέρωση πληροφοριών αυτόματα\" ή ελέγξτε τη σύνδεση δικτύου</string>
+     <string name="already_updated">Ενημερωμένο</string>
+     <string name="click_to_update">Αγγίξτε για έλεγχο ενημέρωσης</string>
+     <string name="current_data_version">Έκδοση Mi Μήνυμα</string>
+     <string name="updating">Ενημερώνεται...</string>
 </resources>
