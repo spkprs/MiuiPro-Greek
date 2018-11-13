@@ -1344,4 +1344,16 @@
     <string name="guide_know_type_subtitle">Λάβετε καταπληκτικές συστάσεις</string>
     <string name="guide_slide_down">Παρακαλώ σύρετε κάτω</string> 
     <string name="guide_slide_up">Παρακαλώ σύρετε επάνω</string> 
+    <string name="action_menu_toast_incognito_off">Απενεργοποίηση ανώνυμης περιήγησης</string>
+    <string name="action_menu_toast_incognito_on">Ενεργοποίηση ανώνυμης περιήγησης</string>
+    <string name="app_download_market_text">Χρήση του Mi Market για γρήγορη και ασφαλή λήψη</string>
+    <string name="contextmenu_incognito">Ανώνυμη περιήγηση</string>
+    <string name="document_download_immediate">Άμεση λήψη</string>
+    <string name="document_download_normal">Κανονική λήψη</string>
+    <string name="document_download_recommending">Ασφαλή λήψη (Προτείνεται)</string>
+    <string name="download_dialog_file_length_default_txt">Μισό λεπτό…</string>
+    <string name="novel_toast_hint">Αυτός ο ιστότοπος προστέθηκε στη βιβλιοθήκη</string>
+    <string name="pref_fling_gesture">Σύρετε χειρονομία</string>
+    <string name="publish_to_topic">δημοσίευση στο θέμα</string>
+    <string name="suggestion_sliding_item_more_text">ΠΕΡΙΣΣΟΤΕΡΑ</string>
 </resources>

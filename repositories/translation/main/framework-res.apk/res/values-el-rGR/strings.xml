@@ -331,9 +331,9 @@
   <string name="ext_media_status_unmounted">Έχει εκτοξευθεί</string>
   <string name="ext_media_status_unsupported">Δεν υποστηρίζεται</string>
   <string name="ext_media_unmount_action">Εξαγωγή</string>
-  <string name="ext_media_unmountable_notification_message">Το %s είναι κατεστραμμένο. Πατήστε για επιδιόρθωση.</string>
-  <string name="ext_media_unmountable_notification_title">Το %s είναι κατεστραμμένο</string>
-  <string name="ext_media_unmounting_notification_message">Μην αφαιρείτε</string>
+  <string name="ext_media_unmountable_notification_message">Η %s είναι κατεστραμμένη. Πατήστε για επιδιόρθωση.</string>
+  <string name="ext_media_unmountable_notification_title">Η %s είναι κατεστραμμένη</string>
+  <string name="ext_media_unmounting_notification_message">Μην την αφαιρείτε</string>
   <string name="ext_media_unmounting_notification_title">Εξακολουθεί να εξάγεται %s…</string>
   <string name="ext_media_unsupported_notification_message">Αυτή η συσκευή δεν υποστηρίζει τό %s. Πατήστε για να ρυθμίσετε σε μια υποστηριζόμενη μορφή.</string>
   <string name="ext_media_unsupported_notification_title">Ανυποστήρικτη %s</string>

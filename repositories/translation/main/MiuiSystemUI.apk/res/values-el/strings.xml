@@ -1534,7 +1534,7 @@
   <string name="unimportant_desc">Όλες οι Ασήμαντες ειδοποιήσεις θα εμφανίζονται σε έναν ξεχωριστό φάκελο.</string>
   <string name="unimportant_title">Ασήμαντη</string>
   <string name="unknown">Αγνωστη</string>
-  <string name="unlock_camera_steady">Κρατήστε το τηλέφωνό σας σταθερά</string>
+  <string name="unlock_camera_steady">"Μην κινείτε το τηλέφωνό σας"</string>
   <string name="unlock_failed">Εσωτερικό σφάλμα</string>
   <string name="unlock_failed_face_not_found">Ανίχνευση…</string>
   <string name="unlock_label">Ξεκλείδωμα</string>
@@ -1681,4 +1681,5 @@
   <string name="enable_atrace_summary">Καταγραφή συμβάντων πυρήνα με χρήση ATrace</string>
   <string name="structure_face_unlock_tof_covered">"Αδύνατη η η προσθήκη δεδομένων προσώπου. Μετακινηθείτε πιο μακριά από την οθόνη."</string>
   <string name="download_lock_wallpaper">Διπλό άγγιγμα για λήψη Μουσικής</string>
+  <string name="status_bar_clock_date_time_format_12">h:mm aa, MMM d</string>
 </resources>
