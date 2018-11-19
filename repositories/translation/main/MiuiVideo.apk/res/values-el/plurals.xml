@@ -20,6 +20,10 @@
     <item quantity="other">Επιλεγμένα %1$s στοιχεία</item>
     <item quantity="one">Επιλεγμένο %1$s στοιχείο</item>
   </plurals>
+  <plurals name="finish_item_all_counts">
+    <item quantity="other">%1$s βίντεο</item>
+    <item quantity="one">%1$s βίντεο</item>
+  </plurals>
   <plurals name="notification_sub_title">
     <item quantity="other">Λήψη %d αρχείων με επιτυχία</item>
     <item quantity="one">Λήψη %d αρχείο με επιτυχία</item>
@@ -47,6 +51,14 @@
   <plurals name="updated_already">
     <item quantity="other">Ενημερώθηκαν %d στοιχεία</item>
     <item quantity="one">Ενημερώθηκε %d στοιχείο</item>
+  </plurals>
+  <plurals name="v_cache_videos">
+    <item quantity="other">%d αποθηκευμένα βίντεο</item>
+    <item quantity="one">%d αποθηκευμένο βίντεο</item>
+  </plurals>
+  <plurals name="v_coin_show">
+    <item quantity="other">%d νομίσματα</item>
+    <item quantity="one">%d νόμισμα</item>
   </plurals>
   <plurals name="v_video_count">
     <item quantity="other">%d βίντεο</item>

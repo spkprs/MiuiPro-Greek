@@ -1,51 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="lang_detect">
-    <item>中</item>
-    <item>繁</item>
-    <item>英</item>
-    <item>韩</item>
-    <item>日</item>
-    <item>法</item>
+  <string-array name="feedback_tag_list">
+    <item>Σφάλμα, 1</item>
+    <item>Προτάσεις, 2</item>
+    <item>Άλλα θέματα, 0</item>
   </string-array>
-  <string-array name="lang_fast_detect">
-    <item />
-    <item>德</item>
-    <item>英</item>
-    <item>西</item>
-    <item>ελλάδα</item>
-    <item>法</item>
-    <item>κροατία</item>
-    <item>意</item>
-    <item>荷</item>
-    <item>πολωνία</item>
-    <item>πορτογαλία</item>
-    <item>俄</item>
-    <item>ρουμανία</item>
-    <item>σουηδία</item>
-    <item>αραβικά</item>
-    <item>中</item>
-    <item>日</item>
-    <item>韩</item>
-    <item>περσικά</item>
-    <item>φινλανδία</item>
-    <item>νορβηγία</item>
+  <string-array name="message_center_tab_list">
+    <item>Σχόλια</item>
+    <item>Αρέσει</item>
+    <item>Ειδοποιήσεις</item>
   </string-array>
-  <string-array name="lang_fast_internal_language">
-    <item>αγγλικά και κινέζικα</item>
-    <item>κινέζικα και αγγλικά</item>
+  <string-array name="passport_alphabet_table">
+    <item>\#</item>
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>H</item>
+    <item>I</item>
+    <item>J</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
   </string-array>
-  <string-array name="lang_fast_internal_language_codes">
-    <item>αγγλικά στο επόμενο</item>
-    <item>γιούκαρι νακαγκάμι</item>
+  <string-array name="server_list_entries">
+    <item>δοκιμή διακομιστή</item>
+    <item>επίσημος διακομιστής</item>
   </string-array>
-    <string-array name="message_center_tab_list">
-        <item>Σχόλια</item>
-        <item>Αρέσει</item>
-        <item>Ειδοποιήσεις</item>
-    </string-array>
   <string-array name="version_list_entries">
-    <item>Stable</item>
+    <item>Σταθερή</item>
     <item>Alpha</item>
   </string-array>
 </resources>
