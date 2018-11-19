@@ -422,5 +422,9 @@
   <string name="qq_login">Συνδεθείτε στο QQ</string> 
   <string name="confirm_close_password_desc">"Δεν θα μπορείτε να εισέλθετε στον Δεύτερο Χώρο από την Οθόνη Κλείδωματος μετά την απενεργοποίηση του κωδικού. Απενεργοποίηση ούτως ή άλλως;"</string>
   <string name="confirm_close_password_title">Απενεργοποίηση κωδικού</string>
- <string name="xspace_remove">"Διαγραφή λογαριασμών Διπλών εφαρμογών"</string>
+  <string name="xspace_remove">"Διαγραφή λογαριασμών Διπλών εφαρμογών"</string>
+  <string name="greenguard_child_des">Χρησιμοποιήστε την εφαρμογή μας για να μείνετε συνδεδεμένοι​</string>
+  <string name="greenguard_child_des_title">Χρειάζομαι βοήθεια από τους φίλους και την οικογένειά μου</string>
+  <string name="greenguard_parent_des">"Κάντε λήψη της εφαρμογής μας και προσθέστε τις συσκευές άλλων ανθρώπων"</string>
+  <string name="greenguard_parent_des_title">Πρέπει να βοηθήσω τους φίλους και την οικογένειά μου</string>
 </resources>

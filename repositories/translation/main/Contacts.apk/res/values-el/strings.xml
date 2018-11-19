@@ -114,8 +114,8 @@
   <string name="callrecordview_item_op_time_only_minutes">%d λεπ</string>
   <string name="callrecordview_item_op_time_only_seconds">%d δευ</string>
   <string name="callrecordview_item_op_time_rejected">Απορρίφθηκε</string>
-  <string name="callrecordview_item_op_time_short_incoming">"Εισερχ.: "</string>
-  <string name="callrecordview_item_op_time_short_outgoing">"Εξερχ.: "</string>
+  <string name="callrecordview_item_op_time_short_incoming">"Εισερχ: "</string>
+  <string name="callrecordview_item_op_time_short_outgoing">"Εξερχ: "</string>
   <string name="callrecordview_item_op_video">Βίντεο</string>
   <string name="callrecordview_menu_add_call_note">Προσθήκη σημείωσης κλήσης</string>
   <string name="callrecordview_menu_batch_delete">Ομαδική διαγραφή</string>
@@ -607,7 +607,7 @@
   <string name="menu_contacts_filter">Επαφές που θα εμφανίζονται</string>
   <string name="menu_copy">Αντιγραφή</string>
   <string name="menu_copyContact">Αντιγραφή στις Επαφές μου</string>
-  <string name="menu_create_contact_shortcut">Τοποθέτηση στην Αρχική οθόνη</string>
+  <string name="menu_create_contact_shortcut">Συντόμευση στην Αρχική οθόνη</string>
   <string name="menu_deleteContact">Διαγραφή</string>
   <string name="menu_deleteGroup">Διαγραφή</string>
   <string name="menu_dial_ip_number">Κλήση IP κλήσης</string>
@@ -1001,7 +1001,7 @@
   <string name="select_none">Καμία επιλογή</string>
   <string name="select_show_contacts">Λίστα επαφών</string>
   <string name="select_vcard_title">Επιλέξτε αρχείο vCard</string>
-  <string name="send_contact_shortcut_todesktop_success">Προσθέστε στην Αρχική οθόνη</string>
+  <string name="send_contact_shortcut_todesktop_success">Προστέθηκε στην Αρχική οθόνη</string>
   <string name="send_to_voicemail_checkbox">Αποστολή κλήσεων απευθείας στον αυτόματο τηλεφωνητή</string>
   <string name="separatorJoinAggregateAll">Όλες οι επαφές</string>
   <string name="separatorJoinAggregateSuggestions">Προτεινόμενες επαφές</string>

@@ -1682,4 +1682,6 @@
   <string name="structure_face_unlock_tof_covered">"Αδύνατη η η προσθήκη δεδομένων προσώπου. Μετακινηθείτε πιο μακριά από την οθόνη."</string>
   <string name="download_lock_wallpaper">Διπλό άγγιγμα για λήψη Μουσικής</string>
   <string name="status_bar_clock_date_time_format_12">h:mm aa, MMM d</string>
+  <string name="quick_settings_tiles_default">κινητή,wifi,φακός,σίγαση,στιγμιότυπο,bt,αυτ φωτεινότητα,αεροπλάνο,κλείδωμα οθόνης,gps,περιστροφή,επεξεργασία</string> 
+  <string name="quick_settings_tiles_stock">κινητή,wifi,φακός,σίγαση,στιγμιότυπο,bt,αυτ φωτεινότητα,αεροπλάνο,κλείδωμα οθόνης,gps,περιστροφή,επεξεργασία,ανάγνωση,αθόρυβο,εξοικονόμιση,μέγιστη εξοικ,σύνδεση,τροφοδοσία,δόνηση,hotspot,συγχρ,πλήκτρα οθόνης</string>  
 </resources>

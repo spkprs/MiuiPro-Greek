@@ -279,7 +279,7 @@
   <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>
   <string name="recommend_apps_tips">Για αυτή τη λειτουργία, πρέπει να συνδεθείτε στο Internet για να λειτουργήσει κανονικά. Για να την απενεργοποιήσετε, αγγίξτε το όνομα του τρέχοντος φακέλου.</string>
   <string name="recommend_loading">Φόρτωση</string>
-  <string name="refresh">Ανανέωση</string>
+  <string name="recommend_refresh">Ανανέωση</string>
   <string name="reset_description_first_time">Μπορείτε να επαναφέρετε τη διάταξη από %1$s εντός 2 ωρών</string>
   <string name="reset_description_others">Μπορείτε να επαναφέρετε τη διάταξη από %1$s</string>
   <string name="reset_fail">Αδύνατη η Επαναφορά</string>
@@ -346,4 +346,9 @@
   <string name="widget_global_search">Παγκόσμια αναζήτηση</string>
   <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
   <string name="use_theme_screen_cells_title">Επιτρέψτε στο θέμα να παρακάμπτει τη διάταξη οθόνης</string>
+  <string name="announce_for_app_move_in_folder">Μετακινήθηκε στη θέση %1$d στο φάκελο</string> 
+  <string name="announce_for_create_folder_with_app">Δημιουργήθηκε ένας φάκελος με %1$s</string>   
+  <string name="announce_for_widget_span">Πλάτος %1$d, Ύψος %2$d</string> 
+  <string name="recommend_apps_no_data_toast">Δεν υπάρχουν συστάσεις για τώρα.</string> 
+  <string name="recommend_xout">"Χωρίς εμφάνιση"</string>  
 </resources>

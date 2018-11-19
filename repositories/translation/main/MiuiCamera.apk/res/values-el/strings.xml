@@ -430,17 +430,19 @@
   <string name="pref_camera_volumekey_function_entry_zoom">Ζούμ</string>
   <string name="pref_camera_volumekey_function_title">Λειτουργία κουμπιών έντασης</string>
   <string name="pref_camera_watermark_title">Προσθήκη χρόνου στις φωτογραφίες</string>
-  <string name="pref_camera_whitebalance_entry_auto">Auto</string>
+  <string name="pref_camera_whitebalance_entry_auto">AUTO</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Νεφελώδης</string>
   <string name="pref_camera_whitebalance_entry_daylight">Φως ημέρας</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Φθορίου</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Πυρακτώσεως</string>
   <string name="pref_camera_whitebalance_entry_manual">Χειροκίνητα</string>
   <string name="pref_camera_whitebalance_entry_measure">Μέτρηση</string>
-  <string name="pref_camera_whitebalance_title">Ισορροπία λευκού</string>
-  <string name="pref_camera_zoom_mode_entry_tele">Τηλε</string>
+  <string name="pref_camera_whitebalance_title">WB</string>
+  <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">ULTRA</string>
   <string name="pref_camera_zoom_mode_entry_wide">Ευρεία</string>
   <string name="pref_camera_zoom_mode_title">Φακός</string>
+  <string name="pref_camera_zoom_value_title">ZOOM</string>
   <string name="pref_camera_zoom_ratio_tele">200</string>
   <string name="pref_camera_zoom_ratio_wide">100</string>
   <string name="pref_camera_zsl_entry_off">Off</string>
@@ -617,4 +619,7 @@
   <string name="beauty_body_shoulder">Ώμος</string>
   <string name="ultra_wide_open_tip">Λειτουργία Υπέρ Ευρείας Γωνίας</string>
   <string name="super_night_toast">Λήψη μιας φωτογραφίας, παρακαλώ κρατήστε το τηλέφωνό σας</string>
+  <string name="accessibility_camera_liveshot_off">Η λειτ. Δυναμικής φωτ. είναι ανενεργή</string>
+  <string name="accessibility_camera_liveshot_on">Η λειτ. Δυναμικής φωτ. είναι ενεργή</string>
+  <string name="ultra_wide_recommend_tip_hint">Συνιστάται η ενεργ. της λειτ. Υπέρ ευρείας γωνίας</string>  
 </resources>

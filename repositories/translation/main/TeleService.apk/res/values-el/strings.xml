@@ -1232,10 +1232,12 @@
    <string name="wifi_call_setting">Wi-Fi κλήσεις</string>
    <string name="wificall_switch_summary">Η συσκευή σας μπορεί να αλλάξει μεταξύ Wi-Fi και VoLTE όταν η σύνδεση είναι ασθενής</string>
    <string name="wificall_switch_title">Κάντε κλήσεις με χρήση Wi-Fi</string>
-    <string name="button_color_title">Χρώμα Πλήκτρου</string>
-    <string name="text_color_title">Χρώμα ετικέτας Πλήκτρου</string>
-    <string name="name_color_title">Χρώμα ονόματος, διάρκειας, κτλ.</string>
-    <string name="number_color_title">Χρώμα αριθμών, γραμμάτων, κτλ.</string>
-    <string name="icon_color_title">Χρώμα SIM, συμβόλων, κτλ.</string>
-    <string name="call_windows_title">Παράθυρο Κλήσης</string>
+   <string name="button_color_title">Χρώμα Πλήκτρου</string>
+   <string name="text_color_title">Χρώμα ετικέτας Πλήκτρου</string>
+   <string name="name_color_title">Χρώμα ονόματος, διάρκειας, κτλ.</string>
+   <string name="number_color_title">Χρώμα αριθμών, γραμμάτων, κτλ.</string>
+   <string name="icon_color_title">Χρώμα SIM, συμβόλων, κτλ.</string>
+   <string name="call_windows_title">Παράθυρο Κλήσης</string>
+   <string name="sip_account_disable">"Ο λογαριασμός δεν είναι ενεργός. Αδύνατη η αποδοχή κλήσεων."</string> 
+   <string name="sip_receive_call_disable">"Αδύνατη η αποδοχή κλήσεων. Επιτρέψτε πρώτα την αποδοχή κλήσεων."</string> 
 </resources>

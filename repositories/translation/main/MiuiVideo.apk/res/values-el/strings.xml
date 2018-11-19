@@ -405,7 +405,7 @@
   <string name="receive_follow">Ειδοποιήσεις νέων επεισοδίων</string>
   <string name="receive_follow_summary">Λήψη ειδοποιήσεων όταν ένα νέο επεισόδιο είναι διαθέσιμο</string>
   <string name="receive_mipush">Λήψη Xiaomi push</string>
-  <string name="receive_mipush_summary">Λάβετε ειδοποιήσεις για νέα και ενημερωμένες σε απευθείας σύνδεση περιεχόμενου</string>
+  <string name="receive_mipush_summary">Λάβετε ειδοποιήσεις για νέα και ενημερώσεις περιεχόμενου σε απευθείας σύνδεση</string>
   <string name="reload_sub_title">Πατήστε για επανάληψη</string>
   <string name="reload_title">Αδυναμία σύνδεσης στο δίκτυο</string>
   <string name="replay">Επανάληψη</string>
@@ -647,10 +647,10 @@
   <string name="v_update">Ενημέρωση</string>
   <string name="v_updating">Ενημέρωση…</string>
   <string name="v_variety_episode_count">Ενημερώθηκε για την περίοδο %s</string>
-  <string name="v_version_alpha">Εσωτερική</string>
+  <string name="v_version_alpha">Alpha</string>
   <string name="v_version_release">Σταθερή</string>
   <string name="v_video_category">Κατηγορία</string>
-  <string name="v_video_history">Ιστορία</string>
+  <string name="v_video_history">Ιστορικό</string>
   <string name="v_video_local">Τοπικά</string>
   <string name="v_video_mine">Τα δικά μου</string>
   <string name="v_video_null">Δεν υπάρχουν βίντεο</string>

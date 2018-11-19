@@ -110,4 +110,5 @@
   <string name="ai_button_title">Σχετικά με το κουμπί AI</string>
   <string name="accessibility_summary_source">Παρέχεται από %s</string>
   <string name="credentials_title_verification">Επαλήθευση</string>
+  <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
 </resources>
