@@ -1314,4 +1314,5 @@
   <string name="ext_sdcard_permission_request_title">Επιτρέψτε στη Συλλογή την πρόσβαση στην κάρτα SD</string>
   <string name="ext_sdcard_request_failed_button_text">OK</string>
   <string name="ext_sdcard_request_succeed_toast_text">"Είστε έτοιμοι!"</string>
+  <string name="photo_editor_talkback_crop_screen">Αναλογία διαστάσεων πλήρους οθόνης</string> 
 </resources>

@@ -253,4 +253,5 @@
   <string name="prompt_no_volte_when_failed">"Η υπηρεσία VoLTE δεν είναι διαθέσιμη."</string>
   <string name="description_message_list_title">Λίστα γρήγορων απαντήσεων</string> 
   <string name="volume_boost_text">Ολοκληρώθηκε η ενίσχυση έντασης</string>
+  <string name="supp_service_notification_call_waiting">Ο αριθμός που καλέσατε είναι απασχολημένος. Παρακαλώ περιμένετε…</string>   
 </resources>

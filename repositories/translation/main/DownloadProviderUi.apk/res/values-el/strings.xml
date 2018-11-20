@@ -493,4 +493,5 @@
   <string name="xunlei_open_info">Χρήση μηχανής Xunlei για άνοιγμα αυτού του είδους συνδέσμου (απαιτείται);</string>
   <string name="xunlei_speed_service">Επιτάχυνση λήψεων Xunlei</string>
   <string name="xunlei_switch">Μηχανή λήψεων Xunlei</string>
+  <string name="ad">Διαφήμιση</string> 
 </resources>

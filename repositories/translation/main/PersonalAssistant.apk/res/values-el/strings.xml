@@ -327,7 +327,6 @@
     <string name="express_inqiury_select_logistics">Υπηρεσία ταχυμεταφορών</string>
     <string name="express_inquiry">Παρακολούθηση</string>
     <string name="express_inquiry_and_send">Παρακολούθηση και αποστολή</string>
-    <string name="express_inquiry_button_text">Πίστα</string>
     <string name="express_inquiry_clipboard_number_message">Ακολουθήστε τον αριθμό αντιγραφής;</string>
     <string name="express_inquiry_data_owner_prefix">Παρακολούθηση πληροφοριών που παρέχονται από</string>
     <string name="express_inquiry_delete_warning_multiple">Διαγραφή %d καταχωρήσεις;</string>
@@ -1094,4 +1093,6 @@
   <string name="card_banner_close_never">Χωρίς υπενθύμιση ξανά</string>
   <string name="card_banner_close_tomorrow">Υπενθύμιση αύριο</string>
   <string name="cta_dialog_miot_text_all">Για να διασφαλιστεί η κανονική λειτουργία, το Mi Home μπορεί να χρειαστεί να αποκτήσει πρόσβαση στο Wi-Fi σας, στην Τοποθεσία σας, την ενεργοποίηση του Bluetooth, στο Δίκτυο κινητής, στο Μικρόφωνο και στην ανάγνωση των Επαφών σας. Επιβεβαιώνετε;</string>
+  <string name="express_query">Παρακολούθηση</string>
+  <string name="express_query_more">Περισ. παρακολούθηση</string>
 </resources>

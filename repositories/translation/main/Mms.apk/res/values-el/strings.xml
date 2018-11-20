@@ -144,7 +144,6 @@
   <string name="dialog_message_networking_mx_rcs">Το Mi Message σάς επιτρέπει να στέλνετε μηνύματα σε άλλες συσκευές MIUI και χρήστες της China Mobile χωρίς να χρεώνεστε. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση του μηνύματος Mi. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνείτε με μας \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το μήνυμα Mi. Τα μηνύματα πρέπει να συνδεθούν στο Internet και να αποκτήσουν πρόσβαση στην τοποθεσία σας, προκειμένου να παρέχουν Smart Messaging, αναγνώριση ID αποστολέα και άλλες υπηρεσίες. Επιτρέπω?</string>
   <string name="dialog_message_networking_rcs">Το Mobile Messaging της Κίνας σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες της China Mobile χωρίς να χρεώνεστε. Πρέπει να συμφωνήσετε \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το China Mobile Messaging. Τα μηνύματα πρέπει να συνδεθούν στο Internet και να αποκτήσουν πρόσβαση στην τοποθεσία σας, προκειμένου να παρέχουν Smart Messaging, αναγνώριση ID αποστολέα και άλλες υπηρεσίες. Επιτρέπω?</string>
   <string name="dialog_message_rcs">Το Mobile Messaging της Κίνας σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες της ηπηρωτικής Κίνας χωρίς να χρεώνεστε. Πρέπει να συμφωνήσετε \"%1$s\" πριν χρησιμοποιήσετε το China Mobile Messaging.</string>
-  <string name="dialog_message_sms_report">Τα μηνύματα ανεπιθύμητης αλληλογραφίας και οι πληροφορίες του αποστολέα θα μεταφορτωθούν στο MIUI όταν τα αναφέρετε. Θα χρησιμοποιηθούν μόνο για τη βελτίωση των φίλτρων ανεπιθύμητης αλληλογραφίας του MIUI.</string>
   <string name="dialog_title_fake_cell_detect_error">Διόρθωση</string>
   <string name="dialog_title_mx_rcs">Mi Μήνυμα</string>
   <string name="dialog_title_networking">Οροι και Προϋποθέσεις</string>
@@ -180,7 +179,6 @@
   <string name="ex_type_guide">Πληροφορίες</string>
   <string name="ex_type_mx">Mi Μήνυμα</string>
   <string name="ex_type_sms">SMS/MMS</string>
-  <string name="exceed_length_limit">υπέρβαση του ορίου μέγιστου μήκους</string>
   <string name="exceed_message_size_limitation">Το όριο μεγέθους μηνυμάτων έχει επιτευχθεί.</string>
   <string name="exceed_message_size_limitation_add_slide">Το μέγεθος του μηνύματος δεν είναι αρκετό για να προσθέσετε διαφάνεια</string>
   <string name="exceed_message_text_limitation">Το όριο μεγέθους του μηνύματος έχει επιτευχθεί.</string>
@@ -219,14 +217,14 @@
   <string name="group_already_kicked_hint">Δεν είστε σε αυτήν την ομάδα, δεν μπορείτε να στείλετε ένα μήνυμα.</string>
   <string name="group_message">Ομαδικό μήνυμα</string>
   <string name="group_message_title">Ομαδική συνομιλία</string>
-  <string name="group_not_exist_hint">Η ομάδα έχει διαλυθεί και δεν μπορεί να στείλει μηνύματα</string>
-  <string name="group_notify_message_title">Μήνυμα ειδοποίησης ομάδας</string>
-  <string name="group_rejoin_failed">Η λειτουργία ομάδας απέτυχε</string>
+  <string name="group_not_exist_hint">Η ομάδα έχει διαγραφεί και δεν μπορεί να στείλετε μηνύματα</string>
+  <string name="group_notify_message_title">Ειδοποιήσεις Ομαδικών συνομιλιών</string>
+  <string name="group_rejoin_failed">Αδύνατη η συμμετοχή στην ομαδική συζήτηση</string>
   <string name="group_resend_message">Αποστολή ξανά (%d)</string>
   <string name="group_verification_codes_summary">Αυτόματη ομαδοποίηση των κωδικών πρόσβασης ενός χρόνου μαζί</string>
   <string name="group_verification_codes_title">Ομαδική κωδικοποίηση κωδικών</string>
-  <string name="group_view_settings_disolved">Η ομάδα έχει διαλυθεί και δεν μπορεί να δει τα δεδομένα ομάδας.</string>
-  <string name="group_view_settings_not_memeber">Όχι σε αυτήν την ομάδα, δεν μπορείτε να δείτε δεδομένα ομάδας</string>
+  <string name="group_view_settings_disolved">Η ομάδα έχει διαλυθεί και δεν μπορείτε να δείτε τα στοιχεία της.</string>
+  <string name="group_view_settings_not_memeber">Αδύνατη η προβολή στοιχείων. Δεν είστε μέλος αυτής της ομαδικής συνομιλίας</string>
   <string name="guild_add_attachments">Πατήστε για να emoticons ή άλλο περιεχόμενο</string>
   <string name="guild_add_recipients">Πατήστε για να προσθέσετε παραλήπτες από το βιβλίο διευθύνσεων</string>
   <string name="guild_msim_switcher">Πατήστε για αλλαγή κάρτας SIM</string>
@@ -433,7 +431,6 @@
   <string name="pref_sms_storage_title">Αποθήκευση</string>
   <string name="pref_sms_theme_title">Εμφάνιση</string>
   <string name="pref_summary_allow_si_sl_push">Να επιτρέπεται στα μηνύματα να φορτώνουν περιεχόμενο από ιστοσελίδες</string>
-  <string name="pref_summary_allow_upload_message_info">Τα μηνύματα ανεπιθύμητης αλληλογραφίας και οι πληροφορίες του αποστολέα θα μεταφορτωθούν στο MIUI όταν τα αναφέρετε.</string>
   <string name="pref_summary_auto_delete">Διαγράψτε τα παλιά μηνύματα, καθώς φτάνουν στα όρια</string>
   <string name="pref_summary_delete_limit">%1$s μηνύματα ανά συνομιλία</string>
   <string name="pref_summary_delivery_reports">Εμφάνιση κατάστασης παράδοσης απεσταλμένων μηνυμάτων</string>
@@ -450,7 +447,6 @@
   <string name="pref_switch_sdk_setting">Αλλαγή σε έξυπνο παροχέα υπηρεσιών SMS</string>
   <string name="pref_system_title">Σύστημα</string>
   <string name="pref_title_allow_si_sl_push">Επιτρέψτε την προώθηση WAP</string>
-  <string name="pref_title_allow_upload_message_info">Μεταφόρτωση μηνυμάτων spam</string>
   <string name="pref_title_auto_delete">Διαγράψτε παλιά μηνύματα</string>
   <string name="pref_title_card_format">Διαμόρφωση επαγγελματικής κάρτας</string>
   <string name="pref_title_delivery_reports">Κατάσταση παράδοσης</string>
@@ -508,7 +504,7 @@
   <string name="rcs_auto_resend_sms">Μετατροπή σε SMS</string>
   <string name="rcs_auto_resume">Συνεχίστε τη διακοπή των μεταφορτώσεων αυτόματα</string>
   <string name="rcs_auto_resume_only_by_wifi">Συνεχίστε τις μεταφορτώσεις μόνο όταν είστε συνδεδεμένοι στο Wi-Fi</string>
-  <string name="rcs_create_new_group">Νέα ομαδική συζήτηση</string>
+  <string name="rcs_create_new_group">Δημιουργία ομαδικής συζήτησης</string>
   <string name="rcs_dspt">Μετά την ενεργοποίηση των χρηστών της China Mobile, αποστέλλετε μηνύματα από προεπιλογή μέσω Wi-Fi ή δικτύου κινητής.</string>
   <string name="rcs_forward_faild">Δεν ήταν δυνατή η προώθηση</string>
   <string name="rcs_forward_successful">Προωθήθηκε με επιτυχία</string>
@@ -519,7 +515,7 @@
   <string name="rcs_not_online">Δεν είναι δυνατή η χρήση της υπηρεσίας China Mobile Messaging. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
   <string name="rcs_offline_hint">Το Mobile Messaging της Κίνας είναι εκτός σύνδεσης. Δεν είναι δυνατή η προώθηση αυτού του μηνύματος.</string>
   <string name="rcs_recipient_type_contact">Προωθήστε την επαφή</string>
-  <string name="rcs_recipient_type_group">Προώθηση ομάδας</string>
+  <string name="rcs_recipient_type_group">Προώθηση στην ομάδα</string>
   <string name="rcs_recipient_type_pc">Προώθηση στον υπολογιστή</string>
   <string name="rcs_resend_not_online">Δεν είναι δυνατή η χρήση της υπηρεσίας China Mobile Messaging</string>
   <string name="rcs_resend_sim_card_not_insert">Φαίνεται ότι η κάρτα SIM δεν είναι εγκατεστημένη</string>
@@ -664,7 +660,6 @@
   <string name="sms_full_title">Μνήμη μηνυμάτων κειμένου πλήρης</string>
   <string name="sms_rejected_body">Το εισερχόμενο μήνυμα απορρίφθηκε για άγνωστη αιτία.</string>
   <string name="sms_rejected_title">Γραπτό μήνυμα απορρίπτεται</string>
-  <string name="sms_report">Αναφορά μηνυμάτων spam</string>
   <string name="sms_report_dialog_content">Δεν ήταν δυνατή η αποστολή αναφοράς, προσπαθήστε ξανά.</string>
   <string name="sms_report_dialog_retry">Προσπαθήστε ξανά</string>
   <string name="sms_report_dialog_title">Προσπαθήστε ξανά</string>
@@ -762,4 +757,14 @@
   <string name="rcs_service_agreement">Συμφωνία παροχής υπηρεσιών</string>
   <string name="rcs_unavailable">"Αδύνατη η χρήση της China Mobile Messaging τώρα. Η κάρτα SIM της China Mobile δεν είναι η προεπιλεγμένη κάρτα δεδομένων σας."</string>
   <string name="add_miui_contact">Επαφή</string>
+  <string name="complain_input_number">Εισάγετε τον αριθμό τηλεφώνου σας</string>
+  <string name="complain_jump">Παράβλεψη</string>
+  <string name="complain_message_title">Παραπονα</string>
+  <string name="complain_ok">OK</string>
+  <string name="complain_phone_number">αριθμός τηλεφώνου</string>
+  <string name="complain_reason">Γιατί αναφέρετε αυτό το μήνυμα;</string>
+  <string name="complain_success">Ευχαριστούμε για την ανταπόκριση σας. Μας βοηθά να φτιάξουμε καλύτερα τα Μηνύματα!</string>
+  <string name="complain_tips">"Το περιεχόμενο του πιο πρόσφατου μηνύματος που αναφέρετε θα μεταφορτωθεί στους διακομιστές μας μαζί με τον αριθμό τηλεφώνου που παρέχετε. Οι πάροχοι υπηρεσιών μας θα εξετάσουν το αναφερόμενο μήνυμα.
+"</string>
+  <string name="complain_upload">Έχει υποβληθεί παράπονο</string>
 </resources>

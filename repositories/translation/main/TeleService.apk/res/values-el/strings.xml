@@ -450,7 +450,7 @@
   <string name="flash_time_off_title">Ανενεργό</string>
   <string name="flash_time_on_title">Ενεργό</string>
   <string name="flash_time_title">Ενεργοποίηση καθυστέρησης</string>
-  <string name="flash_when_ring_summary">Να αναβοσβήνει το LED για τις εισερχόμενες κλήσεις</string>
+  <string name="flash_when_ring_summary">Χρήση του LED για ειδοποίηση εισερχόμενων κλήσεων</string>
   <string name="flash_when_ring_title">Ένδειξη LED όταν κουδουνίζει</string>
   <string name="full_avatar_title">Φωτογραφία πλήρους οθόνης</string>
   <string name="fw_change_failed">Δεν ήταν δυνατή η αλλαγή του αριθμού προώθησης.\nΕπικοινωνήστε με το φορέα σας, εάν το πρόβλημα παραμένει.</string>
@@ -602,7 +602,7 @@
   <string name="missed_call_notify_once">1 φορά</string>
   <string name="missed_call_notify_ten_times">10 φορές</string>
   <string name="missed_call_notify_thrice">3 φορές</string>
-  <string name="missed_call_notify_times_summary">Επιλέξτε τον αριθμό των υπενθυμίσεων για τις χαμένες κλήσεις (επιλογή ανα 5 λεπτά)</string>
+  <string name="missed_call_notify_times_summary">Υπενθυμίση για τις χαμένες κλήσεις (επιλογή ανα 5 λεπτά)</string>
   <string name="missed_call_notify_times_title">Υπενθύμιση χαμένων κλήσεων</string>
   <string name="missed_call_notify_twice">2 φορές</string>
   <string name="miui_network_selection_reset_text">Επαναφορά</string>
@@ -964,7 +964,7 @@
   <string name="respond_via_sms_canned_response_2">Θα σας καλέσω σε λίγο.</string>
   <string name="respond_via_sms_canned_response_3">Θα σας καλέσω αργότερα.</string>
   <string name="respond_via_sms_canned_response_4">Δεν μπορώ να μιλήσω τώρα. Τι συμβαίνει;</string>
-  <string name="respond_via_sms_cannot_empty">Τα μηνύματα απόρριψης δεν μπορεί να είναι άδεια</string>
+  <string name="respond_via_sms_cannot_empty">Το μήνυμα δεν μπορεί να είναι κενό</string>
   <string name="respond_via_sms_confirmation_format">Το μήνυμα εστάλη σε %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Γρήγορη απάντηση</string>
   <string name="respond_via_sms_menu_reset_default_activity">Επαναφορά προεπιλογών</string>

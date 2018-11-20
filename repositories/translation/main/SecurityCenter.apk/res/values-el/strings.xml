@@ -341,7 +341,7 @@
   <string name="auto_task_operation_wifi">Wi‑Fi</string>
   <string name="back_app_name">Επιστρέψτε στο κλείδωμα εφαρμογών</string>
   <string name="back_description_securitycenter">Πίσω</string>
-  <string name="back_modifypassword">Επιστρέψτε στην αλλαγή του κωδικού πρόσβασης</string>
+  <string name="back_modifypassword">Επιστροφή για αλλαγή του τύπου κωδικού</string>
   <string name="back_sound_data">Απαιτείται δίκτυο κινητής τηλεφωνίας, παρακαλώ δοκιμάστε ξανά!</string>
   <string name="back_sound_fail">Απέτυχε!</string>
   <string name="back_sound_success">Ολοκληρώθηκε!</string>
@@ -1165,7 +1165,7 @@
   <string name="mixed_retry_button_text">Ακύρωση</string>
   <string name="mixed_settings_help_how_to_record">Πώς να ορίσετε κωδικό</string>
   <string name="modify_password_mode">&lt;u&gt;Αλλαγή τύπου κωδικού πρόσβασης&lt;/u&gt;</string>
-  <string name="modifypassword">Αλλαγή κωδικού</string>
+  <string name="modifypassword">Αλλαγή τύπου κωδικού</string>
   <string name="monitor_app_add">Πρόσθεση</string>
   <string name="monitor_app_more">Περισσότερα</string>
   <string name="monitor_requests_from_pc">Διαχείριση εγκατάστασης εφαρμογών μέσω USB</string>
@@ -2439,4 +2439,5 @@
   <string name="traffic_setting_fragment_not_limited_summary">Επιλογές Απεριόριστων δεδομένων κινητής</string>
   <string name="traffic_setting_fragment_not_limited_title">Απεριόριστο πρόγραμμα δεδομένων</string>
   <string name="traffic_setting_fragment_packege_type">Ρυθμίσεις προγράμματος δεδομένων</string>
+  <string name="ad_split_screen_title">Έξοδος απο Διαίρεση οθόνης για να ξεκλειδώσετε</string>
 </resources>
