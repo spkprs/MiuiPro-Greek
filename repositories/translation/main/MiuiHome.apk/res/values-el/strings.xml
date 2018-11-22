@@ -351,4 +351,5 @@
   <string name="announce_for_widget_span">Πλάτος %1$d, Ύψος %2$d</string> 
   <string name="recommend_apps_no_data_toast">Δεν υπάρχουν συστάσεις για τώρα.</string> 
   <string name="recommend_xout">"Χωρίς εμφάνιση"</string>  
+  <string name="show_recents_recommend_title">Εμφάνιση συστάσεων</string>
 </resources>
