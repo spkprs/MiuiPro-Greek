@@ -815,13 +815,18 @@
      <string name="xiaomi_login_btn_str">Λογαριασμός Mi</string>
      <string name="year_month_day_format">dd MMM, yyyy</string>
      <string name="yes">Ναι</string>
-     <string name="yesterday">Χθες</string>
-  <string name="you_liao_god_desc">Μεταφέρετε τακτικά βίντεο και επεκτείνετε τη βάση των οπαδών για να κερδίσετε την κατάσταση του Gentleman</string>
-  <string name="you_liao_god_str">Κύριος</string>
-  <string name="you_liao_goddess_desc">Μεταφορτώστε τα βίντεο τακτικά και επεκτείνετε τη βάση των οπαδών για να κερδίσετε την κατάσταση της Κυρίας</string>
-  <string name="you_liao_goddess_str">Κυρία</string>
-  <string name="you_liao_xunlei_desc">Υπογράψτε συμβόλαιο μαζί μας για να αποκτήσετε την κατάσταση Host</string>
-  <string name="you_liao_xunlei_str">Xunlei host</string>
-  <string name="youliao_master_rank">Κορυφαία του Youliao</string>
-  <string name="rename_input_null">Εισάγετε νέο όνομα αρρχείου</string>
+     <string name="yesterday">Χθές</string>
+	  <string name="you_liao_god_desc">Μεταφορτώστε βίντεο τακτικά και επεκτείνετε τη βάση των οπαδών για να κερδίσετε την κατάσταση του Κυρίου</string>
+	  <string name="you_liao_god_str">Κύριος</string>
+	  <string name="you_liao_goddess_desc">Μεταφορτώστε βίντεο τακτικά και επεκτείνετε τη βάση των οπαδών για να κερδίσετε την κατάσταση της Κυρίας</string>
+	  <string name="you_liao_goddess_str">Κυρία</string>
+	  <string name="you_liao_xunlei_desc">Υπογράψτε συμβόλαιο μαζί μας για να αποκτήσετε την κατάσταση Host</string>
+	  <string name="you_liao_xunlei_str">Xunlei host</string>
+	  <string name="youliao_master_rank">Κορυφαία του Youliao</string>
+	  <string name="rename_input_null">Εισάγετε νέο όνομα αρρχείου</string>
+	  <string name="failed_not_access_sd_card">Επιτρέψτε την πρόσβαση στην SD card πρώτα</string>
+	  <string name="failed_obtain_permissions">"Αδυναμία λήψης αδειών"</string>
+	  <string name="not_support_documentui">"Το DocumentUI δεν υποστηρίζεται σε αυτή τη συσκευή"</string>
+	  <string name="request_document_permission">Για διαχείρηση αρχείων στην κάρτα SD, δώστε τις απαιτούμενες άδειες στην εφαρμογή.</string>
+	  <string name="request_document_permission_title">Απαιτούνται άδειες</string>
 </resources>

@@ -5882,6 +5882,9 @@
   <string name="power_key_how_start_detail">Κρατήστε πατημένο το κουμπί τροφοδοσίας για 0,5 δευτ. Αφήστε και μιλήστε.</string>
   <string name="power_key_start_enjoy">Μάθετε περισσότερα για το Βοηθό Google</string>
   <string name="power_key_start_guide">Αφύπνιση του Βοηθού Google χρησιμοποιώντας το κουμπί Τροφοδοσίας σε συσκευές πλήρους προβολής</string>  
-  <string name="the_way_of_wakeup_voice_assistant_summary">Ανοίξτε το βοηθό φωνής σε λειτουργία πλήρους οθόνης (χωρίς εικονικά κουμπιά)</string>   
+  <string name="the_way_of_wakeup_voice_assistant_summary">Ανοίξτε το Βοηθό φωνής σε λειτουργία πλήρους οθόνης (χωρίς εικονικά πλήκτρα)</string>   
+  <string name="summary_font_size_v2">Ρύθμιση μεγέθους, κειμένου εικόνων και εικονιδίων</string>
+  <string name="title_font_v2">Κειμένο &amp; στοιχεία UI</string>
+  <string name="title_layout_v2">Μέγεθος κειμένου &amp; κλιμάκωση</string>
 </resources>
 

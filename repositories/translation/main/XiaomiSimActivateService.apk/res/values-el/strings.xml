@@ -25,10 +25,10 @@
   <string name="activate_history_title">Ενεργοποίηση κάρτας SIM</string>
   <string name="activate_phone_cancel_notif_title">Ακυρώθηκε η ενεργοποίηση της SIM</string>
   <string name="activate_phone_cancel_notif_title_msim">Ακυρώθηκε η ενεργοποίηση της SIM %d</string>
-  <string name="activate_phone_failed_notif_title">Αδύνατη ενεργοποίηση της SIM</string>
-  <string name="activate_phone_failed_notif_title_msim">Αδύνατη ενεργοποίηση της SIM %d</string>
+  <string name="activate_phone_failed_notif_title">Αδύνατη ενεργοπ. της SIM</string>
+  <string name="activate_phone_failed_notif_title_msim">Αδύνατη ενεργοπ. της SIM %d</string>
   <string name="activate_phone_success_notif_title">Ενεργοποιήθηκε επιτυχώς η SIM</string>
-  <string name="activate_phone_success_notif_title_msim">Η SIM %d Ενεργοποιήθηκε επιτυχώς</string>
+  <string name="activate_phone_success_notif_title_msim">Η SIM %d Ενεργοπ. επιτυχώς</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Προσπαθήστε ξανά</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Προσπαθήστε ξανά</string>
   <string name="activate_popup_confirm_error_device_id">Προσπαθήστε ξανά</string>
@@ -39,8 +39,8 @@
   <string name="activate_popup_confirm_failed_server">Προσπαθήστε ξανά</string>
   <string name="activate_popup_desc_2_intl_sim_cards">2 διεθνή μηνύματα κειμένου θα σταλούν για την ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχό σας.</string>
   <string name="activate_popup_desc_2_sim_cards">2 απλά μηνύματα κειμένου θα σταλούν για την ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχό σας.</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">Δεν μπορεί να βρεθεί ο αριθμός τηλεφώνου σας. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.\nΕισαγάγετε τον αριθμό τηλεφώνου που συσχετίζεται με τη νέα κάρτα SIM για επανενεργοποιήση %s</string>
-  <string name="activate_popup_desc_all_gateway_failed_send_sms">Αδύνατη η αποστολή μηνύματος ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.\nΕισαγάγετε τον αριθμό τηλεφώνου που συσχετίζεται με τη νέα κάρτα SIM για να επανενεργοποιήσετε %s</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">Δεν μπορεί να βρεθεί ο αριθμός τηλεφώνου σας. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.\nΕισάγετε τον αριθμό τηλεφώνου που συσχετίζεται με τη νέα κάρτα SIM για επανενεργοποιήση %s</string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">Αδύνατη η αποστολή μηνύματος ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.\nΕισάγετε τον αριθμό τηλεφώνου που συσχετίζεται με τη νέα κάρτα SIM για να επανενεργοποιήσετε %s</string>
   <string name="activate_popup_desc_error_device_id">Πληκτρολογήστε *#06# να ελέγξετε το IMEI</string>
   <string name="activate_popup_desc_failed_phone_error">Ο αριθμός τηλεφώνου που καταχωρίσατε δεν είναι έγκυρος.</string>
   <string name="activate_popup_desc_failed_query_info">Δεν μπορεί να βρεθεί ο αριθμό τηλεφώνου σας. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.</string>
