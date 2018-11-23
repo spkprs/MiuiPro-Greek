@@ -91,7 +91,7 @@
   <string name="download_error_insufficient_space">Ανεπαρκής χώρος</string>
   <string name="download_filesize_unknown">Άγνωστο</string>
   <string name="download_from">Πηγή:</string>
-  <string name="download_in_process">ΛΗΨΗ…</string>
+  <string name="download_in_process">Γίνεται λήψη</string>
   <string name="download_info_count_deleted_tasks">%s λήψεις αφαιρέθηκαν</string>
   <string name="download_info_start_deleted_tasks">Διαγραφή λήψεων</string>
   <string name="download_list_get_free_vip">Δοκιμή Xunlei</string>
@@ -185,7 +185,7 @@
   <string name="hint">Προσοχή</string>
   <string name="home_page_new_download_guide">Φάκ. νέων λήψεων</string>
   <string name="immediately_a_renewal">Ανανέωση τώρα</string>
-  <string name="info_flow_only_load_wifi">Φόρτωση όταν συνδεθεί σε Wi‑Fi</string>
+  <string name="info_flow_only_load_wifi">Φόρτωση μόνο μέσω Wi-Fi</string>
   <string name="info_flow_setting">Ρυθμίσεις</string>
   <string name="info_flow_show">Προτεινόμενες πηγές</string>
   <string name="input_valid_address">Πληκτρολογήστε μια διαδρομή αρχείου</string>
@@ -258,7 +258,7 @@
   <string name="percent_title">%1$s άλλοι το κατέβασαν</string>
   <string name="period_of_validity">Ισχύς:</string>
   <string name="pref_download_revert_default">Αποθήκευση στην προεπιλεγμένη θέση</string>
-  <string name="pref_download_settings_title">Η λήψη με δεδομένα κινητής είναι περιορισμένη</string>
+  <string name="pref_download_settings_title">Όριο λήψης με δεδομένα έως</string>
   <string name="pref_download_storage_path">Αποθήκευση σε νεο φάκελο</string>
   <string name="pref_sniff_shortcut">Δημιουργία συντόμευσης</string>
   <string name="pref_summary_any_bytes_popup">Πάντα αναμονή για σύνδεση Wi‑Fi για λήψη αρχείων</string>
@@ -400,7 +400,7 @@
   <string name="start_download">Λήψη</string>
   <string name="start_xunlei_speedup_info">Συνδεθείτε για να επιταχύνετε τις λήψεις σας.</string>
   <string name="starting_analysis">Λήψη πληροφοριών…</string>
-  <string name="storage_internal">Εσωτερική μνήμη</string>
+  <string name="storage_internal">Εσωτερικός χώρος</string>
   <string name="storage_sd_card">Κάρτα SD</string>
   <string name="storage_usb">Μνήμη USB</string>
   <string name="subbt_downloading">Λήψη…</string>

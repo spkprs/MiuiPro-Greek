@@ -409,7 +409,7 @@
     <string name="onekeyclean_boosted_title">Εκκαθαρίστηκαν επιτυχώς</string>
     <string name="onekeyclean_boost_cleaned">Εκκαθαρίστηκαν %s</string>
     <string name="onekeyclean_boost_available">%s διαθέσιμα</string>
-    <string name="onekeyclean_card_summery">Καθαρισμός αχρήστων για απελευθέρωση χώρου</string>
+    <string name="onekeyclean_card_summery">Εκκαθάριση αχρήστων για απελευθέρωση χώρου</string>
     <string name="onekeyclean_card_btn">Καθαρισμός τώρα</string>
   <string name="open">Ενεργοποίηση</string>
   <string name="open_app">Εκκίνηση</string>

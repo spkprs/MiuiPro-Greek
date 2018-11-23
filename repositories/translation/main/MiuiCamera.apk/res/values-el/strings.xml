@@ -183,7 +183,7 @@
   <string name="module_name_video">Βίντεο</string>
   <string name="multi_window_mode_not_supported">Η Κάμερα δεν λειτουργεί σε Διαχωρισμό</string>
   <string name="no_storage">Εισαγωγή κάρτας SD πριν από τη χρήση κάμερας</string>
-  <string name="not_enough_space">Η Εσωτερική μνήμη είναι πλήρης</string>
+  <string name="not_enough_space">Ο Εσωτερικός χώρος είναι πλήρης</string>
   <string name="object_track_enable_toast">Για να επιλέξετε ένα αντικείμενο, πατήστε ταυτόχρονα δύο διαγώνια σημεία γύρω του.</string>
   <string name="pano_file_name_format">\'PANO\'_yyyyMMdd_HHmmss</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Ευθυγραμμίστε το βέλος με τη γραμμή αναφοράς</string>

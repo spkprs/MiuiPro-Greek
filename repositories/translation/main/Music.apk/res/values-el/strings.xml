@@ -916,7 +916,7 @@
   <string name="start_update">Ενημέρωση στην πιο πρόσφατη έκδοση της εφαρμογής Μουσική.</string>
   <string name="stop">Διακοπή</string>
   <string name="stop_backup">Διακοπή</string>
-  <string name="storage_internal">Εσωτερική μνήμη</string>
+  <string name="storage_internal">Εσωτερικός χώρος</string>
   <string name="storage_sd_card">Κάρτα SD</string>
   <string name="storage_usb">Μνήμη USB</string>
   <string name="stream_quality">Ποιότητα streaming</string>

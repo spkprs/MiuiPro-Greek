@@ -1314,7 +1314,7 @@
   <string name="stk_cc_ussd_to_dial">Το αίτημα USSD τροποποιήθηκε σε αίτημα DIAL.</string>
   <string name="stk_cc_ussd_to_ss">Το αίτημα USSD τροποποιήθηκε σε αίτημα SS.</string>
   <string name="stk_cc_ussd_to_ussd">Το αίτημα USSD τροποποιήθηκε σε νέο αίτημα USSD.</string>
-  <string name="storage_internal">Εσωτερική μνήμη</string>
+  <string name="storage_internal">Εσωτερικός χώρος</string>
   <string name="storage_sd_card">Κάρτα SD</string>
   <string name="storage_sd_card_label">Κάρτα SD %s</string>
   <string name="storage_usb">Μνήμη USB</string>

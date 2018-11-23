@@ -2457,8 +2457,8 @@
   <string name="lockscreen_glogin_password_hint">Κωδικός</string>
   <string name="lockscreen_glogin_submit_button">Είσοδος</string>
   <string name="lockscreen_magazine">Ταπετσαρίες Καρουζέλ</string>
-  <string name="lockscreen_magazine_summary">Υψηλής ποιότητας καρουσέλ ταπετσαρίας</string>
-  <string name="lockscreen_magazine_title">Carousel Ταπετσαρίας</string>
+  <string name="lockscreen_magazine_summary">Υψηλής ποιότητας Ταπετσαρίες Καρουζέλ</string>
+  <string name="lockscreen_magazine_title">Ταπετσαρίες Καρουζέλ</string>
   <string name="lockscreen_remote_input">Αν η συσκευή είναι κλειδωμένη, αποτρέψτε τις απαντήσεις πληκτρολόγησης ή άλλο κείμενο στις ειδοποιήσεις</string>
   <string name="lockscreen_settings_title">Προτιμήσεις κλειδ. οθόνης</string>
   <string name="login_account_dialog_message">Συνδεθείτε με το Λογαριασμό Mi και ενεργοποιήστε το συγχρονισμό με το Mi Cloud.</string>

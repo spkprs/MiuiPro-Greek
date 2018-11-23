@@ -209,7 +209,7 @@
      <string name="file_info_canread">Αναγνώσιμο :</string>
      <string name="file_info_canwrite">Εγγράψιμο :</string>
      <string name="file_info_ishidden">Κρυφό :</string>
-     <string name="file_info_location">Τοποθεσία :</string>
+     <string name="file_info_location">Διαδρομή :</string>
      <string name="file_info_modified">Τροποποίηση :</string>
      <string name="file_info_size">Μέγεθος :</string>
      <string name="file_loading">Μισό λεπτό…</string>
@@ -616,8 +616,8 @@
   <string name="sticker_btn_str_explore_tab">Εξερευνήστε τόνους διασκέδασης!</string>
      <string name="stop_server">Διακοπή διακομιστή</string>
      <string name="storage_cloned_app">Αποθ.χώρος Διπλών εφαρμογών</string>
-     <string name="storage_info_detail">Διαθέσιμα: %1$s Σύνολο: %1$s</string>
-     <string name="storage_internal">Εσωτερική μνήμη</string>
+     <string name="storage_info_detail">Διαθέσιμα: %1$s Συνολικά: %1$s</string>
+     <string name="storage_internal">Εσωτερικός χώρος</string>
      <string name="storage_sd_card">Κάρτα SD</string>
      <string name="storage_usb">Μνήμη USB</string>
      <string name="storage_warning">Αδυναμία χρήσης εξωτερικής μνήμης.</string>
