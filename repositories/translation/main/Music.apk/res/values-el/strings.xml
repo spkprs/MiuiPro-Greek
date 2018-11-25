@@ -98,7 +98,7 @@
   <string name="available_playlist_name_format">Νέα λίστα αναπαραγωγής %d</string>
   <string name="avoid_to_use_traffic_summary">Μη χρησιμοποιείτε δίκτυο κινητής για αναπαραγωγή μουσικής</string>
   <string name="avoid_to_use_traffic_title">Ειδοποίηση όταν γίνεται χρήση δεδομένων κινητής για αναπαραγωγή μουσικής</string>
-  <string name="back_confirm">Πατήστε ξανά και στείλτε την στο παρασκήνιο</string>
+  <string name="back_confirm">Πατήστε ξανά για λειτουργία στο παρασκήνιο</string>
   <string name="backup_complete">Όλα τα τραγούδια αντιγράφηκαν στο Mi Cloud</string>
   <string name="backup_empty_button">Δεν επιλέχθηκαν τραγούδια</string>
   <string name="backup_immediate">Αντ.ασφαλείας</string>
@@ -227,10 +227,10 @@
   <string name="dialog_show_more_backup">Αντιγράψτε τοπικά τραγούδια</string>
   <string name="dialog_show_more_optimize_all">Βελτιστοποιήστε τις πληροφορίες τραγουδιού</string>
   <string name="dialog_song_sort_type">Ταξινόμηση τραγουδιών</string>
-  <string name="dialog_song_sort_type_name">Κατά Όνομα</string>
-  <string name="dialog_song_sort_type_playing_times">Κατά τον Αριθμό Αναπαραγωγής</string>
+  <string name="dialog_song_sort_type_name">Κατά Όνομα Τραγουδιού</string>
+  <string name="dialog_song_sort_type_playing_times">Κατά πλήθος Αναπαραγωγής</string>
   <string name="dialog_song_sort_type_time">Κατά Ώρα Προσθήκης</string>
-  <string name="dialog_song_view_type">Εμφάνιση τοπικής μουσικής</string>
+  <string name="dialog_song_view_type">Προβολή τοπικής μουσικής</string>
   <string name="dialog_song_view_type_album">Κατά Άλμπουμ</string>
   <string name="dialog_song_view_type_artist">Κατά Καλλιτέχνη</string>
   <string name="dialog_song_view_type_folder">Κατά Φάκελο</string>
@@ -761,7 +761,7 @@
   <string name="pulluprefreshrecyclerview_loading_error">Αδυναμία φόρτωσης</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Επιτυχής φόρτωση</string>
   <string name="pulluprefreshrecyclerview_loading_running">Φόρτωση…</string>
-  <string name="queue_is_empty">Η ουρά αναπαραγωγής είναι κενή.</string>
+  <string name="queue_is_empty">Η αναμονή αναπαραγωγής είναι κενή.</string>
   <string name="radar">ACRCloud</string>
   <string name="radar_click_to_retry">Πατήστε για να  ξαναδοκιμάσετε</string>
   <string name="radar_fail">Χωρίς αποτελέσματα</string>
@@ -770,7 +770,7 @@
   <string name="radar_possible_result">Πιθανά αποτελέσματα</string>
   <string name="radar_retry">Προσπαθήστε ξανά</string>
   <string name="radar_searching_state">Αναζήτηση…</string>
-  <string name="radar_support_by">Παρέχεται από ACRCloud</string>
+  <string name="radar_support_by">Υποστηρίζεται από την ACRCloud</string>
   <string name="really_pay">Πληρωμή τώρα;</string>
   <string name="recently_played">Έπαιξαν πρόσφατα</string>
   <string name="recently_played_songs">Πρόσφατα</string>
@@ -829,6 +829,7 @@
   <string name="search_hint_not_support_online">Καλλιτ./Τραγ./Άλμπουμ</string>
   <string name="search_history_clear_all">Καθαρισμός</string>
   <string name="search_instant_online_music">Online</string>
+    <string name="search_localsearch_hint">Εύρεση τραγουδιών συσκευής</string>
   <string name="search_songs_count">Τραγούδια: %d</string>
   <string name="search_title">Αναζήτηση</string>
   <string name="search_title_album">Άλμπουμ</string>
@@ -1054,7 +1055,7 @@
     <string name="play_all"><Data>Αναπαραγωγή όλων&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
     <string name="play_mode_circle">Κυκλικά</string>
     <string name="play_mode_shuffle">Τυχαία</string>
-    <string name="play_mode_single">Μεμονωμένα</string>
+    <string name="play_mode_single">Μιά φορά</string>
     <string name="song_group_float_save_picture">Αποθήκευση εικόνας</string>
     <string name="song_group_float_save_picture_success">Αποθηκεύτηκε με επιτυχία</string>
     <string name="song_group_float_to_save_picture">Αποθήκευση σε %1$s</string>

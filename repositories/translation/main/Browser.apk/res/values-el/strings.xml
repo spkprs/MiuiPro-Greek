@@ -31,7 +31,7 @@
   <string name="action_menu_text_exit">Έξοδος</string>
   <string name="action_menu_text_find_in_page">Εύρεση στη σελίδα</string>
   <string name="action_menu_text_fullscreen">Πλήρης οθόνη</string>
-  <string name="action_menu_text_history">Σελιδ./Ιστορικό</string>
+  <string name="action_menu_text_history">Σελιδ/Ιστορ</string>
   <string name="action_menu_text_nightmode">Λειτουργία νύχτας</string>
   <string name="action_menu_text_nightmode_off">Νυχτερινή λειτουργία off</string>
   <string name="action_menu_text_nightmode_on">Νυχτερινή λειτουργία on</string>
@@ -99,7 +99,7 @@
   <string name="block_ads_choice_continue">Συνέχεια</string>
   <string name="block_ads_message">Θέλετε να αποκλείστε τα μηνύματα από αυτήν την  Ιστοσελίδα;</string>
   <string name="block_ads_title">Το περιεχόμενο μπορεί να περιέχει διαφημίσεις</string>
-  <string name="bookmark">Σελιδοδ/είκτης</string>
+  <string name="bookmark">Σελιδ/κτης</string>
   <string name="bookmark_add_to">Προσθήκη σε</string>
   <string name="bookmark_btn_select_all">Επιλογή όλων</string>
   <string name="bookmark_btn_select_none">Αποεπιλογή όλων</string>
@@ -281,7 +281,7 @@
   <string name="edit_quicklink">Επεξεργασία</string>
   <string name="empty_app_name">Άλλη εφαρμογή</string>
   <string name="empty_bookmark">Κενό</string>
-  <string name="empty_cloud_tab_login_hint">"Δεν υπάρχουν καρτέλες cloud "</string>
+  <string name="empty_cloud_tab_login_hint">"Δεν υπάρχουν καρτέλες Cloud "</string>
   <string name="empty_cloud_tab_logout_hint">Συνδεθείτε στο Λογαριασμό Mi\n για να προβάλλετε ανοιχτές καρτέλες από άλλες συσκευές.</string>
   <string name="empty_history_hint">Το ιστορικό είναι άδειο</string>
   <string name="empty_snapshot_hint">Κενό</string>

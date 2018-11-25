@@ -20,7 +20,7 @@
      <string name="HIPS_Perm_Call_Desc">να κάνει άμεσες κλήσεις τηλεφωνικών αριθμών</string>
      <string name="HIPS_Perm_Contact">Τροποποίηση επαφών</string>
      <string name="HIPS_Perm_Contact_Desc">να τροποποιήσει τις επαφές σας</string>
-     <string name="HIPS_Perm_External_Storage">Πρόσβαση και αλλαγή αρχείων στον εσωτερικό χώρο αποθήκευσης</string>
+     <string name="HIPS_Perm_External_Storage">Πρόσβαση Εσωτ. χώρου αποθ.</string>
      <string name="HIPS_Perm_External_Storage_Desc">"να προσθέτει και διαγράφει αρχεία στον εσωτερικό χώρο αποθήκευσης της συσκευής"</string>
      <string name="HIPS_Perm_Location">Εντοπισμός τοποθεσίας</string>
      <string name="HIPS_Perm_Location_Desc">να εντοπίσει την τοποθεσία σας (GPS ή/και μέσω δικτύου)</string>

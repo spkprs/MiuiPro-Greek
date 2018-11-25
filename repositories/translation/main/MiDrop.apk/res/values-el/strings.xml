@@ -3,7 +3,7 @@
   <string name="action_bonjour">Καλημέρα</string>
   <string name="action_settings">Ρυθμίσεις</string>
   <string name="app_name">Mi Drop</string>
-  <string name="btn_goto_grant">Επιτρέπω</string>
+  <string name="btn_goto_grant">Αποδοχή</string>
   <string name="cancel_confirm">Ακύρωση</string>
   <string name="cancel_confirm_title">Η μεταφορά δεν ολοκληρώθηκε. Ακύρωση τώρα;</string>
   <string name="cancel_receive_confirm">Ακύρωση</string>

@@ -33,7 +33,7 @@
   <string name="allPerms">Ολα</string>
   <string name="anonymous_source_continue">Συνεχίστε</string>
   <string name="anonymous_source_warning">Το τηλέφωνό σας και τα προσωπικά σας δεδομένα είναι πιο ευάλωτα σε επίθεση από άγνωστες εφαρμογές. Με την εγκατάσταση αυτής της εφαρμογής, συμφωνείτε ότι είστε υπεύθυνοι για τυχόν ζημιά στο τηλέφωνό σας ή απώλεια δεδομένων που ενδέχεται να προκύψουν από τη χρήση της.</string>
-  <string name="app_name">Πρόγραμμα εγκατάστασης Εφαρμογών</string>
+  <string name="app_name">Πρόγρ. εγκατάστασης Εφαρμογών</string>
   <string name="app_name_unknown">Αγνωστο</string>
   <string name="app_not_found_dlg_text">Η εφαρμογή δεν βρέθηκε στη λίστα εγκατεστημένων εφαρμογών.</string>
   <string name="app_not_found_dlg_title">Η εφαρμογή δεν βρέθηκε</string>

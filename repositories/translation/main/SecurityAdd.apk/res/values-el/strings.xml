@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Προσφορά υπηρεσίας ασφαλείας</string>
+  <string name="app_name">Υπηρεσία ασφαλείας Προσθέτων</string>
   <string name="app_not_installed_toast">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας.</string>
   <string name="cancel_button">Ματαίωση</string>
   <string name="empty">" "</string>

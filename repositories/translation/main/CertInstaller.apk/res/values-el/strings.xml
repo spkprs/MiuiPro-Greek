@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="app_name">Πρόγρ. εγκατάστασης πιστοποιητικού</string>
+     <string name="app_name">Πρόγρ. εγκατάστασης Πιστοποιητικών</string>
      <string name="cert_is_added">%s είναι εγκατεστημένα.</string>
      <string name="cert_missing_error">Δεν ήταν δυνατή η εγκατάσταση επειδή το αρχείο του πιστοποιητικού δεν ήταν δυνατό να εντοπιστεί.</string>
      <string name="cert_not_saved">Το πιστοποιητικό δεν είναι εγκατεστημένο.</string>

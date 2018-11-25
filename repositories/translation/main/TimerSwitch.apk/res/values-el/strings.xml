@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Προγραμματισμένη ενεργοποίηση και απενεργοποίηση</string>
+  <string name="app_name">Προγραμματισμένη Ενεργ/Απενεργ.</string>
   <string name="collapse_switch">Σύμπτυξη διακόπτη</string>
   <string name="date_time_24hour">Χρησιμοποιήστε τη μορφή 24 ωρών</string>
   <string name="date_time_date_format">Επιλέξτε μορφή μορφής ημερομηνίας</string>

@@ -3,7 +3,7 @@
     <string name="app_name">Πάροχος Βημάτων</string>
     <string name="permstep_label">Ανάγνωση Βημάτων</string>
     <string name="permstep_description">"Επιτρέψτε στην εφαρμογή να διαβάσει τις βηματικές πληροφορίες του τηλεφώνου σας"</string>
-    <string name="joyose_name">卓越智擎</string>
+    <string name="joyose_name">Joyose Πάροχος Βημάτων</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Ρυθμίσεις</string>
     <string name="activity_title_fakecell">Προστασία από ψευδείς σταθμούς βάσης</string>
