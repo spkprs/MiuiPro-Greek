@@ -139,4 +139,38 @@
         <item>Αντιγραφή</item>
         <item>@string/cancel</item>
    </string-array>
+  <string-array name="month">
+      <item>Ιανουάριος</item>
+      <item>Φεβρουάριος</item>
+      <item>Μάρτιος</item>
+      <item>Απρίλιος</item>
+      <item>Μάιος</item>
+      <item>Ιούνιος</item>
+      <item>Ιούλιος</item>
+      <item>Αύγουστος</item>
+      <item>Σεπτέμβριος</item>
+      <item>Οκτώμβριος</item>
+      <item>Νοέμβριος</item>
+      <item>Δεκέμβριος</item>
+  </string-array>
+  <string-array name="season">
+      <item>Άνοιξη</item>
+      <item>Καλοκαίρι</item>
+      <item>Φθινόπωρο</item>
+      <item>Χειμώνας</item>
+  </string-array>
+  <string-array name="last_month">
+      <item>Ιανουάριος</item>
+      <item>Φεβρουάριος</item>
+      <item>Μάρτιος</item>
+      <item>Απρίλιος</item>
+      <item>Μάιος</item>
+      <item>Ιούνιος</item>
+      <item>Ιούλιος</item>
+      <item>Αύγουστος</item>
+      <item>Σεπτέμβριος</item>
+      <item>Οκτώμβριος</item>
+      <item>Νοέμβριος</item>
+      <item>Δεκέμβριος</item>
+  </string-array>
 </resources>

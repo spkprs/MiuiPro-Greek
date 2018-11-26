@@ -30,7 +30,7 @@
     </plurals>
     <plurals name="auto_silence_summary">
         <item quantity="other">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπ</item>
-        <item quantity="one">Οι αφυπνίσεις θα σιγήσουν μετά από %d λεπ</item>
+        <item quantity="one">Η αφύπνιση θα σιγήσει μετά από %d λεπ</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Διαγραφή των επιλεγμένων αφυπνίσεων;</item>
@@ -40,4 +40,8 @@
         <item quantity="other">Διαγραφή των επιλεγμένων ζωνών ώρας;</item>
         <item quantity="one">Διαγραφή αυτής της ζώνης ώρας;</item>
     </plurals>
+   <plurals name="snooze_duration_summary">
+      <item quantity="other">Οι αφυπνίσεις θα σιγήσουν %2$s φορές (κάθε %1$s λεπ.)</item>
+      <item quantity="one">Η αφύπνιση θα σιγήσει %2$s φορά (%1$s λεπ.)</item>
+   </plurals>
 </resources>

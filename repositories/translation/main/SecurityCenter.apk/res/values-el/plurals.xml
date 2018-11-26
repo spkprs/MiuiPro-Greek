@@ -373,4 +373,16 @@
         <item quantity="other">%d κλειδωμένες εφαρμογές</item>
         <item quantity="one">%d κλειδωμένη εφαρμογή</item>
     </plurals>
+   <plurals name="lockpattern_recording_incorrect_too_short">
+      <item quantity="other">Συνδέστε τουλάχιστον %d τελείες</item>
+      <item quantity="one">Συνδέστε τουλάχιστον %d τελεία</item>
+  </plurals>
+  <plurals name="numeric_recording_incorrect_too_short">
+      <item quantity="other">Εισάγετε τουλάχιστον %d ψηφία</item>
+      <item quantity="one">Εισάγετε τουλάχιστον %d ψηφίο</item>
+  </plurals>
+  <plurals name="mixed_recording_incorrect_too_short">
+     <item quantity="other">Εισάγετε τουλάχιστον %d χαρακτήρες</item>
+     <item quantity="one">Εισάγετε τουλάχιστον %d χαρακτήρα</item>
+  </plurals>
 </resources>

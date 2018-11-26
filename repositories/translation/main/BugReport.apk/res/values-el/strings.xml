@@ -350,9 +350,10 @@
   <string name="title_catch_full_log">Logs</string>
   <string name="toast_catch_full_log_catching">Μπορείτε να δημιουργήσετε μόνο ένα Log τη φορά.</string>
   <string name="title_first_aid">Πρώτες Βοήθειες</string>
-    <string name="title_customer_service">Εξυπηρέτηση πελατών</string>
-    <string name="customer_service_apply">Αίτημα Εξυπηρέτησης πελατών</string>
-    <string name="customer_service_complain">Αναφορά Εξυπηρέτησης πελατών</string>
-    <string name="customer_service_station">Σημεία Εξυπηρέτησης</string>
+	<string name="title_customer_service">Εξυπηρέτηση πελατών</string>
+	<string name="customer_service_apply">Αίτημα Εξυπηρέτησης πελατών</string>
+	<string name="customer_service_complain">Αναφορά Εξυπηρέτησης πελατών</string>
+	<string name="customer_service_station">Σημεία Εξυπηρέτησης</string>
+  <string name="feedback_status_commit_in_queue_title">Αναμονή για ανατροφοδότηση</string>
 </resources>
   
