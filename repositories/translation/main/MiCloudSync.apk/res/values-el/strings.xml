@@ -7,5 +7,6 @@
   <string name="error_not_acceptable">Ο συγχρονισμός έχει απενεργοποιηθεί.</string>
   <string name="error_title">"Αδύνατος ο συγχρονισμός"</string>
   <string name="error_unauthorized">Ο συγχρονισμός απενεργοποιήθηκε λόγω υπερβολικά πολλών προσπαθειών.</string>
+  <string name="micloud_send_message_desc">Αποστολή Mi Μήνυμα</string> 
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

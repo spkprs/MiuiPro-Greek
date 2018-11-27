@@ -641,4 +641,9 @@
   <string name="pref_userdefine_watermark_title">Ορισμός Υδατογραφήματος Κάμερας απο τον χρήστη</string>
   <string name="ultra_wide_bokeh_close_tip">Λειτουργία Θόλωσης Ανενεργή</string>
   <string name="ultra_wide_bokeh_open_tip">Λειτουργία Θόλωσης Ενεργή</string>
+  <string name="accessibility_bokeh_adjust">Βαθμός Θόλωσης</string>
+  <string name="accessibility_bokeh_level">F%1$s Επίπεδο Θόλωσης</string>
+  <string name="change_bgm">Αλλαγή ήχου</string>   
+  <string name="hot_music">Δημοφιλή</string> 
+  <string name="local_music">Τοπικά</string> 
 </resources>

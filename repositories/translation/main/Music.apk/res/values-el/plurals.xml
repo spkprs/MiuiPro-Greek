@@ -123,7 +123,7 @@
   </plurals>
   <plurals name="Nunbackup_audios">
     <item quantity="other">Δεν έχει γίνει αντίγραφο ασφαλείας για %1$d τραγούδια (%2$.1fMB)</item>
-    <item quantity="one">Δεν έχει γίνει αντίγραφο ασφαλείας για %1$d τραγούδι (%2$.1fMB)\"</item>
+    <item quantity="one">Δεν έχει γίνει αντίγραφο ασφαλείας για %1$d τραγούδι (%2$.1fMB)"</item>
   </plurals>
   <plurals name="Nupload_song_button">
     <item quantity="other">Δημιουργία αντιγράφου ασφαλείας για %1$d τραγούδια (%2$.1fMB)</item>
@@ -138,8 +138,8 @@
     <item quantity="one">Θα αποσταλεί 1 τραγούδι</item>
   </plurals>
   <plurals name="skipped_online_songs_tips">
-    <item quantity="other">Παράλειψη %d τραγούδια. Ενεργοποιήστε τις υπηρεσίες online στις ρυθμίσεις για να τις ακούσετε.</item>
-    <item quantity="one">Παράλειψη %d τραγούδι. Ενεργοποιήστε τις υπηρεσίες online στις ρυθμίσεις για να την ακούσετε.</item>
+    <item quantity="other">Παράλειψη %d τραγούδια. Ενεργοποιήστε τις υπηρεσίες online στις ρυθμίσεις για να τα ακούσετε.</item>
+    <item quantity="one">Παράλειψη %d τραγούδι. Ενεργοποιήστε τις υπηρεσίες online στις ρυθμίσεις για να το ακούσετε.</item>
   </plurals>
   <plurals name="song_already_favorite">
     <item quantity="other">Τα τραγούδια είναι ήδη στα αγαπημένα.</item>
@@ -186,6 +186,14 @@
     <plurals name="Ndownload_fee_alert_message">
         <item quantity="other">"Κατόπιν αιτήματος του κατόχου των πνευματικών δικαιωμάτων, %d τα επιλεγμένα τραγούδια δεν μπορούν να μεταφορτωθούν δωρεάν. Αυτά τα τραγούδια προστέθηκαν στις λήψεις."</item>
         <item quantity="one">"Κατόπιν αιτήματος του κατόχου των πνευματικών δικαιωμάτων, %d το επιλεγμένο τραγούδι δεν μπορεί να μεταφορτωθεί δωρεάν. Αυτό το τραγούδι προστέθηκε στις λήψεις."</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Λήψη %1$d αρχείων</item>
+        <item quantity="one">Λήψη %1$d αρχείου</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"Αδυναμία λήψης %1$d στοιχείων"</item>
+        <item quantity="one">"Αδυναμία λήψης %1$d στοιχείο"</item>
     </plurals>
 </resources>
 

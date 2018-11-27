@@ -154,11 +154,11 @@
       <item quantity="one">Απομένει %1$d ώρ. %2$d λεπ.</item>
    </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Απαιτείται εισαγωγή κωδικού μετά απο %d ώρες αδράνειας</item>
-        <item quantity="one">Απαιτείται εισαγωγή κωδικού μετά απο %d ώρα αδράνειας</item>
+        <item quantity="other">"Δεν χρησιμοποιήσατε κωδικό σας τις τελευταίες %d ώρες. Εισάγετε τον κωδικό σας."</item>
+        <item quantity="one">"Δεν χρησιμοποιήσατε κωδικό σας την τελευταία %d ώρα. Εισάγετε τον κωδικό σας."</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Απαιτείται εισαγωγή μοτίβου μετά απο %d ώρες αδράνειας</item>
-        <item quantity="one">Απαιτείται εισαγωγή μοτίβου μετά απο %d ώρα αδράνειας</item>
+        <item quantity="other">"Δεν χρησιμοποιήσατε μοτίβο σας τις τελευταίες %d ώρες. Σχεδιάστε το μοτίβο σας."</item>
+        <item quantity="one">"Δεν χρησιμοποιήσατε μοτίβο σας τις τελευταίες %d ώρες. Σχεδιάστε το μοτίβο σας."</item>
     </plurals>
 </resources>

@@ -195,7 +195,6 @@
 	<string name="timer_alert_mute_switch">Διακόπτης για σίγαση χρονοδιακόπτη ειδοποίησης</string>
 	<string name="repeat_count">Φορές</string>
 	<string name="snooze_duration">Αναβολή</string>
-	<string name="snooze_duration_title">Αναβολή</string>
 	<string name="snooze_duration_value">Διάστημα (λεπτά)</string>
 </resources>
 

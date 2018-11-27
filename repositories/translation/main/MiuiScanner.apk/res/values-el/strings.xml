@@ -223,5 +223,11 @@
   <string name="translate_try_again">Προσπαθήστε ξανά</string>
   <string name="translate_type_take_pic">Φωτογραφία</string>
   <string name="wifi_exist_fail">Το Σημ. Πρόσβασης Wi-Fi \"%1$s\" υπάρχει ήδη. Διαγραφή του και ξαναπροσπαθήστε.</string>
+  <string name="module_title_plant">Φυτό</string> 
+  <string name="plant_fail">"Αδύνατη η αναγνώριση"</string>
+  <string name="plant_loading">Προσδιορισμός…</string>
+  <string name="plant_reg_fail_2">"Αδύνατη η αναγνώριση αυτού του αντικειμένου. Ο σαρωτής μπορεί να αναγνωρίσει μόνο τα φυτά."</string>
+  <string name="plant_support">" (Τεχνική Υποστήριξη)"</string>
+  <string name="plant_title">Σαρώστε το φυτό που θέλετε να αναγνωρίσετε</string>  
 </resources>
 

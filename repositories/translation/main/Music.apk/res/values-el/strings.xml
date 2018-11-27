@@ -1165,6 +1165,29 @@
   <string name="nowplaying_bar_switch_songs_by_sliding">Σύρετε για αλλαγή τραγουδιού</string>
   <string name="toast_is_pro">"Είστε ήδη μέλος του PRO."</string>
   <string name="toast_not_pro">Αυτή η λειτουργία είναι διαθέσιμη μόνο στα μέλη PRO.</string>
-  <string name="com.crashlytics.android.build_id">1058e55f-a71d-44db-93d1-5a03e004498e</string>  
+  <string name="signup_type_silent_default">σίγαση</string>
+  <string name="signup_type_user_default">Είσοδος καταναλωτή SDK</string>
+  <string name="similar_albums">Παρόμοια άλμπουμ</string>
+  <string name="similar_playlists">Παρόμοιες Λίστες</string>
+  <string name="similar_videos">Παρόμοια Βίντεο</string>
+  <string name="banner_op">Mi Μουσική</string> 
+   <string name="dialog_renew_free_end">Η δοκιμαστική περίοδος έληξε. Εγγραφείτε στο HungamaPRO?​</string>   
+  <string name="online_apk_download_error_no_enough_space">"Αδύνατη η λήψη λόγω έλλειψης χώρου αποθήκευσης."</string>
+  <string name="online_apk_downloading">Λήψη…%d%%</string>
+  <string name="online_apk_install_alert_confirm">Download</string>
+  <string name="online_apk_install_alert_message">Χρειάζεστε λήψη του Yandex.Music plug-in. Λήψη τώρα?</string>
+  <string name="online_apk_install_alert_note">Αυτή η υπηρεσία παρέχεται από Yandex.Music</string>
+  <string name="online_apk_install_error_no_enough_space">"Αδύνατη η λήψη λόγω έλλειψης χώρου αποθήκευσης."</string>
+  <string name="online_apk_install_error_with_reason">"Αδυναμία εγκατάστασης (Σφάλμα %d)"</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Η σύνδεση του Διαχειριστή λήψης απέτυχε, ελέγξτε την κατάσταση Διαχείρισης λήψεων στη Διαχείριση εφαρμογών.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Έκδοση εισαγωγής %1$s
+Μέγεθος: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Έκδοση εισαγωγής %1$s
+Μέγεθος ενημέρωσης Delta: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s ενημέρωση!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Αποθήκευση μη διαθέσιμη, ελέγξτε την SD card.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>   
 </resources>
 
