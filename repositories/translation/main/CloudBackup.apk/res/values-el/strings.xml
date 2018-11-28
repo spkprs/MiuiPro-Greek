@@ -186,4 +186,9 @@
   <string name="try_continue">Αγγίξτε για συνέχεια</string>
   <string name="second_space">Δεύτερος Χώρος</string>
   <string name="self_device">"Αυτό το τηλέφωνο"</string>
+  <string name="backup_stopped_msg">Η συνέχιση αντιγράφου θα επικαλύψει το υπάρχον αντίγραφο του Cloud, κάντε κλικ για προβολή.</string>
+  <string name="backup_stopped_title">Το αντίγραφο του Cloud έχει σταματήσει</string>
+  <string name="dialog_btn_cancel_backup">Ακύρωση</string>
+  <string name="dialog_btn_overwrite_backup">Αντικατάσταση</string>
+  <string name="dialog_msg_overwrite_backup">Η διαφορά μεταξύ του τοπικού και του αντιγράφου του Cloud είναι μεγάλη, αν συνεχίσετε θα αντικατασταθεί το υπάρχον.</string>
 </resources>
