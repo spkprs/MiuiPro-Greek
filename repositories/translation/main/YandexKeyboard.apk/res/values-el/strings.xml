@@ -97,7 +97,7 @@
   <string name="enable">Ενεργοποίηση</string>
   <string name="enable_metrics_logging">Βελτίωση %s</string>
   <string name="enable_search_bar_notification">Μπαρα αναζήτησης</string>
-  <string name="enable_search_bar_notification_summary">Εμφάνιση της γραμμής αναζήτησης στον πίνακα ειδοποιήσεων</string>
+  <string name="enable_search_bar_notification_summary">Εμφάν γραμ αναζήτ στον πίνακα ειδοπ</string>
   <string name="english_ime_debug_settings">Ρυθμίσεις εντοπισμού σφαλμάτων πληκτρολογίου Android</string>
   <string name="english_ime_input_options">Επιλογές εισαγωγής</string>
   <string name="english_ime_settings">Ρυθμίσεις του Πληκτρολογίου Android (AOSP)</string>
@@ -111,8 +111,8 @@
   <string name="gesture_space_aware_summary">Εισαγωγή κενού κατά τη διάρκεια χειρονομιών ολίσθησης με το πλήκτρο Διαστήματος</string>
   <string name="get_it">ΤΟ ΚΑΤΑΛΑΒΑ</string>
   <string name="globe_left">Αριστερή πλευρά</string>
-  <string name="globe_pref_dialog_summary">Επιλέξτε την τοποθέτηση του πλήκτρου Globe</string>
-  <string name="globe_pref_dialog_title">Τοποθέτηση κεντρικού πλήκτρου</string>
+  <string name="globe_pref_dialog_summary">Επιλογή τοποθεσίας πλήκτρου Globe</string>
+  <string name="globe_pref_dialog_title">Τοποθέτηση Globe πλήκτρου</string>
   <string name="globe_right">Δεξιά πλευρά</string>
   <string name="go_to_settings">Ρυθμίσεις</string>
   <string name="has_dictionary">Λεξικό διαθέσιμο</string>
@@ -145,6 +145,7 @@
   <string name="label_next_key">Επόμενο</string>
   <string name="label_pause_key">Παύση</string>
   <string name="label_previous_key">Προηγ</string>
+  <string name="language_selection_title">Γλώσσες</string>
   <string name="label_search_key">Αναζήτηση</string>
   <string name="label_send_key">Στείλτε</string>
   <string name="label_wait_key">Περιμένετε</string>
@@ -191,7 +192,7 @@
   <string name="prefs_keypress_sound_volume_settings">Ένταση ήχου πλήκτρου</string>
   <string name="prefs_keypress_vibration_duration_settings">Διάρκεια δόνησης πλήκτρου</string>
   <string name="prefs_read_external_dictionary">Ανάγνωση απο εξωτ. αρχείο λεξικού</string>
-  <string name="prefs_show_suggestions">Εμφάνιση προτάσεων διόρθωσης</string>
+  <string name="prefs_show_suggestions">Εμφάνιση διόρθωσης προτάσεων</string>
   <string name="prefs_show_suggestions_summary">Προβολή προτεινόμενων λέξεων κατά την πληκτρολόγηση</string>
   <string name="prefs_show_ui_to_accept_typed_word">Εμφάνιση UI για να αποδοχή πληκτρολ. λέξης</string>
   <string name="read_external_dictionary_confirm_install_message">Πράγματι εγκατάσταση αυτό του αρχείου για %s?</string>
@@ -204,7 +205,7 @@
   <string name="sap_disagree">Απόρριψη</string>
   <string name="sap_help_improve_keyboard">Βοήθεια Υ.Keyboard επιλέξτε λέξεις</string>
   <string name="sap_main_window">Το Y.Keyboard θα προβλέψει καλύτερα στο τέλος των προτάσεων εάν το επιτρέψετε να συλλέξει στατιστικά στοιχεία.</string>
-  <string name="sap_settings_option">Συλλογή στατιστικών εισόδου</string>
+  <string name="sap_settings_option">Συλλογή στατιστικών εισαγωγής</string>
   <string name="save">Αποθήκευση</string>
   <string name="search_menu_title">Αναζήτηση</string>
   <string name="searchlib_about_app_title">Σχετικά με</string>
@@ -231,7 +232,7 @@
   <string name="searchlib_settings_notification">Μπαρα αναζήτησης</string>
   <string name="searchlib_settings_rates">Συναλλαγματικές ισοτιμίες</string>
   <string name="searchlib_settings_save_search_history_title">Αποθήκευση ιστορικού αναζήτησης</string>
-  <string name="searchlib_settings_secure_lockscreen_notification_title">Εμφάνιση της γραμμής αναζήτησης στην οθόνη κλειδώματος</string>
+  <string name="searchlib_settings_secure_lockscreen_notification_title">Εμφάν γραμ αναζήτ σε οθόνη κλειδώμ</string>
   <string name="searchlib_settings_traffic">Κυκλοφορία</string>
   <string name="searchlib_settings_weather">Καιρός</string>
   <string name="searchlib_speech_navigation_select_app">Ανοίξτε την εφαρμογή</string>
@@ -334,7 +335,7 @@
   <string name="settings_setup_step4_title">Αναζήτηση, Καιρός, Κυκλοφορία — πάντα στα χέρια σας</string>
   <string name="settings_show_additional_symbols_longtap">Εισαγωγή των @, #, and * με παρατεταμένο πάτημα πλήκτρων</string>
   <string name="settings_show_additional_symbols_longtap_title">Πρόσθετα σύμβολα</string>
-  <string name="settings_show_emojies_suggest">Προτείνω emoji σε</string>
+  <string name="settings_show_emojies_suggest">Προτάσεις με emoji</string>
   <string name="settings_show_globe">Πλήκτρο αλλαγής γλώσσας</string>
   <string name="settings_show_numbers_row_title">Επιπλέον σειρά αριθμών</string>
   <string name="settings_switched_kb_message">Ενεργοποιήστε το Yandex.Keyboard για να συνεχίσετε</string>
@@ -1315,14 +1316,14 @@
   <string name="training_hello_ru">Γεια σου</string>
   <string name="training_hello_uk">Γεια σας</string>
   <string name="unknown_address">Άγνωστη διεύθυνση</string>
-  <string name="use_contacts_dict">Προτείνετε τα ονόματα επαφών</string>
-  <string name="use_contacts_dict_summary">Χρησιμοποιήστε ονόματα από τις Επαφές για προτάσεις και διορθώσεις</string>
+  <string name="use_contacts_dict">Προτάσεις ονομάτων επαφών</string>
+  <string name="use_contacts_dict_summary">Χρησιμοποιήστε τα ονόματα από τις Επαφές για προτάσεις και διορθώσεις</string>
   <string name="use_contacts_for_spellchecking_option_summary">Ο ορθογραφικός έλεγχος χρησιμοποιεί καταχωρήσεις από τη λίστα επαφών σας</string>
   <string name="use_contacts_for_spellchecking_option_title">Αναζητήστε τα ονόματα επαφών</string>
   <string name="use_double_space_period">Περίοδος διπλού διαστήματος</string>
   <string name="use_double_space_period_summary">Με διπλό πάτημα στο πλήκτρο διαστήματος εισάγεται μια περίοδος που ακολουθείται από ένα κενό</string>
   <string name="use_personalized_dicts">Εξατομικευμένες προτάσεις</string>
-  <string name="use_personalized_dicts_summary">Μάθετε από τις επικοινωνίες σας και δακτυλογραφημένα δεδομένα για να βελτιώσετε τις προτάσεις</string>
+  <string name="use_personalized_dicts_summary">Μάθετε από τις επικοινωνίες σας και δακτυλογραφημένα δεδομένα για βελτίωση προτάσεων</string>
   <string name="user_dict_settings_add_dialog_less_options">Λιγότερες επιλογές</string>
   <string name="user_dict_settings_add_dialog_more_options">Περισσότερες επιλογές</string>
   <string name="user_dict_settings_add_dialog_title">Προσθήκη στο λεξικό</string>
@@ -1369,7 +1370,7 @@
   <string name="verticals_locations_category_stores_real">Καταστήματα</string>
   <string name="verticals_search_button_cancel">Άκυρο</string>
   <string name="verticals_search_empty">Τίποτα δεν βρέθηκε.\nΣας παρακαλώ, αλλάξτε τα κριτήρια αναζήτησης.</string>
-  <string name="verticals_search_tab_demotivators">Demotivators</string>
+  <string name="verticals_search_tab_demotivators">Δημοσιεύσεις</string>
   <string name="verticals_search_tab_pictures">Εικόνες</string>
   <string name="verticals_translator_select_language">Επιλογή γλώσσας</string>
   <string name="vibrate_on_keypress">Δόνηση πλήκτρων</string>
@@ -1377,7 +1378,7 @@
   <string name="voice_input_disabled_summary">Καμία μεθόδους εισόδου φωνής ενεργοποιημένη. Έλεγχος γλώσσας &amp; ρυθμίσεις εισαγωγής.</string>
   <string name="voice_punctuation_automatic">Αυτόματη</string>
   <string name="voice_punctuation_manual">Χειροκίνητα</string>
-  <string name="voice_punctuation_title">Εισαγάγετε στίξη στην ομιλία σε κείμενο</string>
+  <string name="voice_punctuation_title">Εισάγετε στίξη στην ομιλία σε κείμενο</string>
   <string name="voice_search_dialog_cancel_button">Ακύρωση</string>
   <string name="voice_search_dialog_hint">Έτοιμο</string>
   <string name="voice_search_dialog_network">Θα πρέπει να είστε συνδεδεμένοι στο Internet για να χρησιμοποιήσετε τη λειτουργία αναγνώρισης φωνής</string>
@@ -1387,13 +1388,13 @@
   <string name="voice_search_dialog_wait_before">Μόλις ένα δευτερόλεπτο</string>
   <string name="voice_speak">Μιλήστε…</string>
   <string name="wipe_personalized_dicts_button">Διαγραφή</string>
-  <string name="wipe_personalized_dicts_dialog">Η Απαλοιφή προσωπικών λεξικό;</string>
+  <string name="wipe_personalized_dicts_dialog">Απαλοιφή προσωπικού λεξικού;</string>
   <string name="wipe_personalized_dicts_dialog_message">Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</string>
-  <string name="wipe_personalized_dicts_title">Η Απαλοιφή προσωπικών λεξικό</string>
+  <string name="wipe_personalized_dicts_title">Απαλοιφή προσωπικού λεξικού</string>
   <string name="yandex_android_spell_checker_settings">Yandex ορθογραφικός έλεγχος ρυθμίσεων</string>
   <string name="yandex_dark_lite_theme">Λευκό σε μαύρο</string>
   <string name="yandex_dark_theme">Σκούρο</string>
-  <string name="yandex_english_ime_settings">Ya.Ρυθμίσεις Πληκτρολογίου</string>
+  <string name="yandex_english_ime_settings">Ρυθμίσεις Πληκτρ. Yandex</string>
   <string name="yandex_greeny_theme">Λευκό πράσινο</string>
   <string name="yandex_keyboard_ime_name">Yandex.Keyboard</string>
   <string name="yandex_lite_theme">Μαύρο γκρι</string>
