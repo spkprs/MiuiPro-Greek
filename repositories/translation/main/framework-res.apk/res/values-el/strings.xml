@@ -416,7 +416,7 @@
   <string name="granularity_label_word">λέξη</string>
   <string name="hardware">Υλικό</string>
   <string name="heavy_weight_notification">Η εφαρμογή %1$s εκτελείται</string>
-  <string name="heavy_weight_notification_detail">Αγγίξτε για εναλλαγή στην εφαρμογή</string>
+  <string name="heavy_weight_notification_detail">Αγγίξτε για εναλλαγή σε εφαρμογή</string>
   <string name="heavy_weight_switcher_text">Εκτελείται ήδη άλλη εφαρμογή την οποία πρέπει να διακόψετε για να είναι δυνατή η εκτέλεση της νέας.</string>
   <string name="heavy_weight_switcher_title">Να γίνει εναλλαγή μεταξύ εφαρμογών;</string>
   <string name="hour">ώρα</string>
@@ -1327,7 +1327,7 @@
   <string name="stk_cc_ussd_to_dial">Το αίτημα USSD τροποποιήθηκε σε αίτημα DIAL.</string>
   <string name="stk_cc_ussd_to_ss">Το αίτημα USSD τροποποιήθηκε σε αίτημα SS.</string>
   <string name="stk_cc_ussd_to_ussd">Το αίτημα USSD τροποποιήθηκε σε νέο αίτημα USSD.</string>
-  <string name="storage_internal">Εσωτερικός Χώρ. Αποθ.</string>
+  <string name="storage_internal">Εσωτερικός χώρος</string>
   <string name="storage_sd_card">Κάρτα SD</string>
   <string name="storage_sd_card_label">Κάρτα SD %s</string>
   <string name="storage_usb">Μνήμη USB</string>
@@ -1537,3 +1537,4 @@
   <string name="status_communication_speaker_summary">Μια κλήση hands-free βρίσκεται σε εξέλιξη. Ο ήχος θα εξακολουθεί να αναπαράγεται μέσω του ηχείου, όταν τα ακουστικά είναι συνδεδεμένα.</string>
   <string name="status_communication_summary">Μια κλήση βρίσκεται σε εξέλιξη. Μπορείτε να προσαρμόσετε τώρα, μόνο την ένταση κλήσης.</string>
 </resources>
+

@@ -515,13 +515,13 @@
   <string name="local_tracks_short">Τοπική Μουσική</string>
   <string name="login">Είσοδος</string>
   <string name="login_tips">Συνδεθείτε για να λάβετε σχετικές προτάσεις</string>
-  <string name="long_press_to_select_lyric">Πατήστε και κρατήστε πατημένο για να επιλέξετε τοπικό αρχείο στίχων</string>
+  <string name="long_press_to_select_lyric">Αγγίξτε παρατεταμένα για επιλογή αρχείου στίχων</string>
   <string name="lrc_search_failed">Δεν βρέθηκαν στίχοι!</string>
   <string name="lrc_searching">Αναζήτηση…</string>
   <string name="lyric">Στίχοι</string>
   <string name="lyric_is_empty">Δεν υπάρχουν διαθέσιμοι στίχοι</string>
   <string name="lyric_label">Στίχοι</string>
-  <string name="lyric_open_other_connect">Κατεβάστε τους στίχους χρησιμοποιώντας δεδομένα κινητής</string>
+  <string name="lyric_open_other_connect">Λήψη στίχων χρησιμοποιώντας δεδομένα κινητής</string>
   <string name="lyric_setting">Ρυθμίσεις στίχων</string>
   <string name="manager_cloud_space">Διαχείριση αποθ.χώρου Mi Cloud</string>
   <string name="max_sleep_time">%d</string>

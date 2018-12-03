@@ -9,8 +9,8 @@
         <item quantity="one">Εγκατεστημένο πιστοποιητικό</item>
     </plurals>
     <plurals name="bugreport_countdown">
-        <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτ..</item>
-        <item quantity="one">Λήψη screenshot για την αναφορά σφάλματος σε %d δεύτερα.</item>
+        <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτ.</item>
+        <item quantity="one">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτ.</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Τελευταία %d ημέρες</item>

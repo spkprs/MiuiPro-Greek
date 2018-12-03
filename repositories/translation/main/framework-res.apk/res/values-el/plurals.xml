@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="bugreport_countdown">
-    <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτ..</item>
-    <item quantity="one">Λήψη screenshot για την αναφορά σφάλματος σε %d δεύτερα.</item>
+    <item quantity="other">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτ.</item>
+    <item quantity="one">Λήψη screenshot για την αναφορά σφάλματος σε %d δευτ.</item>
   </plurals>
   <plurals name="duration_days_relative">
     <item quantity="other">%d ημέρες πριν</item>
