@@ -159,7 +159,7 @@
   <string name="hunt_dual_water_mark">Διπλό υδατογράφημα κάμερας θα προστεθεί αυτόματα.</string>
   <string name="image_file_name_format">\'IMG\'_yyyyMMdd_HHmmss</string>
   <string name="install_confirmed">Εγκατάσταση</string>
-  <string name="lighting_hint_needed">Τοποθετήστε το αντικείμενο στον προβολέα</string>
+  <string name="lighting_hint_needed">Τοποθετήστε το θέμα στον προβολέα</string>
   <string name="lighting_hint_title">Φωτισμός Στούντιο</string>
   <string name="lighting_hint_too_close">Μετακινήστε την κάμερα πιο μακριά</string>
   <string name="lighting_hint_too_far">Φέρετε την κάμερα πιο κοντά</string>
@@ -213,7 +213,7 @@
   <string name="portait_effect_entry_romance">Romantic</string>
   <string name="portrait_mode_depth_effect_success_hint">Εφέ βάθους</string>
   <string name="portrait_mode_lowlight_hint">Τώρα είναι πολύ σκοτεινή</string>
-  <string name="portrait_mode_too_close_hint">Μεταφερθήκατε μακρύτερα από το αντικείμενο</string>
+  <string name="portrait_mode_too_close_hint">Μεταφερθήκατε μακριά από το θέμα</string>
   <string name="portrait_mode_too_far_hint">Τοποθετήστε το αντικείμενο έως 2 μέτρα</string>
   <string name="portrait_mode_use_hint">Η λειτουργία Πορτρέτου θολώνει το φόντο \nκαι εστιάζει στο θέμα.</string>
   <string name="portrait_with_facebeauty_hint">Η Αισθητική είναι πλέον διαθέσιμη σε λειτουργία Πορτρέτου</string>
@@ -646,4 +646,24 @@
   <string name="change_bgm">Αλλαγή ήχου</string>   
   <string name="hot_music">Δημοφιλή</string> 
   <string name="local_music">Τοπικά</string> 
+  <string name="accessibility_camera_record_start">Έναρξη εγγραφής</string>
+  <string name="accessibility_camera_record_stop">Παύση εγγραφής</string>
+  <string name="accessibility_record_button">Πλήκτρο εγγραφής</string>
+  <string name="accessibility_ultra_pixel_photography_off">48 εκατομ πεντακάθαρα, κλειστά</string>
+  <string name="accessibility_ultra_pixel_photography_on">48 εκατομ πεντακάθαρα, ανοιχτή κατάσταση</string>
+  <string name="accessibility_video_capture_button">Πλήκτρο Φωτογραφιών για Εγγραφή Βίντεο</string>
+  <string name="accessibility_video_pause_button">Παύση εγγραφής</string>
+  <string name="accessibility_video_resume_button">Συνέχεια εγγραφής</string>
+  <string name="ai_scene_top_moon_off">Νυκτερινή λειτουργία</string>
+  <string name="live_speed_extreme_fast">Ταχύτερη</string>
+  <string name="live_speed_extreme_slow">Βραδύτερη</string>
+  <string name="live_speed_fast">Γρήγορη</string>
+  <string name="live_speed_fragment_tab_name">Ταχύτητα</string>
+  <string name="live_speed_normal">Κανονική</string>
+  <string name="live_speed_slow">Αργή</string>
+  <string name="module_name_professional">Pro</string>
+  <string name="pref_camera_normal_wide_ldc_description">Διόρθωση παραμόρφωσης προσώπου στην άκρη της φωτογραφίας</string>
+  <string name="pref_camera_ultra_wide_ldc_description">Διόρθωση της παραμορφωμένης εικόνας σε υπέρ ευρυγώνιας λειτουργίας</string>
+  <string name="ultra_pixel_photography_close_tip">48 εκατομ πεντακάθαρα, έχουν κλείσει</string>
+  <string name="ultra_pixel_photography_open_tip">48 εκατομ πεντακάθαρα</string>
 </resources>
