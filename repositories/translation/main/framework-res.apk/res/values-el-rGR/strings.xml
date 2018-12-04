@@ -113,7 +113,9 @@
   <string name="badPin">Ο παλιός αριθμός PIN που πληκτρολογήσατε είναι λάθος.</string>
   <string name="badPuk">Ο κωδικός PUK που πληκτρολογήσατε είναι λάθος.</string>
   <string name="BaMmi">Φραγή κλήσεων</string>
-  <string name="battery_saver_description">Για να βελτιωθεί η διάρκεια της μπαταρίας, η Εξοικονόμηση μπαταρίας μειώνει την απόδοση της συσκευής και περιορίζει την δόνηση, τις υπηρεσίες τοποθεσίας και τα περισσότερα δεδομένα παρασκηνίου. Email, μηνύματα και άλλες εφαρμογές που χρησιμοποιούν τον συγχρονισμό, δεν θα ενημερώνονται εκτός και αν τις ανοίξετε.\n\nΗ Εξοικονόμηση μπαταρίας απενεργοποιείται αυτόματα όταν η συσκευή φορτίζει.</string>
+  <string name="battery_saver_description">'Για να βελτιωθεί η διάρκεια της μπαταρίας, η Εξοικονόμηση μπαταρίας μειώνει την απόδοση της συσκευής και περιορίζει την δόνηση, τις υπηρεσίες τοποθεσίας και τα περισσότερα δεδομένα παρασκηνίου. Email, μηνύματα και άλλες εφαρμογές που χρησιμοποιούν τον συγχρονισμό, δεν θα ενημερώνονται εκτός και αν τις ανοίξετε.
+  
+Η Εξοικονόμηση μπαταρίας απενεργοποιείται αυτόματα όταν η συσκευή φορτίζει."</string>
   <string name="beforeOneMonthDurationPast">Παλαιότερα από 1 μήνα</string>
   <string name="bluetooth_a2dp_audio_route_name">Ήχος Bluetooth</string>
   <string name="browse">Πρόγραμμα περιήγησης</string>
@@ -214,7 +216,7 @@
   <string name="date_picker_increment_year_button">Αύξηση έτους</string>
   <string name="date_picker_next_month_button">Επόμενος μήνας</string>
   <string name="date_picker_prev_month_button">Προηγούμενος μήνας</string>
-  <string name="date_time">%2$s %1$s</string>
+  <string name="date_time">%1$s, %2$s</string>
   <string name="date_time_done">Τέλος</string>
   <string name="date_time_set">Ορισμός</string>
   <string name="day">ημέρα</string>
@@ -514,11 +516,13 @@
   <string name="keyguard_password_enter_pin_prompt">Νέος κωδικός PIN</string>
   <string name="keyguard_password_enter_puk_code">Πληκτρολογήστε τον κωδικό PUK και το νέο κωδικό PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Κωδικός PUK</string>
-  <string name="keyguard_password_entry_touch_hint">Πατήστε για εισαγωγή κωδικού</string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size=\"17\">Πατήστε για εισαγωγή κωδικού&lt;/font></string>
   <string name="keyguard_password_wrong_pin_code">Λανθασμένος κωδικός PIN.</string>
   <string name="kg_enter_confirm_pin_hint">Επιβεβαιώστε τον απαιτούμενο κωδικό PIN</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %d φορές. Μετά από %d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου.\n\nΔοκιμάστε ξανά σε %d δευτ..</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Μετά από %d προσπάθειες, το τηλέφωνο θα επαναφερθεί στις εργοστασιακές ρυθμίσεις και όλα τα δεδομένα χρήστη θα χαθούν.</string>
+  <string name="kg_failed_attempts_almost_at_login">"Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %1$d φορές. Μετά από %2$d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου.
+  
+Δοκιμάστε ξανά σε %3$d δευτ.</string>
+  <string name="kg_failed_attempts_almost_at_wipe">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %1$d φορές. Μετά από %2$d προσπάθειες, το τηλέφωνο θα επαναφερθεί στις εργοστασιακές ρυθμίσεις και όλα τα δεδομένα χρήστη θα χαθούν.</string>
   <string name="kg_failed_attempts_now_wiping">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Το τηλέφωνο θα επαναφερθεί στις εργοστασιακές ρυθμίσεις.</string>
   <string name="kg_forgot_pattern_button_text">Ξεχάσατε το μοτίβο</string>
   <string name="kg_invalid_confirm_pin_hint">Δεν υπάρχει αντιστοιχία των κωδικών PIN</string>
@@ -581,11 +585,14 @@
   <string name="lockscreen_access_pattern_start">Έναρξη μοτίβου</string>
   <string name="lockscreen_carrier_default">Καμία υπηρεσία.</string>
   <string name="lockscreen_emergency_call">Κλήση έκτακτης ανάγκης</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Μετά από %d προσπάθειες, το τηλέφωνο θα επαναφερθεί στις εργοστασιακές ρυθμίσεις και όλα τα δεδομένα χρήστη θα χαθούν.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %d φορές. Μετά από %d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση της σύνδεσής σας Google.\n\nΠροσπαθήστε ξανά σε %d δευτ..</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %1$d  φορές. Μετά από %2$d προσπάθειες, το τηλέφωνο θα επαναφερθεί στις εργοστασιακές ρυθμίσεις και όλα τα δεδομένα χρήστη θα χαθούν.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %1$d φορές. Μετά από %2$d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση της σύνδεσής σας Google.
+  
+Προσπαθήστε ξανά σε %3$d δευτ."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Το τηλέφωνο θα επαναφερθεί στην εργοστασιακή προεπιλογή.</string>
   <string name="lockscreen_forgot_pattern_button_text">Ξεχάσατε το μοτίβο;</string>
-  <string name="lockscreen_glogin_account_recovery_hint">\"Ξεχάσατε το όνομα χρήστη ή τον κωδικό πρόσβασής σας;\nΕπισκεφτείτε τη διεύθυνση \"google.com/accounts/recovery.</string>
+  <string name="lockscreen_glogin_account_recovery_hint">\"Ξεχάσατε το όνομα χρήστη ή τον κωδικό πρόσβασής σας;
+Επισκεφτείτε τη διεύθυνση \"&lt;b>google.com/accounts/recovery&lt;/b>"</string>
   <string name="lockscreen_glogin_checking_password">Έλεγχος...</string>
   <string name="lockscreen_glogin_forgot_pattern">Ξεκλείδωμα λογαριασμού</string>
   <string name="lockscreen_glogin_instructions">Για ξεκλείδωμα, συνδεθείτε με το λογαριασμό σας Google.</string>
@@ -617,9 +624,15 @@
   <string name="lockscreen_sound_on_label">Ενεργοποίηση ήχου</string>
   <string name="lockscreen_storage_locked">Ξεκλείδωμα για όλες τις λειτουργίες και δεδομένα</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Προσπαθήστε ξανά σε %d δευτ..</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">Σχεδιάσατε εσφαλμένα το μοτίβο ξεκλειδώματος%d φορές. \n\nΠροσπαθήστε ξανά σε %d δευτ..</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">Έχετε πληκτρολογήσει τον κωδικό πρόσβασης εσφαλμένα %d φορές. \n\nΠροσπαθήστε ξανά σε %d δευτ..</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">Έχετε πληκτρολογήσει τον αριθμό σας PIN εσφαλμένα %d φορές. \n\nΠροσπαθήστε ξανά σε %d δευτ..</string>
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Σχεδιάσατε εσφαλμένα το μοτίβο ξεκλειδώματος %1$d φορές.
+
+Προσπαθήστε ξανά σε %2$d δευτ."</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Έχετε πληκτρολογήσει τον κωδικό πρόσβασης εσφαλμένα %1$d φορές.
+
+Προσπαθήστε ξανά σε %2$d δευτ."</string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Έχετε πληκτρολογήσει τον αριθμό σας PIN εσφαλμένα %1$d φορές.
+
+Προσπαθήστε ξανά σε %2$d δευτ."</string>
   <string name="lockscreen_transport_ffw_description">Γρήγορη προώθηση</string>
   <string name="lockscreen_transport_next_description">Επόμενο κομμάτι</string>
   <string name="lockscreen_transport_pause_description">Παύση</string>
@@ -1221,7 +1234,9 @@
   <string name="roamingText12">Διαφημιστικό πλαίσιο περιαγωγής απενεργοποιημένο</string>
   <string name="roamingTextSearching">Αναζήτηση υπηρεσιών</string>
   <string name="RuacMmi">Απόρριψη ανεπιθύμητων, ενοχλητικών κλήσεων</string>
-  <string name="safe_media_volume_warning">Αύξηση έντασης ήχου πάνω από το επίπεδο ασφαλείας;\n\nΗ ακρόαση σε υψηλή ένταση για μεγάλο χρονικό διάστημα μπορεί να προκαλέσει βλάβη στην ακοή σας.</string>
+  <string name="safe_media_volume_warning">"Αύξηση έντασης ήχου πάνω από το επίπεδο ασφαλείας;
+  
+Η ακρόαση σε υψηλή ένταση για μεγάλο χρονικό διάστημα μπορεί να προκαλέσει βλάβη στην ακοή σας."</string>
   <string name="safeMode">Ασφαλής λειτουργία</string>
   <string name="save_password_label">Επιβεβαίωση</string>
   <string name="save_password_message">Θέλετε το πρόγραμμα περιήγησης να διατηρήσει αυτόν τον κωδικό πρόσβασης;</string>
@@ -1300,7 +1315,7 @@
   <string name="sipAddressTypeOther">Άλλο</string>
   <string name="sipAddressTypeWork">Εργασία</string>
   <string name="skip_button_label">Παράλειψη</string>
-  <string name="sms_control_message">Η εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; στέλνει έναν μεγάλο αριθμό μηνυμάτων SMS. Θέλετε να επιτρέψετε σε αυτήν την εφαρμογή να συνεχίσει να στέλνει μηνύματα;</string>
+  <string name="sms_control_message">Η εφαρμογή &lt;b>%1$s&lt;/b> στέλνει έναν μεγάλο αριθμό μηνυμάτων SMS. Θέλετε να επιτρέψετε σε αυτήν την εφαρμογή να συνεχίσει να στέλνει μηνύματα;</string>
   <string name="sms_control_no">Άρνηση</string>
   <string name="sms_control_title">Αποστολή μηνυμάτων SMS</string>
   <string name="sms_control_yes">Αποδοχή</string>
@@ -1308,7 +1323,7 @@
   <string name="sms_short_code_confirm_allow">Αποστολή</string>
   <string name="sms_short_code_confirm_always_allow">Να επιτρέπεται πάντα</string>
   <string name="sms_short_code_confirm_deny">Ακύρωση</string>
-  <string name="sms_short_code_confirm_message">Η εφαρμογή &lt;b&gt;%1$s&lt;/b&gt; θέλει να αποστείλει ένα μήνυμα στη διεύθυνση &lt;b&gt;%2$s&lt;/b&gt;.</string>
+  <string name="sms_short_code_confirm_message">Η εφαρμογή &lt;b>%1$s&lt;/b> θέλει να αποστείλει ένα μήνυμα στη διεύθυνση &lt;b>%2$s&lt;/b>.</string>
   <string name="sms_short_code_confirm_never_allow">Να μην επιτρέπεται ποτέ</string>
   <string name="sms_short_code_details">Αυτή η ρύθμιση ενδέχεται να επιφέρει χρεώσεις στο λογαριασμό κινητού σας.</string>
   <string name="sms_short_code_remember_choice">Απομνημόνευση της επιλογής μου</string>
@@ -1379,7 +1394,7 @@
   <string name="unpin_target">Ξεκαρφίτσωμα</string>
   <string name="unsupported_display_size_message">%1$s δεν υποστηρίζει την τρέχουσα ρύθμιση μεγέθους οθόνης και μπορεί να συμπεριφέρεται απροσδόκητα.</string>
   <string name="unsupported_display_size_show">Εμφάνιση πάντα</string>
-  <string name="untitled">&lt;Χωρίς τίτλο&gt;</string>
+  <string name="untitled">&lt;Χωρίς τίτλο></string>
   <string name="upload_file">Επιλογή αρχείου</string>
   <string name="usb_accessory_notification_title">Σύνδεση σε αξεσουάρ USB</string>
   <string name="usb_cd_installer_notification_title">Συνδεδεμένο ως πρόγραμμα εγκατάστασης</string>
