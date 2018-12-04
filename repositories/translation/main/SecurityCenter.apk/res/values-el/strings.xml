@@ -421,7 +421,7 @@
   <string name="btn_stop_diagnostic">Διακοπή</string>
   <string name="btn_text_already_opened">Ενεργό</string>
   <string name="btn_text_goto_power_rank">Περισσότερα</string>
-  <string name="btn_text_goto_setup">Πηγαίνετε στις Ρυθμίσεις</string>
+  <string name="btn_text_goto_setup">Ρυθμίσεις</string>
   <string name="btn_text_network_speed_detail">Σύνδεση</string>
   <string name="btn_text_open_now">Ενεργοποίηση</string>
   <string name="btn_text_optimize_extend_battery_time">Προσθήκη %s</string>
@@ -1096,7 +1096,7 @@
   <string name="menu_item_about_privacy_title">Πολιτική Απορρήτου</string>
   <string name="menu_item_app_details">Λεπτομέρειες</string>
   <string name="menu_item_app_permissions_control">Διαχείριση δικαιωμάτων</string>
-  <string name="menu_item_control_app_permissions">Να ζητείται η άδειά σας, πριν επιτραπεί σε εφαρμογές να διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής</string>
+  <string name="menu_item_control_app_permissions">Να ζητείται η άδεια σας, πριν επιτραπεί σε εφαρμογές να διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής</string>
   <string name="menu_item_force_stop">Εξαναγκασμένη διακοπή</string>
   <string name="menu_item_install_debug_package">Εγκατάσταση πακέτου εντοπισμού σφαλμάτων</string>
   <string name="menu_item_notification_antispam_text_avail">Spam</string>
@@ -1387,10 +1387,10 @@
   <string name="permission_action_accept">Αποδοχή</string>
   <string name="permission_action_prompt">Αίτηση</string>
   <string name="permission_action_reject">Απόρριψη</string>
-  <string name="permission_close_permission_control_dialog_msg">Όταν η διαχείριση δικαιωμάτων είναι απενεργοποιημένη, οι εφαρμογές δεν θα ζητούν την άδειά σας πριν διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής.</string>
+  <string name="permission_close_permission_control_dialog_msg">Όταν η διαχείριση δικαιωμάτων είναι απενεργοποιημένη, οι εφαρμογές δεν θα ζητούν την άδεια σας πριν διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής.</string>
   <string name="permission_close_permission_control_dialog_title">Απενεργοποίηση διαχείρισης δικαιωμάτων;</string>
   <string name="permission_exception_title">Περιορισμένη σύνδεση για εφαρμογές</string>
-  <string name="permission_permission_control_closed_desc_dialog_msg">Οι εφαρμογές δεν θα ζητούν την άδειά σας πριν διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής. Μπορείτε να ενεργοποιήσετε αυτή την επιλογή από τις ρυθμίσεις δικαιωμάτων.</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">Οι εφαρμογές δεν θα ζητούν την άδεια σας πριν διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής. Μπορείτε να ενεργοποιήσετε αυτή την επιλογή από τις ρυθμίσεις δικαιωμάτων.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Διαχείριση δικαιωμάτων ανενεργή</string>
   <string name="permission_with_call_and_contact">Δικαιώματα που σχετίζονται με τηλεφωνικές κλήσεις, πληροφορίες επαφών, και αρχεία καταγραφής κλήσεων.</string>
   <string name="permission_with_SMS_and_MMS">Δικαιώματα σχετικά με SMS και MMS</string>

@@ -153,8 +153,8 @@
     <item quantity="one">Περιμένετε για %d και δοκιμάστε ξανά.</item>
   </plurals>
   <plurals name="manage_notification_access_summary_nonzero">
-    <item quantity="other">%d εφαρμογές έχουν πρόσβαση στις ειδοποιήσεις</item>
-    <item quantity="one">%d εφαρμογή έχει πρόσβαση στις ειδοποιήσεις</item>
+    <item quantity="other">%d εφαρμ. με πρόσβαση</item>
+    <item quantity="one">%d εφαρμ. με πρόσβαση</item>
   </plurals>
   <plurals name="manage_trust_agents_summary_on">
     <item quantity="other">%d ενεργοί έμπιστοι παράγοντες</item>
