@@ -368,4 +368,27 @@
   <string name="date_interval_start">Απο</string>
   <string name="date_interval_end">Εως</string>
   <string name="edit_event_dislike_title">Γιατί ακυρώσατε;</string>
- </resources>
+  <string name="event_action_arrive_station">Σταθμός Άφιξης</string>
+  <string name="event_info_title_anniversary">Επέτειος</string>
+  <string name="event_info_title_birthday">Γενέθλια</string>
+  <string name="event_info_title_countdown">Αντίστροφη μέτρηση</string>
+  <string name="ticket_activity_card_date_day">ημέρα</string>
+  <string name="ticket_activity_card_date_month">μήνας</string>
+  <string name="train_event_add_arrive_station">Κλικ για προσθήκη προορισμού</string>
+  <string name="train_event_arrive">%1$s άφιξη</string>
+  <string name="train_event_arrive_station_saved">Αποθήκευση Σταθμού Άφιξης</string>
+  <string name="train_event_choose_arrive_station">Επιλέξτε Σταθμό Άφιξης</string>
+  <string name="train_event_depart">%1$s αναχώρηση</string>
+  <string name="train_event_disclaimer">Αποποίηση: Τα δεδομένα και η υπηρεσία παρέχονται από την GaoTieGuanJia. Εάν υπάρχει κάποιο πρόβλημα, συμβουλευτείτε την υπηρεσία εξυπηρέτησης πελατών της εταιρείας. Οι πληροφορίες για τα τρένα είναι μόνο για αναφορά, ανατρέξτε στις επίσημες πληροφορίες.</string>
+  <string name="train_event_error_toast">Συγνώμη, η φόρτωση απέτυχε!</string>
+  <string name="train_event_error_train_info">Το εισιτήριο του τρένου είναι λάθος.</string>
+  <string name="train_event_more_info">Ακρίβεια ή καθυστέρηση Τρένων，Wi-Fi Τρένου και άλλα</string>
+  <string name="train_event_reminder">%1$s</string>
+  <string name="train_event_service">Υπηρεσία Τρένου</string>
+  <string name="train_event_station_date_format">MM-dd</string>
+  <string name="train_event_station_header_arrive_time">Άφιξη</string>
+  <string name="train_event_station_header_depart_time">Αναχώρηση</string>
+  <string name="train_event_station_header_name">Όνομα Σταθμού</string>
+  <string name="train_event_station_header_stay_time">Παραμονή</string>
+  <string name="train_event_station_stay_time">%1$s λεπτά</string>
+</resources>

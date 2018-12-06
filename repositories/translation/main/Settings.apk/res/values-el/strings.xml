@@ -5885,13 +5885,15 @@
   <string name="power_key_start_guide">Αφύπνιση του Βοηθού Google χρησιμοποιώντας το κουμπί Τροφοδοσίας σε συσκευές πλήρους προβολής</string>  
   <string name="the_way_of_wakeup_voice_assistant_summary">Ανοίξτε το Βοηθό φωνής σε λειτουργία πλήρους οθόνης (χωρίς εικονικά πλήκτρα)</string>   
   <string name="summary_font_size_v2">Ρύθμιση μεγέθους, κειμένου εικόνων και εικονιδίων</string>
-  <string name="title_font_v2">Κειμένο &amp; στοιχεία UI</string>
-  <string name="title_layout_v2">Μέγεθος κειμένου &amp; κλιμάκωση</string>
+  <string name="title_font_v2">Κειμένο και στοιχεία UI</string>
+  <string name="title_layout_v2">Μέγεθος κειμένου και κλιμάκωση</string>
   <string name="default_launcher_set_jeejen_message">Πατήστε το κουμπί Home για να ρυθμίσετε το Jeejen</string>
   <string name="default_launcher_set_system_message">Πατήστε το κουμπί Home για επαναφορά του προεπιλεγμένου</string>
   <string name="dump_log">Λήψη καταγραφής σχετικά με τα θέματα</string>
   <string name="dump_log_summary">"Αυτή η δυνατότητα έχει σχεδιαστεί για τη δημιουργία 284 αρχείων καταγραφής σε εκδόσεις Alpha και Beta του MIUI. Χρησιμοποιήστε το με προσοχή.
 Μπορείτε να προβάλετε την καταγραφή που δημιουργήθηκε στη Διαχείριση αρχείων."</string>
   <string name="dump_log_title">Σχετικά με αυτή τη λειτουργία</string>
+  <string name="miui_ime_xiaoai_voice_hint">Ταχύτερα, ο καλύτερος τρόπος εισαγωγής κειμένου</string>
+  <string name="miui_ime_xiaoai_voice_title">Mi AI είσοδος φωνής</string>
 </resources>
 

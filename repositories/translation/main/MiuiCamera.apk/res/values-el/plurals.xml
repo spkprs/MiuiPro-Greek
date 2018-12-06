@@ -4,4 +4,8 @@
         <item quantity="other">Εστίασε. Ανιχνεύθηκαν %d πρόσωπα</item>
         <item quantity="one">Εστίασε. Ανιχνεύθηκε %d πρόσωπο</item>
     </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Πραγματοποιήθηκε λήψη ριπής, %1$s φωτογραφιών</item>
+        <item quantity="one">Πραγματοποιήθηκε λήψη ριπής, %1$s φωτογραφίας</item>
+    </plurals>
 </resources>
