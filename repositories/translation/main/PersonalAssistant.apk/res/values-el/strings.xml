@@ -69,7 +69,7 @@
     <string name="assistant_format_MMdd">MM/dd</string>
     <string name="assistant_place">Αναγνωρίστε συχνές θέσεις</string>
     <string name="assistant_summary">Λάβετε χρήσιμες προτάσεις σωστά όταν τις χρειάζεστε</string>
-    <string name="authorize_button">Επιτρέπω</string>
+    <string name="authorize_button">Αποδοχή</string>
     <string name="authorize_fav_tip">Προσθέστε αγαπημένα από άλλες εφαρμογές εδώ.</string>
     <string name="ball_add_fav_team">Προσθέστε ομάδες</string>
     <string name="ball_basket_rank_win_or_lose">Κερδισμένος/Χαμένος</string>
@@ -420,7 +420,7 @@
     <string name="express_setting_number_invalid">Βεβαιωθείτε ότι έχετε εισάγει έναν έγκυρο αριθμό τηλεφώνου</string>
     <string name="express_setting_number_save">Επαλήθευση και αποθήκευση</string>
     <string name="express_setting_number_title">Πρόσθεστε αριθμό τηλεφώνου</string>
-    <string name="express_setting_phone">Επιτρέψτε την ζήτηση πληροφοριών χρησιμοποιώντας αριθμό τηλεφώνου</string>
+    <string name="express_setting_phone">Αποδοχή της αίτησης πληροφοριών χρησιμοποιώντας αριθμό τηλεφώνου</string>
     <string name="express_setting_request_failed">Δεν ήταν δυνατή η αποστολή αιτήματος. Κωδικός λάθους: %s.</string>
     <string name="express_setting_service_provider">Πάροχος υπηρεσιών</string>
     <string name="express_setting_title">Επαληθευμένος αριθμός τηλεφώνου</string>
@@ -657,7 +657,7 @@
     <string name="navigation_search_no_city_list">Δεν υπάρχουν πόλεις εδώ</string>
     <string name="navigation_search_positioning">Λήψη πληροφοριών τοποθεσίας…</string>
     <string name="navigation_search_positioning_failed">Δεν ήταν δυνατή η λήψη θέσης, επιλέξτε την πόλη με μη αυτόματο τρόπο</string>
-    <string name="network_access_denied">Δεν είναι δυνατή η σύνδεση στο δίκτυο, πρώτα συμφωνώ με τους Όρους και Προϋποθέσεις</string>
+    <string name="network_access_denied">Αδύνατη η σύνδεση στο δίκτυο, πρώτα συμφωνήστε με τους Όρους και Προϋποθέσεις</string>
     <string name="network_error">Σφάλμα δικτύου</string>
     <string name="network_tip">Δεν μπόρεσε να συνδεθεί στο δίκτυο.</string>
     <string name="network_unavaliable">Δεν είναι δυνατή η λήψη πληροφοριών, ελέγξτε τη σύνδεση δικτύου</string>
@@ -911,7 +911,7 @@
     <string name="steps_misport_dialog_content">Έχετε εγκαταστήσει το Mi Fit; Για να μετρήσετε τα βήματα, κατεβάστε και εγκαταστήστε την εφαρμογή.</string>
     <string name="steps_misport_dialog_title">Δεν έχετε εγκατ. το Mi Fit ακόμα.</string>
     <string name="steps_misport_download">Λήψη</string>
-    <string name="steps_misport_go">Επιτρέπω</string>
+    <string name="steps_misport_go">Αποδοχή</string>
     <string name="steps_misport_ok">Το κατάλαβα</string>
     <string name="steps_misport_tip">Συνδεθείτε στο Mi Fit χρησιμοποιώντας το Λογαριασμό Mi και επιτρέψτε στο Mi Fit να ξεκινήσει αυτόματα την επιλογή Ασφάλεια - Δικαιώματα.</string>
     <string name="steps_sport">Mi Fit</string>
@@ -933,7 +933,7 @@
     <string name="system_favorite_dialog_link">Ασφάλεια και προστασία της ιδιωτικής ζωής</string>
     <string name="system_favorite_dialog_message">Προσθέστε τα αγαπημένα σας από άλλες εφαρμογές εδώ.</string>
     <string name="system_favorite_dialog_negative">Ακύρωση</string>
-    <string name="system_favorite_dialog_positive">Επιτρέπω</string>
+    <string name="system_favorite_dialog_positive">Αποδοχή</string>
     <string name="system_favorite_dialog_title_confirm">Αγαπημένα</string>
     <string name="take_off">Απογείωση</string>
     <string name="taxi">Ταξί</string>

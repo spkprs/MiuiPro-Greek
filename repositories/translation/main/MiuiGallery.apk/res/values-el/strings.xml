@@ -68,7 +68,7 @@
   <string name="album_share_kicked">%1$s είναι κλειστά</string>
   <string name="album_share_stat_content">Προσκλήσεις</string>
   <string name="album_share_subtitle_accepting">Αποδοχή πρόσκλησης από %1$s…</string>
-  <string name="album_share_subtitle_denying">Αγνόηση πρόσκλησης από %1$s…</string>
+  <string name="album_share_subtitle_denying">Άρνηση πρόσκλησης από %1$s…</string>
   <string name="album_share_subtitle_invited">Κοινή χρήση από %1$s</string>
   <string name="album_share_subtitle_normal">Κοινή χρήση από %1$s</string>
   <string name="album_share_subtitle_not_ready">Χωρίς πληροφορίες. Κλικ για κατέβασμα.</string>
@@ -141,7 +141,7 @@
   <string name="backup_cloud_space_low_btn_text">Αποκτήστε περισσότερα</string>
   <string name="backup_cloud_space_low_desc">%1$s στο Mi Cloud | Διαθέσιμα %2$s</string>
   <string name="backup_cloud_space_low_title">Ανεπαρκής Χώρος στο Mi Cloud</string>
-  <string name="backup_cta_not_allow_btn_text">Επιτρέψτε</string>
+  <string name="backup_cta_not_allow_btn_text">Αποδοχή</string>
   <string name="backup_cta_not_allow_desc">Συμφωνείτε να δημιουργείτε αντίγραφα αυτόματα</string>
   <string name="backup_cta_not_allow_title">Δεν είναι δυνατή η πρόσβαση στο δίκτυο</string>
   <string name="backup_detail_page_empty">Χωρίς φωτογραφίες ή βίντεο για αναμονή αντιγράφων</string>
@@ -420,7 +420,7 @@
   <string name="error_no_account_action">Συνδεθείτε</string>
   <string name="error_no_account_msg">Συνδεθείτε στο Λογαριασμό Mi και δοκιμάστε ξανά.</string>
   <string name="error_no_account_tip">Συνδεθείτε στο Λογαριασμό Mi</string>
-  <string name="error_no_cta_permission_action">Επιτρέψτε</string>
+  <string name="error_no_cta_permission_action">Αποδοχή</string>
   <string name="error_no_cta_permission_msg">Η πρόσβαση στο δίκτυο είναι περιορισμένη.</string>
   <string name="error_no_cta_permission_tip">Η πρόσβαση στο δίκτυο είναι περιορισμένη</string>
   <string name="error_no_network_action">Ρυθμίσεις δικτύου</string>
@@ -554,7 +554,7 @@
   <string name="get_album_info_in_process">Αναζήτηση πληροφοριών κοινόχρηστου άλμπουμ. Παρακαλώ περιμένετε…</string>
   <string name="grant_permission_go_and_set">Ορισμός</string>
   <string name="grant_permission_text">Το Άλμπουμ πρέπει να έχει πρόσβαση στο\u000d\n%s\u000d\n για να δουλέψει κανονικά, πατήστε &amp;quot;Ορισμός&amp;quot; για να μεταβείτε στην επιλογή Δικαιώματα.</string>
-  <string name="grant_permission_title">Επιτρέψτε την πρόσβαση</string>
+  <string name="grant_permission_title">Αποδοχή πρόσβασης</string>
   <string name="grant_permission_unlock_and_set">Ξεκλειδώστε και ρυθμίστε</string>
   <string name="has_invalid_recipient">Μη έγκυρος παραλήπτης (ες): %1$s</string>
   <string name="have_known">Το κατάλαβα</string>
@@ -873,8 +873,8 @@
   <string name="play_video_desc">Αναπαραγωγή Βίντεο</string>
   <string name="preparing_data">Μισό λεπτό…</string>
   <string name="privacy_permission_request_message">Η Συλλογή χρειάζεται πρόσβαση σε %3$s. Οι πληροφορίες που συλλέγουμε θα χρησιμοποιηθούν σύμφωνα με την %1$s και %2$s. Επιτρέπετε?</string>
-  <string name="privacy_permission_request_negative">Αρνούμαι</string>
-  <string name="privacy_permission_request_positive">Επιτρέπω</string>
+  <string name="privacy_permission_request_negative">Απόρριψη</string>
+  <string name="privacy_permission_request_positive">Αποδοχή</string>
   <string name="privacy_permission_request_title">Απαιτούμενα δικαιώματα</string>
   <string name="projection_cancel">Ακύρωση</string>
   <string name="projection_checkbox_text">Να θυμάται αυτή την οθόνη προβολής</string>

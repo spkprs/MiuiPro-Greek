@@ -351,7 +351,7 @@
   <string name="dtmf_tone_entries_normal">Κανονικός</string>
   <string name="dtmf_tones_summary">Ρυθμίστε το μήκος των τόνων DTMF</string>
   <string name="dtmf_tones_title">Τόνοι DTMF</string>
-  <string name="dual_4g_switch_summary">Επιτρέψτε την συνδεσιμότητα 4G και για τις δύο υποδοχές SIM.</string>
+  <string name="dual_4g_switch_summary">Αποδοχή συνδεσιμότητας 4G και για τις δύο υποδοχές SIM.</string>
   <string name="dual_4g_switch_title">Διπλή 4G</string>
   <string name="duration_disable_summary">Εμφάνιση διάρκειας ανενεργή</string>
   <string name="duration_enable_summary">Εμφάνιση διάρκειας ενεργή</string>

@@ -5,8 +5,8 @@
   <string name="account_contact_backup_info">Λογαριασμό Google, Λογαριασμό Mi και δεδομένα Επαφών</string>
   <string name="account_login">Είσοδος</string>
   <string name="account_summary">Δημιουργία αντιγράφων για τους λογαριασμούς Gmail E-mail και Mi</string>
-  <string name="alert_button_agree_and_continue">Επιτρέπω</string>
-  <string name="alert_button_deny">Απορρίπτω</string>
+  <string name="alert_button_agree_and_continue">Αποδοχή</string>
+  <string name="alert_button_deny">Απόρριψη</string>
   <string name="alert_message_backup_to_miasist">Το Mi PC Suite ζητά άδεια για τη δημιουργία αντιγράφου ασφαλείας σε έναν υπολογιστή. Επιτρέπετε?</string>
   <string name="alert_message_restore_from_miasist">Το Mi PC Suite ζητά άδεια για επαναφορά στοιχείων στο τηλέφωνό σας. Επιτρέπετε?</string>
   <string name="alert_miasist_occupy_backup">Δημιουργούνται αντιγράφα ασφαλείας με χρήση του Mi PC Suite ... Περιμένετε έως ότου ολοκληρωθεί η δημιουργία αντιγράφων και προσπαθήστε ξανά.</string>

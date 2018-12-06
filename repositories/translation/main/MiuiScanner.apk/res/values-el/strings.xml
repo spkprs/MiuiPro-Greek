@@ -67,7 +67,7 @@
      <string name="import_contact">Εισαγωγή επαφής</string>
      <string name="impunity_declaration_content">"Ο Σαρωτής απαιτεί δικαιώματα πρόσβασης στη φωτογραφική σας μηχανή και στην δημιουργία φωτογραφιών.Ο Σαρωτής πρέπει επίσης να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά. Θα θεωρείται ότι έχετε διαβάσει και συμφωνήσει με την %1$sΠολιτική Απορρήτου%2$s όταν επιλέξετε \"Αποδοχή\" παρακάτω."</string>
      <string name="impunity_declaration_negative_text">Έξοδος</string>
-     <string name="impunity_declaration_positive_text">Επίτρεψε</string>
+     <string name="impunity_declaration_positive_text">Αποδοχή</string>
      <string name="impunity_declaration_title">Πολιτική Απορρήτου</string>
      <string name="language_entry_chinese_cn">Απλοποιημένα Κινέζικα</string>
      <string name="language_entry_chinese_tw">Παραδοσιακά Κινέζικα</string>

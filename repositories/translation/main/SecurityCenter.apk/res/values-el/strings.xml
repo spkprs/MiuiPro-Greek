@@ -38,7 +38,7 @@
   <string name="activity_title_permission_manager">Δικαιώματα</string>
   <string name="activity_title_permissions_manager">Δικαιώματα</string>
   <string name="activity_title_power_manager">Διαχείριση μπαταρίας</string>
-  <string name="activity_title_root_acquired">Επιτρέψτε την πρόσβαση root</string>
+  <string name="activity_title_root_acquired">Αποδοχή της πρόσβασης root</string>
   <string name="activity_title_root_manager">Πρόσβαση Root</string>
   <string name="activity_title_root_note">Σχετικά με την πρόσβαση root</string>
   <string name="activity_title_settings">Ρυθμίσεις</string>
@@ -653,7 +653,7 @@
   <string name="dlg_sec_network_unavailable">Η εφαρμογή δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο διαδίκτυο. Να επιτρέπεται η σύνδεση στο Διαδίκτυο;</string>
   <string name="dlg_title_not_open_stranger_identify">Ενεργοποίηση αναγνώρισης κλήσης αγνώστων αριθμών</string>
   <string name="dlg_update_btn_contiue">Συνέχεια</string>
-  <string name="dlg_update_btn_open">Επιτρέψτε</string>
+  <string name="dlg_update_btn_open">Αποδοχή</string>
   <string name="dlg_update_data_content">Δεν είστε συνδεδεμένοι σε Wi-Fi. Η χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να δημιουργήσει πρόσθετα τέλη. Συνέχεια ούτως ή άλλως;</string>
   <string name="dlg_update_date_title">Προειδοποίηση</string>
   <string name="dlg_update_updating">Ενημέρωση…</string>
@@ -800,7 +800,7 @@
   <string name="gb_have_signed">Έλεγχος σήμερα</string>
   <string name="gb_msg_completely_shielded">Απόκρυψη μηνυμάτων</string>
   <string name="gb_msg_completely_shielded_summary">Απόκρυψη</string>
-  <string name="gb_msg_quickly_answer">Επιτρέψτε γρήγορες απαντήσεις</string>
+  <string name="gb_msg_quickly_answer">Αποδοχή γρήγορων απαντήσεων</string>
   <string name="gb_msg_quickly_answer_summary">Γρήγορες απαντήσεις</string>
   <string name="gb_msg_transparent_dispaly">Ειδοποιήσεις με διαφανές φόντο</string>
   <string name="gb_msg_transparent_dispaly_summary">Διαφανές</string>
@@ -1397,7 +1397,7 @@
   <string name="permit_running_network">Δεδομένα παρασκηνίου</string>
   <string name="person_hotpot">Hotspot κινητής</string>
   <string name="phone">Τηλέφωνο</string>
-  <string name="Phonepass">Επέτρεψε κλήσεις</string>
+  <string name="Phonepass">Αποδοχή κλήσεων</string>
   <string name="pkg_traffic">Ορισμός ορίου δεδομένων</string>
   <string name="pm_auto_start_by_other">Έμμεση έναρξη</string>
   <string name="pm_auto_start_by_other_app">Επιτρέψτε την εκκίνηση της εφαρμογής από άλλες εφαρμογές</string>
@@ -1592,8 +1592,8 @@
   <string name="renew_now">Ανανέωση</string>
   <string name="repair">Επιδιόρθωση</string>
   <string name="repair_loading_text">Μισό λεπτό…</string>
-  <string name="repeated_marked_number_summary">Επιτρέψτε τη δεύτερη κλήση μέσα σε τρία λεπτά από τον ίδιο αναφερθέντα αριθμό</string>
-  <string name="repeated_marked_number_title">Επιτρέψτε τις επανειλημμένες κλήσεις από αναφερθέντες αριθμούς</string>
+  <string name="repeated_marked_number_summary">Αποδοχή δεύτερης κλήσης εντός τριών λεπτών από τον ίδιο αναφερθέντα αριθμό</string>
+  <string name="repeated_marked_number_title">Αποδοχή επανειλημμένων κλήσεων από αναφερθέντες αριθμούς</string>
   <string name="replace_dns">Αυτόματη αντικατάσταση DNS</string>
   <string name="report">Αναφορά</string>
   <string name="report_error">Αδυναμία αναφοράς μηνύματος</string>
@@ -1737,7 +1737,7 @@
   <string name="sms_smart_engine_update">Αυτόματη ενημέρωση φίλτρου SMS</string>
   <string name="sms_smart_engine_update_now">Ενημέρωση</string>
   <string name="sms_stranger_block">Αποκλεισμός SMS από αγνώστους</string>
-  <string name="SMSpass">Επέτρεψε SMS</string>
+  <string name="SMSpass">Αποδοχή SMS</string>
   <string name="sorted_dialog_title">Ταξινόμηση κατά</string>
   <string name="sp_background_risk_dialog_summary">, παρακαλώ κάντε λεπτομερή έλεγχο και διορθώστε τους κινδύνους πληρωμών</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Είστε συνδεδεμένοι σε ένα δημόσιο δίκτυο Wi-Fi που μπορεί να μην είναι ασφαλές. Βεβαιωθείτε ότι η πληρωμή σας προστατεύεται πριν την ολοκληρώσετε.</string>
@@ -1780,8 +1780,8 @@
   <string name="st_antispam_bw_pick_add">Προσθήκη επαφών</string>
   <string name="st_antispam_delete">Διαγραφή</string>
   <string name="st_antispam_des_anti">Αποκλεισμός</string>
-  <string name="st_antispam_des_permit">Επιτρέψτε</string>
-  <string name="st_antispam_des_permit_nokeyword">Επιτρέψτε (εκτός κανόνων)</string>
+  <string name="st_antispam_des_permit">Αποδοχή</string>
+  <string name="st_antispam_des_permit_nokeyword">Αποδοχή (εκτός κανόνων)</string>
   <string name="st_antispam_des_smart_anti">Έξυπνη λίστα</string>
   <string name="st_antispam_des_uesless">Ανενεργό</string>
   <string name="st_antispam_mode_add_new">Προσθήκη κανόνων</string>
@@ -2125,7 +2125,7 @@
   <string name="toast_reject_sms_read_permission_success">Επιτυχής ρύθμιση!</string>
   <string name="toast_removed_from_virus_white_list">Αφαιρέθηκε από τις Εξαιρέσεις. Το στοιχείο θα σαρωθεί την επόμενη φορά.</string>
   <string name="toast_root_apply_accept">Παραχώρηση πρόσβασης root στο %s</string>
-  <string name="toast_root_apply_reject">Άρνηση πρόσβασης root στο %s</string>
+  <string name="toast_root_apply_reject">Απόρριψη πρόσβασης root στο %s</string>
   <string name="toast_set_success">Επιτυχές άνοιγμα!</string>
   <string name="toast_show_notification">Καρφιτσώθηκε στον πίνακα ειδοποιήσεων</string>
   <string name="toast_update_fail">Δεν ήταν δυνατή η ενημέρωση</string>

@@ -14,8 +14,8 @@
   <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
   <string name="abc_shareactionprovider_share_with">Μοιραστείτε το με</string>
   <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε το με %s</string>
-  <string name="abc_toolbar_collapse_description">Κατάρρευση</string>
-  <string name="allow">Επιτρέπω</string>
+  <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+  <string name="allow">Αποδοχή</string>
   <string name="app_label">Έγγραφα</string>
   <string name="button_copy">Αντιγραφή</string>
   <string name="button_dismiss">Απόρριψη</string>
@@ -35,7 +35,7 @@
   <string name="delete_foldername_confirmation_message">Διαγραφή του φακέλου \"%1$s\" και τα περιεχόμενά της;</string>
   <string name="delete_notification_title">Διαγραφή αρχείων</string>
   <string name="delete_preparing">Προετοιμασία για διαγραφή…</string>
-  <string name="deny">Αρνούμαι</string>
+  <string name="deny">Απόρριψη</string>
   <string name="downloads_label">Λήψεις</string>
   <string name="drawer_close">Απόκρυψη ρίζας</string>
   <string name="drawer_open">Προβολή ρίζας</string>

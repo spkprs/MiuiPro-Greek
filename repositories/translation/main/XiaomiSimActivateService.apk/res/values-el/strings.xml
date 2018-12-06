@@ -103,7 +103,7 @@
   <string name="activate_status_desc_wait_for_sms_success">Λήψη SMS ενεργοποίησης από το διακομιστή</string>
   <string name="activate_status_title_activating">Ενεργοποίηση κάρτας SIM…</string>
   <string name="activate_status_title_activating_msim">Ενεργοποίηση κάρτας SIM %d…</string>
-  <string name="agree">Επιτρέψτε</string>
+  <string name="agree">Αποδοχή</string>
   <string name="app_name">Xiaomi Υπηρ. ενεργοπ. SIM</string>
   <string name="checking_client">Έλεγχος περιβάλλοντος ενεργοποίησης</string>
   <string name="error_checking_client">Παρουσιάστηκε σφάλμα κατά τη διάρκεια ενεργοποίησης</string>

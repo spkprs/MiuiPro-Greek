@@ -2,7 +2,7 @@
 <resources>
      <string name="activity_not_found">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
      <string name="back_to_message_list">Πίσω στη λίστα μηνυμάτων</string>
-    <string name="cm_privacy_dialog_allow">Επιτρέψτε</string>
+    <string name="cm_privacy_dialog_allow">Αποδοχή</string>
     <string name="cm_privacy_dialog_cancel">Ακύρωση</string>
     <string name="cm_privacy_dialog_spannable_tips">Το πρωτόκολλο απορρήτου του φορέα κινητής</string>
     <string name="cm_privacy_dialog_tips">Η έξυπνη υπηρεσία SMS προσαρμόζεται από τον φορέα. Αν διαβάσετε και συμφωνήσετε με το %1s, συμφωνείτε να ανοίξετε την υπηρεσία, πρέπει να συνδεθείτε και να εντοπίσετε την υπηρεσία στη διαδικασία χρήσης. Συμφωνείτε?</string>

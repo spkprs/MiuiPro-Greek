@@ -32,7 +32,7 @@
   <string name="cta_declaration">Αυτή η λειτουργία απαιτεί πρόσβαση στο Internet, στην τοποθεσία της συσκευής σας, στο ιστορικό κλήσεων και τις επαφές σας για να λειτουργήσει κανονικά</string>
   <string name="cta_declaration_ignore">Να μην εμφανιστεί ξανά</string>
   <string name="cta_declaration_negative_text">Έξοδος</string>
-  <string name="cta_declaration_positive_text">Επιτρέψτε</string>
+  <string name="cta_declaration_positive_text">Αποδοχή</string>
   <string name="cta_declaration_title">Όροι Χρήσης</string>
   <string name="default_hint">Εύρεση Εφαρμ, Μουσικής, Βίντεο, Βιβλία…</string>
   <string name="default_search_domain">.google.com</string>
@@ -59,7 +59,7 @@
     <string name="other">Άλλα</string>
     <string name="page_search_hint">Αναζήτηση…</string>
   <string name="permission_prompt_detail">Εύρεση για ταινίες, βιβλία, μουσική και πολλά άλλα.</string>
-  <string name="permission_prompt_start">Επιτρέψτε</string>
+  <string name="permission_prompt_start">Αποδοχή</string>
   <string name="permission_prompt_started_info">Έχετε επιτρέψει την παγκόσμια αναζήτηση</string>
   <string name="permission_prompt_title">Θέλετε περισσότερα;</string>
   <string name="pull_to_input">Τραβήξτε προς τα κάτω για εμφάνιση του πλαισίου αναζήτησης</string>

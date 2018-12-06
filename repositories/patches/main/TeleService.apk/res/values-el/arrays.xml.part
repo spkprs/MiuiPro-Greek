@@ -13,8 +13,8 @@
         <item>Έξοδος/Κλείδωμα</item>
     </string-array>
   <string-array name="call_home_entries">
-    <item>Αποδοχή κλήσης</item>
-    <item>Απόρριψη κλήσης</item>
+    <item>Αποδοχή κλήσεων</item>
+    <item>Απόρριψη κλήσεων</item>
     <item>Σίγαση</item>
     <item>Ανενεργό</item>
   </string-array>

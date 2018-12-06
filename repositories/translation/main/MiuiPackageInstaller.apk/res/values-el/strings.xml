@@ -14,7 +14,7 @@
   <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
   <string name="abc_shareactionprovider_share_with">Μοιραστείτε το με</string>
   <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε το με %s</string>
-  <string name="abc_toolbar_collapse_description">Κατάρρευση</string>
+  <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
   <string name="accessibility_no_wifi">Το WiFi αποσυνδέθηκε.</string>
   <string name="accessibility_wifi_off">Wifi off.</string>
   <string name="accessibility_wifi_one_bar">Wifi μια μπάρα.</string>
@@ -120,8 +120,8 @@
   <string name="done">Ολοκληρώθηκε</string>
   <string name="external_sources_settings">Ρυθμίσεις</string>
   <string name="grant_confirm_question">Θέλετε να χορηγήσετε τα ακόλουθα δικαιώματα; Θα έχει πρόσβαση σε:</string>
-  <string name="grant_dialog_button_allow">Επιτρέψτε</string>
-  <string name="grant_dialog_button_deny">Άρνηση</string>
+  <string name="grant_dialog_button_allow">Αποδοχή</string>
+  <string name="grant_dialog_button_deny">Απόρριψη</string>
   <string name="grant_dialog_button_deny_anyway">Αγνόηση ούτως ή άλλως</string>
   <string name="high_risk_perms">Υψηλού κινδύνου δικαιώματα</string>
   <string name="install">Εγκατάσταση</string>
@@ -168,8 +168,8 @@
   <string name="lb_search_bar_hint_speech">Μιλήστε για αναζήτηση</string>
   <string name="lb_search_bar_hint_with_title">Αναζήτηση %1$s</string>
   <string name="lb_search_bar_hint_with_title_speech">Μιλήστε για αναζήτηση %1$s</string>
-  <string name="lift_ban">Επιτρέπω</string>
-  <string name="lift_ban_once">Επιτρέπω μία φορά</string>
+  <string name="lift_ban">Αποδοχή</string>
+  <string name="lift_ban_once">Αποδοχή μία φορά</string>
   <string name="loading">Φόρτωση…</string>
   <string name="location_settings">Ρυθμίσεις τοποθεσίας</string>
   <string name="location_warning">%1$s είναι ένας πάροχος υπηρεσιών εντοπισμού θέσης για αυτήν τη συσκευή. Η πρόσβαση στην τοποθεσία μπορεί να τροποποιηθεί από τις ρυθμίσεις τοποθεσίας.</string>
@@ -261,9 +261,9 @@
   <string name="out_of_space_dlg_text">%1$s δεν ήταν δυνατή η εγκατάσταση. Απελευθερώστε λίγο χώρο και προσπαθήστε ξανά.</string>
   <string name="out_of_space_dlg_title">Δίχως χώρο</string>
   <string name="Parse_error_dlg_text">Παρουσιάστηκε πρόβλημα κατά την ανάλυση του πακέτου.</string>
-  <string name="perm_action_accept">Επιτρέψτε</string>
+  <string name="perm_action_accept">Αποδοχή</string>
   <string name="perm_action_prompt">Ερώτηση</string>
-  <string name="perm_action_reject">Άρνηση</string>
+  <string name="perm_action_reject">Απόρριψη</string>
   <string name="perm_notice">Συναγερμός</string>
   <string name="perm_privacy_app_finish">OK</string>
   <string name="perm_privacy_app_installed">Η εφαρμογή έχει εγκατασταθεί</string>
@@ -275,7 +275,7 @@
   <string name="permdesc_togglePermissions">Επιτρέπει στον κάτοχο να ξεκινήσει το UI για την εναλλαγή δικαιωμάτων εφαρμογής. Δεν θα πρέπει ποτέ να χρειαστείτε για κανονικές εφαρμογές.</string>
   <string name="permission_action_accept">Αποδέχομαι</string>
   <string name="permission_action_prompt">Προτροπή</string>
-  <string name="permission_action_reject">Άρνηση</string>
+  <string name="permission_action_reject">Απόρριψη</string>
   <string name="permission_group_title_charges_related">Τηλέφωνο</string>
   <string name="permission_group_title_media_related">Media</string>
   <string name="permission_group_title_others">Άλλοι</string>
@@ -284,11 +284,11 @@
   <string name="permission_request_title">Αίτημα άδειας</string>
   <string name="permission_review_title_template_install">Επιλέξτε τι θέλετε να επιτρέψετε %1$s για πρόσβαση</string>
   <string name="permission_review_title_template_update">%1$s έχει ενημερωθεί. Επιλέξτε τι να επιτρέψετε στην πρόσβαση αυτής της εφαρμογής.</string>
-  <string name="permission_review_warning_title_template_update">%1$s έχει ενημερωθεί. Επιτρέπω %1$s για  πρόσβαση στα ακόλουθα;</string>
+  <string name="permission_review_warning_title_template_update">%1$s έχει ενημερωθεί. Αποδοχή %1$s για  πρόσβαση στα ακόλουθα;</string>
   <string name="permission_send_sms_descx">Η εφαρμογή μπορεί να στείλει μηνύματα SMS και MMS</string>
   <string name="permission_summary_enforced_by_policy">Απαιτείται από την πολιτική</string>
   <string name="permission_title">%1$s δικαιώματα</string>
-  <string name="permission_warning_template">Επιτρέπω&lt;b&gt;%1$s&lt;/b&gt;προς  %2$s?</string>
+  <string name="permission_warning_template">Αποδοχή&lt;b&gt;%1$s&lt;/b&gt;σε  %2$s?</string>
   <string name="permlab_togglePermissions">εναλλαγή δικαιωμάτων</string>
   <string name="pref_ads">Συστάσεις</string>
   <string name="pref_key_about_privacy_title">Πολιτική Απορρήτου</string>

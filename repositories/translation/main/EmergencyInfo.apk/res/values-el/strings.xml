@@ -18,7 +18,7 @@
   <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
   <string name="abc_shareactionprovider_share_with">Μοιραστείτε το με</string>
   <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε το με %s</string>
-  <string name="abc_toolbar_collapse_description">Κατάρρευση</string>
+  <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
   <string name="abminus">ΑΒ-</string>
   <string name="abplus">AB +</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Αυτή η λειτουργία είναι πειραματική και μπορεί να επηρεάσει την απόδοση.</string>
@@ -349,7 +349,7 @@
   <string name="wifi_aggressive_handover">Επιθετικό Wi-Fi έως Cellular handover</string>
   <string name="wifi_aggressive_handover_summary">Όταν είναι ενεργοποιημένη, το Wi-Fi θα είναι πιο επιθετικό στην παράδοση της σύνδεσης δεδομένων στο Cellular, όταν το σήμα Wi-Fi είναι χαμηλό</string>
   <string name="wifi_allow_scan_with_traffic">Να επιτρέπεται πάντα η σάρωση Wi-Fi Roam</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Επιτρέψτε/αποκλείστε τις σαρώσεις Wi-Fi Roam Scans με βάση την ποσότητα κυκλοφορίας δεδομένων που υπάρχει στη διεπαφή</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Αποδοχή/Απόρριψη των σαρώσεων Wi-Fi Roam Scans με βάση την ποσότητα κυκλοφορίας δεδομένων που υπάρχει στη διεπαφή</string>
   <string name="wifi_auth_password_wrong">Ο κωδικός πρόσβασης μπορεί να είναι εσφαλμένος</string>
   <string name="wifi_connected_no_internet">Συνδεδεμένο, χωρίς Internet</string>
   <string name="wifi_disabled_generic">Άτομα με ειδικές ανάγκες</string>

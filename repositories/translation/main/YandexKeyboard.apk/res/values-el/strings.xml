@@ -292,9 +292,9 @@
   <string name="settings_about_version">Έκδοση</string>
   <string name="settings_add_language_error_message">Για να προσθέσετε μια νέα γλώσσα, πρώτα να διαγράψετε μία από τις ενεργές γλώσσες (παρατεταμένο στον τίτλο)</string>
   <string name="settings_add_language_error_title">Θα πρέπει πρώτα να διαγράψετε άλλες γλώσσες</string>
-  <string name="settings_allow_geo_message">Επιτρέψτε την αίτηση πληκτρολόγιου στην τοποθεσία σας για να συνεχίσετε</string>
+  <string name="settings_allow_geo_message">Αποδοχή αίτησης του πληκτρολόγιου στην τοποθεσία σας για να συνεχίσετε</string>
   <string name="settings_allow_geo_negative_button">Παραλείψτε αυτό το βήμα</string>
-  <string name="settings_allow_geo_positive_button">Επιτρέπω</string>
+  <string name="settings_allow_geo_positive_button">Αποδοχή</string>
   <string name="settings_allow_geo_title">Πρέπει να ενεργοποιηθεί το Geolocation</string>
   <string name="settings_connect_with_developers">Επικοινωνήστε με τους προγραμματιστές</string>
   <string name="settings_delete_language_dialog">Είστε βέβαιοι ότι θέλετε να διαγράψετε τη γλώσσα;</string>
@@ -370,7 +370,7 @@
   <string name="setup_step1_action">Ενεργοποιήστε τις Ρυθμίσεις</string>
   <string name="setup_step1_finished_instruction">%s είναι ήδη ενεργοποιημένη στις ρυθμίσεις γλώσσας και εισαγωγής, αυτό το βήμα έγινε. Στο επόμενο!</string>
   <string name="setup_step1_instruction">Παρακαλώ ελέγξτε \"%s\" στις ρυθμίσεις γλώσσας και εισόδου. Αυτό θα το εξουσιοδοτήσει να εκτελείται στη συσκευή σας.</string>
-  <string name="setup_step1_title">Επιτρέπω %s</string>
+  <string name="setup_step1_title">Αποδοχή %s</string>
   <string name="setup_step2_action">Εναλλαγή μεθόδων εισαγωγής</string>
   <string name="setup_step2_instruction">Στη συνέχεια, επιλέξτε \"%s\" ως ενεργή μέθοδο εισαγωγής κειμένου.</string>
   <string name="setup_step2_title">Μεταβείτε στο %s</string>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="HIPS_Action_Accept">Επίτρεψε</string>
-     <string name="HIPS_Action_Accept_Once">Επίτρεψε μία φορά</string>
+     <string name="HIPS_Action_Accept">Αποδοχή</string>
+     <string name="HIPS_Action_Accept_Once">Αποδοχή μία φορά</string>
      <string name="HIPS_Action_Reject">Απόρριψη</string>
-     <string name="HIPS_Action_Reject_Once">Άρνηση μια φορά</string>
+     <string name="HIPS_Action_Reject_Once">Απόρριψη μια φορά</string>
      <string name="HIPS_Perm_AudioRecorder">Εγγραφή ήχου</string>
      <string name="HIPS_Perm_AudioRecorder_Desc">να καταγράφει ήχους και τηλεφωνικές κλήσεις</string>
      <string name="HIPS_Perm_AutoStart">Εκτέλεση κατά την εκκίνηση</string>
@@ -84,7 +84,7 @@
      <string name="app_name">Διαχείριση δικαιωμάτων</string>
      <string name="current_permission_template">%1$s από %2$s</string>
      <string name="default_permission_description">επιτρέπει την εκτέλεση μιας άγνωστης ενέργειας</string>
-     <string name="grant_dialog_button_allow">Επίτρεψε</string>
+     <string name="grant_dialog_button_allow">Αποδοχή</string>
      <string name="grant_dialog_button_deny">Απόρριψη</string>
      <string name="location_settings">Υπηρεσίας τοποθεσίας</string>
      <string name="location_warning">Ο %1$s είναι ο πάροχος των υπηρεσιών τοποθεσίας για τη συγκεκριμένη συσκευή. Η πρόσβαση στην τοποθεσία μπορεί να τροποποιηθεί από τις ρυθμίσεις της τοποθεσίας.</string>

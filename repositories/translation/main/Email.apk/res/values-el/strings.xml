@@ -119,7 +119,7 @@
     <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
     <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Αποδοχή όλων των πιστοποιητικών)</string>
     <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (αποδοχή όλων των πιστοποιητικών)</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Αποδοχή όλων των πιστοποιητικών)</string>
     <string name="account_setup_incoming_server_label">Διακομιστής</string>
     <string name="account_setup_incoming_username_label">Όνομα</string>
     <string name="account_setup_incoming_username_label_default_hint">Μπορείτε να συμπεριλάβετε το όνομα διαδικτύου</string>
@@ -887,7 +887,7 @@
     <string name="ser_resp_err_map_or">%1$s ή %2$s</string>
     <string name="ser_resp_err_map_pserr">Λάθος όνομα χρήστη ή κωδικός πρόσβασης</string>
     <string name="ser_resp_err_map_serclosed">Ο διακομιστής %s έκλεισε</string>
-    <string name="ser_resp_err_map_ssl">"Παρακαλώ δοκιμάστε να επιλέξετε 'SSL/TLS (Αποδοχή όλων των πιστοποιητικών)' στο 'τύπος ασφαλείας'"</string>
+    <string name="ser_resp_err_map_ssl">"Παρακαλώ δοκιμάστε να επιλέξετε SSL/TLS (Αποδοχή όλων των πιστοποιητικών) στο τύπος ασφαλείας"</string>
     <string name="service_protocol_discribe"><u>Έχω διαβάσει και αποδέχομαι την «Συμφωνία παροχής υπηρεσιών της WPS Mail»</u></string>
     <string name="service_protocol_title">Σύμβαση παροχής υπηρεσιών</string>
     <string name="set_network">Ρύθμιση δικτύου</string>
@@ -1004,7 +1004,7 @@
     <string name="widget_all_mail">όλα τα μηνύματα</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Άλλο</string>
-    <string name="wipe_account_fail_description">Επίτρεψε</string>
+    <string name="wipe_account_fail_description">Αποδοχή</string>
     <string name="wipe_account_fail_title">Αδυναμία διαγραφής προσωπικών πληροφοριών</string>
     <string name="wrong_password">Λάθος κωδικός!</string>
     <string name="yes">Ναι</string>

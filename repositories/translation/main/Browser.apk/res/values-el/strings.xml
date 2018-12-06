@@ -144,8 +144,8 @@
   <string name="clear_video_download">Διαγραφή βίντεο</string>
   <string name="clip_dialog_title">Άνοιγμα url από αντιγραφή;</string>
   <string name="close">Κλείστε</string>
-  <string name="close_ads_choice_no">Επίτρεψε</string>
-  <string name="close_ads_choice_yes">Απέκλεισε</string>
+  <string name="close_ads_choice_no">Αποδοχή</string>
+  <string name="close_ads_choice_yes">Απόρριψη</string>
   <string name="close_ads_message">Αποκλεισμός περιεχομένου από αυτή την Ιστοσελίδα; Μπορείτε να δείτε τις αποκλεισμένες Ιστοσελίδες στις Ρυθμίσεις &gt; Προηγμένες &gt; Αποκλεισμένες Ιστοσελίδες.</string>
   <string name="close_ads_title">Αποκλεισμός περιεχομένου;</string>
   <string name="close_all_tab_alert_message">Κλείνετε όλες τις ανοιχτές καρτέλες στο πρόγραμμα περιήγησης;</string>
@@ -320,7 +320,7 @@
   <string name="force_touch_bookmark_history_title">Σελιδοδείκτες &amp; ιστορικό</string>
   <string name="force_touch_infoflow_title">Ειδήσεις</string>
   <string name="forward_description">Εμπρός</string>
-  <string name="geolocation_permissions_prompt_dont_share">Άρνηση</string>
+  <string name="geolocation_permissions_prompt_dont_share">Απόρριψη</string>
   <string name="geolocation_permissions_prompt_message">%s επιθυμεί να μάθει την τοποθεσία σας</string>
   <string name="geolocation_permissions_prompt_remember">Διατήρηση προτιμήσεων</string>
   <string name="geolocation_permissions_prompt_share">Κοινή χρήση τοποθεσίας</string>
@@ -1269,7 +1269,7 @@
   <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
   <string name="abc_shareactionprovider_share_with">Μοιραστείτε με</string>
   <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε με %s</string>
-  <string name="abc_toolbar_collapse_description">Αναδίπλωση</string>
+  <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
   <string name="expand_button_title">Προηγμένες</string>
   <string name="guide_chosen_type_main_title">Πείτε μας τι σας αρέσει</string>
   <string name="guide_chosen_type_main_title_front">Πείτε μας</string>

@@ -44,8 +44,8 @@
   <string name="alert_windows_notification_message">Εάν δεν θέλετε να χρησιμοποιείται αυτή η λειτουργία από την εφαρμογή %s, πατήστε για να ανοίξετε τις ρυθμίσεις και απενεργοποιήστε την.</string>
   <string name="alert_windows_notification_title">Η εφαρμογή %s επικαλύπτει άλλες</string>
   <string name="alert_windows_notification_turn_off_action">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
-  <string name="allow">Να επιτρέπεται</string>
-  <string name="allow_button">Επιτρέπω</string>
+  <string name="allow">Αποδοχή</string>
+  <string name="allow_button">Αποδοχή</string>
   <string name="alwaysUse">Χρήση από προεπιλογή για αυτήν την ενέργεια.</string>
   <string name="android_preparing_apk">Προετοιμασία %1$s.</string>
   <string name="android_start_title">Εκκίνηση Android…</string>
@@ -240,8 +240,8 @@
   <string name="demo_user_inactivity_timeout_left_button">Ακύρωση</string>
   <string name="demo_user_inactivity_timeout_right_button">Επαναφορά τώρα</string>
   <string name="demo_user_inactivity_timeout_title">Να γίνει επαναφορά της συσκευής;</string>
-  <string name="deny">Άρνηση</string>
-  <string name="deny_button">Άρνηση</string>
+  <string name="deny">Απόρριψη</string>
+  <string name="deny_button">Απόρριψη</string>
   <string name="description_target_unlock_tablet">Σύρετε για ξεκλείδωμα.</string>
   <string name="device_storage_monitor_notification_channel">Αποθηκευτικός χώρος συσκευής</string>
   <string name="dial">Τηλέφωνο</string>
@@ -1316,7 +1316,7 @@
   <string name="sipAddressTypeWork">Εργασία</string>
   <string name="skip_button_label">Παράλειψη</string>
   <string name="sms_control_message">Η εφαρμογή &lt;b>%1$s&lt;/b> στέλνει έναν μεγάλο αριθμό μηνυμάτων SMS. Θέλετε να επιτρέψετε σε αυτήν την εφαρμογή να συνεχίσει να στέλνει μηνύματα;</string>
-  <string name="sms_control_no">Άρνηση</string>
+  <string name="sms_control_no">Απόρριψη</string>
   <string name="sms_control_title">Αποστολή μηνυμάτων SMS</string>
   <string name="sms_control_yes">Αποδοχή</string>
   <string name="sms_premium_short_code_details">Αυτή η ρύθμιση θα επιφέρει χρεώσεις στο λογαριασμό κινητού σας.</string>

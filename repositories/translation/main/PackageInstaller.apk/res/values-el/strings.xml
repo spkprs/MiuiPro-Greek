@@ -33,7 +33,7 @@
      <string name="app_store_installing_message">Εγκατάσταση…</string>
      <string name="app_store_missing_message">"Φαίνεται ότι δεν έχετε εγκαταστήσει το επίσημο App Store. Εγκατάσταση τώρα;"</string>
      <string name="app_store_missing_title">"Το App Store δεν έχει εγκατασταθεί"</string>
-     <string name="auto_startup_dialog_msg">"Η MIUI θα επιτρέψει στην εφαρμογή να ξεκινάει αυτόματα, χωρίς ειδοποίηση. Αυτό μπορεί να οδηγήσει στην κατανάλωση ενέργειας ή κίνησης δεδομένων. Επιτρέψτε την αυτόματη έναρξη;"</string>
+     <string name="auto_startup_dialog_msg">"Η MIUI θα επιτρέψει στην εφαρμογή να ξεκινάει αυτόματα, χωρίς ειδοποίηση. Αυτό μπορεί να οδηγήσει στην κατανάλωση ενέργειας ή κίνησης δεδομένων. Αποδοχή της αυτόματης έναρξης;"</string>
      <string name="btn_text_full_scan">Πλήρης σάρωση</string>
      <string name="btn_text_install_new_version">Τελευταία έκδοση</string>
      <string name="btn_text_install_origin">Πρωτότυπη έκδοση</string>
@@ -57,8 +57,8 @@
      <string name="dlg_sys_app_replacement_statement">"Αυτή είναι μια εφαρμογή του συστήματος. Θέλετε ακόμα να αντικατασταθεί; Όλα τα προηγούμενα δεδομένα χρήστη θα αποθηκευτούν."</string>
      <string name="done">Έγινε</string>
      <string name="grant_confirm_question">Θέλετε να χορηγηθούν τα ακόλουθα δικαιώματα; Θα έχει πρόσβαση σε:</string>
-     <string name="grant_dialog_button_allow">Επίτρεψε</string>
-     <string name="grant_dialog_button_deny">Απέρριψε</string>
+     <string name="grant_dialog_button_allow">Αποδοχή</string>
+     <string name="grant_dialog_button_deny">Απόρριψη</string>
      <string name="high_risk_perms">Άδειες υψηλού κινδύνου</string>
      <string name="install">Εγκατάσταση</string>
      <string name="install_confirm_question">Θέλετε να εγκαταστήσετε αυτή την εφαρμογή;</string>
@@ -108,7 +108,7 @@
      <string name="lb_search_bar_hint_with_title">Αναζήτηση %1$s</string>
      <string name="lb_search_bar_hint_with_title_speech">Μιλήστε για αναζήτηση %1$s</string>
      <string name="lift_ban">Άρση αποκλεισμού</string>
-     <string name="lift_ban_once">Επίτρεψε μια φορά</string>
+     <string name="lift_ban_once">Αποδοχή μια φορά</string>
      <string name="loading">Φόρτωση…</string>
      <string name="location_settings">Ρυθμίσεις τοποθεσίας</string>
      <string name="location_warning">%1$s είναι ο πάροχος των υπηρεσιών τοποθεσίας για τη συγκεκριμένη συσκευή. Η πρόσβαση στην τοποθεσία μπορεί να τροποποιηθεί από τις ρυθμίσεις τοποθεσίας.</string>
@@ -151,9 +151,9 @@
      <string name="perm_sysopt_boost_auto_start">Δικαιώματα αυτόματης έναρξης</string>
      <string name="perm_sysopt_boost_auto_start_summary">Η εφαρμογή θα ξεκινά αυτόματα!</string>
      <string name="permdesc_togglePermissions">Επιτρέπει στον κάτοχο να ξεκινήσει το UI για εναλλαγή αδειών εφαρμογών. Δεν θα πρέπει να απαιτηθεί ποτέ για συνήθεις εφαρμογές.</string>
-     <string name="permission_action_accept">Επίτρεψε</string>
+     <string name="permission_action_accept">Αποδοχή</string>
      <string name="permission_action_prompt">Ερώτηση</string>
-     <string name="permission_action_reject">Άρνηση</string>
+     <string name="permission_action_reject">Απόρριψη</string>
      <string name="permission_group_title_charges_related">Τηλέφωνο</string>
      <string name="permission_group_title_media_related">Πολυμέσα</string>
      <string name="permission_group_title_others">Άλλες</string>

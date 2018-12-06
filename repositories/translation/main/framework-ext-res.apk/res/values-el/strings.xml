@@ -18,7 +18,7 @@
   <string name="auto_disable_screenbuttons_prompts_title">Απενεργοποίηση πλήκτρων οθόνης;</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Πατήστε ξανά για έξοδο</string>
   <string name="auto_start_warning_allow">Επίτρεψε</string>
-  <string name="auto_start_warning_deny">Άρνηση</string>
+  <string name="auto_start_warning_deny">Απόρριψη</string>
   <string name="auto_start_warning_title">Να επιτρέπεται στο %s να ξεκινάει αυτόματα στο μέλλον;</string>
   <string name="autofill">Αυτόματη συμπλήρωση</string>
   <string name="button_text_cancel">Ματαίωση</string>
@@ -93,7 +93,7 @@
   <string name="package_delete_confirm_step_2">Η κατάργηση της εγκατάστασης αυτής της εφαρμογής ενδέχεται να προκαλέσει την αστάθεια του συστήματός σας.</string>
   <string name="package_delete_confirm_step_3">Δεν θα μπορείτε να ανοίξετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε.</string>
   <string name="paste">Επικόλληση</string>
-  <string name="perm_send_push_dspt">Επίτρεψε την αυτόματη αποστολή μηνυμάτων Mi</string>
+  <string name="perm_send_push_dspt">Αποδοχή της αυτόματης αποστολής μηνυμάτων Mi</string>
   <string name="perm_send_push_lab">Αποστολή αυτόματου μηνύματος</string>
   <string name="permdesc_manageLocationPolicy">Επιτρέπει στην εφαρμογή να διαχειρίζεται τις πολιτικές σχετικά με την τοποθεσία και να καθορίζει ειδικούς κανόνες εφαρμογών.</string>
   <string name="permlab_manageLocationPolicy">Πρόσβαση στην τοποθεσία</string>

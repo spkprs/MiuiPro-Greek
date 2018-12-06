@@ -503,7 +503,7 @@
   <string name="resutl_function_qq_clean_summary">" \"Καθαρίστε &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; της προσωρινής μνήμης που δημιουργείται από το QQ\" "</string>
   <string name="resutl_function_wechat_clean_summary">"\"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt;  WeChat cache. Απελευθερώστε περισσότερο χώρο.\" "</string>
   <string name="RF_DalvikCacheLeftovers">\\..(Dalvik-Cache)</string>
-  <string name="sc_allow_network_dialog_button">Επιτρέψτε</string>
+  <string name="sc_allow_network_dialog_button">Αποδοχή</string>
   <string name="sc_allow_network_dialog_message">Να επιτρέπεται σε αυτή την εφαρμογή να συνδεθεί στο Internet για λήψη ενημερώσεων;</string>
   <string name="scanning">Σάρωση…</string>
   <string name="search_history">Ιστορικό αναζήτησης</string>

@@ -61,7 +61,7 @@
   <string name="time_correction_failure">Αδυναμία διόρθωσης ώρας. %s</string>
   <string name="time_correction_success">Η ώρα διορθώθηκε</string>
   <string name="unlock">Ενεργοποίηση</string>
-  <string name="unlock_access_denied">Άρνηση πρόσβασης</string>
+  <string name="unlock_access_denied">Απόρριψη πρόσβασης</string>
   <string name="unlock_bad_authentication">Μη έγκυρο όνομα χρήστη ή  κωδικός πρόσβασης</string>
   <string name="unlock_error_abort">Ακυρώθηκε από το χρήστη</string>
   <string name="unlock_error_device_id">Αδυναμία λήψης ID συσκευής</string>

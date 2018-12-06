@@ -18,7 +18,7 @@
   <string name="agree_to_continue">Συνέχεια</string>
   <string name="agree_to_turn_on">Συμφωνώ</string>
   <string name="all_services">Όλα</string>
-  <string name="allow">Επίτρεψε</string>
+  <string name="allow">Αποδοχή</string>
   <string name="app_label">Κατάλογος</string>
   <string name="app_recommendation_install">Εγκατάσταση</string>
   <string name="average_price">Μέσος όρος %d RMB</string>
@@ -247,7 +247,7 @@
   <string name="nearby_average_price">Μέσος όρος %d RMB</string>
   <string name="nearby_no_yellow_page">Κανένα αποτέλεσμα σε κοντινή απόσταση</string>
   <string name="nearby_yellow_page_title">Πλησίον</string>
-  <string name="network_access_denied">Άρνηση πρόσβασης στο δίκτυο</string>
+  <string name="network_access_denied">Απόρριψη πρόσβασης στο δίκτυο</string>
   <string name="network_unavaliable">Δίκτυο μη διαθέσιμο, παρακαλώ ελέγξτε τις ρυθμίσεις του δικτύου</string>
   <string name="no_brief">Χωρίς εισαγωγή</string>
   <string name="no_evaluation">Δεν υπάρχουν σχόλια</string>

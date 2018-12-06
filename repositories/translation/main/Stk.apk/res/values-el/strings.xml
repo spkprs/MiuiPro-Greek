@@ -23,6 +23,6 @@
      <string name="stk_dialog_accept">ΝΑΙ</string>
      <string name="stk_dialog_reject">ΟΧΙ</string>
      <string name="stk_dialog_title">Εργαλεία SIM</string>
-     <string name="stk_intent_permission">Επιτρέψτε τις αιτήσεις STK</string>
+     <string name="stk_intent_permission">Αποδοχή των αιτήσεων STK</string>
      <string name="stk_no_service">Μη διαθέσιμη υπηρεσία</string>
 </resources>
