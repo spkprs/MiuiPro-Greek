@@ -13,7 +13,7 @@
         <item quantity="one">%d ειδοποίηση στο Δεύτερο προφίλ</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Εύρεση %d εφαρμογών</item>
-        <item quantity="one">Εύρεση %d εφαρμογής</item>
+        <item quantity="other">Αναζήτηση σε %d εφαρμογές</item>
+        <item quantity="one">Αναζήτηση σε %d εφαρμογή</item>
     </plurals>
 </resources>

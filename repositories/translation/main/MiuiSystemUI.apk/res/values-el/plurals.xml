@@ -99,7 +99,7 @@
   </plurals>
   <plurals name="kg_password_wrong_pin_code">
     <item quantity="other">Λανθασμένος κωδικός PIN της SIM. Απομένουν %d προσπάθειες.</item>
-    <item quantity="one">Λανθασμένος κωδικός PIN της SIM. Απομένει %d προσπάθεια προτού επικοινωνήσετε με τον φορέα σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+    <item quantity="one">Λανθασμένος κωδικός PIN της SIM. Απομένει %d προσπάθεια πρίν επικοινωνήσετε με τον φορέα σας για να ξεκλειδώσετε τη συσκευή σας.</item>
   </plurals>
   <plurals name="kg_password_wrong_puk_code">
     <item quantity="other">Εσφαλμένος κωδικός PUK της SIM , %d προσπάθειες απομένουν πρίν η SIM γίνει μόνιμα ανενεργή..</item>

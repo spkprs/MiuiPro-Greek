@@ -31,7 +31,7 @@
   <string-array name="crt_fade_entries">
         <item>Κανονικό</item>
         <item>CRT (παλιά TV)</item>
-        <item>Εξασθένηση</item>
+        <item>Εξασθένιση</item>
   </string-array>
   <string-array name="gesture_anywhere_position_entries">
     <item>Αριστερά</item>
@@ -39,7 +39,7 @@
   </string-array>
   <string-array name="launcher_gesture_entries">
     <item>Απενεργοποίηση της οθόνης</item>
-    <item>Μενού ενέργειας</item>
+    <item>Επιλογές Απενεργ/Επανεκκίνησης</item>
     <item>Πρόσφατες Εφαρμογές</item>
     <item>Τηλέφωνο</item>
     <item>Λειτουργία ήχου: Ήχος/Δόνηση</item>

@@ -6,7 +6,7 @@
   <string name="activity_title_cache">Μνήμη cache</string>
   <string name="activity_title_cache_data">Δεδομένα εφαρμογής</string>
   <string name="activity_title_deep_apk">Διαγραφή αρχείων APK</string>
-  <string name="activity_title_deep_clean">Υπέρκαθαρισμός</string>
+  <string name="activity_title_deep_clean">Υπερκαθαρισμός</string>
   <string name="activity_title_garbage_cleanup">Καθαρισμός</string>
   <string name="activity_title_ignored_image">Έγινε παράλειψη</string>
   <string name="activity_title_image_gallery">Διαγραφή διπλών</string>

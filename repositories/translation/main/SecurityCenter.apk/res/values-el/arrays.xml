@@ -2,15 +2,15 @@
 <resources>
   <string-array name="alarm_repeat_type">
     <item>Μια φορά</item>
-    <item>Κάθε μέρα</item>
-    <item>Εργάσιμες ημέρες</item>
-    <item>Δευτέρα έως Παρασκευή</item>
+    <item>Καθημερινά</item>
+    <item>Εργάσιμες ημ</item>
+    <item>Δευτ έως Παρ</item>
     <item>Προσαρμογή</item>
   </string-array>
   <string-array name="alarm_repeat_type_no_workdays">
     <item>Μια φορά</item>
-    <item>Κάθε μέρα</item>
-    <item>Δευτέρα έως Παρασκευή</item>
+    <item>Καθημερινά</item>
+    <item>Δευτ έως Παρ</item>
     <item>Προσαρμογή</item>
   </string-array>
   <string-array name="date_of_app_all">
@@ -72,14 +72,14 @@
     <item>Ταξινόμηση κατά όνομα εφαρμογής</item>
     <item>Ταξινόμηση κατά συχνότητα χρήσης</item>
     <item>Ταξινόμηση κατά χρήση αποθήκευσης</item>
-    <item>Ταξινόμηση ανά ώρα εγκατάστασης</item>
+    <item>Ταξινόμηση κατά ώρα εγκατάστασης</item>
   </string-array>
   <string-array name="sort_type">
     <item>Κατάσταση</item>
     <item>Όνομα εφαρμογής</item>
     <item>Συχνότητα χρήσης</item>
     <item>Χρήση αποθήκευσης</item>
-    <item>Χρόνος εγκατάστασης</item>
+    <item>Χρόνο εγκατάστασης</item>
   </string-array>
   <string-array name="tether_limit_warn_type">
     <item>Απενεργοποίηση και ειδοποίηση</item>

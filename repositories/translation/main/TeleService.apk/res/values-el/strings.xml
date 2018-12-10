@@ -398,7 +398,7 @@
   <string name="enable_in_progress">Παρακαλώ περιμένετε…</string>
   <string name="enable_pin">Ενεργοποίηση/απενεργοποίηση του PIN της κάρτας SIM</string>
   <string name="enable_pin_ok">Ενεργοποιημένο PIN κάρτας SIM.</string>
-  <string name="enable_proximity_summary">Απενεργοποιήστε την οθόνη κατά τη διάρκεια κλήσεων</string>
+  <string name="enable_proximity_summary">Απενεργοποίηση οθόνης κατά τη διάρκεια κλήσεων</string>
   <string name="enable_proximity_title">Αισθητήρας εγγύτητας</string>
   <string name="enable_sim_pin">Ενεργοποίηση PIN κάρτας SIM</string>
   <string name="enable_video_calling_dialog_close">Κλείσιμο</string>
@@ -451,7 +451,7 @@
   <string name="flash_time_on_title">Ενεργό</string>
   <string name="flash_time_title">Ενεργοποίηση καθυστέρησης</string>
   <string name="flash_when_ring_summary">Χρήση του LED για ειδοποίηση εισερχόμενων κλήσεων</string>
-  <string name="flash_when_ring_title">Ένδειξη LED όταν κουδουνίζει</string>
+  <string name="flash_when_ring_title">Φωτισμός LED στις Κλήσεις</string>
   <string name="full_avatar_title">Φωτογραφία πλήρους οθόνης</string>
   <string name="fw_change_failed">Δεν ήταν δυνατή η αλλαγή του αριθμού προώθησης.\nΕπικοινωνήστε με το φορέα σας, εάν το πρόβλημα παραμένει.</string>
   <string name="fw_get_in_vm_failed">Δεν ήταν δυνατή η ανάκτηση και αποθήκευση των τρεχουσών ρυθμίσεων του αριθμού προώθησης.\nΑλλαγή σε νέο πάροχο ούτως ή άλλως;</string>
@@ -1167,7 +1167,7 @@
   <string name="tty_mode_option_title">Λειτουργία TTY</string>
   <string name="turn_off_dual_4g_failed">Αδύνατη η απενεργοποίηση του Διπλού 4G.</string>
   <string name="turn_on_dual_4g_failed">Αδύνατη η ενεργοποίηση του Διπλού 4G.</string>
-  <string name="turnover_mute_summary">Όταν το τηλέφωνο βρίσκεται σε οριζόντια θέση, αναποδογυρίστε το για σίγαση κλήσης, απενεργοποίησης δόνησης και φωτισμού ειδοποίησης.</string>
+  <string name="turnover_mute_summary">Όταν το τηλέφωνο βρίσκεται σε οριζόντια θέση, αναποδογυρίστε το για Σίγαση Κλήσης απενεργοποίηση Δόνησης και Φωτισμού ειδοποίησης.</string>
   <string name="turnover_mute_title">Αναποδογυρίστε για σίγαση</string>
   <string name="undefined">Απροσδιόριστο</string>
   <string name="unknown">Άγνωστος</string>
@@ -1200,7 +1200,7 @@
   <string name="voicemail_provider">Υπηρεσία τηλεφωνητή</string>
   <string name="voicemail_provider_summary">Επιλογή υπηρεσίας τηλεφωνητή</string>
   <string name="voicemail_settings">Ρυθμίσεις αυτόματου τηλεφωνητή</string>
-  <string name="voicemail_settings_number_hint">Εισάγετε τον αριθμό του αυτόματου τηλεφωνητή</string>
+  <string name="voicemail_settings_number_hint">Εισαγωγή αριθμού αυτόμ τηλεφωνητή</string>
   <string name="voicemail_settings_number_label">Αριθμός αυτόματου τηλεφωνητή</string>
   <string name="voicemail_settings_number_title">Αριθμός αυτόματου τηλεφωνητή</string>
   <string name="voicemail_settings_with_label">Φωνητικό ταχυδρομείο (%s)</string>

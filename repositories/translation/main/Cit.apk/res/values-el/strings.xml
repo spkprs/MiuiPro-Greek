@@ -515,4 +515,8 @@
   <string name="sar_sensor_data_check_description">Συλλογή δεδομένων αισθητήρα Sar</string>
   <string name="sar_sensor_data_check_summary">"Περιστρέψτε το τηλέφωνο, τοποθετήστε το στο εξάρτημα
 Πλησιάστε το εξάρτημα κοντά και μακριά από το τηλέφωνο"</string>
+  <string name="camera_flood">- Κατακλυσμός -</string>
+  <string name="camera_projector">- Προβολέας -</string>
+  <string name="fod_pressure_sensor_test_fail">Απέτυχε η δοκιμή, κάντε κλικ στο κουμπί Αποτυχία</string>
+  <string name="life_post_weather_no_network">Συνδεθείτε στο δίκτυο για ενημέρωση πληροφοριών καιρού</string>
 </resources>

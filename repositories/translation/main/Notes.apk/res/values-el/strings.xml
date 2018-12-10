@@ -227,7 +227,7 @@
      <string name="toast_unmark_privacy_notes_count">Επιτυχής επανεμφάνιση %1$s σημειώσεων</string>
      <string name="toolbar_voice_description">Φωνή</string>
      <string name="trash_folder_reminder">Σημειώσεις που διαγράφετε θα διαγραφούν μόνιμα σε 30 ημέρες.</string>
-     <string name="trash_folder_name">Άχρηστα</string>
+     <string name="trash_folder_name">Διαγραμμένες</string>
      <string name="undo">Αναίρεση</string>
      <string name="unknown_source">Άγνωστη πηγή</string>
      <string name="widget_content_loading">Φόρτωση…</string>

@@ -666,4 +666,7 @@
   <string name="pref_camera_ultra_wide_ldc_description">Διόρθωση της παραμορφωμένης εικόνας σε υπέρ ευρυγώνιας λειτουργίας</string>
   <string name="ultra_pixel_photography_close_tip">48 εκατομ πεντακάθαρα, έχουν κλείσει</string>
   <string name="ultra_pixel_photography_open_tip">48 εκατομ πεντακάθαρα</string>
+  <string name="camera_liveshot_off_tip">Δυναμική φωτογραφία Ανενεργή</string>
+  <string name="camera_liveshot_on_tip">Δυναμική φωτογραφία Ενεργή</string>
+  <string name="network_exception">Εξαίρεση δικτύου</string>
 </resources>

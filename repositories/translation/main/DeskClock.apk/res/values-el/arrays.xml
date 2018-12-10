@@ -12,7 +12,7 @@
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>Μία φορά</item>
-    <item>Κάθε μέρα</item>
+    <item>Καθημερινά</item>
     <item>Εργάσιμες ημ</item>
     <item>Αργίες</item>
     <item>Δευτ έως Παρ</item>
@@ -44,13 +44,13 @@
   </string-array>
   <string-array name="auto_silence_entries">
     <item>Ανενεργό</item>
-    <item>1 λεπτό</item>
-    <item>5 λεπτά</item>
-    <item>10 λεπτά</item>
-    <item>15 λεπτά</item>
-    <item>20 λεπτά</item>
-    <item>25 λεπτά</item>
-    <item>30 λεπτά</item>
+    <item>1 λεπ</item>
+    <item>5 λεπ</item>
+    <item>10 λεπ</item>
+    <item>15 λεπ</item>
+    <item>20 λεπ</item>
+    <item>25 λεπ</item>
+    <item>30 λεπ</item>
   </string-array>
   <string-array name="auto_silence_values">
     <item>-1</item>
@@ -69,12 +69,12 @@
   </string-array>
   <string-array name="snooze_duration_entries">
     <item>1 λεπτό</item>
-    <item>5 λεπτά</item>
-    <item>10 λεπτά</item>
-    <item>15 λεπτά</item>
-    <item>20 λεπτά</item>
-    <item>25 λεπτά</item>
-    <item>30 λεπτά</item>
+    <item>5 λεπ</item>
+    <item>10 λεπ</item>
+    <item>15 λεπ</item>
+    <item>20 λεπ</item>
+    <item>25 λεπ</item>
+    <item>30 λεπ</item>
   </string-array>
   <string-array name="snooze_duration_values">
     <item>1</item>

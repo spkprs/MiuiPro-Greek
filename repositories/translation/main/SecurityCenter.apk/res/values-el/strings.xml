@@ -941,7 +941,7 @@
   <string name="last_check_canceled">Η προηγούμενη σάρωση ακυρώθηκε</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Αργίες</string>
-  <string name="legal_workday_invalidate">Τα δεδομένα έληξαν(Προς το παρόν θα ηχεί από Δευτέρα έως Παρασκευή)</string>
+  <string name="legal_workday_invalidate">Τα δεδομένα έληξαν (Προς το παρόν θα ηχεί από Δευτ έως Παρ)</string>
   <string name="legal_workday_invalidate_message">(Τα δεδομένα έληξαν, κάντε κλικ για ανανέωση σύνδεσης)</string>
   <string name="legal_workday_message">(Εκτός αργιών)</string>
   <string name="leisure_usage_dialog_message">Έχετε φτάσει το όριο δεδομένων σας εκτός αιχμής.\u000d\n\u000d\nΟ φορέας ενδέχεται να σας χρεώσει πρόσθετα τέλη εάν χρησιμοποιήσετε πάλι τη σύνδεση δεδομένων κινητής τηλεφωνίας.</string>
@@ -1002,7 +1002,7 @@
   <string name="main_button_mi_sim_close">Ενεργοποιήστε το Mi SIM</string>
   <string name="main_button_mi_sim_open">Λεπτομέρειες</string>
   <string name="main_button_usage_adjust">Συγχρονισμός ορίων χρήσης κινητής</string>
-  <string name="main_button_usage_adjust_manual">Ορισμός ορίου χρήσης</string>
+  <string name="main_button_usage_adjust_manual">Ορισμός χρήσης δεδομένων</string>
   <string name="main_button_usage_adjusting">Αλλαγή…</string>
   <string name="main_button_usage_adjusting_bill">Αλλαγή…</string>
   <string name="main_button_usage_package_setting">Ορισμός ορίων κινητής</string>

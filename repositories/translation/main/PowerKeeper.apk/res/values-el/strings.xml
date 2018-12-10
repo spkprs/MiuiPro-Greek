@@ -50,7 +50,7 @@
   <string name="nonui_mode_config_description">Μην ανάβετε την οθόνη για ειδοποιήσεις, απενεργοποιείτε τη λυχνία LED, τον αισθητήρα δακτυλικών αποτυπωμάτων και τα χειριστήρια αφής για να εξοικονομήσετε μπαταρία όταν το MIUI εντοπίσει ότι δεν χρησιμοποιείτε τη συσκευή σας.</string>
   <string name="nonui_mode_config_title">Μη διαδραστική λειτουργία</string>
   <string name="performance_category">Απόδοση</string>
-  <string name="power_center">Ενέργεια</string>
+  <string name="power_center">Χρήση μπαταρίας</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s λειτουργεί ασυνήθιστα</string>
   <string name="power_checker_background_cpu_title">%1$s λειτουργεί ασυνήθιστα</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s παίρνει συχνά πληροφορίες σχετικά με την τοποθεσία</string>
