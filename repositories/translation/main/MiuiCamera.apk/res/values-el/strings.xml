@@ -669,4 +669,6 @@
   <string name="camera_liveshot_off_tip">Δυναμική φωτογραφία Ανενεργή</string>
   <string name="camera_liveshot_on_tip">Δυναμική φωτογραφία Ενεργή</string>
   <string name="network_exception">Εξαίρεση δικτύου</string>
+  <string name="live_edit_exit_confirm">Έξοδος</string>
+  <string name="live_edit_exit_message">Απόρριψη λήψης;</string>
 </resources>
