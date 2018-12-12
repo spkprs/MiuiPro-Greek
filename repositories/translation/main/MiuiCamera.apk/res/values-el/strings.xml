@@ -568,8 +568,8 @@
   <string name="user_agree">Συμφωνώ</string>
   <string name="user_agreement2">Όροι υπηρεσίας</string>
   <string name="user_agreement4">Πολιτική προστασίας προσωπικών δεδομένων</string>
-  <string name="user_notice_identify_summary_format">Χρησιμοποιώντας αυτή την υπηρεσία, συμφωνείτε με Xiaomi %1$s και %2$s.</string>
-  <string name="user_notice_title">Όροι και προϋποθέσεις</string>
+  <string name="user_notice_identify_summary_format">Χρησιμοποιώντας αυτή την υπηρεσία, συμφωνείτε με την %1$s και %2$s της Xiaomi. Συμφωνείτε να συνδεθείτε στο Διαδύκτιο?</string>
+  <string name="user_notice_title">Συμφωνία σύνδεσης δικτύου</string>
   <string name="video_camera_label">Βιντεοκάμερα</string>
   <string name="video_effect_entry_blackwhite">B&amp;W</string>
   <string name="video_effect_entry_film">Ταινία</string>
@@ -671,4 +671,15 @@
   <string name="network_exception">Εξαίρεση δικτύου</string>
   <string name="live_edit_exit_confirm">Έξοδος</string>
   <string name="live_edit_exit_message">Απόρριψη λήψης;</string>
+  <string name="beauty_reset_toast">Το εφέ Αισθητικής έχει καθαριστεί</string>
+  <string name="color_effect_live_blue">Ορχιδέα</string>
+  <string name="color_effect_live_contrast">Xpro</string>
+  <string name="color_effect_live_deepblack">Μ&amp;Α</string>
+  <string name="color_effect_live_fair">Χλωμό</string>
+  <string name="color_effect_live_hongkong">Bauhinia</string>
+  <string name="color_effect_live_mousse">Αφρός</string>
+  <string name="color_effect_live_none">Κανονικό</string>
+  <string name="color_effect_live_solar">Μπλέ ουρανού</string>
+  <string name="color_effect_live_years">Σέπια</string>
+  <string name="live_sticker_updating">Ενημέρωση...</string>
 </resources>
