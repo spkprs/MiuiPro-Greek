@@ -69,11 +69,11 @@
     <string name="account_setup_address_label">Email</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Επιβεβαιώστε ότι όνομα χρήστη, κωδικός και ρυθμίσεις λογαριασμού είναι σωστά.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Πρόβλημα με την ρύθμιση του λογαριασμό</string>
-    <string name="account_setup_basics_email_label">Διεύθυνση Email</string>
+    <string name="account_setup_basics_email_label">Εισαγωγή Διεύθυνσης Email</string>
     <string name="account_setup_basics_login_gmail_without_proxy">Σύνδεση με τρέχον δίκτυο</string>
     <string name="account_setup_basics_manual_setup_action">Χειροκίνητη ρύθμιση</string>
     <string name="account_setup_basics_mi_mail_login_help">Ενδέχεται να χρειαστεί να επαληθεύστε το λογαριασμό σας μέσω SMS για την λήψη emails</string>
-    <string name="account_setup_basics_password_label">Κωδικός</string>
+    <string name="account_setup_basics_password_label">Εισαγωγή Κωδικού</string>
     <string name="account_setup_basics_title">Προσθήκη λογαριασμού</string>
     <string name="account_setup_check_settings_check_incoming_msg">Επαληθεύονται οι ρυθμίσεις παρόχου…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Επαληθεύονται οι ρυθμίσεις smtp…</string>
@@ -623,12 +623,12 @@
     <string name="not_synced_title">Ο λογαριασμός δεν συγχρονίστηκε</string>
     <string name="notification_action_archive">Αρχείο</string>
     <string name="notification_action_delete">Διαγραφή</string>
-    <string name="notification_action_remove_label">Αφαιρέστε την ετικέτα</string>
+    <string name="notification_action_remove_label">Αφαίρεση καρτέλας</string>
     <string name="notification_action_reply">Απάντηση</string>
     <string name="notification_action_reply_all">Απάντηση όλων</string>
     <string name="notification_action_undo_archive">Στο Αρχείο</string>
     <string name="notification_action_undo_delete">Διαγράφεται</string>
-    <string name="notification_action_undo_remove_label">Ετικέτα Αφαιρέθηκε</string>
+    <string name="notification_action_undo_remove_label">Η καρτέλα Αφαιρέθηκε</string>
     <string name="notification_exchange_calendar_added">Προστέθηκε ημερολόγιο Exchange</string>
     <string name="oauth_error_description">Σφάλμα ελέγχου ταυτότητας</string>
     <string name="oauth_gmail_login_notify">Εισάγετε το όνομα χρήστη και τον κωδικό πρόσβασης του Google λογαριασμού σας στην επόμενη σελίδα σύνδεσης.</string>
@@ -847,7 +847,7 @@
     <string name="saved">Αποθηκεύτηκε, %s</string>
     <string name="saving">Αποθηκεύει…</string>
     <string name="sdcard_cannot_use">Η κάρτα αποθήκευσης δεν μπορεί να χρησιμοποιηθεί</string>
-    <string name="search_bar_text">Αναζήτηση αποστολέα ή επαφής</string>
+    <string name="search_bar_text">Αναζήτηση μηνυμάτων και επαφών</string>
     <string name="search_hint">Αναζήτηση email</string>
     <string name="search_result">Αποτέλεσμα αναζήτησης:</string>
     <string name="search_tabs_name_all">Όλα</string>

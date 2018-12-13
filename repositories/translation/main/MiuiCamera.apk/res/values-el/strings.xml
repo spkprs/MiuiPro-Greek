@@ -682,4 +682,5 @@
   <string name="color_effect_live_solar">Μπλέ ουρανού</string>
   <string name="color_effect_live_years">Σέπια</string>
   <string name="live_sticker_updating">Ενημέρωση...</string>
+  <string name="live_edit_share_title">Κοινή χρήση</string>
 </resources>
