@@ -426,6 +426,7 @@
   <string name="pref_camera_video_flashmode_default">off</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Έκθεση</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Κλείστρο</string>
+  <string name="pref_camera_volumekey_function_entry_timer">Χρονοδιακόπτης</string>
   <string name="pref_camera_volumekey_function_entry_volume">Ένταση</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Ζούμ</string>
   <string name="pref_camera_volumekey_function_title">Λειτουργία κουμπιών έντασης</string>

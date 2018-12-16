@@ -344,8 +344,8 @@
         <item quantity="one">%d εφαρμ. είναι κρυφή</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
-        <item quantity="other">%1$d ζητήματα απαιτούν βελτιστοποίηση</item>
-        <item quantity="one">%1$d  ζητήμα απαιτεί βελτιστοποίηση</item>
+        <item quantity="other">%1$d θέματα απαιτούν βελτιστοποίηση</item>
+        <item quantity="one">%1$d  θέμα απαιτεί βελτιστοποίηση</item>
     </plurals>
    <plurals name="power_center_menu_text">
       <item quantity="other">στοιχεία</item>

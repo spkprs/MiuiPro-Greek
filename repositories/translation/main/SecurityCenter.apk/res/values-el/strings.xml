@@ -2305,7 +2305,7 @@
     <string name="video_repeat">Παίξτε ξανά</string>
     <string name="game_video_network_eror">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις και προσπαθήστε ξανά."</string>
     <string name="first_aid_stop_scan">Διακοπή σάρωσης</string>
-    <string name="first_aid_scanning_item1">Έλεγχος για ζητήματα επιδόσεων…</string>
+    <string name="first_aid_scanning_item1">Έλεγχος για θέματα επιδόσεων…</string>
     <string name="first_aid_scanning_item2">Έλεγχος για προβλήματα δικτύου…</string>
     <string name="first_aid_scanning_item3">Έλεγχος για εσφαλμένες ρυθμίσεις…</string>
     <string name="first_aid_scanning_item4">Έλεγχος για θέματα μπαταρίας…</string>

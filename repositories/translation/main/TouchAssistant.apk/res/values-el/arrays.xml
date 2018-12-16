@@ -6,7 +6,7 @@
         <item>Προσωρινή εμφάνιση σε οριζόντια προβολή</item>
     </string-array>
     <string-array name="motion_behavior_entries">
-        <item>Σύρετε</item>
+        <item>Σύρσιμο</item>
         <item>Άγγιγμα</item>
     </string-array>
 </resources>

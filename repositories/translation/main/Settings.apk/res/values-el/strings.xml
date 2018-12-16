@@ -877,7 +877,7 @@
   <string name="bootloader_locked_answer_1_warning">Θυμηθείτε: Δεν θα μπορείτε να χρησιμοποιήσετε την \"Εύρεση συσκευής\" μετά το ξεκλείδωμα της συσκευής.</string>
   <string name="bootloader_locked_answer_2">1. Βεβαιωθείτε ότι έχετε ήδη εισάγει μια κάρτα SIM στη συσκευή σας.\n2. Πατήστε \"Προσθήκη λογαριασμού\" παρακάτω για να συσχετίσετε το Λογαριασμό Mi με αυτήν τη συσκευή.\n3. Κατεβάστε το εργαλείο ξεκλειδώματος από τον ιστότοπό μας. Σημειώστε ότι πρέπει για να ξεκλειδωθούν συσκευές χρησιμοποιείται ένας υπολογιστής. Κατεβάστε εδώ:</string>
   <string name="bootloader_locked_answer_2_no_sim">"1. Επιλέξτε \"Προσθήκη λογαριασμού\" παρακάτω για να συσχετίσετε το Λογαριασμό Mi με αυτήν τη συσκευή.
-2. Κατεβάστε το εργαλείο ξεκλειδώματος από τον ιστότοπό μας. Σημειώστε ότι πρέπει για να ξεκλειδωθούν συσκευές χρησιμοποιείται ένας υπολογιστής. Κατεβάστε εδώ:"</string>
+2. Κατεβάστε το εργαλείο ξεκλειδώματος από τον ιστότοπό μας. Σημειώστε ότι πρέπει για να ξεκλειδωθούν συσκευές χρησιμοποιείται ένας υπολογιστής. Κάντε λήψη απο εδώ:"</string>
   <string name="bootloader_locked_check_status">Προσθήκη λογαριασμού και συσκευής</string>
   <string name="bootloader_locked_question_1">Γιατί οι συσκευές πρέπει να είναι κλειδωμένες;</string>
   <string name="bootloader_locked_question_2">Καταλαβαίνω τους κινδύνους, αλλά ακόμα θέλω να ξεκλειδώσω την συσκευή μου.</string>
@@ -2126,7 +2126,7 @@
   <string name="key_gesture_function_optional">Προαιρετικές χειρονομίες και κουμπιά</string>
   <string name="key_gesture_function_preview">Προεπισκοπήσεις κουμπιού και χειρονομίας</string>
   <string name="key_gesture_function_shortcut">Συντομεύσεις λειτουργιών</string>
-  <string name="key_none">Καμία</string>
+  <string name="key_none">Κανένα</string>
   <string name="key_operation_diagram">Διάγραμμα λειτουργίας</string>
   <string name="key_position_cat">Διάταξη πλήκτρων</string>
   <string name="key_settings">Πλήκτρα και χειρονομίες</string>
@@ -2465,11 +2465,11 @@
   <string name="login_account_dialog_message">Συνδεθείτε με το Λογαριασμό Mi και ενεργοποιήστε το συγχρονισμό με το Mi Cloud.</string>
   <string name="login_account_dialog_title">Συνδεθείτε με το Λογαριασμό Mi</string>
   <string name="login_action">Συνδεθείτε</string>
-  <string name="long_press_back_key">Παρατεταμένο πάτημα πλήκτρου Back</string>
-  <string name="long_press_buttom_key">Παρατεταμένο πάτημα του Home στην οθόνη κλειδώματος</string>
-  <string name="long_press_home_key">Παρατεταμένο πάτημα πλήκτρου Home</string>
-  <string name="long_press_menu_key">Παρατεταμένο πάτημα πλήκτρου Μενού</string>
-  <string name="long_press_menu_key_when_lock">Παρατεταμένο πάτημα Μενού στην οθόνη κλειδώματος</string>
+  <string name="long_press_back_key">Παρατεταμένα το πλήκτρο Back</string>
+  <string name="long_press_buttom_key">Παρατεταμένα το πλήκτρο Home στην οθόνη κλειδώματος</string>
+  <string name="long_press_home_key">Παρατεταμένα το πλήκτρο Home</string>
+  <string name="long_press_menu_key">Παρατεταμένα το πλήκτρο Menu</string>
+  <string name="long_press_menu_key_when_lock">Παρατεταμένα το Menu στην οθόνη κλειδώματος</string>
   <string name="long_press_volume_down">Παρατεταμένο πάτημα κουμπιού μείωσης έντασης</string>
   <string name="lost_internet_access_cancel">Παραμονή σε Wi‑Fi</string>
   <string name="lost_internet_access_persist">Να μην εμφανιστεί ξανά</string>
