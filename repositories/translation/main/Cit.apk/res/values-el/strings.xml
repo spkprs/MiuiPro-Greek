@@ -519,4 +519,6 @@
   <string name="camera_projector">- Προβολέας -</string>
   <string name="fod_pressure_sensor_test_fail">Απέτυχε η δοκιμή, κάντε κλικ στο κουμπί Αποτυχία</string>
   <string name="life_post_weather_no_network">Συνδεθείτε στο δίκτυο για ενημέρωση πληροφοριών καιρού</string>
+  <string name="cit_display_test_end">Τέλος δοκιμής</string>
+  <string name="cit_display_test_next">Επόμενο</string>
 </resources>

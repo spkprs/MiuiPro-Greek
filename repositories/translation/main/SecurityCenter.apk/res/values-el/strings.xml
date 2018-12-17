@@ -2440,4 +2440,6 @@
   <string name="traffic_setting_fragment_not_limited_title">Απεριόριστο πρόγραμμα δεδομένων</string>
   <string name="traffic_setting_fragment_packege_type">Ρυθμίσεις προγράμματος δεδομένων</string>
   <string name="ad_split_screen_title">Έξοδος απο Διαίρεση οθόνης για να ξεκλειδώσετε</string>
+  <string name="notify_channel_mipush">Προωθ. Μηνύματα Ασφάλειας</string>
+  <string name="notify_channel_optimize">Ειδοποιήσεις Ασφαλείας</string>
 </resources>

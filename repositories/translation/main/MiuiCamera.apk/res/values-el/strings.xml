@@ -616,7 +616,7 @@
   <string name="beauty_body_body">Αδυνάτισμα</string>
   <string name="beauty_body_head">Κεφάλι</string>
   <string name="beauty_body_legged">Μακριά πόδια</string>
-  <string name="beauty_body_reset_tip">Το εφέ σώματος εκκαθαρίστηκε</string>
+  <string name="beauty_body_reset_tip">Το Εφέ έχει εκκαθαριστεί</string>
   <string name="beauty_body_shoulder">Ώμος</string>
   <string name="ultra_wide_open_tip">Λειτουργία Υπέρ Ευρείας Γωνίας</string>
   <string name="super_night_toast">Λήψη μιας φωτογραφίας, παρακαλώ κρατήστε το τηλέφωνό σας</string>
@@ -684,4 +684,17 @@
   <string name="color_effect_live_years">Σέπια</string>
   <string name="live_sticker_updating">Ενημέρωση...</string>
   <string name="live_edit_share_title">Κοινή χρήση</string>
+  <string name="live_error_confirm">Προσαρμογή</string>
+  <string name="live_error_message">Σφάλμα λειτουργίας</string>
+  <string name="live_error_title">Σφάλμα λειτουργίας</string>
+  <string name="live_reverse_confirm">Διαγραφή</string>
+  <string name="live_reverse_message">Διαγραφή τελευταίου τμήματος?</string>
+  <string name="live_sticker_network_error_hint">Σφάλμα δικτύου</string>
+  <string name="portait_effect_entry_dusk">Σούρουπο</string>
+  <string name="portait_effect_entry_lilt">Ζωηρό</string>
+  <string name="portait_effect_entry_sepia">Σέπια</string>
+  <string name="portait_effect_entry_tea">Τσαγιού</string>
+  <string name="pref_camera_ultra_wide_mode_title">Λειτουργία Υπέρ Ευρείας γωνίας</string>
+  <string name="ultra_widem_mode_use_hint_text">"Ενεργοποιήστε την Υπέρ Ευρεία λειτουργία για καταγραφή μιας ευρύτερης προβολής για εσάς.
+Εξερευνήστε περισσότερη συναρπαστική ομορφιά."</string>
 </resources>

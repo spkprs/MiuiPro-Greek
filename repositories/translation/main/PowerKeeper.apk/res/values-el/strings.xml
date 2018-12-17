@@ -107,4 +107,6 @@
   <string name="notification_exit_extreme_mode_text">Η Μπαταρία είναι πάνω απο %s φορτισμένη</string>
   <string name="notification_exit_extreme_mode_title">Απενεργοποίηση Μέγιστης εξοικονόμησης</string>
   <string name="notification_open_extreme_mode_text">Ενεργοποίηση Μέγιστης εξοικονόμησης</string>
+  <string name="adaptive_battery_summary">"Περιορισμός μπαταρίας σε εφαρμογές με σπάνια χρήση"</string>
+  <string name="adaptive_battery_title">Χρήση Προσαρμοσμένης Μπαταρίας</string>
 </resources>
