@@ -2442,4 +2442,25 @@
   <string name="ad_split_screen_title">Έξοδος απο Διαίρεση οθόνης για να ξεκλειδώσετε</string>
   <string name="notify_channel_mipush">Προωθ. Μηνύματα Ασφάλειας</string>
   <string name="notify_channel_optimize">Ειδοποιήσεις Ασφαλείας</string>
+  <string name="applock_face_unlock_summary">Ξεκλείδωμα εφαρμ. με χρήση Δεδομ. προσώπου</string>
+  <string name="applock_face_unlock_title">Ξεκλείδωμα προσώπου</string>
+  <string name="applock_function_base_settings">Κλείδωμα εφαρμογής</string>
+  <string name="applock_function_pwd_settings">Κωδικός</string>
+  <string name="face_unlock_face_auth_failed_title">"Αδύνατη η επαλήθευση δεδομένων προσώπου. Μετάβαση σε άλλες μεθόδους ξεκλειδώματος ..."</string>
+  <string name="face_unlock_face_start_title">Επαλήθευση δεδομένων προσώπου…</string>
+  <string name="face_unlock_finger_or_password_switch">Χρησιμοποιήστε το δακτυλικό σας αποτύπωμα ή εισάγετε κωδικό για να ξεκλειδώσετε.</string>
+  <string name="face_unlock_guide_confirm">Χρήση Ξεκλείδωμα προσώπου</string>
+  <string name="face_unlock_guide_dialog_summary">Μπορείτε να χρησιμοποιήσετε δεδομένα προσώπου για να ξεκλειδώσετε τη συσκευή σας. Ενεργοποίηση Ξεκλείδωμα προσώπου?</string>
+  <string name="face_unlock_toast_verity_failed">"Αδυναμία επαλήθευσης δεδομένων προσώπου. Μεταβείτε στις ρυθμίσεις κλειδώματος εφαρμογής και προσπαθήστε να επαληθεύσετε τα δεδομένα προσώπου σας ξανά εκεί."</string>
+  <string name="face_unlock_verity_dialog_summary">Επαλήθευση δεδομένων προσώπου</string>
+  <string name="face_unlock_verity_dialog_title_failed">"Αδυναμία αναγνώρισης"</string>
+  <string name="face_unlock_verity_dialog_title_succeed">Επαληθεύτηκε με επιτυχία</string>
+  <string name="fingerprint_to_lock_summary">Ξεκλειδώστε εφαρμογές χρησιμοποιώντας το αποτύπωμά σας</string>
+  <string name="face_unlock_be_on_the_screen">Κρατήστε τη συσκευή μπροστά από το πρόσωπό σας</string>
+  <string name="face_unlock_check_failed">Δεν μπορώ να σας αναγνωρίσω</string>
+  <string name="face_unlock_not_found">Δεν μπορώ να σας αναγνωρίσω</string>
+  <string name="face_unlock_open_eye">Ανοίξτε τα μάτια σας λίγο πιο πολύ</string>
+  <string name="face_unlock_reveal_eye">Δείξτε τα μάτια σας</string>
+  <string name="face_unlock_reveal_mouth">Δείξτε τα χείλη σας</string>
+  <string name="unlock_failed">Εσωτερικό σφάλμα</string>
 </resources>

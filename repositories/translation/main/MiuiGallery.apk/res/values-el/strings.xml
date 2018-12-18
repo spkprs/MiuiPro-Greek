@@ -1389,4 +1389,14 @@
   <string name="story_download_without_wifi_title">Προειδοποίηση χρήσης δεδομένων</string>
   <string name="story_option_menu_delete">Διαγραφή ιστορίας</string>
   <string name="story_photo_downloading">Λήψη…</string>
+   <string name="alert_selection_description">Το AI σηματοδοτεί την καλύτερη φωτογραφία μεταξύ παρόμοιων εικόνων με ένα αστέρι.</string>
+   <string name="alert_selection_title">Επιλέχθηκε από το AI</string>
+   <string name="backup_file_over_size_desc">"Αδυναμία δημιουργίας αντιγράφων φωτογραφιών μεγαλύτερων από %1$s και βίντεο από %2$s."</string>  
+   <string name="collage_ratio_text">Αναλογία απεικόνισης</string> 
+   <string name="collage_title_stitching">Ρολό φιλμ</string>
+   <string name="filter_bg_color_component">1.0</string>
+   <string name="filter_people_bw">Μ&amp;Α</string>
+   <string name="filter_people_lilt">Ζωηρό</string>
+   <string name="filter_people_sepia">Σέπια</string>
+   <string name="filter_people_tea">Τσαγιού</string>
 </resources>

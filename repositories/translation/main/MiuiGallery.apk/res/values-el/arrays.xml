@@ -173,4 +173,10 @@
       <item>Νοέμβριος</item>
       <item>Δεκέμβριος</item>
   </string-array>
+    <string-array name="weekend_title">
+        <item>Προηγούμενες εβδομάδες</item>
+        <item>Ημέρες που θυμόμαστε</item>
+        <item>Καθημερινά γεγονότα</item>
+        <item>Συνήθη και Έκτακτα</item>
+    </string-array>
 </resources>

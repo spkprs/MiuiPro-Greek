@@ -264,4 +264,12 @@
         <item quantity="other">Επιλέξτε έως %d εικόνες</item>
         <item quantity="one">Επιλέξτε έως %d εικόνα</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d στοιχεία είναι πολύ μεγάλα για αντίγραφα</item>
+        <item quantity="one">%d στοιχείο είναι πολύ μεγάλο για αντίγραφο</item>
+    </plurals> 
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d στοιχεία είναι πολύ μεγάλα για αντίγραφα</item>
+        <item quantity="one">%d στοιχείο είναι πολύ μεγάλο για αντίγραφο</item>
+    </plurals>
 </resources>

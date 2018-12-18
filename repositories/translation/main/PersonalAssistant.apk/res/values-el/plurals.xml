@@ -66,4 +66,8 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">%d πριν από ένα λεπτό</item>
     </plurals>
+    <plurals name="miot_device_camera_size">
+        <item quantity="other">%d έξυπνες κάμερες</item>
+        <item quantity="one">%d έξυπνη κάμερα</item>
+    </plurals>
 </resources>

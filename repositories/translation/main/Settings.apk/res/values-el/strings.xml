@@ -5903,5 +5903,7 @@
   <string name="device_description_screen">Οθόνη</string>
   <string name="network_name_input_error">"Αδυναμία αποθήκευσης SSID. Δοκιμάστε ξανά."</string>
   <string name="gxzw_anim_star">Φώς Αστεριών</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">"Αφού απενεργοποιήσετε τον κωδικό της οθόνης κλειδώματος, τα εγγεγραμμένα δεδομένα προσώπου θα διαγραφούν. Δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή χρησιμοποιώντας το πρόσωπό σας."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Αφού απενεργοποιήσετε τον κωδικό οθόνης κλειδώματος, τα εγγεγραμμένα δακτυλικά αποτυπώματα και τα δεδομένα προσώπου θα διαγραφούν. Δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή χρησιμοποιώντας το πρόσωπό σας ή τα αποτυπώματα σας."</string>
 </resources>
 
