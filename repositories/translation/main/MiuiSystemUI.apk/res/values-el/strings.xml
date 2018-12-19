@@ -1708,4 +1708,9 @@
   <string name="lock_screen_magazine_global_button_text">Περισσότερα</string>
   <string name="keyguard_left_music">Μουσική</string>
   <string name="keyguard_left_notes">Σημειώσεις</string>
+  <string name="accessibility_aspect_button">Λειτ. Πλήρους Οθόνης</string>
+  <string name="aspect_cancel">Ακύρωση</string>
+  <string name="aspect_message">Αυτή η εφαρμογή θα εκκινηθεί ξανά σε λειτουργία πλήρους οθόνης. Αν αντιμετωπίσετε τυχόν προβλήματα, μπορείτε να απενεργοποιήσετε τη λειτουργία πλήρους οθόνης για αυτήν την εφαρμογή στις Ρυθμίσεις &gt; Προβολή Πλήρους Οθόνης &gt; Λειτ. Πλήρους Οθόνης.</string>
+  <string name="aspect_ok">OK</string>
+  <string name="aspect_title">Λειτ. Πλήρους Οθόνης</string>
 </resources>
