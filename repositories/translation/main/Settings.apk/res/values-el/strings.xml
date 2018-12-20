@@ -4648,7 +4648,6 @@
   <string name="turn_off_keyguard_password_confirm_msg">Ορισμένα χαρακτηριστά ασφαλείας, δεν θα λειτουργούν χωρίς τον κωδικό σας.</string>
   <string name="turn_off_keyguard_password_wait_dialog">Απενεργοποίηση κωδικού…</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή χρησιμοποιώντας το δακτυλικό σας αποτύπωμα αφού απενεργοποιήσετε τον κωδικό πρόσβασης.</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Αφού απενεργοποιήσετε τον κωδικό κλειδώματος οθόνης, τα εγγεγραμμένα δακτυλικά αποτυπώματα θα διαγραφούν. Δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή χρησιμοποιώντας το δακτυλικό σας αποτύπωμα.</string>
   <string name="turn_off_security_lock">Απενεργοποίηση κλειδώματος</string>
   <string name="turn_on_keyguard_password">Ενεργοποίηση κωδικού Οθόνης κλειδώματος</string>
   <string name="turn_on_keyguard_password_alert">Να θυμάστε τον κωδικό σας. Αν τον ξεχάσετε, δεν θα μπορείτε να τον επαναφέρετε.</string>
