@@ -700,4 +700,10 @@
   <string name="device_48m_watermark_default_text">48M ΔΙΠΛΗ ΚΑΜΕΡΑ</string>
   <string name="device_watermark_default_text">AI ΔΙΠΛΗ ΚΑΜΕΡΑ</string>
   <string name="pref_menu_ultra_pixel_photography_48mp">48M Υπέρ-καθαρή</string>
+  <string name="live_music_change_bgm">Αντικατάσταση μουσικής</string>
+  <string name="live_music_downloading_tips">Λήψη...</string>
+  <string name="live_music_hot_title">Hot Μουσική</string>
+  <string name="live_music_local_title">Τοπική Μουσική</string>
+  <string name="live_music_network_exception">Ανωμαλία δικτύου</string>
+  <string name="live_music_network_exception_tips">Ανωμαλίες δικτύου, δοκιμάστε ξανά κλικ</string>
 </resources>
