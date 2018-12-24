@@ -474,7 +474,7 @@
   <string name="card_main_applock_summary">Προστατεύστε επιλεγμένες εφαρμογές με κωδικό. Απόκρυψη μηνυμάτων, φωτογραφιών, σημειώσεων και πολλά άλλα.</string>
   <string name="card_main_applock_title">Κλείδωμα εφαρμογής</string>
   <string name="card_main_deepclean_action">Καθαρισμός</string>
-  <string name="card_main_deepclean_qq_title">Δοκιμή Δικτύου</string>
+  <string name="card_main_deepclean_qq_title">Χρονοδιακόπτης</string>
   <string name="card_main_deepclean_summary">Διαγραφή περιττών αρχείων</string>
   <string name="card_main_deepclean_title">Υπερκαθαρισμός</string>
   <string name="card_main_deepclean_wechat_action">Καθαρισμός</string>
@@ -483,7 +483,7 @@
   <string name="card_main_gamebooster_summary">Ενίσχυση σύνδεσης παιχνιδιών</string>
   <string name="card_main_gamebooster_title">Ενίσχυση ταχύτητας</string>
   <string name="card_main_hbassistant_summary">Ώθηση ταχύτητας για βελτιώση εμπειρίας παιχνιδιών</string>
-  <string name="card_main_hbassistant_title">Προστασία</string>
+  <string name="card_main_hbassistant_title">Εργασίες</string>
   <string name="card_main_monthreport_action">Προβολή</string>
   <string name="card_main_netcheck_action">Δοκιμή</string>
   <string name="card_main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύου</string>

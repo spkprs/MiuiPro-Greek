@@ -3,7 +3,7 @@
     <string name="add_alarm">Προσθήκη</string>
     <string name="add_clock">Προσθήκη Ρολογιού</string>
     <string name="add_timezone_title">Προσθήκη ζώνη ώρας</string>
-    <string name="alarm_alert_alert_silenced">Η αφύπνιση σταματά μετά από %d λεπ.</string>
+    <string name="alarm_alert_alert_silenced">Η αφύπνιση σταματά μετά από %1$s.</string>
     <string name="alarm_alert_snooze_set">Αναβολή για %d λεπ.</string>
     <string name="alarm_ascending_mode_summary">Σταδιακή αύξηση έντασης</string>
     <string name="alarm_ascending_mode_title">Αυξανόμενη ένταση</string>
@@ -106,10 +106,10 @@
     <string name="minute">1 λεπ</string>
     <string name="minutes">%d λεπ</string>
     <string name="module_download_cancel">Όχι ευχαριστώ</string>
-    <string name="module_download_data_msg">"Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία ήχου (20MB) για ήχους περιβάλλοντος για τις έξυπνες αφυπνίσεις. Θα χρησιμοποιηθούν τώρα, δεδομένα κινητής τηλεφωνίας. Αποδοχή?"</string>
-    <string name="module_download_data_msg_golbal">"Το ρολόι πρέπει να μεταφορτώσει αρχεία ήχου (20MB) για ήχους περιβάλλοντος για τις έξυπνες αφυπνίσεις. Θα χρησιμοποιηθούν τώρα, δεδομένα κινητής τηλεφωνίας. Αποδοχή?"</string>
-    <string name="module_download_msg">Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία ήχου για ήχους περιβάλλοντος για τις έξυπνες αφυπνίσεις. Αποδοχή?</string>
-    <string name="module_download_msg_golbal">Το ρολόι πρέπει να μεταφορτώσει αρχεία ήχου για ήχους περιβάλλοντος για τις έξυπνες αφυπνίσεις. Αποδοχή?</string>
+    <string name="module_download_data_msg">"Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος χρονοδιακόπτη. 20MB δεδομένα κινητής τηλεφωνίας απαιτούνται. Αποδοχή?"</string>
+    <string name="module_download_data_msg_golbal">"Το ρολόι πρέπει να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος χρονοδιακόπτη. 20MB δεδομένα κινητής τηλεφωνίας απαιτούνται. Αποδοχή?"</string>
+    <string name="module_download_msg">Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος χρονοδιακόπτη. Αποδοχή?</string>
+    <string name="module_download_msg_golbal">Το ρολόι πρέπει να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος χρονοδιακόπτη. Αποδοχή?</string>
     <string name="module_download_ok">Αποδοχή</string>
     <string name="more_setting">Περισσότερες ρυθμίσεις</string>
     <string name="more_settings">Περισσότερες ρυθμίσεις</string>
@@ -156,7 +156,7 @@
     <string name="time">Ώρα</string>
     <string name="timer_alarm_cancel_pad">Πατήστε στην οθόνη για να διακοπή το κουδούνισμα</string>
     <string name="timer_alarm_dot_matrix_label">ΧΡΟΝΟΜΕΤΡΟ</string>
-    <string name="timer_alert_alert_silenced">Το χρονόμετρο σταματά μετά από %d λεπ.</string>
+    <string name="timer_alert_alert_silenced">Το χρονόμετρο σταματά μετά από %1$s.</string>
     <string name="timer_can_continue_in_timer">Άνοιγμα χρονομέτρου για συνέχεια</string>
     <string name="timer_cancel_hint">Διακοπή</string>
     <string name="timer_clock_alert_text">Ρύθμιση αντ.μέτρησης</string>
@@ -199,5 +199,6 @@
     <string name="monday_to_friday">Δευτ εως Παρ</string>
     <string name="alarm_clock_more_setting">Πρόσθετες ρυθμίσεις</string>
     <string name="check_theme_app_install">Βεβαιωθείτε ότι η εφαρμογή Θέματα είναι εγκατεστημένη στη συσκευή σας.</string>
+    <string name="check_voice_assist_app_version">Ενημερώστε το Mi AI στην τελευταία του έκδοση.</string>
 </resources>
 

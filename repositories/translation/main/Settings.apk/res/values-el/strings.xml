@@ -5904,5 +5904,10 @@
   <string name="gxzw_anim_star">Φώς Αστεριών</string>
   <string name="turn_off_keyguard_password_with_face_confirm_msg">"Αφού απενεργοποιήσετε τον κωδικό της οθόνης κλειδώματος, τα εγγεγραμμένα δεδομένα προσώπου θα διαγραφούν. Δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή χρησιμοποιώντας το πρόσωπό σας."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Αφού απενεργοποιήσετε τον κωδικό οθόνης κλειδώματος, τα εγγεγραμμένα δακτυλικά αποτυπώματα και τα δεδομένα προσώπου θα διαγραφούν. Δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή χρησιμοποιώντας το πρόσωπό σας ή τα αποτυπώματα σας."</string>
+  <string name="set_jeejen_prompt_message">Ο Jeejen θα οριστεί ως προεπιλεγμένος εκκινητής. Μπορείτε να το αλλάξετε στις Ρυθμίσεις &gt; Ρυθμίσεις συστήματος&gt; Αρχική Οθόνη &amp; Βασικές επιλογές &gt; Προεπιλεγμένος Εκκινητής.</string>
+  <string name="set_jeejen_prompt_title">Επιβεβαίωση αλλαγών</string>
+  <string name="work_sound_permission_dialog_button_text_known">Κατανοητό</string>
+  <string name="work_sound_permission_dialog_message">"Δεν μπορείτε να χρησιμοποιήσετε Θέματα σε λειτουργία Επιχείρησης. Επικοινωνήστε με τον προϊστάμενό σας για να αποκτήσετε πρόσβαση."</string>
+  <string name="work_sound_permission_dialog_title">Περιορισμοί λειτουργίας Επιχείρησης</string>
 </resources>
 
