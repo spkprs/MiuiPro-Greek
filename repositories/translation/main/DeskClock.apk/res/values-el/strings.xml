@@ -106,10 +106,10 @@
     <string name="minute">1 λεπ</string>
     <string name="minutes">%d λεπ</string>
     <string name="module_download_cancel">Όχι ευχαριστώ</string>
-    <string name="module_download_data_msg">"Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος χρονοδιακόπτη. 20MB δεδομένα κινητής τηλεφωνίας απαιτούνται. Αποδοχή?"</string>
-    <string name="module_download_data_msg_golbal">"Το ρολόι πρέπει να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος χρονοδιακόπτη. 20MB δεδομένα κινητής τηλεφωνίας απαιτούνται. Αποδοχή?"</string>
-    <string name="module_download_msg">Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος χρονοδιακόπτη. Αποδοχή?</string>
-    <string name="module_download_msg_golbal">Το ρολόι πρέπει να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος χρονοδιακόπτη. Αποδοχή?</string>
+    <string name="module_download_data_msg">"Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος και χρονομέτρου. 20MB δεδομένα κινητής τηλεφωνίας απαιτούνται. Αποδοχή?"</string>
+    <string name="module_download_data_msg_golbal">"Το ρολόι πρέπει να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος και χρονομέτρου. 20MB δεδομένα κινητής τηλεφωνίας απαιτούνται. Αποδοχή?"</string>
+    <string name="module_download_msg">Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος και χρονομέτρου. Αποδοχή?</string>
+    <string name="module_download_msg_golbal">Το ρολόι πρέπει να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος και χρονομέτρου. Αποδοχή?</string>
     <string name="module_download_ok">Αποδοχή</string>
     <string name="more_setting">Περισσότερες ρυθμίσεις</string>
     <string name="more_settings">Περισσότερες ρυθμίσεις</string>
