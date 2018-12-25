@@ -2463,4 +2463,6 @@
   <string name="face_unlock_reveal_eye">Δείξτε τα μάτια σας</string>
   <string name="face_unlock_reveal_mouth">Δείξτε τα χείλη σας</string>
   <string name="unlock_failed">Εσωτερικό σφάλμα</string>
+  <string name="app_manager_full_screen_summary">Επιτρέπει στις επιλεγμένες εφαρμογές την Λειτουργία Πλήρους Οθόνης</string>
+  <string name="app_manager_full_screen_title"> Λειτουργία Πλήρους Οθόνης</string>
 </resources>
