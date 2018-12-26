@@ -706,4 +706,9 @@
   <string name="live_music_local_title">Τοπική Μουσική</string>
   <string name="live_music_network_exception">Ανωμαλία δικτύου</string>
   <string name="live_music_network_exception_tips">Ανωμαλίες δικτύου, δοκιμάστε ξανά κλικ</string>
+  <string name="accessibility_lighting_panel_off">Κλείστε τον πίνακα φωτισμού στούντιο</string>
+  <string name="accessibility_lighting_panel_on">Ανοίξτε τον πίνακα φωτισμού στούντιο</string>  
+  <string name="live_music_close_cancel_message">Ακύρωση</string>  
+  <string name="live_music_close_message">Αλλιώς να κλείσει η τρέχουσα μουσική;</string>
+  <string name="live_music_close_sure_message">Κλείσιμο</string>  
 </resources>

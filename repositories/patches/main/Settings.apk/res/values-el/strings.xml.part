@@ -33,7 +33,7 @@
   <string name="gps_icon_title">Απόκρυψη εικονιδίου GPS</string>
   <string name="haptic_off">Δόνηση κατά τη φόρτιση</string>
   <string name="headset_icon_title">Απόκρυψη εικονιδίου ακουστικών</string>
-  <string name="hide_app">Ρυθμίσεις Ετικέτας</string>
+  <string name="hide_app">Απόκρυψη εφαρμογών</string>
   <string name="hide_app_title">Λίστα απόκρ. εφαρμ. Συστήματος</string>
   <string name="icon_mode">Εικονίδια γραμμής κατάστασης</string>
   <string name="icon_name_title">Απόκρυψη ονόματος εικονιδίων</string>
