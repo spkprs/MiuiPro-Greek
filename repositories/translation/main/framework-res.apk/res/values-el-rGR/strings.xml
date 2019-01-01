@@ -327,7 +327,7 @@
   <string name="ext_media_new_notification_message">Νέα %s εντοπίστηκε</string>
   <string name="ext_media_nomedia_notification_message">Η %s αφαιρέθηκε. Τοποθετήστε ένα νέο.</string>
   <string name="ext_media_nomedia_notification_title">Η %s αφαιρέθηκε</string>
-  <string name="ext_media_ready_notification_message">Για τη μεταφορά αρχείων φωτογραφιών και πολυμέσων</string>
+  <string name="ext_media_ready_notification_message">Για την μετακίνηση φωτογραφιών και πολυμέσων</string>
   <string name="ext_media_status_bad_removal">Αφαιρέθηκε εσφαλμένα</string>
   <string name="ext_media_status_checking">Ελεγχος…</string>
   <string name="ext_media_status_ejecting">Εξαγωγή…</string>

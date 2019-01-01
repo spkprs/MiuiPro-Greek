@@ -3713,7 +3713,7 @@
   <string name="se_wallet_ese">Mi Pay και κάρτες μεταφοράς NFC</string>
   <string name="se_wallet_hce">Χρήση Πορτοφολιού HCE</string>
   <string name="se_wallet_uicc">Χρήση SIM%1$s Πορτοφόλι</string>
-  <string name="search_about_settings">Σχετικά με το τηλέφωνο? Αριθμός μοντέλου; Έκδοση του Android? Έκδοση MIUI? CPU? RAM-εσωτερική μνήμη? Μνήμη? Αποθήκευση; Αποθήκευση εσωτερική? Έκδοση baseband? Έκδοση του πυρήνα? Ο αριθμός του build</string>
+  <string name="search_about_settings">Σχετικά με το τηλέφωνο;Αριθμός μοντέλου;Έκδοση Android;Έκδοση MIUI;CPU;RAM-εσωτερική μνήμη;Μνήμη;Αποθήκευση;Αποθήκευση εσωτερική;Έκδοση baseband;Έκδοση πυρήνα;Aριθμός του build</string>
   <string name="search_accelerometer_title">Αυτόματη περιστροφή οθόνης;Περιστροφή οθόνης;Προσανατολισμός;Κατακόρυφος;Οριζόντιος</string>
   <string name="search_access_control">Έλεγχος πρόσβασης</string>
   <string name="search_accessibility_captioning_title">Υπότιτλοι</string>
@@ -5582,7 +5582,7 @@
   <string name="write_settings_on">Ναι</string>
   <string name="write_settings_preference">Να επιτρέπεται στην εφαρμογή να τροποποιεί τις ρυθμίσεις συστήματος</string>
   <string name="write_settings_summary" formatted="false">%d από %d εφαρμογές επιτρέπεται να τροποποιούν τις ρυθμίσεις συστήματος</string>
-  <string name="write_settings_title">Μπορούν την τροποποίηση</string>
+  <string name="write_settings_title">Δυνατότητα τροποποίησης</string>
   <string name="write_system_settings">Τροποποίηση ρυθμίσεων συστήματος</string>
   <string name="write_tag">Εγγραφή</string>
   <string name="wrong_pin_code_pukked">Εσφαλμένος κωδικός PIN κάρτας SIM. Θα πρέπει να επικοινωνήσετε με τον πάροχο κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</string>

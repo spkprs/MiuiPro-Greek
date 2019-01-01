@@ -60,4 +60,5 @@
   <string name="unit_degree">Βαθμοί</string>
   <string name="using_camera_confirm_cancel">Έξοδος</string>
   <string name="using_camera_confirm_ok">Συμφωνώ</string>
+  <string name="compass_settings">Ρυθμίσεις</string>
 </resources>

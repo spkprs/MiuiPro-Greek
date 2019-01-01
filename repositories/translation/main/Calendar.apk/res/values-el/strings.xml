@@ -232,7 +232,7 @@
   <string name="preferences_default_reminder_title">Προεπιλεγμένη ώρα υπενθύμισης</string>
   <string name="preferences_home_tz_title">Τοπική ζώνη ώρας</string>
   <string name="preferences_notification_ringtone_title">Ήχος</string>
-  <string name="preferences_title">Ρυθμίσεις</string>
+  <string name="preferences_title">Ημερολόγιο</string>
   <string name="preferences_use_home_tz_descrip">Εμφανίζει ώρες σε ημερολόγια και γεγονότα στην τοπική ζώνη ώρας όταν ταξιδεύετε</string>
   <string name="preferences_use_home_tz_title">Χρήση τοπικής ζώνης ώρας</string>
   <string name="preferences_week_start_day_dialog">Η εβδομάδα ξεκινάει την</string>
