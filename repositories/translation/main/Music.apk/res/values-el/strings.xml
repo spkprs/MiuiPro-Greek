@@ -75,7 +75,7 @@
   <string name="back_confirm">Αγγίξτε ξανά για να μετακινήστε την εφαρμογή στο παρασκήνιο</string>
   <string name="bluetooth_device">Bluetooth συσκευή ήχου</string>
   <string name="browser_error">Προσωρινά μη διαθέσιμη, δοκιμάστε ξανά σύντομα</string>
-  <string name="buffering">Απόσβεση…</string>
+  <string name="buffering">Φόρτωση…</string>
   <string name="button_cancel_download">Ακύρωση</string>
   <string name="button_download_now">Λήψη τώρα</string>
   <string name="button_queue_for_wifi">Σε αναμονή</string>
@@ -222,7 +222,7 @@
   <string name="download_title_sorted_by_size">Λήψεις - Ταξινόμηση κατά μέγεθος</string>
   <string name="download_toast">Χρήση δεδομένων κινητής για λήψη τραγουδιών</string>
   <string name="download_toast_with_beyond_data">Χρήση δεδομένων κινητής τηλεφωνίας για λήψη τραγουδιών. Το όριο ξεπεράστηκε κατά %s</string>
-  <string name="download_toast_with_data">Χρήση δεδομένων κινητής για τη λήψη τραγουδιών, %s υπόλοιπα</string>
+  <string name="download_toast_with_data">Χρήση δεδομένων κινητής για τη λήψη τραγουδιών, %s απομένουν</string>
   <string name="download_traffic_dialog_msg">Σας απομένουν %s δεδομένων κινητής τηλεφωνίας. Χρήση δεδομένων κινητής για λήψη τραγουδιών;</string>
   <string name="download_traffic_dialog_msg_beyond">Έχετε ήδη ξεπεράσει το όριο δεδομένων κινητής τηλεφωνίας σας κατά %s. Χρήση δεδομένων κινητής για λήψη τραγουδιών;</string>
   <string name="download_traffic_dialog_msg_serious">Σας απομένουν μόνο %s δεδομένων κινητής τηλεφωνίας. Χρήση δεδομένων κινητής για λήψη τραγουδιών;</string>
@@ -371,7 +371,7 @@
   <string name="insufficient_space">Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης της συσκευής</string>
   <string name="is_latest_version">Η Μουσική είναι ενημερωμένη.</string>
   <string name="is_scanning">Έλεγχος αποθήκευσης…</string>
-  <string name="is_scanning_support_online">Έλεγχος αποθήκευσης…\n(Εν τω μεταξύ, μπορείτε μουσική ροής σε απευθείας σύνδεση)</string>
+  <string name="is_scanning_support_online">Έλεγχος αποθήκευσης…\n(Ταυτόχρονα ακούτε μουσική ροής σε απευθείας σύνδεση)</string>
   <string name="keep_queued_download">Διατήρηση</string>
   <string name="ktv_playlist">Λίστα αναπαραγωγής KTV</string>
   <string name="language_page_confirm">Επιβεβαίωση</string>
