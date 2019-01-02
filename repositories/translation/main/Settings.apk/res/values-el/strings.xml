@@ -5909,5 +5909,6 @@
   <string name="work_sound_permission_dialog_button_text_known">Κατανοητό</string>
   <string name="work_sound_permission_dialog_message">"Δεν μπορείτε να χρησιμοποιήσετε Θέματα σε λειτουργία Επιχείρησης. Επικοινωνήστε με τον προϊστάμενό σας για να αποκτήσετε πρόσβαση."</string>
   <string name="work_sound_permission_dialog_title">Περιορισμοί λειτουργίας Επιχείρησης</string>
+  <string name="switch_select_to_speak_on">Επιλέξτε να μιλήσετε</string>
 </resources>
 

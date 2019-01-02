@@ -312,4 +312,7 @@
         <item quantity="other">%1$d βήματα πριν λάβετε το log modem</item>
         <item quantity="one">%1$d βήμα πριν λάβετε το log modem</item>
     </plurals>
+	 <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d προστέθηκαν</item>
+    </plurals>
 </resources>

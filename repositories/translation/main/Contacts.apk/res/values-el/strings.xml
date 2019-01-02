@@ -1217,4 +1217,5 @@
   <string name="scan_bussiness_card_merge_tip">Δεδομένα σε διένεξη αντικαταστάθηκαν</string>
   <string name="description_image_button_sim1_named_dial">Κλήση μέσω SIM1 %s</string>
   <string name="description_image_button_sim2_named_dial">Κλήση μέσω SIM2 %s</string>  
+  <string name="contacts_default_notification_channel">Ειδοποιήσεις</string>
 </resources>

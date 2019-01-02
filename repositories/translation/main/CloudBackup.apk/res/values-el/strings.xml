@@ -195,6 +195,8 @@
   <string name="other_device_second_space">Δεύτερος Χώρος</string>
   <string name="self_device_main_space">"Πρώτος Χώρος τηλεφώνου"</string>
   <string name="self_device_second_space">"Δεύτερος Χώρος τηλεφώνου"</string>
-
-  
+  <string name="restore_finish_description">Η Επαναφορά ολοκληρώθηκε</string>
+  <string name="restore_init_description">Έναρξη Επαναφοράς</string>
+  <string name="restoring_file_title_no_progress">Επαναφορά αρχείων…</string>
+  <string name="restoring_settings">Επαναφορά ρυθμίσεων…</string>
 </resources>

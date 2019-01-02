@@ -79,9 +79,10 @@
     <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
     <item>SBC</item>
     <item>AAC</item>
-    <item>aptX</item>
-    <item>aptX HD</item>
+    <item>Qualcomm® aptX™ audio</item>
+    <item>Qualcomm® aptX™ HD audio</item>
     <item>LDAC</item>
+    <item>Qualcomm® aptX™ Adaptive audio</item>
     <item>Ενεργοποίηση προαιρετικών κωδικοποιητών</item>
     <item>Απενεργοποίηση προαιρετικών κωδικοποιητών</item>
   </string-array>
@@ -89,9 +90,10 @@
     <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
     <item>SBC</item>
     <item>AAC</item>
-    <item>aptX</item>
-    <item>aptX HD</item>
+    <item>Qualcomm® aptX™ audio</item>
+    <item>Qualcomm®aptX HD audio</item>
     <item>LDAC</item>
+    <item>Qualcomm® aptX™ Adaptive audio</item>
     <item>Ενεργοποίηση προαιρετικών κωδικοποιητών</item>
     <item>Απενεργοποίηση προαιρετικών κωδικοποιητών</item>
   </string-array>

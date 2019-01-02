@@ -1399,4 +1399,17 @@
    <string name="filter_people_lilt">Ζωηρό</string>
    <string name="filter_people_sepia">Σέπια</string>
    <string name="filter_people_tea">Τσαγιού</string>
+  <string name="channel_default_name">Νέα χαρακτηριστικά</string>
+  <string name="channel_low_name">Νέα μηνύματα</string>
+  <string name="channel_min_name">Ειδοποιήσεις εφαρμογών</string>
+  <string name="filter_bi_bw">Μ&amp;Α</string>
+  <string name="filter_bi_dusk">Σούρουπο</string>
+  <string name="filter_bi_lilt">Ζωηρό</string>
+  <string name="filter_bi_sepia">Σέπια</string>
+  <string name="filter_bi_tea">Τσαγιού</string>
+  <string name="motion_photo_play">Αναπαραγωγή</string>
+  <string name="movie_content_describe_add">Προσθήκη φωτογραφιών</string>
+  <string name="movie_content_describe_delete">Διαγραφή φωτογραφιών</string>
+  <string name="movie_content_describe_pause">Παύση</string>
+  <string name="movie_content_describe_play">Αναπαραγωγή</string>
 </resources>
