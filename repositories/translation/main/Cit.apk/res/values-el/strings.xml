@@ -531,4 +531,12 @@
   <string name="cit_no_sim_check_summary">Επιβεβαιώστε ότι το τηλέφωνο δεν διαθέτει κάρτα SIM!</string>
   <string name="cit_no_sim_check_title">Χωρίς κάρτα SIM</string>
   <string name="fp_fod_calibration">Βαθμονόμηση δακτ. αποτυπωμάτων</string>
+  <string name="pop_camera">Pop Κάμερας</string>
+  <string name="pop_push_camera_test_summary">"Κάντε κλικ στο κουμπί Pop Κάμερας για να δείτε αν η κάμερα ανοίγει
+Κάντε κλικ στο κουμπί Push της κάμερας για να δείτε αν η κάμερα ανοίγει"</string>
+  <string name="pop_push_camera_test_title">Δοκιμή Pop και Push Κάμερας</string>
+  <string name="push_camera">Push Κάμερας</string>
+  <string name="sar_sensor_collect_test_summary">"Περιστρέψτε το τηλέφωνο, τοποθετήστε το στο εξάρτημα
+Κάντε κλικ στο κουμπί Εκκίνηση λήψης δεδομένων
+Ελέγξτε το εξάρτημα κοντά και μακριά από το τηλέφωνο"</string>
 </resources>

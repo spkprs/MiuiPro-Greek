@@ -568,7 +568,7 @@
   <string name="ubifocus_capture_warning_message">Για καλύτερα αποτελέσματα, θα πρέπει να είναι τα αντικείμενα κοντά (λιγότερο από 1 μέτρο από το φακό).</string>
   <string name="user_agree">Συμφωνώ</string>
   <string name="user_agreement2">Όροι υπηρεσίας</string>
-  <string name="user_agreement4">Πολιτική προστασίας προσωπικών δεδομένων</string>
+  <string name="user_agreement4">Πολιτική Απορρήτου</string>
   <string name="user_notice_identify_summary_format">Χρησιμοποιώντας αυτή την υπηρεσία, συμφωνείτε με την %1$s και %2$s της Xiaomi. Συμφωνείτε να συνδεθείτε στο Διαδύκτιο?</string>
   <string name="user_notice_title">Συμφωνία σύνδεσης δικτύου</string>
   <string name="video_camera_label">Βιντεοκάμερα</string>
@@ -712,4 +712,20 @@
   <string name="live_music_close_message">Αλλιώς να κλείσει η τρέχουσα μουσική;</string>
   <string name="live_music_close_sure_message">Κλείσιμο</string>  
   <string name="pref_camera_live_sticker_internal_title">Εσωτερικά μαγικά εργαλεία</string>
+  <string name="pref_privacy_title">Πολιτική Απορρήτου</string>
+  <string name="accessibility_ultra_pixel_photography_32mp_off">32MP ανενεργό</string>
+  <string name="accessibility_ultra_pixel_photography_32mp_on">32MP ανενεργό</string>
+  <string name="accessibility_ultra_pixel_photography_48mp_off">48MP ανενεργό</string>
+  <string name="accessibility_ultra_pixel_photography_48mp_on">48MP ανενεργό</string>
+  <string name="hand_gesture_open_tip">Τεντώστε την παλάμη του χεριού σας και αρχίστε να μετράτε</string>
+  <string name="hand_gesture_tip">Χειρονομία φωτογραφίας</string>
+  <string name="network_access_user_notice_title">Σύνδεση στο Internet</string>
+  <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
+  <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
+  <string name="pref_new_slow_motion_video_quality_960_720only">Μπορείτε να καταγράψετε βίντεο 720p μόνο με 960fps</string>
+  <string name="ultra_pixel_photography_32mp_close_tip">32MP ανενεργό</string>
+  <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
+  <string name="ultra_pixel_photography_48mp_close_tip">48MP ανενεργό</string>
+  <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
+  <string name="zoom_no_support_tip_48M">Το ζουμ δεν υποστηρίζεται στη λειτουργία  48mp υπέρ καθαρή</string>
 </resources>

@@ -2,6 +2,10 @@
 <resources>
   <string name="auto_redial_times_summary">Προσπάθειες: %s</string>
   <string name="auto_redial_times_title">Προσπάθειες για κλήση</string>
+  <string name="background_color_off">Ταπετσ. Οθόν. Κλειδώματος</string>	
+  <string name="background_color_on">Προεπιλογή</string>
+  <string name="background_color_title">Φόντο Κλήσης</string>
+  <string name="button_color_title">Χρώμα Πλήκτρου</string>
   <string name="call_backlight_condition_title">Αλλαγή όρων</string>
   <string name="call_backlight_mode">Φωτισμός οθόνης στην Κλήση</string>
   <string name="call_backlight_new_off">Πρόσθετη λειτουργία</string>
@@ -15,6 +19,7 @@
   <string name="call_backlight_title">Μέγιστη φωτεινότητα</string>
   <string name="call_home_title">Πλήκτρο [HOME]</string>
   <string name="call_record_setrate">Ρυθμίσεις ποιότητας εγγραφής</string>
+  <string name="call_windows_title">Παράθυρο Κλήσης</string>
   <string name="default_image_pick">Επιλέξτε εικόνα από τη Συλλογή</string>
   <string name="end_call_title">Mετά την ολοκλήρωση της κλήσης</string>
   <string name="flash_time">Ρύθμιση ταχύτητας φωτισμού</string>
@@ -22,12 +27,15 @@
   <string name="flash_time_on_title">Ενεργό</string>
   <string name="flash_time_title">Ενεργοποίηση καθυστέρησης</string>
   <string name="full_avatar_title">Εικόνα πλήρους οθόνης</string>
+  <string name="icon_color_title">Χρώμα SIM, συμβόλων, κτλ.</string>
   <string name="incall_background_title">Πλήρης οθόνη χωρίς εικόνα</string>
   <string name="incall_small_background_title">Πρότυπα χωρίς εικόνα</string>
   <string name="incommingcall_title">Μετά τις εισερχόμενες</string>
   <string name="key_call_title">Αρχική κατάσταση</string>
   <string name="key_title">Κουμπιά κλήσης</string>
   <string name="key_title_summary">Για να εμφανίσετε τα κουμπιά στο παράθυρο κλήσης, σύρετε προς τα κάτω τον αριθμό. Για να αποκρύψετε, σαρώστε από κάτω προς τα επάνω</string>
+  <string name="name_color_title">Χρώμα ονόματος, διάρκειας, κτλ.</string>
+  <string name="number_color_title">Χρώμα αριθμών, γραμμάτων, κτλ.</string>
   <string name="outgoingcall_title">Μετά τις εξερχόμενες</string>
   <string name="preferred_network_type_pref_entries_only_2g_3g">2G/3G (GSM/WCDMA)</string>
   <string name="preferred_network_type_pref_entries_only_2g_3g_4g">2G/3G/4G (GSM/WCDMA/LTE)</string>
@@ -42,13 +50,5 @@
   <string name="show_search_title">Γραμμή αναζήτησης</string>
   <string name="sim_time_summary">Αναμονή: %s δευτ.</string>
   <string name="sim_time_title">Αναμονή για επιλογή SIM</string>
-    <string name="button_color_title">Χρώμα Πλήκτρου</string>
-    <string name="text_color_title">Χρώμα ετικέτας Πλήκτρου</string>
-    <string name="name_color_title">Χρώμα ονόματος, διάρκειας, κτλ.</string>
-    <string name="number_color_title">Χρώμα αριθμών, γραμμάτων, κτλ.</string>
-    <string name="icon_color_title">Χρώμα SIM, συμβόλων, κτλ.</string>
-    <string name="call_windows_title">Παράθυρο Κλήσης</string>
-    <string name="background_color_title">Φόντο Κλήσης</string>
-    <string name="background_color_on">Προεπιλογή</string>
-    <string name="background_color_off">Ταπετσ. Οθόν. Κλειδώματος</string>	
+  <string name="text_color_title">Χρώμα ετικέτας Πλήκτρου</string>
 </resources>

@@ -303,7 +303,11 @@
   <string name="block_record_notification_title">Κρυφές ειδοποιήσεις</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Συνδεδεμένο με ήχο πολυμέσων</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Χρήση για ήχο πολυμέσων</string>
-  <string name="bluetooth_connected">Συνδεδεμένο</string>
+  <string name="bluetooth_connected">Συνδεδεμένο%1$s</string>
+  <string name="bluetooth_connected_battery_level">Συνδεδεμένο | Μπαταρία %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Συνδεδεμένο (χωρίς πολυμέσα | Μπαταρία %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Συνδεδεμένο (χωρίς τηλέφωνο) | Μπαταρία %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Συνδεδεμένο (χωρίς τηλ/πολυμ.) | Μπαταρία %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp">Συνδεδεμένο (χωρίς πολυμέσα)</string>
   <string name="bluetooth_connected_no_headset">Συνδεδεμένο (χωρίς τηλέφωνο)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Συνδεδεμένο (χωρίς τηλέφωνο ή πολυμέσα)</string>
@@ -1234,7 +1238,7 @@
   <string name="recents_accessibility_split_screen_top">Διαιρέστε την οθόνη προς τα επάνω</string>
   <string name="recents_app_info_button_label">Πληροφορίες εφαρμογής</string>
   <string name="recents_caption_resize">Επιλέξτε νέα διάταξη εργασίας</string>
-  <string name="recents_drag_hint_message">Αγγίξτε παρατεταμένα μια εφαρμογή και, σύρετέ την εδώ.</string>
+  <string name="recents_drag_hint_message">Αγγίξτε παρατεταμένα μια εφαρμ. και αποθέστε την εδώ</string>
   <string name="recents_empty_message">Δεν υπάρχουν πρόσφατα στοιχεία</string>
   <string name="recents_empty_message_dismissed_all">Καταργήσατε όλα τα στοιχεία</string>
   <string name="recents_empty_message_multi_window">Ανοίξτε τις εφαρμογές από την Αρχική οθόνη</string>

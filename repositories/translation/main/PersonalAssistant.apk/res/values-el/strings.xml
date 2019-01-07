@@ -1116,5 +1116,7 @@
   <string name="miot_device_no_recent_frame">Αγγίξτε για προβολή</string>
   <string name="miot_device_show_frame_toast">Εμφάνιση εικόνας</string>
   <string name="miot_device_shrink_list">Σύμπτυξη</string>
+  <string name="notification_channel_card">Κάρτες</string>
+  <string name="notification_channel_default">Προεπιλογή</string>
 </resources>
 

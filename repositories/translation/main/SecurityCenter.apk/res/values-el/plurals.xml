@@ -81,20 +81,20 @@
         <item quantity="one">%d εφαρμογή δεν λειτουργεί σωστά, θα εξαντλήσει την μπαταρία</item>
     </plurals>
     <plurals name="power_center_battery_day">
-        <item quantity="other">%d Ημέρες</item>
-        <item quantity="one">%d Ημέρα</item>
+        <item quantity="other">%d Ημ.</item>
+        <item quantity="one">%d Ημ.</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">%d Ωρες</item>
-        <item quantity="one">%d Ωρα</item>
+        <item quantity="other">%d Ωρ.</item>
+        <item quantity="one">%d Ωρ.</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">%d Λεπτά</item>
-        <item quantity="one">%d Λεπτό</item>
+        <item quantity="other">%d Λεπ.</item>
+        <item quantity="one">%d Λεπ.</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
-        <item quantity="other">Σε %1$d Λεπτά</item>
-        <item quantity="one">Σε %1$d Λεπτό</item>
+        <item quantity="other">Σε %1$d Λεπ.</item>
+        <item quantity="one">Σε %1$d Λεπ.</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
         <item quantity="other">Επιλύθηκαν %d προβλήματα μπαταρίας</item>

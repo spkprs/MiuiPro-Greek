@@ -1304,4 +1304,10 @@
         <item>Εμφάνιση κίνησης</item>
         <item>"Χωρίς ενεργοποίηση οθόνης"</item>
     </string-array>
+   <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Ενεργό"</item>
+        <item>" | Ενεργό (Πολυμέσα)"</item>
+        <item>" | Ενεργό (Τηλέφωνο)"</item>
+    </string-array>
 </resources>

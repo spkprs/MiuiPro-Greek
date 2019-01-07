@@ -85,7 +85,7 @@
   <string-array name="mtp_default_entries">
     <item>Φόρτιση Πάντα</item>
     <item>MTP Πάντα</item>
-    <item>MTP, αν η οθόνη δεν είναι κλειδωμένη με κωδικό πρόσβασης</item>
+    <item>MTP, σε κλειδωμένη οθόνη με κωδικό πρόσβασης</item>
   </string-array>
   <string-array name="policy_control_entries">
     <item>Επιβλητική OFF (Προεπιλογή)</item>

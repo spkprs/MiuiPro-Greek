@@ -31,9 +31,9 @@
     <string name="cloud_back_up_frequence_choice_title">Χρονοδιάγραμμα αντιγράφων</string>
     <string name="cloud_back_up_frequence_long">Κάθε 7 ημέρες</string>
     <string name="cloud_back_up_frequence_short">Καθημερινά</string>
-    <string name="cloud_back_up_share_activity_title">Αναβάθμιση λογαριασμού Mi</string>
-    <string name="cloud_back_up_share_activity_discription">Αποκτήστε περισσότερο χώρο αποθήκευσης, καθημερινά αντίγραφα ασφαλείας, και πολλά άλλα.</string>
-    <string name="cloud_back_up_share_activity_confirm">Αναβάθμιση</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Αποκτήστε περισσότερο χώρο αποθήκευσης, καθημερινά αντίγραφα, και πολλά άλλα.</string>
+    <string name="cloud_back_up_subscribe_vip_title">Αναβάθμιση Mi Account</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Αναβάθμιση</string>
     <string name="cloud_back_up_detail_discription">"Αυτά τα στοιχεία θα αντιγραφούν στο Mi Cloud όταν η συσκευή σας είναι συνδεδεμένη σε Wi‑Fi: 
 *  Εφαρμογές, Αρχική οθόνη, Ταπετσαρίες 
 *  Ξυπνητήρια, ρολόι και ρυθμίσεις ώρας 

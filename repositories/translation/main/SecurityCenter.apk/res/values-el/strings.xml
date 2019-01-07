@@ -79,7 +79,7 @@
   <string name="all_address_choose_hint">Όλοι οι αριθμοί σε αυτή την τοποθεσία</string>
   <string name="already_close_gamebooster">Η ενίσχυση της ταχύτητας παιχνιδιών είναι απενεργοποιημένη</string>
   <string name="anti_disturb_msg_detail">Απενεργοποίηση όλων των ειδοποιήσεων εκτός από τις εισερχόμενες κλήσεις</string>
-  <string name="anti_disturb_msg_title">DND</string>
+  <string name="anti_disturb_msg_title">Μην Ενοχλείτε</string>
   <string name="antispam_mode_details">Λεπτομέρειες λίστας αποκλεισμών</string>
   <string name="antispam_notificaiton_type_show_all">Όλοι οι αριθμοί</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Αριθμοί εκτός λίστας</string>
@@ -480,7 +480,7 @@
   <string name="card_main_deepclean_wechat_action">Καθαρισμός</string>
   <string name="card_main_deepclean_wechat_summary">Καθαρισμός WeChat cache για να ελευθερώσετε χώρο αποθήκευσης</string>
   <string name="card_main_deepclean_wechat_title">Προστασία</string>
-  <string name="card_main_gamebooster_summary">Ενίσχυση σύνδεσης παιχνιδιών</string>
+  <string name="card_main_gamebooster_summary">Ενίσχ. σταθερότητας σύνδ.</string>
   <string name="card_main_gamebooster_title">Ενίσχυση ταχύτητας</string>
   <string name="card_main_hbassistant_summary">Ώθηση ταχύτητας για βελτιώση εμπειρίας παιχνιδιών</string>
   <string name="card_main_hbassistant_title">Εργασίες</string>
@@ -1002,7 +1002,7 @@
   <string name="main_button_mi_sim_close">Ενεργοποιήστε το Mi SIM</string>
   <string name="main_button_mi_sim_open">Λεπτομέρειες</string>
   <string name="main_button_usage_adjust">Συγχρονισμός ορίων χρήσης κινητής</string>
-  <string name="main_button_usage_adjust_manual">Ορισμός χρήσης δεδομένων</string>
+  <string name="main_button_usage_adjust_manual">Ορισμός δεδομένων</string>
   <string name="main_button_usage_adjusting">Αλλαγή…</string>
   <string name="main_button_usage_adjusting_bill">Αλλαγή…</string>
   <string name="main_button_usage_package_setting">Ορισμός ορίων κινητής</string>
@@ -1116,7 +1116,7 @@
   <string name="menu_summary_garbage_cleanup">Δεν βρέθηκαν απορρίματα</string>
   <string name="menu_summary_garbage_cleanup_2">Μέγεθος απορριμμάτων</string>
   <string name="menu_summary_garbage_cleanup_3">Καθαρίστε τα απορρίματα τώρα</string>
-  <string name="menu_summary_networkassistants">Διαχείριση σχεδίου δεδομένων</string>
+  <string name="menu_summary_networkassistants">Διαχ. σχεδίου δεδομένων</string>
   <string name="menu_summary_networkassistants_2">Περάσατε το όριο</string>
   <string name="menu_summary_networkassistants_3">Απομένουν αρκετά δεδομένα</string>
   <string name="menu_summary_networkassistants_4">Εξαντλούνται τα δεδομένα</string>
@@ -2465,4 +2465,8 @@
   <string name="unlock_failed">Εσωτερικό σφάλμα</string>
   <string name="app_manager_full_screen_summary">Επιτρέπει στις επιλεγμένες εφαρμογές την Λειτουργία Πλήρους Οθόνης</string>
   <string name="app_manager_full_screen_title"> Λειτουργία Πλήρους Οθόνης</string>
+  <string name="traffic_setting_fragment_title_guide">Φορείς και σχέδια δεδομένων</string>
+  <string name="traffic_usage_warning_body">"Έχετε ήδη χρησιμοποιήσει %s δεδομένα κινητής αυτό το μήνα."</string>
+  <string name="traffic_usage_warning_limit">Προειδοποίηση ορίου χρήσης δεδομένων</string>
+  <string name="traffic_usage_warning_title">Προειδοποίηση χρήσης δεδομένων</string>
 </resources>

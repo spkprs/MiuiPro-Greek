@@ -648,10 +648,13 @@
   <string name="bluetooth_broadcasting">Μετάδοση</string>
   <string name="bluetooth_confirm_passkey_msg">Για σύζευξη με:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Σιγουρευτείτε ότι εμφανίζεται αυτός ο κωδικός:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;\n</string>
   <string name="bluetooth_connect_specific_profiles_title">Σύνδεση σε…</string>
-  <string name="bluetooth_connected">Συνδεδεμένο</string>
+  <string name="bluetooth_connected">Συνδεδεμένο%1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Συνδεδεμένο (χωρίς πολυμέσα | Μπαταρία %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Συνδεδεμένο (χωρίς τηλέφωνο) | Μπαταρία %1$s%2$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">Σε σύνδεση σε πολλές συσκευές</string>
   <string name="bluetooth_connected_no_a2dp">Συνδεδεμένο (χωρίς πολυμέσα)</string>
   <string name="bluetooth_connected_no_headset">Συνδεδεμένο (χωρίς τηλέφωνο)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Συνδεδεμένο (χωρίς τηλ/πολυμ.) | Μπαταρία %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Συνδεδεμένο (χωρίς τηλέφωνο ή πολυμέσα)</string>
   <string name="bluetooth_connected_no_map">Συνδεδεμένο (χωρίς πρόσβαση μηνύματος)</string>
   <string name="bluetooth_connected_summary">Σε σύνδεση στη συσκευή %1$s</string>
@@ -5910,5 +5913,12 @@
   <string name="work_sound_permission_dialog_message">"Δεν μπορείτε να χρησιμοποιήσετε Θέματα σε λειτουργία Επιχείρησης. Επικοινωνήστε με τον προϊστάμενό σας για να αποκτήσετε πρόσβαση."</string>
   <string name="work_sound_permission_dialog_title">Περιορισμοί λειτουργίας Επιχείρησης</string>
   <string name="switch_select_to_speak_on">Επιλέξτε να μιλήσετε</string>
+  <string name="eq_return">Επιστροφή</string>
+  <string name="page_layout_confirm_message_enlarge">Το κείμενο, οι εικόνες και τα εικονίδια θα μεγαλώσουν. Ορισμένα εικονίδια ενδέχεται να αλλάξουν τις θέσεις τους.</string>
+  <string name="page_layout_confirm_message_narrow">Το κείμενο, οι εικόνες και τα εικονίδια θα μικρύνουν. Ορισμένα εικονίδια ενδέχεται να αλλάξουν τις θέσεις τους.</string>
+  <string name="page_layout_confirm_title_enlarge">Μεγαλύτερα στοιχεία</string>
+  <string name="page_layout_confirm_title_narrow">Μικρότερα στοιχεία</string>
+  <string name="screen_optimize_disabled">"Αδύνατη η ρύθμιση αντίθεσης κατά την Λειτουργία Ανάγνωσης"</string>
+  <string name="bluetooth_connected_battery_level">Συνδεδεμένο | Μπαταρία %1$s%2$s</string>
 </resources>
 
