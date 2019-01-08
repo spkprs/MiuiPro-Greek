@@ -142,6 +142,7 @@
   <string name="volbtn_timeout_title">Χρονοκαθυστέρηση</string>
   <string name="volbtn_title">Μουσική</string>
   <string name="volbtn_toggle_title">Διαχείριση μουσικής</string>
+  <string name="volbtn_toggle_summary">Διαχείριση μουσικής πατώντας τα πλήκτρα έντασης ήχου σε κλειδωμένη οθόνη</string>
   <string name="volbtn_vol_down_title">Μείωση έντασης</string>
   <string name="volbtn_vol_up_title">Αύξηση έντασης</string>
   <string name="volume_full_title">Επέκταση πίνακα</string>

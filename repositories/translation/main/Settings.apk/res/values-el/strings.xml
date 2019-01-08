@@ -1901,7 +1901,7 @@
   <string name="force_touch_enable_tips">Πατώντας παρατεταμένα το εικονίδιο μιας εφαρμογής στην επιφάνεια εργασίας, θα εμφανίσει το μενού της εφαρμογής όσο η Αφή 3D είναι ενεργή.</string>
   <string name="foreground_traffic">Προσκήνιο %s</string>
   <string name="forget">Αγνοήστε</string>
-  <string name="forget_password_button_text">Ξέχασα τον κωδικό</string>
+  <string name="forget_password_button_text">" "<u>Ξέχασα τον κωδικό</u>" "</string>
   <string name="forget_pattern">Ξεχάσατε το μοτίβο;</string>
   <string name="forget_privacy_password_setting">Προσθήκη λογαριασμού Mi</string>
   <string name="forget_privacy_password_summary">Χρησιμοποιείστε το λογαριασμό Mi για επαναφορά του κωδικού σας</string>
@@ -2337,12 +2337,12 @@
   <string name="lock_screen_notifications_interstitial_message_profile">Όταν η συσκευή σας είναι κλειδωμένη, πώς θέλετε να εμφανίζονται οι ειδοποιήσεις προφίλ;</string>
   <string name="lock_screen_notifications_interstitial_title">Ειδοποιήσεις</string>
   <string name="lock_screen_notifications_interstitial_title_profile">Ειδοποιήσεις προφίλ</string>
-  <string name="lock_screen_notifications_summary_disable">Να μην εμφανίζονται καθόλου ειδοποιήσεις</string>
-  <string name="lock_screen_notifications_summary_disable_profile">Μην εμφανίζετε καθόλου τις ειδοποιήσεις εργασίας</string>
-  <string name="lock_screen_notifications_summary_hide">Απόκρυψη ειδοποιήσεων με ευαίσθητο περιεχόμενο</string>
-  <string name="lock_screen_notifications_summary_hide_profile">Απόκρυψη ευαίσθητου περιεχομένου ειδοποίησης εργασίας</string>
+  <string name="lock_screen_notifications_summary_disable">Χωρίς εμφάνιση ειδοποιήσεων</string>
+  <string name="lock_screen_notifications_summary_disable_profile">Χωρίς εμφάνιση ειδοποιήσεων εργασίας</string>
+  <string name="lock_screen_notifications_summary_hide">Απόκρυψη περιεχομένου ειδοποιήσεων</string>
+  <string name="lock_screen_notifications_summary_hide_profile">Απόκρυψη περιεχομένου ειδοποιήσεων εργασίας</string>
   <string name="lock_screen_notifications_summary_show">Εμφάνιση όλου του περιεχομένου ειδοποιήσεων</string>
-  <string name="lock_screen_notifications_summary_show_profile">Εμφάνιση όλων των περιεχομένων της ειδοποίησης εργασίας</string>
+  <string name="lock_screen_notifications_summary_show_profile">Εμφάνιση όλων των περιεχομένων ειδοποιήσεων εργασίας</string>
   <string name="lock_screen_notifications_title">Όταν η συσκευή είναι κλειδωμένη</string>
   <string name="lock_screen_signature_summary">Η υπογραφή θα εμφανίζεται στην Οθόνη κλειδώματος</string>
   <string name="lock_screen_signature_title">Υπογραφή στην Οθόνη Κλειδώματος</string>
@@ -4136,8 +4136,8 @@
   <string name="sim_enter_pin">Κωδικός PIN</string>
   <string name="sim_lock_change_not_supported">Δεν είναι δυνατή η αλλαγή του κλειδώματος της κάρτας SIM.</string>
   <string name="sim_lock_failed">Αδύνατη η αλλαγή της κατάστασης κλειδώματος της SIM.\nΠιθανότατα λανθασμένο PIN.</string>
-  <string name="sim_lock_off">Απαιτείται κωδικός PIN για χρήση του τηλεφώνου</string>
-  <string name="sim_lock_on">Απαιτείται κωδικός PIN για χρήση του τηλεφώνου</string>
+  <string name="sim_lock_off">Θα απαιτείται κωδικός PIN για την χρήση του τηλεφώνου</string>
+  <string name="sim_lock_on">Θα απαιτείται κωδικός PIN για την χρήση του τηλεφώνου</string>
   <string name="sim_lock_settings">Ρυθμίσεις κλειδώματος SIM</string>
   <string name="sim_lock_settings_category">Ρύθμιση κλειδώματος SIM</string>
   <string name="sim_lock_settings_summary_off">Ανενεργή</string>
@@ -4389,7 +4389,7 @@
   <string name="storage_wizard_format_progress_title">Διαμόρφωση ^1…</string>
   <string name="storage_wizard_init_external_summary">Για μεταφορά φωτογραφιών και άλλων πολυμέσων μεταξύ των συσκευών.</string>
   <string name="storage_wizard_init_external_title">Χρήση ως φορητό αποθ.χώρο</string>
-  <string name="storage_wizard_init_internal_summary">Για την αποθήκευση όλων των δεδομένων συμπεριλαμβανομένων εφαρμογών και φωτογραφιών μόνο σε αυτή τη συσκευή. Απαιτείται διαμόρφωση που θα εμποδίσει την λειτουργία του σε άλλες συσκευές.</string>
+  <string name="storage_wizard_init_internal_summary">Για αποθήκευση όλων των δεδομένων μόνο σε αυτή τη συσκευή. Απαιτείται διαμόρφωση που εμποδίζει την λειτουργία της σε άλλες συσκευές.</string>
   <string name="storage_wizard_init_internal_title">Χρήση ως εσωτερικό αποθ.χώρο</string>
   <string name="storage_wizard_init_title">Ρύθμιση της ^1</string>
   <string name="storage_wizard_migrate_body">Μπορείτε να μεταφέρετε φωτογραφίες, αρχεία και μερικές εφαρμογές στην νέα ^1. \n\nΗ μεταφορά διαρκεί περίπου ^2 και θα ελευθερώσει ^3 στον εσωτερικό χώρο αποθήκευσης. Μερικές εφαρμογές δεν θα λειτουργούν κατά την διάρκεια της μεταφοράς.</string>
