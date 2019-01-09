@@ -28,6 +28,8 @@
   <string name="current_cloud_addr_is">Διακομιστής ελέγχου Cloud, η διεύθυνση είναι:</string>
   <string name="disable_hide_mode">Απενεργοποίηση Προστασίας μπαταρίας</string>
   <string name="disable_hide_mode_warning">Η απενεργοποίηση της εξοικονόμησης μπαταρίας μπορεί να αυξήσει την κατανάλωση ενέργειας της συσκευής σας.</string>
+  <string name="dark_mode">Σκοτεινή λειτουργία</string>
+  <string name="dark_mode_summary">Μετάβαση σε Σκοτεινή παλέτα χρωμάτων για εξοικονόμηση μπαταρίας</string>
   <string name="empty_title_apps_container_list">Χωρίς εφαρμογές</string>
   <string name="enable_hide_mode">Ενεργοποιήστε την εξοικονόμηση μπαταρίας</string>
   <string name="enable_sleep_mode">Ενεργοποίηση κατάστασης αδράνειας για βελτιστοποίηση της μπαταρίας κατά την νύχτα</string>
@@ -47,10 +49,12 @@
   <string name="lasttime_applist_cloud">Ενημερώσεις εφαρμογών:</string>
   <string name="lasttime_feature_cloud">Ενημερωμένες λειτουργίες:</string>
   <string name="message_i_know">Το Γνωρίζω</string>
-  <string name="nonui_mode_config_description">Μην ανάβετε την οθόνη για ειδοποιήσεις, απενεργοποιείτε τη λυχνία LED, τον αισθητήρα δακτυλικών αποτυπωμάτων και τα χειριστήρια αφής για να εξοικονομήσετε μπαταρία όταν το MIUI εντοπίσει ότι δεν χρησιμοποιείτε τη συσκευή σας.</string>
+  <string name="nonui_mode_config_description">Δεν ενεργοποιεί τηνη οθόνη για ειδοποιήσεις, απενεργοποιεί το LED, αισθητήρα δακτυλικών αποτυπωμάτων και τα χειριστήρια αφής για εξοικονόμιση μπαταρίας όταν το MIUI εντοπίσει ότι δεν χρησιμοποιείτε τη συσκευή σας.</string>
   <string name="nonui_mode_config_title">Μη διαδραστική λειτουργία</string>
+  <string name="open_dark_mode">Μετάβαση σε Σκοτεινή λειτουργία</string>
+  <string name="open_dark_mode_tip">Η ποιότητα εμφάνισης ορισμένων λειτουργιών μπορεί να μειωθεί σε Σκοτεινή λειτουργία. Θα επανέλθει σε κανονική όταν εξέλθετε απο την Σκοτεινή λειτουργία. Μετάβαση σε Σκοτεινή λειτουργία τώρα;</string>
   <string name="performance_category">Απόδοση</string>
-  <string name="power_center">Χρήση μπαταρίας</string>
+  <string name="power_center">Εξοικονόμιση μπαταρίας</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s λειτουργεί ασυνήθιστα</string>
   <string name="power_checker_background_cpu_title">%1$s λειτουργεί ασυνήθιστα</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s παίρνει συχνά πληροφορίες σχετικά με την τοποθεσία</string>
