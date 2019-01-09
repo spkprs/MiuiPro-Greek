@@ -61,7 +61,7 @@
   <string name="picker_activities">Ενέργεια</string>
   <string name="policy_control_title">Λειτουργία πλήρους οθόνης</string>
   <string name="policy_title">Λειτουργίες οθόνης</string>
-  <string name="power_notifications_title">Φόρτιση μπαταρίας</string>
+  <string name="power_notifications_title">Φορτιστής μπαταρίας</string>
   <string name="powermenu_title">Απενεργοποίηση εκτεταμένου μενού επανεκκίνησης</string>
   <string name="round_toggle_title">Στρογγυλεμένες γωνίες της οθόνης</string>
   <string name="row_icon_title">Δυναμικά εικονίδια</string>
