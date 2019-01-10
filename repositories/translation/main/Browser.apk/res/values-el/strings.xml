@@ -1386,4 +1386,9 @@
   <string name="small_video_net_error">Σφάλμα σύνδεσης</string>
   <string name="small_video_no_more_date">Χωρίς δεδομένα</string>
   <string name="topic_content_default">θέμα</string>
+  <string name="home_hybrid_application_tips">Μικροεφαρμογές περιλαμβάνονται εδώ</string>
+  <string name="hybrid_application_no_data_text">Χωρίς Μικροεφαρμογές</string>
+  <string name="hybrid_popup_window_delete_button">Διαγραφή</string>
+  <string name="window_manager_hybrid_application_list_title_text">Πρόσφατη Χρήση</string>
 </resources>
+
