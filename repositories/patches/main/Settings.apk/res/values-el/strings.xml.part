@@ -40,7 +40,7 @@
   <string name="icon_off">Απόκρυψη</string>
   <string name="icon_on">Προβολή</string>
   <string name="icon_shadow_title">Σκιά εικονιδίων στην επιφάνεια εργασίας</string>
-  <string name="ios_toggle_title">Διαμόρφωση εικονιδίων</string>
+  <string name="ios_toggle_title">Στύλ εικονιδίων</string>
   <string name="launch_camera">Εκκινήστε την εφαρμογή σας</string>
   <string name="launch_count_label">Τελευταία χρήση</string>
   <string name="launch_my_app_title">Εκκίνηση εφαρμογής</string>

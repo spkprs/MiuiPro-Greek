@@ -393,4 +393,10 @@
   <string name="train_event_station_stay_time">%1$s λεπτά</string>
   <string name="notification_channel_name">Υπενθυμίσεις ημερολογίου</string>
   <string name="search_menu_title">Εύρεση</string>
+  <string name="city_limit_back_icon_tip">Επιστροφή στην αρχική</string>
+  <string name="city_limit_set_icon_tip">Ορισμός υπενθύμισης</string>
+  <string name="lottery_blue_ball_tip">Μπλέ μπάλα</string>
+  <string name="lottery_red_ball_tip">Κόκκινη μπάλα</string>
+  <string name="select_today_tip">Σήμερα</string>
+  <string name="today_icon_voice_contentdescription">Επιστροφή σήμερα</string>
 </resources>

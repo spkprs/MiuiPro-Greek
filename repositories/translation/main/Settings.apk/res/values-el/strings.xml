@@ -2267,7 +2267,7 @@
   <string name="locale_not_translated">Μπορεί να μην είναι διαθέσιμη σε ορισμένες εφαρμογές</string>
   <string name="locale_remove_menu">Κατάργηση</string>
   <string name="locale_settings">Τοπική ρύθμιση</string>
-  <string name="location_access_summary">Αφήνει εφαρμογές που έχουν ζητήσει την άδεια σας, να χρησιμοποιούν τις πληροφορίες θέσης σας</string>
+  <string name="location_access_summary">Επιτρέπει σε εφαρμογές που ζητούν την άδεια σας, να χρησιμοποιούν τις πληροφορίες θέσης σας</string>
   <string name="location_access_title">Πρόσβαση στην τοποθεσία μου</string>
   <string name="location_agps_apn_choose_dialog_title">Τύποι Apn</string>
   <string name="location_agps_apn_summary">Επιλέξτε προτιμώμενο τύπο apn</string>
@@ -3479,10 +3479,10 @@
   <string name="repeat_call_info">Επιτρέπεται ήχος για επαναλαμβανόμενες κλήσεις εντός 15 λεπτών σε Αθόρυβη λειτουργία</string>
   <string name="repeat_title">Επανάληψη</string>
   <string name="reset_aaid">Επαναφορά αναγνωριστικού διαφήμισης</string>
-  <string name="reset_app_preferences">Επαναφορά προτιμήσεων εφαρμογών</string>
-  <string name="reset_app_preferences_button">Επαναφορά εφαρμογών</string>
-  <string name="reset_app_preferences_desc">Αυτό θα επαναφέρει όλες τις προτιμήσεις για:\n\n \"Απενεργοποιημένες εφαρμογές\"\n \"Ειδοποιήσεις απενεργοποιημένων εφαρμογών\"\n \"Προεπιλογή ενεργειών για εφαρμογές\"\n \"Περιορισμοί δεδομένων παρασκηνίου εφαρμογών\"\n \"Τυχόν περιορισμούς αδειών\"\n\nΔεν θα χάσετε τα δεδομένα εφαρμογών.</string>
-  <string name="reset_app_preferences_title">Επαναφορά προτιμήσεων εφαρμογών;</string>
+  <string name="reset_app_preferences">Επαναφορά προτιμήσεων εφαρμ</string>
+  <string name="reset_app_preferences_button">Επαναφορά</string>
+  <string name="reset_app_preferences_desc">Αυτό θα επαναφέρει τις προτιμήσεις σε:\n\n \"Απενεργοποιημένες εφαρμογές\"\n \"Απενεργοποιημένες ειδοποιήσεις \"\n \"Προεπιλεγμένες ενέργειες\"\n \"Περιορισμό δεδ. παρασκηνίου\"\n \"Τυχόν περιορισμούς αδειών\"\n\nΔεν θα χάσετε δεδομένα εφαρμογών.</string>
+  <string name="reset_app_preferences_title">Επαναφορά προτιμήσεων;</string>
   <string name="reset_dashboard_title">Επαναφορά</string>
   <string name="reset_legacy_password_settings_preface_text">Χρειάζεται αφαίρεση του κωδικού ξεκλειδώματος οθόνης.</string>
   <string name="reset_network_button_text">Επαναφορά ρυθμίσεων</string>
@@ -4790,7 +4790,7 @@
   <string name="usb_insert_summary">Συνδέστε το αποθηκευτικό χώρο USB</string>
   <string name="usb_install_app">Εγκατάσταση μέσω USB</string>
   <string name="usb_install_app_desc">Αποδοχή εγκατάστασης εφαρμογών μέσω USB</string>
-  <string name="usb_midi_summary">Αφήνει τις εφαρμογές με δυνατότητα MIDI να λειτουργούν μέσω USB με λογισμικό MIDI στον υπολογιστή σας.</string>
+  <string name="usb_midi_summary">Επιτρέπει τις εφαρμογές με δυνατότητα MIDI να λειτουργούν μέσω USB με λογισμικό MIDI στον υπολογιστή σας.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">Προσάρτηση αποθήκευσης USB</string>
   <string name="usb_msd_driver_installer_summary">Λήψη προγραμμάτων οδήγησης για Windows και OSX</string>
