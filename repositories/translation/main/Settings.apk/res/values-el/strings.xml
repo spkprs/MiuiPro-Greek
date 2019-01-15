@@ -1900,7 +1900,7 @@
   <string name="force_touch_enable">Ενεργοποίηση Αφής 3D</string>
   <string name="force_touch_enable_tips">Πατώντας παρατεταμένα το εικονίδιο μιας εφαρμογής στην επιφάνεια εργασίας, θα εμφανίσει το μενού της εφαρμογής όσο η Αφή 3D είναι ενεργή.</string>
   <string name="foreground_traffic">Προσκήνιο %s</string>
-  <string name="forget">Αγνοήστε</string>
+  <string name="forget">Αγνόηση</string>
   <string name="forget_password_button_text">" "<u>Ξέχασα τον κωδικό</u>" "</string>
   <string name="forget_pattern">Ξεχάσατε το μοτίβο;</string>
   <string name="forget_privacy_password_setting">Προσθήκη λογαριασμού Mi</string>

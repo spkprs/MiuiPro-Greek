@@ -136,7 +136,7 @@
   <string name="app_manager_app_traffic">"Χρήση δεδομένων: "</string>
   <string name="app_manager_app_update">Ενημερώσεις</string>
   <string name="app_manager_app_version_name">Έκδοση:</string>
-  <string name="app_manager_appupdate_remind">Ειδοποίηση σχετικά με τις ενημερώσεις</string>
+  <string name="app_manager_appupdate_remind">Ειδοπ. σχετικά με ενημερώσεις</string>
   <string name="app_manager_as_dlg_msg">Εάν επιτρέπετε σε εφαρμογές τηναυτόματη εκκίνηση, ενδέχεται να απαιτούνται πρόσθετες λειτουργίες μνήμης RAM και μπαταρίας. Επιτρέπετε;</string>
   <string name="app_manager_as_dlg_title">Προσοχή</string>
   <string name="app_manager_back">Πίσω</string>
@@ -183,7 +183,7 @@
   <string name="app_manager_globel_perm_title">Δικαιώματα εφαρμογών</string>
   <string name="app_manager_has_not_data">Χωρίς δεδομένα</string>
   <string name="app_manager_have_not_consume">Καμμία</string>
-  <string name="app_manager_hide_system_server">Απόκρυψη υπηρεσιών συστήματος</string>
+  <string name="app_manager_hide_system_server">Απόκρυψη υπηρ. συστήματος</string>
   <string name="app_manager_install_other_app">Εγκατάσταση εφαρμογών από άγνωστες πηγές</string>
   <string name="app_manager_manage_space">Διαχείριση χώρου</string>
   <string name="app_manager_memory">RAM</string>
@@ -209,10 +209,10 @@
   <string name="app_manager_powerkeeper_no_restrict">Χωρίς περιορισμούς</string>
   <string name="app_manager_powerkeeper_restrict_bg">Περιορισμός εφαρμογών παρασκηνίου</string>
   <string name="app_manager_pref_ads">Συστάσεις</string>
-  <string name="app_manager_reset_app_preferences">Επαναφορά προτιμήσεων εφαρμογών</string>
+  <string name="app_manager_reset_app_preferences">Επαναφορά προτιμήσεων εφαρμ.</string>
   <string name="app_manager_reset_app_preferences_button">Επαναφορά εφαρμογών</string>
-  <string name="app_manager_reset_app_preferences_desc">Θα επαναφέρει όλες τις προτιμήσεις για:\u000d\n\u000d\n \"Απενεργοποιημένες εφαρμογές\"\u000d\n \"Απενεργοποιημένες ειδοποιήσεις εφαρμογών\"\u000d\n \"Προεπιλεγμένες εφαρμογές για ενέργειες\"\u000d\n \"Περιορισμό εφαρμογών δεδομένων παρασκηνίου\"\u000d\n\u000d\n Δεν θα χάσετε δεδομένα εφαρμογών.</string>
-  <string name="app_manager_reset_app_preferences_title">Επαναφορά προτιμήσεων εφαρμογών;</string>
+  <string name="app_manager_reset_app_preferences_desc">Θα επαναφέρει όλες τις προτιμήσεις για:\u000d\n\u000d\n \"Απενεργοποιημένες εφαρμογές\"\u000d\n \"Απενεργ. ειδοπ. εφαρμ.\"\u000d\n \"Προεπιλ. εφαρμ. για ενέργειες\"\u000d\n \"Περιορισμό εφαρμ. δεδ. παρασκ.\"\u000d\n\u000d\n Δεν θα χάσετε δεδομένα εφαρμογών.</string>
+  <string name="app_manager_reset_app_preferences_title">Επαναφορά προτιμήσεων εφαρμ;</string>
   <string name="app_manager_search_prompt">Αδύνατη η εύρεση αποτελεσμάτων; Δοκιμάστε την εμφάνιση αποτελεσμάτων από όλες τις εφαρμογές.</string>
   <string name="app_manager_show_all_apps">Εμφάνιση όλων των εφαρμογών</string>
   <string name="app_manager_show_all_apps_opened">Εμφάνιση αποτελεσμάτων από όλες τις εφαρμογές…</string>
@@ -752,9 +752,9 @@
   <string name="forbid_autobright_summary">Η αυτόματη φωτεινότητα θα απενεργοποιηθεί ενώ παίζετε και θα επανέλθει αφού τελειώσετε</string>
   <string name="forbid_autobright_title">Καθορίστε τη φωτεινότητα της οθόνης</string>
   <string name="foreground_traffic">Προσκήνιο %s</string>
-  <string name="forget_password_button_text">&lt;u&gt;Ξεχάσατε τον κωδικό&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>Ξέχασα τον κωδικό</u></string>
   <string name="forget_password_button_text_normal">Ξέχασα τον κωδικό</string>
-  <string name="forget_pattern">&lt;u&gt;Ξεχάσατε τον κωδικό&lt;/u&gt;</string>
+  <string name="forget_pattern"><u>Ξέχασα τον κωδικό</u></string>
   <string name="free_send_net_booster">Δωρεάν ενίσχυση ταχύτητας Δικτύου</string>
   <string name="free_send_net_booster_busniess">Αποκτήστε μια δωρεάν ώθηση ταχύτητας Xunlei</string>
   <string name="free_send_net_booster_busniess_tip">Πατήστε για να λάβετε</string>

@@ -674,7 +674,7 @@
   <string name="gxzw_try_again">Προσπάθησε ξανά</string>
   <string name="gxzw_try_more_again">Δοκιμάστε ξανά</string>
   <string name="gxzw_use_password">Χρησιμοποιείστε τον κωδικό σας για ξεκλείδωμα</string>
-  <string name="gxzw_long_press_tip">Αγγίξτε παρατεταμένα για προβολή νέων λειτουργιών</string>
+  <string name="gxzw_long_press_tip"/>
   <string name="hdcp_checking_dialog_title">Ρύθμιση συμπεριφοράς ελέγχου HDCP</string>
   <string name="hdcp_checking_title">Έλεγχος HDCP</string>
   <string name="headset">Ακουστικά</string>
