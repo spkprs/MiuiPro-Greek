@@ -158,7 +158,7 @@
   <string name="wifiact_icon_title">Απόκρυψη βελών ένδειξης Wi-Fi</string>
   <string name="WiFiOn_mobile_title">Με το Wi-Fi ενεργό</string>
   <string name="gesture_home">Χειρονομίες στην επιφάνεια εργασίας</string>
-  <string name="vol_sounds_title">Απενεργοποίηση ήχου κατά την έξοδο από την Αθόρυβη λειτουργία</string>
+  <string name="vol_sounds_title">Σίγαση ήχου επαναφοράς από την Αθόρυβη λειτουργία</string>
   <string name="notif_view_title">Τύπος ειδοποίησης</string>
 	<string name="WCDMA_preferred">WCDMA προτιμώμενο</string>
 	<string name="GSM_only">GSM μόνο</string>

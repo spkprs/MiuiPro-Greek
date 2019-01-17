@@ -5920,5 +5920,8 @@
   <string name="page_layout_confirm_title_narrow">Μικρότερα στοιχεία</string>
   <string name="screen_optimize_disabled">"Αδύνατη η ρύθμιση αντίθεσης κατά την Λειτουργία Ανάγνωσης"</string>
   <string name="bluetooth_connected_battery_level">Συνδεδεμένο | Μπαταρία %1$s%2$s</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth Ήχος aptX Προσαρμοστική Λειτουργία</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Ενεργοποίηση Ήχου Bluetooth
+aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης"</string>
 </resources>
 
