@@ -225,4 +225,5 @@
     <string name="ga_gestures_rename_label">Όνομα χειρονομίας</string>
     <string name="ga_gestures_error_loading">Αδυναμία φόρτωσης %s. Βεβαιωθείτε ότι έχετε πρόσβαση στον χώρο αποθήκευσης.</string>
     <string name="master_clear_summary">Διαγραφή όλων των δεδομένων στο τηλέφωνο</string>
+    <string name="type_name_on_title">Τύπος δικτύου στη γραμμή κατάστασης</string>
 </resources>
