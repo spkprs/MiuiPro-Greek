@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="app_ops_labels">
+    <item>Τοποθεσία</item>
+    <item>Τοποθεσία</item>
+    <item>Τοποθεσία</item>
+    <item>Δόνηση</item>
+    <item>Διαβάσει τις επαφές</item>
+    <item>Τροποποιήσει τις επαφές</item>
+    <item>Διαβάσει το αρχείο κλήσεων</item>
+    <item>Τροποποίηση καταγραφής κλήσεων</item>
+    <item>Διαβάσει το ημερολόγιο</item>
+    <item>Τροποποίησει ημερολογίου</item>
+    <item>Τοποθεσία</item>
+    <item>Δημοσίευση ειδοποίησης</item>
+    <item>Τοποθεσία</item>
+    <item>Τηλεφωνική κλήση</item>
+    <item>Διαβάσει SMS/MMS</item>
+    <item>Γράψτε SMS/MMS</item>
+    <item>Λήψη SMS/MMS</item>
+    <item>Λήψη SMS/MMS</item>
+    <item>Λήψη SMS/MMS</item>
+    <item>Λήψη SMS/MMS</item>
+    <item>Αποστολή SMS/MMS</item>
+    <item>Διαβάσει SMS/MMS</item>
+    <item>Γράψτε SMS/MMS</item>
+    <item>Τροποποιήσει τις ρυθμίσεις</item>
+    <item>Σχεδιάσει στην κορυφή</item>
+    <item>Ειδοποιήσεις πρόσβασης</item>
+    <item>Φωτογραφική μηχανή</item>
+    <item>Εγγραφή ήχου</item>
+    <item>Αναπαραγωγή ήχου</item>
+    <item>Διαβάσει το πρόχειρο</item>
+    <item>Τροποποίηση πρόχειρου</item>
+    <item>Κουμπιά μέσων</item>
+    <item>Ακουστική εστίαση</item>
+    <item>Κύρια ένταση</item>
+    <item>Ένταση φωνής</item>
+    <item>Ένταση ήχου κλήσης</item>
+    <item>Ένταση μέσων</item>
+    <item>Ένταση συναγερμού</item>
+    <item>Ένταση ειδοποίησης</item>
+    <item>Ένταση Bluetooth</item>
+    <item>Κρατήσει ενεργό</item>
+    <item>Τοποθεσία</item>
+    <item>Τοποθεσία</item>
+    <item>Αποκτήσει στατιστικά στοιχεία χρήσης</item>
+    <item>Σίγαση/κλείσιμο μικροφώνου</item>
+    <item>Εμφάνιση ενέργειας</item>
+    <item>Πολυμέσα</item>
+    <item>Ενεργοποιήσει το VPN</item>
+    <item>Εγγράψει στην ταπετσαρία</item>
+    <item>Βοηθήσει στην δομή</item>
+    <item>Υποστηρίξει το στιγμιότυπο οθόνης</item>
+    <item>Διαβάσει την κατάσταση του τηλεφώνου</item>
+    <item>Προσθήκη φωνητικού ταχυδρομείου</item>
+    <item>Χρησιμοποιήστε τη γουλιά</item>
+    <item>Επεξεργασία εξερχόμενης κλήσης</item>
+    <item>Δακτυλικό αποτύπωμα</item>
+    <item>Αισθητήρες σώματος</item>
+    <item>Διαβάσει τις μεταδόσεις κυψέλλης</item>
+    <item>Ακριβή τοποθεσία</item>
+    <item>Διαβάσει το χώρο αποθήκευσης</item>
+    <item>Γράψει σε χώρο αποθήκευσης</item>
+    <item>Ενεργοποιήσει την οθόνη</item>
+    <item>Λήψη λογαριασμού</item>
+    <item>Εκτέλεση στο παρασκήνιο</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item>Ευρεία τοποθεσία</item>
+    <item>Ακριβή τοποθεσία</item>
+    <item>GPS</item>
+    <item>δόνηση</item>
+    <item>διαβάσει τις επαφές</item>
+    <item>τροποποιήσει τις επαφές</item>
+    <item>ανάγνωση του αρχείου κλήσεων</item>
+    <item>τροποποιήσει το αρχείο κλήσεων</item>
+    <item>διαβάσει το ημερολόγιο</item>
+    <item>τροποποιήσει το ημερολόγιο</item>
+    <item>wi-fi σάρωση</item>
+    <item>γνωστοποίηση</item>
+    <item>σάρωση κυψέλλης</item>
+    <item>κλήση τηλεφώνου</item>
+    <item>διαβάσει SMS</item>
+    <item>γράψει SMS</item>
+    <item>λήψη SMS</item>
+    <item>λήψη SMS έκτακτης ανάγκης</item>
+    <item>λήψη MMS</item>
+    <item>λήψη προώθηση WAP</item>
+    <item>αποστολή SMS</item>
+    <item>διαβάσει το ICC SMS</item>
+    <item>γράψει ICC SMS</item>
+    <item>τροποποιήσει τις ρυθμίσεις</item>
+    <item>σχεδιάσει στην κορυφή</item>
+    <item>ειδοποιήσεις πρόσβασης</item>
+    <item>φωτογραφικη μηχανη</item>
+    <item>εγγραφή ήχου</item>
+    <item>αναπαραγωγή ήχου</item>
+    <item>διαβάσει το πρόχειρο</item>
+    <item>τροποποιήσει το πρόχειρο</item>
+    <item>κουμπιά πολυμέσων</item>
+    <item>εστίαση ήχου</item>
+    <item>κύρια ένταση</item>
+    <item>ένταση ήχου φωνής</item>
+    <item>ένταση κουδουνιού</item>
+    <item>ένταση μέσων</item>
+    <item>ένταση συναγερμού</item>
+    <item>ένταση ειδοποιήσεων</item>
+    <item>ένταση bluetooth</item>
+    <item>Κρατήσει ενεργό</item>
+    <item>παρακολούθηση της τοποθεσίας</item>
+    <item>παρακολουθήσει την ακριβή τοποθεσία</item>
+    <item>λήψη στατιστικά στοιχεία χρήσης</item>
+    <item>σίγαση/κλείσιμο μικροφώνου</item>
+    <item>εμφάνιση ενέργειας</item>
+    <item>πολυμέσα</item>
+    <item>ενεργοποιήσει το VPN</item>
+    <item>εγγράψει στην ταπετσαρία</item>
+    <item>βοηθήσει την δομή</item>
+    <item>υποστηρίξει το στιγμιότυπο οθόνης</item>
+    <item>διαβάσει την κατάσταση του τηλεφώνου</item>
+    <item>προσθήκη φωνητικού ταχυδρομείου</item>
+    <item>χρησιμοποιήσει γουλιά</item>
+    <item>επεξεργασία εξερχόμενης κλήσης</item>
+    <item>δακτυλικό αποτύπωμα</item>
+    <item>αισθητήρες σώματος</item>
+    <item>διαβάσει εκπομπές κυψέλης</item>
+    <item>ψευδή τοποθεσία</item>
+    <item>διαβάσει το χώρο αποθήκευσης</item>
+    <item>εγγράψει σε χώρο αποθήκευσης</item>
+    <item>ενεργοποιήσει την οθόνη</item>
+    <item>λήψη λογαριασμού</item>
+    <item>εκτέλεση στο παρασκήνιο</item>
+  </string-array>
+  <string-array name="wifi_signal">
+    <item>Ασθενές</item>
+    <item>Μέτριο</item>
+    <item>Καλό</item>
+    <item>Ισχυρό</item>
+  </string-array>
+</resources>

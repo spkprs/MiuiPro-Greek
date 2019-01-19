@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="domain_urls_apps_summary">
+    <item quantity="other">%d εφαρμογές μπορούν να ανοίξουν τους υποστηριζόμενους συνδέσμους</item>
+    <item quantity="zero">Καμία εφαρμογή δεν μπορεί να ανοίξει κανένα υποστηριζόμενο σύνδεσμο</item>
+    <item quantity="one">Μια εφαρμογή μπορεί να ανοίξει τους υποστηριζόμενους συνδέσμους</item>
+  </plurals>
+  <plurals name="high_power_count">
+    <item quantity="other">%d εφαρμογές επιτρέπεται να αγνοούν τη βελτιστοποίηση της μπαταρίας</item>
+    <item quantity="one">Επιτρέπει μια εφαρμογή να αγνοήσει τη βελτιστοποίηση της μπαταρίας</item>
+  </plurals>
+  <plurals name="print_settings_title">
+    <item quantity="other">%d εργασίες εκτύπωσης</item>
+    <item quantity="one">1 εργασία εκτύπωσης</item>
+  </plurals>
+</resources>

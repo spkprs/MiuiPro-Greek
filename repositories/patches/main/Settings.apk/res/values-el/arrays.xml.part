@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="battery_indicator_style_entries">
-    <item>Γραφική</item>
-    <item>Ποσοστό και γραφική</item>
-    <item>Μπάρα στην Κορυφή</item>
-    <item>Ποσοστό μόνο</item>
-    <item>Χωρίς</item>
-  </string-array>
   <string-array name="battery_off_entries">
     <item>Ανενεργό LED</item>
     <item>Ενεργό LED</item>
@@ -209,9 +202,14 @@
   <string-array name="folder_toggle_entries"> 
         <item>3 στήλες</item> 
         <item>4 στήλες</item> 
-  </string-array> 
-  <string-array name="app_assistant_entries"> 
-        <item>Βοηθός Google</item> 
-        <item>Βοηθός Yandex</item> 
-     </string-array>
+  </string-array>
+  <string-array name="aod_style_clock_entries"> 
+    <item>Οριζόντια</item> 
+    <item>Κάθετα</item> 
+    <item>Μια γραμμή</item> 
+  </string-array>
+  <string-array name="gesture_anywhere_position_entries">
+    <item>Αριστερά</item>
+    <item>Δεξιά</item>
+  </string-array>
 </resources>

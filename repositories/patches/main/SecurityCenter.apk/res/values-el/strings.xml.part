@@ -2,9 +2,6 @@
 <resources>
   <string name="card_main_hbassistant_summary">Ώθηση ταχύτητας για βελτιώση εμπειρίας παιχνιδιών</string>
   <string name="card_main_hbassistant_title">Εργασίες</string>
-  <string name="power_settings_number">Ποσοστό και γραφική</string>
-  <string name="xunyou_pay_webview">Ποσοστό μόνο</string>
-  <string name="xunyou_server_expired">Χωρίς</string>
   <string name="card_main_deepclean_wechat_title">Προστασία</string>
   <string name="card_main_deepclean_qq_title">Χρονοδιακόπτης</string>
 </resources>

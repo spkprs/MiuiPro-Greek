@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ios_toggle_entries"> 
+        <item>Προεπιλογή</item> 
+        <item>Bluetooth και GPS</item> 
+        <item>Εικονίδια δίπλα στο ρολόι</item> 
+        <item>Δεύτερη σειρά στα εικονίδια</item> 
+  </string-array>
+</resources>

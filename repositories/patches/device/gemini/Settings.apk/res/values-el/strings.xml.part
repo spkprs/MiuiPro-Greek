@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message">Εντοπίστε τον αναγνώστη δακτυλικών αποτυπωμάτων στο μπροστινό μέρος του τηλεφώνου</string>
-    <string name="add_front_fingerprint_instruction_msg">Ο αισθητήρας δακτυλικών αποτυπωμάτων βρίσκεται κάτω από το κουμπί οικίας.</string>
-</resources>

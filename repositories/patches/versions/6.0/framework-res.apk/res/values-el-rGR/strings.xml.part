@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_enabled">Ενεργοποιήθηκε η προσβασιμότητα.</string>
+  <string name="capability_desc_canRequestEnhancedWebAccessibility">Ενδέχεται να εγκατασταθούν σενάρια για τη βελτίωση της πρόσβασης στο περιεχόμενο της εφαρμογής.</string>
+  <string name="capability_title_canRequestEnhancedWebAccessibility">Ενεργοποίηση της βελτιωμένης προσβασιμότητας ιστού</string>
+  <string name="configure_input_methods">Ρύθμιση μεθόδων εισαγωγής</string>
+  <string name="continue_to_enable_accessibility">Αγγίξτε παρατεταμένα με δύο δάχτυλα για να ενεργοποιήσετε τη λειτουργία προσβασιμότητας.</string>
+  <string name="enable_accessibility_canceled">Η λειτουργία προσβασιμότητας ακυρώθηκε.</string>
+  <string name="global_action_reboot">Επανεκκίνηση</string>
+  <string name="keyboard_headset_required_to_hear_password">Συνδέστε ακουστικά για να ακούσετε τα πλήκτρα του κωδικού πρόσβασης να εκφωνούνται.</string>
+  <string name="keyboard_password_character_no_headset">Τελεία.</string>
+  <string name="reboot_confirm">Το τηλέφωνο θα επανεκκινήσει.</string>
+  <string name="reboot_title">Επανεκκίνηση</string>
+  <string name="RestrictedOnAll">Όλες οι υπηρεσίες φωνής/δεδομένων/SMS έχουν αποκλειστεί.</string>
+  <string name="RestrictedOnAllVoice">Όλες οι υπηρεσίες φωνής έχουν αποκλειστεί.</string>
+  <string name="RestrictedOnData">Η υπηρεσία δεδομένων είναι αποκλεισμένη.</string>
+  <string name="RestrictedOnEmergency">Η υπηρεσία έκτακτης ανάγκης είναι αποκλεισμένη.</string>
+  <string name="RestrictedOnNormal">Η υπηρεσία φωνής έχει αποκλειστεί.</string>
+  <string name="RestrictedOnSms">Η υπηρεσία SMS έχει αποκλειστεί.</string>
+  <string name="RestrictedOnVoiceData">Οι υπηρεσίες φωνής/δεδομένων έχουν αποκλειστεί.</string>
+  <string name="RestrictedOnVoiceSms">Όλες οι υπηρεσίες φωνής/SMS έχουν αποκλειστεί.</string>
+  <string name="ssl_ca_cert_warning">Το δίκτυο ενδέχεται να παρακολουθείται</string>
+</resources>
