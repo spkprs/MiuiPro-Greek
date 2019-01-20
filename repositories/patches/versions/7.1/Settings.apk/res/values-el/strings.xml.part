@@ -18,9 +18,9 @@
   <string name="battery_info_status_charging_ac_short">Φορτίζεται</string>
   <string name="battery_info_status_charging_usb_short">Φορτίζεται</string>
   <string name="battery_info_status_charging_wireless_short">Φορτίζεται</string>
-  <string name="bluetooth_ask_discovery">Μια εφαρμογή θέλει να κάνει το τηλέφωνό σας να είναι ορατό σε άλλες συσκευές Bluetooth για %1$d δευτερόλεπτα.</string>
+  <string name="bluetooth_ask_discovery">Μια εφαρμογή θέλει να κάνει το τηλέφωνό σας να είναι ορατό σε άλλες συσκευές Bluetooth για %1$d δευτ.</string>
   <string name="bluetooth_ask_enablement">Μια εφαρμογή θέλει να ενεργοποιήσει το Bluetooth.</string>
-  <string name="bluetooth_ask_enablement_and_discovery">Μια εφαρμογή θέλει να ενεργοποιήσει το Bluetooth και να κάνει το τηλέφωνό σας ορατό σε άλλες συσκευές για %1$d δευτερόλεπτα.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">Μια εφαρμογή θέλει να ενεργοποιήσει το Bluetooth και να κάνει το τηλέφωνό σας ορατό σε άλλες συσκευές για %1$d δευτ.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Μια εφαρμογή θέλει να ενεργοποιήσει το Bluetooth και να κάνει το τηλέφωνό σας ορατό σε άλλες συσκευές. Μπορείτε να το αλλάξετε αυτό αργότερα στις ρυθμίσεις Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">Το %1$s θέλει να ενεργοποιήσει το Bluetooth και την μετάδοση Bluetooth για να επικοινωνήσει με άλλες συσκευές σε κοντινή απόσταση. Μπορείτε να το αλλάξετε αυτό αργότερα στις ρυθμίσεις Bluetooth.</string>
   <string name="bluetooth_ask_lasting_discovery">Μια εφαρμογή θέλει να κάνει το τηλέφωνό σας να είναι ορατό σε άλλες συσκευές Bluetooth. Μπορείτε να το αλλάξετε αυτό αργότερα στις ρυθμίσεις Bluetooth.</string>

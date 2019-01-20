@@ -35,10 +35,10 @@
     <item>Αυτό το μήνα</item>
   </string-array>
   <string-array name="date_of_traffic_prefix">
-    <item>Χθές:</item>
-    <item>Σήμερα:</item>
-    <item>Τον προηγούμενο μήνα:</item>
-    <item>Αυτό το μήνα:</item>
+    <item>Χθές</item>
+    <item>Σήμερα</item>
+    <item>Τον προηγούμενο μήνα</item>
+    <item>Αυτό το μήνα</item>
   </string-array>
   <string-array name="date_of_traffic_prefix_cmcc">
     <item>Αυτή την εβδομάδα:</item>
@@ -51,8 +51,8 @@
     <item>Όταν είναι κλειδωμένη ή σε 1 λεπτό μετά την έξοδο από την εφαρμογή</item>
   </string-array>
   <string-array name="mi_service_traffic_type">
-    <item>Χρήση κινητής...</item>
-    <item>Χρήση Wi‑Fi...</item>
+    <item>Χρήση κινητής</item>
+    <item>Χρήση Wi‑Fi</item>
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
     <item>Προειδοποίηση</item>
@@ -92,8 +92,8 @@
     <item>Τελευταία ώρα ενημέρωσης</item>
   </string-array>
   <string-array name="traffic_type">
-    <item>Χρήση κινητής...</item>
-    <item>Χρήση Wi‑Fi...</item>
+    <item>: Χρήση κινητής...</item>
+    <item>: Χρήση Wi‑Fi...</item>
   </string-array>
    <string-array name="traffic_package_type">
         <item>Μηνιαίο πρόγραμμα δεδομένων</item>

@@ -133,7 +133,7 @@
   <string name="install_confirm_question_update_system_no_perms">Θέλετε να εγκαταστήσετε μια ενημερωμένη έκδοση σε αυτήν την εφαρμογή συστήματος; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Δεν απαιτεί ειδικά δικαιώματα.</string>
   <string name="install_done">Η εφαρμογή έχει εγκατασταθεί.</string>
   <string name="install_failed">Δεν ήταν δυνατή η εγκατάσταση της εφαρμογής</string>
-  <string name="install_failed_blocked">Η συσκευασία αποκλείστηκε από την εγκατάσταση.</string>
+  <string name="install_failed_blocked">Το πακέτο αποκλείστηκε από την εγκατάσταση.</string>
   <string name="install_failed_conflict">Το πακέτο έρχεται σε σύγκρουση με υπάρχον πακέτο με το ίδιο όνομα.</string>
   <string name="install_failed_incompatible">Αυτή η εφαρμογή δεν είναι συμβατή με το τηλέφωνό σας.</string>
   <string name="install_failed_invalid_apk">Το πακέτο φαίνεται να είναι κατεστραμμένο.</string>

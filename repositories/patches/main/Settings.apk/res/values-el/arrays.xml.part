@@ -70,7 +70,7 @@
     <item>Γραμμική</item>
   </string-array>
   <string-array name="low_battery_warning_entries">
-    <item>Μήνυμα και ήχο</item>
+    <item>Μήνυμα και ήχος</item>
     <item>Μήνυμα μόνο</item>
     <item>Ήχος μόνο</item>
     <item>Ανενεργό</item>
@@ -78,7 +78,7 @@
   <string-array name="mtp_default_entries">
     <item>Φόρτιση Πάντα</item>
     <item>MTP Πάντα</item>
-    <item>MTP, σε κλειδωμένη οθόνη με κωδικό πρόσβασης</item>
+    <item>MTP σε κλειδωμένη οθόνη με κωδικό πρόσβασης</item>
   </string-array>
   <string-array name="policy_control_entries">
     <item>Επιβλητική OFF (Προεπιλογή)</item>

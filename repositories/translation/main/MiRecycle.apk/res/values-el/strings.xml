@@ -145,7 +145,7 @@
   <string name="push_oa_content">Διασφάλιση της συσκευής σας χρησιμοποιώντας την επέκταση εγγύησης</string>
   <string name="quote_upto_price">"Φοβερό! Η συσκευή σας είναι ακόμα σε καλή κατάσταση και σε τιμές πολύ. Πάρτε μέχρι και Rs. %s
 Σημειώστε ότι οι τιμές των συσκευών υπόκεινται σε αλλαγές. Πουλήστε τώρα το τηλέφωνό σας για να επωφεληθείτε από την καλύτερη προσφορά."</string>
-  <string name="recycle_button">Ανακύκλωσης</string>
+  <string name="recycle_button">Ανακύκλωση</string>
   <string name="recycle_description">Πάρτε τιμή ανακυκλώνοντας το παλιό σας τηλέφωνο</string>
   <string name="recycle_entrance">Cashify Ανακύκλωσης</string>
   <string name="reschedule">Επαναπρογραμματισμός</string>

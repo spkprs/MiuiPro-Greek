@@ -3,7 +3,7 @@
   <string name="auto_redial_times_summary">Προσπάθειες: %s</string>
   <string name="auto_redial_times_title">Προσπάθειες για κλήση</string>
   <string name="call_backlight_condition_title">Αλλαγή όρων</string>
-  <string name="call_backlight_mode">Φωτεινή οθόνης κατά την κλήση</string>
+  <string name="call_backlight_mode">Φωτισμός οθόνης στην Κλήση</string>
   <string name="call_backlight_new_off">Πρόσθετη λειτουργία</string>
   <string name="call_backlight_new_on">Κύρια λειτουργία</string>
   <string name="call_backlight_new_title">Τύπος ρύθμισης φωτεινότητας</string>
@@ -13,7 +13,7 @@
   <string name="call_backlight_stop_time">Ώρα λήξης</string>
   <string name="call_backlight_stop_time_summary">%s:00</string>
   <string name="call_backlight_title">Μέγιστη φωτεινότητα</string>
-  <string name="call_home_title">Πλήκτρο ενέργειας [HOME]</string>
+  <string name="call_home_title">Πλήκτρο [HOME]</string>
   <string name="call_record_setrate">Ρυθμίσεις ποιότητας εγγραφής</string>
   <string name="default_image_pick">Επιλέξτε εικόνα από τη Συλλογή</string>
   <string name="end_call_title">Mετά την ολοκλήρωση της κλήσης</string>
