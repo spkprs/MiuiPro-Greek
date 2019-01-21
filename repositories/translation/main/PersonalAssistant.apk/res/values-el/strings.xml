@@ -186,7 +186,7 @@
     <string name="cta_desc">Λάβετε προτάσεις, πληροφορίες σχετικά με την κυκλοφορία, την παράδοση και πολλά άλλα.</string>
     <string name="cta_dialog_negative">Έξοδος</string>
     <string name="cta_dialog_positive">Συμφωνώ</string>
-    <string name="cta_dialog_text_all">Για να χρησιμοποιήσετε τη θυρίδα εφαρμογής, θα πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s\"Συμφωνία χρήστη&amp;quot; %2$s και %3$s &amp;quot;Πολιτική απορρήτου&amp;quot; %4$s. Η υπηρεσία απαιτεί επίσης σύνδεση στο διαδίκτυο και πρόσβαση στις υπηρεσίες τοποθεσίας. Συμφωνείτε?</string>
+    <string name="cta_dialog_text_all">Για να χρησιμοποιήσετε τον Προσωπικό Βοηθό, θα πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s\"Συμφωνία χρήστη&amp;quot; %2$s και %3$s &amp;quot;Πολιτική απορρήτου&amp;quot; %4$s. Η υπηρεσία απαιτεί επίσης σύνδεση στο διαδίκτυο και πρόσβαση στις υπηρεσίες τοποθεσίας. Συμφωνείτε?</string>
     <string name="cta_dialog_title">Οροι και Προϋποθέσεις</string>
     <string name="cta_negative">Κλείστε</string>
     <string name="cta_positive">Λεπτομέρειες</string>

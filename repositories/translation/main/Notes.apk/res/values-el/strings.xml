@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="action_folder_description">Προβολή φακέλων</string>
+     <string name="action_mode_switcher_grid_description">Προβολή πλέγματος</string>
+     <string name="action_mode_switcher_list_description">Προβολή λίστας</string>
+     <string name="action_settings_description">Άνοιγμα Ρυθμίσεων</string>
      <string name="actionbar_close_description">Κλείστε</string>
      <string name="actionbar_home_description">Πίσω</string>
      <string name="add_account_desc">Συγχρονισμός των σημειώσεων με το λογαριασμό Mi;</string>
@@ -54,6 +58,11 @@
      <string name="dlg_title_use_privacy_password">Χρήση κωδικού Προσωπικής προστασίας</string>
      <string name="dlg_unhide_message">Επανεμφάνιση…</string>
      <string name="dlg_unmark_privacy_message">Επανεμφάνιση…</string>
+     <string name="done">Ολοκληρώθηκε</string>
+     <string name="edit_header_done_description">Ολοκληρώθηκε</string>
+     <string name="edit_header_lock_description">Κρυφές Σημειώσεις</string>
+     <string name="empty_folder_import_notes">Εισαγωγή σημειώσεων</string>
+     <string name="empty_folder_no_notes">Δεν υπάρχουν σημειώσεις εδώ</string>
      <string name="edit_header_home_description">Πίσω</string>
      <string name="empty_folder_hint">"Δεν υπάρχουν φάκελοι
 Πατήστε στο συν για να δημιουργήσετε ένα φάκελο"</string>

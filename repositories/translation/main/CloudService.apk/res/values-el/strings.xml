@@ -79,7 +79,7 @@
     <string name="sync_dspt_entrance_provision_confirm_content">Οι ενσωματωμένες εφαρμογές MIUI, χρησιμοποιούν το Mi Cloud για να κρατάνε αντίγραφα ασφαλείας φωτογραφιών, επαφών, σημειώσεων, καθώς και πολλά άλλα. Το Mi Cloud είναι δωρεάν και έτοιμο για χρήση άμεσα.</string>
     <string name="sync_dspt_entrance_provision_skip">Παραλείψτε αυτό το βήμα</string>
     <string name="sync_dspt_entrance_provision_network">Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Η συγχρονισμός δεδομένων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής τηλεφωνίας και ενεργοποίηση του Wi-Fi.</string>
-    <string name="find_device_dspt_provision">"Εάν χάσετε τη συσκευή σας, μπορείτε να πάτε στο %s για εντοπισμό, κλείδωμα ή επαναφορά της. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε  οποιαδήποτε στιγμή στις Ρυθμίσεις."</string>
+    <string name="find_device_dspt_provision">"Εάν χάσετε τη συσκευή σας, επισκευθείτε το %s για εντοπισμό, κλείδωμα ή επαναφορά της. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε  οποιαδήποτε στιγμή απο τις Ρυθμίσεις."</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις</string>
