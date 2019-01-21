@@ -1672,7 +1672,7 @@
   <string name="zen_silence_introduction_voice">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπμήσεων, της μουσικής, των βίντεο και των παιχνιδιών. Θα εξακολουθείτε να πραγματοποιείτε τηλεφωνικές κλήσεις.</string>
   <string name="keyguard_charging_back_to_lockscreen">Επιστροφή στην Οθόνη Κλειδώματος</string>
   <string name="keyguard_left_torch">Φακός</string>
-  <string name="switch_system_user">Άνοιγμα Πρώτου Χώρου</string>
+  <string name="switch_system_user">Επιστροφή στον Πρώτο Χώρο</string>
   <string name="miui_screen_rotation_freeze_message">Ανενεργή Αυτ. Περιστροφή.</string>
   <string name="face_unlock_sc_status">Σύρετε την οθόνη πρός τα κάτω για άνοιγμα της Κάμερας</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Για να προσθέσετε ένα στοιχείο, πατήστε το παρατεταμένα και, σύρετέ το στο επάνω μέρος του πίνακα.</string>
@@ -1723,4 +1723,5 @@
   <string name="usb_port_overheated_dialog_content">Η θύρα φόρτισης έχει υπερθερμανθεί. Αποσυνδέστε το φορτιστή από τη συσκευή σας και ελέγξτε αν η θύρα φόρτισης είναι καθαρή. Επικοινωνήστε με την υποστήριξη πελατών εάν έχετε οποιεσδήποτε ερωτήσεις.</string>
   <string name="usb_port_overheated_notification_content">Αποσυνδέστε το φορτιστή από τη συσκευή σας και ελέγξτε αν η θύρα φόρτισης είναι καθαρή.</string>
   <string name="usb_port_overheated_title">Η θύρα φόρτισης έχει υπερθερμανθεί. Αποσυνδέστε το φορτιστή.</string>
+  <string name="face_unlock_not_roi">Κρατήστε το πρόσωπό σας εντός πλαισίου</string>
 </resources>

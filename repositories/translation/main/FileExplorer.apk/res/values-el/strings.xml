@@ -829,4 +829,5 @@
 	  <string name="not_support_documentui">"Το DocumentUI δεν υποστηρίζεται σε αυτή τη συσκευή"</string>
 	  <string name="request_document_permission">Για διαχείρηση αρχείων στην κάρτα SD, δώστε τις απαιτούμενες άδειες στην εφαρμογή.</string>
 	  <string name="request_document_permission_title">Απαιτούνται άδειες</string>
+      <string name="menu_set_wallpaper">Ορισμός ως ταπετσαρία</string>
 </resources>

@@ -1242,4 +1242,16 @@
    <string name="call_windows_title">Παράθυρο Κλήσης</string>
    <string name="sip_account_disable">"Ο λογαριασμός δεν είναι ενεργός. Αδύνατη η αποδοχή κλήσεων."</string> 
    <string name="sip_receive_call_disable">"Αδύνατη η αποδοχή κλήσεων. Επιτρέψτε πρώτα την αποδοχή κλήσεων."</string> 
+   <string name="vowifi_emergency_notification_channel">Kλήση WiFi επείγουσας προειδοποίησης</string>
+   <string name="vowifi_emergency_notification_content">Οι κλήσεις έκτακτης ανάγκης διατίθενται μόνο σε κυψελοειδή κάλυψη.</string>
+   <string name="vowifi_emergency_notification_title">Kλήση WiFi Vodafone</string>
+   <string name="vowifi_emergency_warning_check">"Χωρίς επανεμφάνιση."</string>
+   <string name="vowifi_emergency_warning_message">"Οι κλήσεις έκτακτης ανάγκης δεν είναι δυνατές μέσω WiFi.
+
+Η συσκευή μεταβαίνει αυτόματα σε ένα κυψελοειδή δίκτυο (2G/3G) για να πραγματοποιήσει μια κλήση έκτακτης ανάγκης.
+
+Οι κλήσεις έκτακτης ανάγκης είναι δυνατές μόνο σε περιοχές με κυψελοειδή κάλυψη."</string>
+   <string name="vowifi_emergency_warning_title">ECC καλεί μέσω WiFi</string>
+   <string name="wifi_call_setting_vodafone_de">WiFi κλήσεις</string>
+   <string name="wifi_call_setting_vodafone_uk">WiFi καλεί</string>
 </resources>

@@ -798,4 +798,8 @@
   <string name="summary_pref_cm_smart_sms">Πρότυπα καρτών, αριθμοί υπηρεσιών SMS και πολλά άλλα.</string>
   <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
   <string name="updating">Ενημερώνεται</string>
+  <string name="auto_identify_btn_text_only_smart_messaging">Ενεργοποιήστε τα Έξυπνα Μηνύματα</string>
+  <string name="auto_identify_btn_text_when_all_disabled">Αυτόματος προσδιορισμός ID αποστολέα</string>
+  <string name="auto_identify_btn_title">Αυτό το μήνυμα αποστέλλεται από έναν άγνωστο αριθμό.</string>
+  <string name="auto_identify_confirmation">Ενδέχεται να χρειαστούν αρκετά λεπτά για ενεργοποίηση της λειτουργίας.</string>
 </resources>
