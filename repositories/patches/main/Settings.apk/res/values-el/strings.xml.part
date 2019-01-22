@@ -9,7 +9,6 @@
   <string name="allowed_set">Επιτρέπεται</string>
   <string name="alpha_build">\n\nΑλφα</string>
   <string name="animation_framing_title">Συχνότητα κίνησης Πλαισίων</string>
-  <string name="aod_style_clock_title">AOD Στύλ Ρολογιού</string>
   <string name="app_assistant_title">Πλήκτρο Φωνητικού Βοηθού</string>
   <string name="bar_name_title">Απόκρυψη ετικετών εικονιδίων στη γραμμή Γρήγορης πρόσβασης</string>
   <string name="bar_shadow_title">Απόκρυψη αντανάκλασης εικονιδίου</string>
@@ -216,4 +215,5 @@
   <string name="wifi_type_approval_title">Σχετικά με το MiuiPro</string>
   <string name="wifiact_icon_title">Απόκρυψη βελών ένδειξης Wi-Fi</string>
   <string name="WiFiOn_mobile_title">Με το Wi-Fi ενεργό</string>
+  <string name="set_in_aod_title">Μετάβαση σε λειτ. AOD</string>
 </resources>

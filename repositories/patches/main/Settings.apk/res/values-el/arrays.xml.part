@@ -203,11 +203,6 @@
         <item>3 στήλες</item> 
         <item>4 στήλες</item> 
   </string-array>
-  <string-array name="aod_style_clock_entries"> 
-    <item>Οριζόντια</item> 
-    <item>Κάθετα</item> 
-    <item>Μια γραμμή</item> 
-  </string-array>
   <string-array name="gesture_anywhere_position_entries">
     <item>Αριστερά</item>
     <item>Δεξιά</item>
