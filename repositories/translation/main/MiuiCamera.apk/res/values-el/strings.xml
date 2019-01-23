@@ -440,7 +440,7 @@
   <string name="pref_camera_whitebalance_entry_measure">Μέτρηση</string>
   <string name="pref_camera_whitebalance_title">WB</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-  <string name="pref_camera_zoom_mode_entry_ultra">ULTRA</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">ΥΠΕΡ ΕΥΡΕΙΑ</string>
   <string name="pref_camera_zoom_mode_entry_wide">Ευρεία</string>
   <string name="pref_camera_zoom_mode_title">Φακός</string>
   <string name="pref_camera_zoom_value_title">ZOOM</string>
@@ -622,7 +622,7 @@
   <string name="super_night_toast">Λήψη μιας φωτογραφίας, παρακαλώ κρατήστε το τηλέφωνό σας</string>
   <string name="accessibility_camera_liveshot_off">Η λειτ. Δυναμικής φωτ. είναι ανενεργή</string>
   <string name="accessibility_camera_liveshot_on">Η λειτ. Δυναμικής φωτ. είναι ενεργή</string>
-  <string name="ultra_wide_recommend_tip_hint">Συνιστάται η ενεργ. της λειτ. Υπέρ ευρείας γωνίας</string>  
+  <string name="ultra_wide_recommend_tip_hint">Δοκιμάστε την Υπέρ ευρεία γωνία</string>  
    <string name="accessibility_camera_ultra_wide_bokeh_off">Υπέρ Ευρεία Θόλωση, Ανενεργή</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Υπέρ Ευρεία Θόλωση, Ενεργή</string>
   <string name="accessibility_ultra_wide_off">Υπέρ Ευρεία γωνία, Ανενεργή</string>
@@ -638,7 +638,7 @@
   <string name="custom_watermark_words_save_success">Επιτυχής αποθήκευση</string>
   <string name="dualcamera_watermark_default">AI ΔΙΠΛΗ ΚΑΜΕΡΑ</string>
   <string name="pref_camera_normal_wide_ldc_title">Διόρθωση προσώπου</string>
-  <string name="pref_camera_ultra_wide_ldc_title">Διόρθωση παραμόρφωσης Υπέρ Ευρείας γωνίας</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Διόρθωση παραμόρφωσης σε λήψεις Υπέρ Ευρείας γωνίας</string>
   <string name="pref_userdefine_watermark_title">Ορισμός Υδατογραφήματος Κάμερας απο τον χρήστη</string>
   <string name="ultra_wide_bokeh_close_tip">Λειτουργία Θόλωσης Ανενεργή</string>
   <string name="ultra_wide_bokeh_open_tip">Λειτουργία Θόλωσης Ενεργή</string>
@@ -716,8 +716,8 @@
   <string name="accessibility_ultra_pixel_photography_32mp_on">32MP ανενεργό</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">48MP ανενεργό</string>
   <string name="accessibility_ultra_pixel_photography_48mp_on">48MP ανενεργό</string>
-  <string name="hand_gesture_open_tip">Τεντώστε την παλάμη του χεριού σας και αρχίστε να μετράτε</string>
-  <string name="hand_gesture_tip">Χειρονομία φωτογραφίας</string>
+  <string name="hand_gesture_open_tip">Τεντώστε την παλάμη του χεριού σας για το χρονόμετρο</string>
+  <string name="hand_gesture_tip">Κλείστρο παλάμης</string>
   <string name="network_access_user_notice_title">Σύνδεση στο Internet</string>
   <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
   <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
@@ -727,4 +727,7 @@
   <string name="ultra_pixel_photography_48mp_close_tip">48MP ανενεργό</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
   <string name="zoom_no_support_tip_48M">Το ζουμ δεν υποστηρίζεται στη λειτουργία 48MP</string>
+  <string name="ultra_wide_close_tip">Η λειτουργία υπέρ ευρείας γωνίας είναι ανενεργή</string>
+   <string name="ultra_wide_mode_use_hint_text">"Χρησιμοποιήστε αυτήν τη λειτουργία για να συμπεριλάβετε περισσότερα απο την σκηνή στη φωτογραφία σας.
+Η λειτουργία Υπέρ ευρείας γωνίας βοηθάει όταν δεν μπορείτε να μετακινηθείτε μακρύτερα από τη σκηνή."</string>
 </resources>

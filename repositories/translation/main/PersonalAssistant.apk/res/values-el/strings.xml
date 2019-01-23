@@ -931,7 +931,7 @@
     <string name="stock_web_lable">Αποθέματα</string>
     <string name="study_parent">Μελέτη Γραφείου</string>
     <string name="system_favorite_dialog_link">Ασφάλεια και προστασία της ιδιωτικής ζωής</string>
-    <string name="system_favorite_dialog_message">Προσθέστε τα αγαπημένα σας από άλλες εφαρμογές εδώ.</string>
+    <string name="system_favorite_dialog_message">Προσθέστε τα αγαπημένα σας από άλλες εφαρμογές και υπηρεσίες εδώ. Αποδοχή?</string>
     <string name="system_favorite_dialog_negative">Ακύρωση</string>
     <string name="system_favorite_dialog_positive">Αποδοχή</string>
     <string name="system_favorite_dialog_title_confirm">Αγαπημένα</string>
@@ -1089,7 +1089,7 @@
 	<string name="card_expand_note_clear">Καθαρισμός</string>
     <string name="express_select_send_providers">Επιλέξτε έναν πάροχο ταχυμεταφορών</string>
     <string name="express_send_not_available">Η υπηρεσία είναι προσωρινά μη διαθέσιμη, δοκιμάστε ξανά αργότερα</string>
-  <string name="miot_device_click_show_detail">Αγγίξτε να μάθετε σχετικά για τις Έξυπνες συσκευές</string>
+  <string name="miot_device_click_show_detail">.(Αγγίξτε να μάθετε σχετικά για τις Έξυπνες συσκευές)</string>
   <string name="card_banner_close_never">Χωρίς υπενθύμιση ξανά</string>
   <string name="card_banner_close_tomorrow">Υπενθύμιση αύριο</string>
   <string name="cta_dialog_miot_text_all">Για να διασφαλιστεί η κανονική λειτουργία, το Mi Home μπορεί να χρειαστεί να αποκτήσει πρόσβαση στο Wi-Fi σας, στην Τοποθεσία σας, την ενεργοποίηση του Bluetooth, στο Δίκτυο κινητής, στο Μικρόφωνο και στην ανάγνωση των Επαφών σας. Επιβεβαιώνετε;</string>
@@ -1118,5 +1118,17 @@
   <string name="miot_device_shrink_list">Σύμπτυξη</string>
   <string name="notification_channel_card">Κάρτες</string>
   <string name="notification_channel_default">Προεπιλογή</string>
+  <string name="book_arr_city">Προορισμός</string>
+  <string name="book_arr_station">Προσθήκη προορισμού</string>
+  <string name="taked_off">Αναχώρησε</string>
+  <string name="favorite_title_modify_failed">"Αδυναμία αλλαγής τίτλου"</string>
+  <string name="miot_device_personal_assistant_eula">Συμφωνία Χρήστη</string>
+  <string name="miot_device_personal_assistant_eula_priv">" και Βοηθού εφαρμογών "</string>
+  <string name="miot_device_personal_assistant_priv">Πολιτική Απορρήτου</string>
+  <string name="notification_channel_default_description">Άλλες ειδοποιήσεις</string>
+  <string name="notification_channel_favorite_description">Ειδοποιήσεις σχετικά με τα στοιχεία που προστέθηκαν στα αγαπημένα σε διαφορετικές εφαρμογές</string>
+  <string name="notification_channel_payment_description">Ειδοποιήσεις σχετικά με  Πληρωμές</string>
+  <string name="notification_channel_shopping_description">Ειδοποιήσεις για τα προϊόντα που προστέθηκαν στα αγαπημένα ή το καλάθι αγορών σας</string>
+  <string name="book_dep_city">Κανονικά</string>
 </resources>
 
