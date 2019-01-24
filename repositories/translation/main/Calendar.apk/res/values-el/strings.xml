@@ -327,7 +327,7 @@
   <string name="user_notice_button_exit">Έξοδος</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">Να μην εμφανιστεί ξανά</string>
-  <string name="user_notice_message">Με την χρήση αυτού του προϊόντος, συμφωνείτε με τα Xiaomi %1$s και %2$s. Ορισμένες λειτουργίες απαιτούν σύνδεση στο Internet και πρόσβαση στην τοποθεσία και στις επαφές για να δουλέψουν κανονικά.</string>
+  <string name="user_notice_message">Πρέπει να συμφωνήσετε με την %1$s και την %2$s πριν χρησιμοποιήσετε το ημερολόγιο. Για την παροχή ακριβών δεδομένων σχετικά με τις τοπικές αργίες, τα γενέθλια, τις επιστροφές πιστωτικών καρτών και τα προγραμματισμένα ταξίδια, το ημερολόγιο πρέπει να έχει πρόσβαση στην τοποθεσία, τις επαφές και τα μηνύματά σας, καθώς και σύνδεση στο Internet. Συμφωνείτε?</string>
   <string name="user_notice_title">Ειδοποίηση χρήστη</string>
   <string name="user_notification">Ειδοποίηση χρήστη</string>
   <string name="user_notification_descrip">Εμφάνιση ειδοποίησης χρήστη κάθε φορά που ανοίγετε το Ημερολόγιο</string>
@@ -399,4 +399,5 @@
   <string name="lottery_red_ball_tip">Κόκκινη μπάλα</string>
   <string name="select_today_tip">Σήμερα</string>
   <string name="today_icon_voice_contentdescription">Επιστροφή σήμερα</string>
+  <string name="setting_title_limit_card_desc">Μια κάρτα βρίσκεται σε περιορισμό στην αρχική σελίδα του ημερολογίου, η υπηρεσία απαιτεί δικτύωση</string>
 </resources>

@@ -52,7 +52,7 @@
   <string name="draw_overlay_title">Εφαρμογές που μπορούν να επικαλύψουν άλλες εφαρμογές</string>
   <string name="enable_service_title">Να γίνει χρήση του %1$s;</string>
   <string name="enable_webview_multiprocess">Πολυεπεξεργασία WebView</string>
-  <string name="enable_webview_multiprocess_desc">Εκτελέστε το WebView renderers ξεχωριστά</string>
+  <string name="enable_webview_multiprocess_desc">Εκτελεί αποδόσεις WebView ξεχωριστά</string>
   <string name="encrypt_dont_require_password">Όχι ευχαριστώ</string>
   <string name="encrypt_dont_require_pattern">Όχι ευχαριστώ</string>
   <string name="encrypt_dont_require_pin">Όχι ευχαριστώ</string>
@@ -70,8 +70,8 @@
   <string name="home_app_uninstall_button">Κατάργηση εγκατάστασης αυτής της εφαρμογής</string>
   <string name="home_settings">Αρχική σελίδα</string>
   <string name="importance_reset">Επαναφορά</string>
-  <string name="install_unknown_applications">Να επιτρέπεται η εγκατάσταση εκτός Market</string>
-  <string name="install_unknown_applications_title">Σας επιτρέπει να εγκαταστήσετε εφαρμογές από άλλες πηγές εκτός από το Google Play</string>
+  <string name="install_unknown_applications">Να επιτρέπεται η εγκατάσταση εκτός Play Store</string>
+  <string name="install_unknown_applications_title">Σας επιτρέπει να εγκαταστήσετε εφαρμογές από άλλες πηγές εκτός από το Play Store</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_unrelated_items">%1$s, %2$s</string>
@@ -83,7 +83,7 @@
   <string name="lockpassword_choose_your_pin_title">Εισάγετε 4-16 ψηφία</string>
   <string name="lte_4g_settings_4gdisable_summary">"4G Απενεργοποιημένο"</string>
   <string name="lte_4g_settings_4genable_summary">4G Ενεργοποιημένο</string>
-  <string name="lte_4g_settings_disable">Σε λειτουργία αεροπλάνου ή η κάρτα SIM δεν είναι έτοιμη</string>
+  <string name="lte_4g_settings_disable">Σε λειτουργία πτήσης ή η κάρτα SIM δεν είναι έτοιμη</string>
   <string name="lte_4g_settings_title">Ενεργοποίηση 4G</string>
   <string name="lte_4g_switch_prompt">Το τηλέφωνο θα αλλάξει από 3G/2G σε 4G, κάποια ενεργή εργασία μπορεί να σταματήσει</string>
   <string name="manage_device_admin_summary">Προβολή ή απενεργοποίηση διαχειριστών</string>
@@ -136,7 +136,7 @@
   <string name="sdcard_optimization_cancel">Ακύρωση</string>
   <string name="sdcard_optimization_close">Απενεργοποίηση και επανεκκίνηση</string>
   <string name="sdcard_optimization_open">Ενεργοποίηση</string>
-  <string name="sdcard_optimization_summary">Κάνει την κάρτα SD πολύ πιο γρήγορη</string>
+  <string name="sdcard_optimization_summary">Κάνει την κάρτα SD γρηγορότερη</string>
   <string name="search_nfc_quick_toggle_title">NFC</string>
   <string name="search_recents_queries_label">Πρόσφατες αναζητήσεις</string>
   <string name="search_results_label">Αποτελέσματα</string>
@@ -149,7 +149,7 @@
   <string name="show_cpu_usage">Εμφάνιση χρήσης CPU</string>
   <string name="show_cpu_usage_summary">Προβολή της τρέχουσας χρήσης της CPU</string>
   <string name="show_silently">Σιωπηλή Εμφάνιση</string>
-  <string name="sim_management_title_singlesim">Κάρτα SIM &amp; Δίκτυα Κινητής</string>
+  <string name="sim_management_title_singlesim">Κάρτα SIM και Δίκτυα Κινητής</string>
   <string name="small_font">Μικρή</string>
   <string name="storage_menu_cleanup">Εκκαθάριση αποθήκευσης</string>
   <string name="suggestions_title">Προτάσεις (%1$d)</string>
@@ -164,7 +164,7 @@
   <string name="timer_switch_settings_title">Προγραμματισμένη ενεργοποίηση και απενεργοποίηση</string>
   <string name="title_local_resource">Τοπικοί πόροι</string>
   <string name="title_system_resource">Πόροι συστήματος</string>
-  <string name="total_info">Σίγαση ήχων και απενεργοποίηση δόνησης εκτός από την Αφύπνηση</string>
+  <string name="total_info">Σίγαση ήχων και απενεργοποίηση δόνησης εκτός από την Αφύπνιση</string>
   <string name="tts_engine_settings_title">Ρυθμίσεις για %s</string>
   <string name="turn_on_wifi_dialog_text">Το δίκτυο Wi-Fi είναι απενεργοποιημένο όταν το Σημείο πρόσβασης είναι ενεργό. Για να ενεργοποιήσετε το Wi-Fi, απενεργοποιήστε το Σημείο πρόσβασης.</string>
   <string name="turn_on_wifi_dialog_title">Ενεργοποίηση WiFi</string>

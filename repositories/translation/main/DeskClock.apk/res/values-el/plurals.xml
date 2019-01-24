@@ -60,4 +60,8 @@
         <item quantity="other">%d λεπ.</item>
         <item quantity="one">%d λεπ.</item>
     </plurals>
+     <plurals name="second">
+        <item quantity="other">%d δευτ.</item>
+        <item quantity="one">%d δευτ.</item>
+     </plurals>
 </resources>

@@ -319,8 +319,8 @@
   <string name="search_hot_variety">Ψυχαγωγία</string>
   <string name="search_hotwords">Λέξεις-κλειδιά</string>
   <string name="search_hotwords_switch">Εναλλαγή</string>
-  <string name="search_input_empty_toast">Ψάξτε ή εισάγετε URL</string>
-  <string name="search_input_hint">Ψάξτε ή εισάγετε URL</string>
+  <string name="search_input_empty_toast">Εύρεση ή εισαγωγή URL</string>
+  <string name="search_input_hint">Εύρεση ή εισαγωγή URL</string>
   <string name="search_nonetwork_prompt">Ελέγξτε τη σύνδεση δικτύου σας και δοκιμάστε ξανά</string>
   <string name="search_nonetwork_refresh">Ανανέωση</string>
   <string name="search_recommend_empty">Χωρίς στοιχεία</string>

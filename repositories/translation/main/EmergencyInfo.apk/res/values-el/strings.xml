@@ -37,8 +37,8 @@
   <string name="age">Ηλικία: %1$d</string>
   <string name="allergies">Αλλεργίες</string>
   <string name="allergies_hint">Για παράδειγμα, φιστίκια</string>
-  <string name="allow_mock_location">Να επιτρέπονται οι ψεύτικες τοποθεσίες</string>
-  <string name="allow_mock_location_summary">Να επιτρέπονται οι ψεύτικες τοποθεσίες</string>
+  <string name="allow_mock_location">Να επιτρέπονται οι ψευδείς τοποθεσίες</string>
+  <string name="allow_mock_location_summary">Να επιτρέπονται οι ψευδείς τοποθεσίες</string>
   <string name="animator_duration_scale_title">Ζυγός διάρκειας animator</string>
   <string name="aplus">A +</string>
   <string name="apn_settings_not_available">Οι ρυθμίσεις ονόματος σημείου πρόσβασης δεν είναι διαθέσιμες για αυτόν το χρήστη</string>
@@ -160,10 +160,10 @@
   <string name="development_settings_not_available">Οι επιλογές για προγραμματιστές δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
   <string name="development_settings_summary">Ορίστε επιλογές για την ανάπτυξη εφαρμογών</string>
   <string name="development_settings_title">Επιλογές ανάπτυξης</string>
-  <string name="disable_overlays">Απενεργοποιήστε τις επικαλύψεις HW</string>
+  <string name="disable_overlays">Απενεργοποίηση επικάλυψης HW</string>
   <string name="disable_overlays_summary">Χρησιμοποιείτε πάντα τη GPU για τη σύνθεση των παραθύρων</string>
   <string name="disabled_by_admin">Απενεργοποιήθηκε από διαχειριστή</string>
-  <string name="disabled_by_admin_summary_text">Έλεγχος από το admin</string>
+  <string name="disabled_by_admin_summary_text">Ελέγχεται από διαχειριστή</string>
   <string name="edit_info">Επεξεργασία πληροφοριών έκτακτης ανάγκης</string>
   <string name="emergency_contacts_title">Επαφές έκτακτης ανάγκης</string>
   <string name="emergency_info_continue">Συνέχεια</string>
@@ -175,7 +175,7 @@
   <string name="enable_terminal_summary">Ενεργοποιήστε την εφαρμογή τερματικού που προσφέρει πρόσβαση τοπικού κελύφους</string>
   <string name="enable_terminal_title">Τοπικό τερματικό</string>
   <string name="enable_webview_multiprocess">Πολυεπεξεργασία WebView</string>
-  <string name="enable_webview_multiprocess_desc">Εκτελέστε εκδότες WebView ξεχωριστά</string>
+  <string name="enable_webview_multiprocess_desc">Εκτελεί αποδόσεις WebView ξεχωριστά</string>
   <string name="enabled_by_admin">Ενεργοποιήθηκε από διαχειριστή</string>
   <string name="force_allow_on_external">Δύναμη επιτρέπουν εφαρμογές σε εξωτερικό</string>
   <string name="force_allow_on_external_summary">Κάνει οποιαδήποτε εφαρμογή κατάλληλη για εγγραφή σε εξωτερικό αποθηκευτικό χώρο, ανεξάρτητα από τις δηλωμένες τιμές</string>
