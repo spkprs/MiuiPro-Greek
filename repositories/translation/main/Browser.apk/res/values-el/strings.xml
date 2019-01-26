@@ -825,7 +825,7 @@
   <string name="pref_adblock_counts">%d μπλοκαρισμένα</string>
   <string name="pref_adblock_title">Adblock</string>
   <string name="pref_advert_null">Δεν υπάρχουν στοιχεία που να επισημαίνονται ως διαφημίσεις. Πατήστε παρατεταμένα ένα στοιχείο στην ιστοσελίδα για να επισημάνετε.</string>
-  <string name="pref_auto_update_under_wifi">Αυτόματη ενημέρωση πακέτου με Wi‑Fi</string>
+  <string name="pref_auto_update_under_wifi">Αυτόματη ενημέρωση με Wi‑Fi</string>
   <string name="pref_automatic_matching_searchengines_title">Μετάβ. στη συχνή μηχ. αναζήτησης</string>
   <string name="pref_cancel_screen">Απεμπλοκή</string>
   <string name="pref_category_hint">Κατηγορία</string>
@@ -1306,7 +1306,7 @@
   <string name="bubble_guide_portrait_message_text">Αγγίξτε για προβολή</string>
   <string name="dialog_recovery_tabs_disc">Εντοπίστηκαν ανοικτές σελίδες, απαιτείται πλήρη επαναφορά τους.</string>
   <string name="dialog_recovery_tabs_title">Άνοιγμα σελίδας πριν την επαναφορά</string>
-  <string name="exit_browser_confirmation">Ξαναπατήστε για επιστροφή στην επιφάνεια εργασίας</string>
+  <string name="exit_browser_confirmation">Αγγίξτε ξανά για έξοδο</string>
   <string name="pref_checkbox_tab_restore">Ενθύμηση αυτής της επιλογής ( μεταβείτε στις Πρόσθετες ρυθμίσεις για τροποποίηση)</string>
   <string name="pref_slide_back_forward">Σύρετε πίσω ή εμπρός</string>
   <string name="pref_tab_restore">Επαναφορά τελευταίας ανοικτής σελ. στην εκκίνηση</string>
@@ -1353,7 +1353,7 @@
     <string name="document_download_recommending">Ασφαλή λήψη (Προτείνεται)</string>
     <string name="download_dialog_file_length_default_txt">Μισό λεπτό…</string>
     <string name="novel_toast_hint">Αυτός ο ιστότοπος προστέθηκε στη βιβλιοθήκη</string>
-    <string name="pref_fling_gesture">Σύρετε χειρονομία</string>
+    <string name="pref_fling_gesture">Χειρονομία ολίσθησης</string>
     <string name="publish_to_topic">δημοσίευση στο θέμα</string>
     <string name="suggestion_sliding_item_more_text">ΠΕΡΙΣΣΟΤΕΡΑ</string>
   <string name="app_name">InfoStream</string>
