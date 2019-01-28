@@ -264,4 +264,5 @@
     <string name="update_notification_info">Ενημέρωση δεδομένων στο παρασκήνιο…</string>
     <string name="weather_alert_channel_name">Ειδοποιήσεις</string>
     <string name="weather_service_channel_name">Υπηρεσίες παρασκηνίου</string>
+  <string name="activity_find_city_dialog_message_location_service">Για λήψη πληροφοριών καιρικών συνθηκών, επιτρέψτε στο Weather την πρόσβαση στην τοποθεσία σας.</string>
 </resources>
