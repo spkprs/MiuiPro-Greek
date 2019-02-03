@@ -218,4 +218,6 @@
   <string name="set_in_aod_title">Μετάβαση σε λειτ. AOD</string>
   <string name="type_name_connected_title">Μόνο με ενεργό internet</string>
   <ststringring name="double_tap_lock_keyguard_title">Διπλό άγγιγμα για κλείδωμα</string>
+  <string name="dnd_icon_title">Απόκρυψη εικον. \"Μην Ενοχλείτε\"</string>
+  <string name="other_icon_title">Εικονίδια σε ανοιχτό Πίνακα</string>
 </resources>
