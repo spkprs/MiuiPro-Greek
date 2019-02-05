@@ -24,10 +24,6 @@
      <string name="HIPS_Perm_External_Storage_Desc">"να προσθέτει και διαγράφει αρχεία στον εσωτερικό χώρο αποθήκευσης της συσκευής"</string>
      <string name="HIPS_Perm_Location">Εντοπισμός τοποθεσίας</string>
      <string name="HIPS_Perm_Location_Desc">να εντοπίσει την τοποθεσία σας (GPS ή/και μέσω δικτύου)</string>
-     <string name="HIPS_Perm_MMS">Σύνθεση μηνυμάτων MMS</string>
-     <string name="HIPS_Perm_MMS_Desc">"να γράφει νέα μηνύματα MMS"</string>
-     <string name="HIPS_Perm_Mobile_Connectivity">Αλλαγή κατάστασης δεδομένων κινητής</string>
-     <string name="HIPS_Perm_Mobile_Connectivity_Desc">να ενεργοποιεί/απενεργοποιεί τα δεδομένα κινητής</string>
      <string name="HIPS_Perm_PhoneID">Ταυτότητα συσκευής</string>
      <string name="HIPS_Perm_PhoneID_Desc">"πρόσβαση  στο IMEI και το IMSI της συσκευής"</string>
      <string name="HIPS_Perm_ROOT">Πρόσβαση root</string>
@@ -40,8 +36,6 @@
      <string name="HIPS_Perm_Read_MMS_Desc">να διαβάσει τα μηνύματα MMS</string>
      <string name="HIPS_Perm_Read_SMS">Ανάγνωση μηνυμάτων SMS</string>
      <string name="HIPS_Perm_Read_SMS_Desc">να διαβάσει τα μηνύματα SMS</string>
-     <string name="HIPS_Perm_SMS">Σύνθεση μηνυμάτων SMS</string>
-     <string name="HIPS_Perm_SMS_Desc">να γράφει νέα μηνύματα SMS</string>
      <string name="HIPS_Perm_SendMMS">Αποστολή μηνυμάτων MMS</string>
      <string name="HIPS_Perm_SendMMS_Desc">να στέλνει απευθείας μηνύματα MMS</string>
      <string name="HIPS_Perm_SendSMS">Αποστολή μηνυμάτων SMS</string>
@@ -100,4 +94,6 @@
      <string name="screen_overlay_button">Άνοιγμα ρυθμίσεων</string>
      <string name="screen_overlay_message">Για να αλλάξετε αυτή τη ρύθμιση της άδειας, πρέπει πρώτα να απενεργοποιήσετε την επικάλυψη της οθόνης από το Ρυθμίσεις>Εφαρμογές</string>
      <string name="screen_overlay_title">Ανιχνεύτηκε επικάλυψη οθόνης</string>
+     <string name="HIPS_Perm_service_foreground">Υπηρεσίες προσκηνίου</string>
+     <string name="HIPS_Perm_service_foreground_Desc">υπηρεσίες προσκηνίου</string>
 </resources>

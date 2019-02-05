@@ -21,20 +21,13 @@
   <string name="accessibility_all_day">Ολοήμερο γεγονός</string>
   <string name="accessibility_pick_start_date">Ημερομηνία έναρξης</string>
   <string name="accessibility_pick_time_zone">Ζώνη ώρας</string>
-  <string name="accessibility_reminder_time">Ώρα υπενθύμισης</string>
   <string name="accessibility_remove_attendee">Αφαίρεση συμμετέχοντα</string>
   <string name="accessibility_repeats">Επανάληψη</string>
   <string name="accessibility_sync_cal">Συγχρονισμός ημερολογίου</string>
   <string name="account_and_calendar">Λογαριασμός και ημερολόγιο</string>
-  <string name="accounts">Λογαριασμοί &amp; Συγχρονισμός</string>
-  <string name="acct_not_synced">Αυτός ο λογαριασμός δεν έχει συγχρονιστεί έτσι τα ημερολόγιά σας μπορεί να μην είναι ενημερωμένα μέχρι και σήμερα.</string>
-  <string name="acessibility_selected_marker_description">Επιλεγμένο γεγονός</string>
   <string name="action_bar_return">Επιστροφή</string>
-  <string name="action_text_today">Σήμερα</string>
-  <string name="agenda_today">ΣΗΜΕΡΑ, %1$s</string>
   <string name="agenda_tomorrow">ΑΥΡΙΟ, %1$s</string>
   <string name="agenda_view">Ατζέντα</string>
-  <string name="agenda_yesterday">ΧΘΕΣ, %1$s</string>
   <string name="alarm_label">OK</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Έληξε</string>
@@ -56,11 +49,6 @@
   <string name="birthday_notification_title_today">%3$s του/ης %1$s</string>
   <string name="birthday_saved">Τα γενέθλια αποθηκεύτηκαν</string>
   <string name="birthday_term">γενέθλια</string>
-  <string name="button_day">ΗΜΕΡΑ</string>
-  <string name="button_month">ΜΗΝΑΣ</string>
-  <string name="button_week">ΕΒΔΟΜΑΔΑ</string>
-  <string name="calendar_network_error">Σφάλμα δικτύου</string>
-  <string name="calendar_refresh">Ανανέωση</string>
   <string name="can_not_create_long_event">Το περιεχόμενο είναι πολύ μεγάλο</string>
   <string name="can_not_modify_allday_event">Αδυναμία αλλαγής του ολοήμερου γεγονότος</string>
   <string name="can_not_modify_event">Αδυναμία αλλαγής γεγονότος</string>
@@ -92,7 +80,6 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view_new_event_hint">Νέο γεγονός</string>
   <string name="default_reminder_mode">Υπενθυμίσεις</string>
-  <string name="delete_calendar">Διαγραφή</string>
   <string name="delete_recurring_event_title">Διαγραφή %s;</string>
   <string name="delete_this_event_title">Διαγραφή γεγονότος;</string>
   <string name="directory_searching_fmt">Αναζήτηση %s…</string>
@@ -105,7 +92,6 @@
   <string name="edit_event_anniversary_name_hint">Εκδήλωση</string>
   <string name="edit_event_birthday_import_from_contact">Εισαγωγή γενεθλίων από επαφές</string>
   <string name="edit_event_birthday_name_hint">Όνομα</string>
-  <string name="edit_event_birthday_reminder_time">Ώρα υπενθύμισης</string>
   <string name="edit_event_calendar_label">Ημερολόγιο</string>
   <string name="edit_event_choose_date">Επιλέξτε ημερομηνία</string>
   <string name="edit_event_confirm_message">Απόρριψη αλλαγών γεγονότος;</string>
@@ -153,11 +139,9 @@
   <string name="event_view">Προβολή γεγονότος</string>
   <string name="every_weekday">Κάθε εργάσιμη (Δευ-Παρ)</string>
   <string name="festival_detail_title">Φεστιβάλ</string>
-  <string name="force_touch_title_add_new_event">Προσθήκη γεγονότος</string>
   <string name="from_google_group_calendar">Ημερολόγιο Google</string>
   <string name="gadget_no_events">Χωρίς προσεχή ημερολογιακά γεγονότα</string>
   <string name="gadget_title">Ημερολόγιο</string>
-  <string name="guide_card_hint_text">Εισαγωγή γενεθλίων από επαφές</string>
   <string name="guide_card_close">Κλείστε</string>
   <string name="hint_attendees">Συμμετέχοντες</string>
   <string name="hint_description">Περιγραφή</string>
@@ -174,7 +158,6 @@
   <string name="insert_event_dialog_title">Προσοχή</string>
   <string name="insert_event_toast_add_failed">Αδυναμία προσθήκης</string>
   <string name="insert_event_toast_add_success">H Εκδήλωση Δημιουργήθηκε</string>
-  <string name="jump_date_full">Άλμα σε ημερομηνία</string>
   <string name="load_more_hint">Ανανέωση συμβάντων του %1$d</string>
   <string name="loading">Φορτώνει…</string>
   <string name="local_calendar_display_name">Τοπικό ημερολόγιο</string>
@@ -182,7 +165,6 @@
   <string name="local_owner_account_name">Τοπικός λογαριασμός</string>
   <string name="lunar_date">Σεληνιακή Ημερομηνία</string>
   <string name="menu_general_preferences">Γενικές ρυθμίσεις</string>
-  <string name="menu_preferences">Ρυθμίσεις</string>
   <string name="menu_reminder_preferences">Υπενθυμίσεις</string>
   <string name="missing_name">(Χωρίς όνομα)</string>
   <string name="modify_all">Αλλαγή όλων των γεγονότων στη σειρά</string>
@@ -206,8 +188,6 @@
   <string name="monthly_on_day_count">Μηνιαίως (%1$s %2$s του μήνα)</string>
   <string name="more_string">+%1$s</string>
   <string name="network_not_available">Αδυναμία σύνδεσης στο δίκτυο</string>
-  <string name="new_event_dialog_label">Νέο γεγονός</string>
-  <string name="new_event_dialog_option">Νέο γεγονός</string>
   <string name="no_contact_birthday_hint">Δεν υπάρχουν γενέθλια για εισαγωγή</string>
   <string name="no_events_hint">Δεν υπάρχουν συμβάντα</string>
   <string name="no_network">Δεν είναι δυνατή η σύνδεση με το δίκτυο, δοκιμάστε αργότερα :)</string>
@@ -216,9 +196,7 @@
   <string name="no_visiable_calendar_message">Θα πρέπει να επιλέξετε ένα λογαριασμό ημερολογίου. Πατήστε Επιλογή λογαριασμού για να συνεχίσετε.</string>
   <string name="no_visiable_calendar_select_account">Επιλογή λογαριασμού</string>
   <string name="no_visiable_calendar_title">Επιλέξτε ένα λογαριασμό ημερολογίου</string>
-  <string name="not_synced">ασυγχρόνιστο</string>
   <string name="online_reminder_header_text">υπενθύμιση</string>
-  <string name="pref_error_no_ringtone_select">Καμία επιλογή</string>
   <string name="pref_reminder_time">Ώρα υπενθύμισης</string>
   <string name="pref_title_alarm_remind">Ήχος υπενθύμισης</string>
   <string name="pref_title_no_remind">Χωρίς υπενθύμιση</string>
@@ -265,10 +243,7 @@
   <string name="rest_day_indication">: )</string>
   <string name="saving_event">Γεγονός αποθηκεύτηκε</string>
   <string name="saving_event_with_guest">Αλλαγές θα αποσταλούν</string>
-  <string name="search">Αναζήτηση</string>
   <string name="select_date">Επιλέξτε ημερομηνία</string>
-  <string name="select_synced_calendars_title">Ημερολόγια για συγχρονισμό</string>
-  <string name="set_as_wallpaper">Ορισμός ως ταπετσαρία</string>
   <string name="setting_about_calendar_version">Έκδοση Ημερολογίου:</string>
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">Έκδοση MIUI:</string>
@@ -281,10 +256,7 @@
   <string name="setting_title_about">Σχετικά</string>
   <string name="setting_title_holiday_display">Εμφάνιση Αργιών</string>
   <string name="show_day_view">Εμφάνιση ημέρας</string>
-  <string name="show_newer_events">Ακουμπήστε για δείτε γεγονότα μετά %1$s</string>
-  <string name="show_older_events">Ακουμπήστε για δείτε γεγονότα πριν %1$s</string>
   <string name="start_date_calculate">Υπολογισμός</string>
-  <string name="synced">συγχρονισμένο</string>
     <string name="tab_title_agenda">Εκδηλώσεις</string>
     <string name="tab_title_day">Ημέρα</string>
     <string name="tab_title_month">Μήνας</string>
@@ -326,15 +298,11 @@
   <string name="travel_train_station">Σταθμός τραίνου</string>
   <string name="user_notice_button_exit">Έξοδος</string>
   <string name="user_notice_button_ok">OK</string>
-  <string name="user_notice_declaration_ignore">Να μην εμφανιστεί ξανά</string>
   <string name="user_notice_message">Πρέπει να συμφωνήσετε με την %1$s και την %2$s πριν χρησιμοποιήσετε το ημερολόγιο. Για την παροχή ακριβών δεδομένων σχετικά με τις τοπικές αργίες, τα γενέθλια, τις επιστροφές πιστωτικών καρτών και τα προγραμματισμένα ταξίδια, το ημερολόγιο πρέπει να έχει πρόσβαση στην τοποθεσία, τις επαφές και τα μηνύματά σας, καθώς και σύνδεση στο Internet. Συμφωνείτε?</string>
   <string name="user_notice_title">Ειδοποίηση χρήστη</string>
-  <string name="user_notification">Ειδοποίηση χρήστη</string>
-  <string name="user_notification_descrip">Εμφάνιση ειδοποίησης χρήστη κάθε φορά που ανοίγετε το Ημερολόγιο</string>
   <string name="view_event_calendar_label">Ημερολόγιο:</string>
   <string name="view_event_organizer_label">Organizer:</string>
   <string name="view_event_response_label">Συμμετέχετε;</string>
-  <string name="week_view_today_toast">Ήδη σε αυτή την εβδομάδα</string>
   <string name="weekly">Εβδομαδιαία (κάθε %s)</string>
   <string name="when_label">Πότε</string>
   <string name="widget_events">Τα επόμενα γεγονότα</string>
@@ -400,4 +368,5 @@
   <string name="select_today_tip">Σήμερα</string>
   <string name="today_icon_voice_contentdescription">Επιστροφή σήμερα</string>
   <string name="setting_title_limit_card_desc">Μια κάρτα βρίσκεται σε περιορισμό στην αρχική σελίδα του ημερολογίου, η υπηρεσία απαιτεί δικτύωση</string>
+   <string name="action_bar_date_button_title">Υπολογισμός ημερ.</string>
 </resources>

@@ -14,11 +14,8 @@
   <string name="bugreport_dump_complete_notification_title">Η αναφορά σφάλματος δημιουργήθηκε</string>
   <string name="bugreport_dump_start_notification_summary">Διαρκεί μερικά λεπτά.</string>
   <string name="bugreport_dump_start_notification_title">Δημιουργία αρχείου...</string>
-  <string name="bugreport_tool_log">Δημιουργία αναφοράς σφάλματος</string>
   <string name="bugreport_tool_log_dumping_desc">Χρειάζεται περίπου ένα λεπτό</string>
   <string name="bugreport_tool_log_dumping_title">Δημιουργία αναφοράς σφάλματος</string>
-  <string name="bugreport_tool_log_toast">Το αρχείο καταγραφής αποθηκεύτηκε στο %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Δημιουργία αναφοράς σφάλματος (διαρκεί περίπου ένα λεπτό)</string>
   <string name="catch_full_log_action_cancel">Ακύρωση</string>
   <string name="catch_full_log_action_complete">Ολοκλήρωση και αποστολή</string>
   <string name="catch_full_log_action_start">Δημιουργία log</string>
@@ -223,7 +220,6 @@
   <string name="michat_pull_to_refresh_pull_label">Σύρετε κάτω για προβολή ιστορικού</string>
   <string name="michat_pull_to_refresh_refreshing_label">Φόρτωση ιστορικού…</string>
   <string name="michat_pull_to_refresh_release_label">Αφήστε για προβολή ιστορικού</string>
-  <string name="michat_queue_pos_update">Υπάρχουν %1$d άτομα πριν από σας. Περιμένετε ένα λεπτό…</string>
   <string name="michat_return_to_outside">Έξοδος</string>
   <string name="michat_service_unavailiable">Αδυναμία λήψης πληροφοριών. Δοκιμάστε ξανά αργότερα</string>
   <string name="michat_skillset_business_type_title">Επιλέξτε υπηρεσία</string>
@@ -241,15 +237,10 @@
   <string name="mobile_data_note_dialog_content">Φαίνεται ότι είστε συνδεδεμένοι σε ένα αμειβόμενο δίκτυο. Η μεταφόρτωση αρχείων καταγραφής μπορεί να δημιουργήσει πρόσθετα τέλη.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Φαίνεται ότι είστε συνδεδεμένοι σε ένα δίκτυο με χρέωση. Η μεταφόρτωση αρχείων καταγραφής απαιτεί %s MB δεδομένων.</string>
   <string name="mobile_data_note_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
-  <string name="modem_tool_log">Σύλληψη αρχείου καταγραφής modem</string>
   <string name="modem_tool_log_dumping_desc">Κάντε κλικ στο εικονίδιο για να σταματήσει</string>
   <string name="modem_tool_log_dumping_title">Καταγραφή αρχείων καταγραφής μόντεμ</string>
   <string name="modem_tool_log_finish_desc">Το αρχείο καταγραφής αποθηκεύεται ως %s</string>
   <string name="modem_tool_log_finish_title">Καταγράφηκε αρχείο καταγραφής μόντεμ</string>
-  <string name="modem_tool_log_start">Έναρξη</string>
-  <string name="modem_tool_log_start_toast">Έναρξη αποθήκευσης αρχείου καταγραφής modem στο %s</string>
-  <string name="modem_tool_log_stop">Διακοπή</string>
-  <string name="modem_tool_log_stop_toast">Διακοπή αποθήκευσης αρχείου καταγραφής modem στο %s</string>
   <string name="module_communication">Επικοινωνία</string>
   <string name="module_data">Αποθ.χώρος και Διπλές εφαρμογές</string>
   <string name="module_desktop">Αρχική οθόνη και ρυθμίσεις</string>
@@ -438,7 +429,6 @@
   <string name="passport_wrong_captcha">Ο κωδικός που εισάγατε είναι εσφαλμένος</string>
   <string name="passport_wrong_phone_number_format">Η μορφή του αριθμού τηλεφώνου που εισάγατε δεν είναι έγκυρη</string>
   <string name="passport_wrong_vcode">Ο κωδικός που εισάγατε είναι εσφαλμένος</string>
-  <string name="permission_granted">%1$s δικαίωμα παραχωρήθηκε</string>
   <string name="pic_not_exist">Αυτή η εικόνα δεν υπάρχει</string>
   <string name="plus_one_submit_dialog_content">Τα επιλεγμένα σχόλιά σας, μαζί με τα αρχεία καταγραφής σφαλμάτων, θα σταλούν στους διακομιστές ΜΙ.</string>
   <string name="plus_one_submit_dialog_not_show_again">Απομνημόνευση επιλογής</string>
@@ -478,7 +468,6 @@
   <string name="tab_title_my_reports">Οι αναφορές μου</string>
   <string name="tab_title_preferences">Ρυθμίσεις</string>
   <string name="tab_title_report">Σχόλια</string>
-  <string name="time_in_justnow">Μόλις τώρα</string>
   <string name="title_answer_feedback_main">Βρήκαμε απαντήσεις!</string>
   <string name="title_catch_full_log">Logs</string>
   <string name="title_customer_service">Εξυπηρέτηση πελατών</string>
@@ -498,7 +487,6 @@
   <string name="toast_feedback_pending_wlan">Το σχόλιό σας θα αποσταλεί όταν συνδεθείτε σε ασύρματο δίκτυο</string>
   <string name="toast_feedback_submitted">Το σχόλιό σας έχει καταχωρηθεί</string>
   <string name="toast_feedback_submitting">Υποβολή…</string>
-  <string name="toast_feedbackservice_in_submit">Αποστολή προηγούμενου σχολίου…</string>
   <string name="toast_fill_brackets">Παρακαλώ συμπληρώστε μέσα στις παρενθέσεις</string>
   <string name="toast_loading_app_id">Λήψη πληροφοριών…</string>
   <string name="toast_log_not_exists">Το απαιτούμενο αρχείο καταγραφής διαγράφηκε ή δεν υπάρχει</string>
@@ -519,4 +507,9 @@
   <string name="upload_log_failed">Αδυναμία αποστολής αρχείων καταγραφής</string>
   <string name="warning_field_empty">Εισάγετε %1$s</string>
   <string name="warning_field_invalid">Επιλέξτε ένα έγκυρο %1$s</string>
+  <string name="default_text_view">TextView</string>
+  <string name="passport_user_agreement_p3"> and </string>
+  <string name="pic_view_format">%1$s/%2$s</string>
+  <string name="second_position">3#</string>
+  <string name="topic_author">1#</string>
 </resources>
