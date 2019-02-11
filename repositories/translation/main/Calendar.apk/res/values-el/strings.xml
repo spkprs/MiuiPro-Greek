@@ -368,5 +368,7 @@
   <string name="select_today_tip">Σήμερα</string>
   <string name="today_icon_voice_contentdescription">Επιστροφή σήμερα</string>
   <string name="setting_title_limit_card_desc">Μια κάρτα βρίσκεται σε περιορισμό στην αρχική σελίδα του ημερολογίου, η υπηρεσία απαιτεί δικτύωση</string>
-   <string name="action_bar_date_button_title">Υπολογισμός ημερ.</string>
+  <string name="action_bar_date_button_title">Υπολογισμός ημερ.</string>
+  <string name="talkback_festival_and">και</string>
+  <string name="talkback_festival_is">Η γιορτή είναι</string>
 </resources>

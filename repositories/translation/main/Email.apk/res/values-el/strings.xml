@@ -941,7 +941,7 @@
     <string name="toast_bar_invalid_account">Ο λογαριασμός έληξε. Παρακαλώ συνδεθείτε ξανά</string>
     <string name="toast_bar_no_connection_network">Το δίκτυο δεν είναι συνδεδεμένο. Κάντε κλικ στην επιλογή Ρυθμίσεις</string>
     <string name="toast_bar_open_gmail_synchronization">Να μην περιορίζεται πλέον η χρήση του Gmail. Κάντε κλικ για να το χρησιμοποιήσετε</string>
-    <string name="toast_bar_send_fail_remind">Αδυναμία αποστολής email. Αποθηκεύτηκε στον φάκελο \"Εξερχόμενα.</string>
+    <string name="toast_bar_send_fail_remind">Αδυναμία αποστολής email. Αποθηκεύτηκε στον φάκελο \"Εξερχόμενα\".</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Για συγχρονισμό πληροφοριών ημερολογίου και επαφών, αποδεχτείτε τις απαραίτητες άδειες για το Mail στις Ρυθμίσεις</string>
     <string name="toastbar_calendar_permission_switch_close">Για λήψη υπενθυμίσεων ημερολογίου, αποδεχτείτε τις απαραίτητες άδειες για το Mail στις Ρυθμίσεις</string>
     <string name="toastbar_contacts_permission_switch_close">Για προσθήκη επαφών, αποδεχτείτε τις απαραίτητες άδειες για το Mail στις Ρυθμίσεις</string>

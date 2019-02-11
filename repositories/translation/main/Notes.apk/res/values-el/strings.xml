@@ -248,5 +248,9 @@
      <string name="cta_dialog_message">Οι σημειώσεις χρειάζονται δικαιώματα για σύνδεση στο διαδίκτυο, εγγραφή ήχου και πρόσβαση στις επαφές σας για κανονική λειτουργία. Επιτρέπετε?</string>
      <string name="cta_dialog_title">Απαιτούνται δικαιώματα</string>
      <string name="unclassfied_folder_name">Αταξινόμητα</string>
+	  <string name="permission_intro_contact">Για την επισήμανση σημειώσεων που λαμβάνονται κατά τη διάρκεια κλήσεων</string>
+	  <string name="permission_intro_microphone">Για την εγγραφή φωνητικών σημειώσεων</string>
+	  <string name="permission_intro_phone">Για την επισήμανση σημειώσεων που λαμβάνονται κατά τη διάρκεια κλήσεων</string>
+	  <string name="permission_intro_storage">Για την αποθήκευση σημειώσεων και συνημμένων</string>
 </resources>
 

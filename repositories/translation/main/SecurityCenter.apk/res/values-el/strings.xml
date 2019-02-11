@@ -1469,7 +1469,7 @@
   <string name="percent_text_formatted">%s%%</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Αποδοχή</string>
-  <string name="permission_action_prompt">Κοινοποίηση</string>
+  <string name="permission_action_prompt">Αίτηση</string>
   <string name="permission_action_reject">Απόρριψη</string>
   <string name="permission_close_permission_control_dialog_msg">Όταν η διαχείριση δικαιωμάτων είναι απενεργοποιημένη, οι εφαρμογές δεν θα ζητούν την άδεια σας πριν διαβάσουν τις επαφές σας, το αρχείο καταγραφής κλήσεων, να αλλάξουν τις ρυθμίσεις του συστήματος, ή να έχουν πρόσβαση στην κάμερα και άλλους πόρους της συσκευής.</string>
   <string name="permission_close_permission_control_dialog_title">Απενεργοποίηση διαχείρισης δικαιωμάτων;</string>

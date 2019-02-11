@@ -152,7 +152,7 @@
      <string name="perm_sysopt_boost_auto_start_summary">Η εφαρμογή θα ξεκινά αυτόματα!</string>
      <string name="permdesc_togglePermissions">Επιτρέπει στον κάτοχο να ξεκινήσει το UI για εναλλαγή αδειών εφαρμογών. Δεν θα πρέπει να απαιτηθεί ποτέ για συνήθεις εφαρμογές.</string>
      <string name="permission_action_accept">Αποδοχή</string>
-     <string name="permission_action_prompt">Ερώτηση</string>
+     <string name="permission_action_prompt">Αίτηση</string>
      <string name="permission_action_reject">Απόρριψη</string>
      <string name="permission_group_title_charges_related">Τηλέφωνο</string>
      <string name="permission_group_title_media_related">Πολυμέσα</string>

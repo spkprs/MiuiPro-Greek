@@ -730,4 +730,11 @@
   <string name="ultra_wide_close_tip">Η λειτουργία υπέρ ευρείας γωνίας είναι ανενεργή</string>
    <string name="ultra_wide_mode_use_hint_text">"Χρησιμοποιήστε αυτήν τη λειτουργία για να συμπεριλάβετε περισσότερα απο την σκηνή στη φωτογραφία σας.
 Η λειτουργία Υπέρ ευρείας γωνίας βοηθάει όταν δεν μπορείτε να μετακινηθείτε μακρύτερα από τη σκηνή."</string>
+  <string name="autozoom_landscape_hint">Συνιστάται λήψη σε λειτ. τοπίου</string>
+  <string name="lighting_pattern_holi">Holi</string>
+  <string name="pref_camera_quick_shot_anim_enable_title">Ενεργοποίηση γρήγορης λήψης κίνησης</string>
+  <string name="pref_camera_quick_shot_enable_title">Ενεργοποίηση γρήγορης λήψης</string>
+  <string name="autozoom_click_hint">Αγγίξτε ένα αντικείμενο για εκκίνηση παρακολούθησης. Μείνετε τουλάχιστον 3 μέτρα μακριά για καλύτερο αποτέλεσμα.</string>
+  <string name="autozoom_disabled_hint">Σταμάτησε η παρακολούθηση κινούμενου αντικειμένου</string>
+  <string name="autozoom_hint">Παρακολούθηση κινούμενου αντικειμένου</string>  
 </resources>

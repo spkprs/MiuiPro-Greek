@@ -22,4 +22,5 @@
     <string name="debug_tool_email_subject">Επισύναψη εργαλείο εντοπισμού σφαλμάτων ημερολογίου</string>
     <string name="debug_tool_email_body">Επισυνάπτεται η βάση δεδομένων του ημερολογίου μου με όλα τα ραντεβού μου και τις προσωπικές πληροφορίες. Χειριστείτε με προσοχή.</string>
     <string name="channel_name">Υπενθυμίσεις ημερολογίου</string>
+    <string name="cta_notice">Εκκινίστε το Ημερολόγιο και επιτρέψτε να συνδεθεί πρώτα στο Διαδίκτυο.</string>
 </resources>
