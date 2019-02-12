@@ -1232,7 +1232,7 @@
    <string name="wfcmode_wifi_only">Wi-Fi μόνο</string>
    <string name="wfcmode_wifi_preferred">Wi-Fi προτίμηση</string>
    <string name="wifi_call_setting">Wi-Fi κλήσεις</string>
-   <string name="wificall_switch_summary">Η συσκευή σας μπορεί να αλλάξει μεταξύ Wi-Fi και VoLTE όταν η σύνδεση είναι ασθενής</string>
+   <string name="wificall_switch_summary">Χρησιμοποιήστε το Wi-Fi για πραγματοποίηση και λήψη κλήσεων, όποτε είναι δυνατόν</string>
    <string name="wificall_switch_title">Κάντε κλήσεις με χρήση Wi-Fi</string>
    <string name="button_color_title">Χρώμα Πλήκτρου</string>
    <string name="text_color_title">Χρώμα ετικέτας Πλήκτρου</string>
