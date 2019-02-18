@@ -385,4 +385,8 @@
      <item quantity="other">Εισάγετε τουλάχιστον %d χαρακτήρες</item>
      <item quantity="one">Εισάγετε τουλάχιστον %d χαρακτήρα</item>
   </plurals>
+  <plurals name="hints_scan_danger_result_with_number">
+      <item quantity="other">%d κίνδυνοι  εντοπίστηκαν, διορθώστε τώρα</item>
+      <item quantity="one">%d κίνδυνος εντοπίστηκε, διορθώστε τώρα</item>
+   </plurals>
 </resources>

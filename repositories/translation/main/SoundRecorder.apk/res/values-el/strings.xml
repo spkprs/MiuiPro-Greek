@@ -274,4 +274,10 @@
   <string name="webview_network_unavaliable">"Δεν είναι δυνατή η σύνδεση στο δίκτυο"</string>
   <string name="webview_service_unavailiable">Μη διαθέσιμη υπηρεσία</string>
   <string name="webview_try_again">Δοκιμάστε ξανά</string>
+  <string name="korea_permission_phone">Τηλέφωνο</string>
+  <string name="korea_permission_phone_resc">Για πρόσβαση στην κατάσταση της συσκευής και χειρισμός εγγραφών κατά τη διάρκεια κλήσεων</string>
+  <string name="korea_permission_record">Μικρόφωνο</string>
+  <string name="korea_permission_record_resc">Για την εγγραφή ήχου</string>
+  <string name="korea_permission_storage">Αποθήκευση</string>
+  <string name="korea_permission_storage_desc">Για την αποθήκευση εγγραφών</string>
 </resources>
