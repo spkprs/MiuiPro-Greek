@@ -667,7 +667,7 @@
 	  <string name="micloud_sync_result_sim_activated_error">Σφάλμα ενεργοποίησης κάρτας SIM</string>
 	  <string name="micloud_sync_result_wifi_only">Συγχρονισμός μέσω WiFi μόνο</string>
 	  <string name="sync_detail_summary_off">Ανενεργό</string>
-	  <string name="sync_detail_text">Λεπτομέριες συγχρονισμού</string>
+	  <string name="sync_detail_text">Λεπτομ. συγχρονισμού</string>
 	  <string name="user_storage_info_available_text_prefix">%s διαθέσιμα</string>
 	  <string name="warning_bar_action_add_short_cut">Προσθήκη</string>
 	  <string name="warning_bar_action_close">Κλείστε</string>

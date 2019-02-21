@@ -253,8 +253,8 @@
   <string name="eab_provisioned_switch_string">Παρέχεται EAB/παρουσία</string>
   <string name="enable_gnss_raw_meas_full_tracking">Αναγκαστικές πλήρεις μετρήσεις GNSS</string>
   <string name="enable_gnss_raw_meas_full_tracking_summary">Παρακολούθηση όλων των πανοραμικών συνθέσεων και των συχνοτήτων GNSS χωρίς κύκλο λειτουργιών</string>
-  <string name="enable_gpu_debug_layers">Ενεργ. επιπ. εντ. σφ. GPU</string>
-  <string name="enable_gpu_debug_layers_summary">Φόρτωση επιπ. εντοπ. σφ. GPU για εφαρμ. αντιμ. σφ.</string>
+  <string name="enable_gpu_debug_layers">Ενεργ. επιπ. εντοπ. σφαλμάτων GPU</string>
+  <string name="enable_gpu_debug_layers_summary">Φόρτωση επιπέδου σφαλμάτων GPU για εφαρμ. εντοπισμού σφαλμάτων</string>
   <string name="enterprise_privacy_backups_enabled">Δημιουργούνται αντίγραφα ασφαλείας για τα δεδομένα αυτής της συσκευής</string>
   <string name="enterprise_privacy_ca_certs_device">Αξιόπιστα διαπιστευτήρια</string>
   <string name="enterprise_privacy_ca_certs_personal">Αξιόπιστα διαπιστευτήρια στο προσωπικό προφίλ σας</string>
