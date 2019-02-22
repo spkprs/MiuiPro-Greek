@@ -32,7 +32,7 @@
   <string name="accessibility_vibration_intensity_high">Υψηλή</string>
   <string name="accessibility_vibration_intensity_low">Χαμηλή</string>
   <string name="accessibility_vibration_intensity_medium">Μεσαία</string>
-  <string name="accessibility_vibration_intensity_off">Ανενεργές</string>
+  <string name="accessibility_vibration_intensity_off">Ανενεργή</string>
   <string name="accessibility_vibration_settings_title">Δόνηση</string>
   <string name="accessibility_vibration_summary">Ήχος κλήσης %1$s, αφή %2$s</string>
   <string name="accessibility_vibration_summary_high">Το επίπεδο της δόνησης κλήσεων και ειδοποιήσεων έχει οριστεί ως υψηλό</string>
@@ -214,7 +214,7 @@
   <string name="data_used_formatted">Έχουν χρησιμοποιηθεί ^1 ^2</string>
   <string name="data_warning_footnote">Η προειδοποίηση δεδομένων και το όριο δεδομένων υπολογίζονται από τη συσκευή σας. Μπορεί να διαφέρουν από τα δεδομένα εταιρείας κινητής τηλεφωνίας.</string>
   <string name="date_time_24hour_auto">Αυτόματη μορφή 24ώρου</string>
-  <string name="date_time_24hour_auto_summary">Χρήση προεπιλογής τοπικών ρυθμίσεων</string>
+  <string name="date_time_24hour_auto_summary">Χρήση τοπικής προεπιλογής</string>
   <string name="date_time_search_region">Αναζήτηση περιοχής</string>
   <string name="date_time_select_fixed_offset_time_zones">Επιλογή μετατόπισης UTC</string>
   <string name="date_time_select_region">Περιοχή</string>

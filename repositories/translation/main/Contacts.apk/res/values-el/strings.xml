@@ -823,7 +823,7 @@
   <string name="picker_recent_list_empty">Δεν υπάρχουν πρόσφατες επαφές</string>
   <string name="pickerNewContactHeader">Δημιουργία νέας επαφής</string>
   <string name="pickerNewContactText">Δημιουργία νέας επαφής</string>
-  <string name="pkgLabel">Επαφές και πληκτρολόγιο</string>
+  <string name="pkgLabel">Επαφές-Πληκτρολόγιο</string>
   <string name="play_add_incall_show_entry">Αναπαραγωγή ή προσθήκη βίντεο</string>
   <string name="play_incall_show_entry">Αναπαραγωγή βίντεο</string>
   <string name="postal_address">Διεύθυνση</string>

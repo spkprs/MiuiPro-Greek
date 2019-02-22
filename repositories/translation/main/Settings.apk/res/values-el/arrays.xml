@@ -979,7 +979,7 @@
     <item>Πλήκτρο Πίσω αριστερά, Μενού δεξιά</item>
   </string-array>
   <string-array name="screen_key_press_action">
-    <item>Εμφάνιση πίνακα πρόσφατων εφαρμογών</item>
+    <item>Εμφάνιση πρόσφατων εφαρμογών</item>
     <item>Εμφάνιση μενού</item>
   </string-array>
   <string-array name="screen_optimize_summary">
