@@ -83,7 +83,7 @@
      <string name="flash_lable">Φλας</string>
      <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
      <string name="import_contact">Εισαγωγή επαφής</string>
-     <string name="impunity_declaration_content">"Ο Σαρωτής απαιτεί άδεια πρόσβασης στην Κάμερα για δημιουργία φωτογραφιών. Μη τον χρησιμοποιείτε για φωτογράφηση αντικειμένων που περιέχουν προσωπικές πληροφορίες.  Όταν επιλέξετε \"Αποδοχή\", συμφωνείτε με την &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Πολιτική Απορρήτου&lt;/a>&lt;/font> μας, και την πρόσβαση του Σαρωτή στο διαδύκτιο."</string>
+     <string name="impunity_declaration_content">"Ο Σαρωτής απαιτεί άδεια πρόσβασης στην Κάμερα για δημιουργία φωτογραφιών. Μη τον χρησιμοποιείτε για φωτογράφηση αντικειμένων που περιέχουν προσωπικές πληροφορίες.  Όταν επιλέξετε \"Αποδοχή\", συμφωνείτε με την &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Πολιτική Απορρήτου&lt;/a>&lt;/font> μας, και την πρόσβαση του Σαρωτή στο διαδίκτυο."</string>
      <string name="impunity_declaration_negative_text">Έξοδος</string>
      <string name="impunity_declaration_positive_text">Αποδοχή</string>
      <string name="impunity_declaration_title">Πολιτική Απορρήτου</string>
@@ -201,7 +201,7 @@
   <string name="aliusersdk_api_unauthorized">API μη εξουσιοδοτημενο</string>
   <string name="amazon_assistant_shopping_title">Εύρεση σε Amazon</string>
   <string name="blog">Weibo</string>
-  <string name="business_card">Επαγγελματική Κάρτα</string>
+  <string name="business_card">Κάρτα</string>
   <string name="business_card_title">Τοποθετήστε την κάρτα μέσα στο πλαίσιο</string>
   <string name="business_copy">Αντιγραφή</string>
   <string name="business_new_contacts">Δημιουργία επαφής</string>
@@ -248,7 +248,7 @@
   <string name="plant_support">"(Τεχνική Υποστήριξη)"</string>
   <string name="plant_title">Σαρώστε το φυτό που θέλετε να αναγνωρίσετε</string>  
   <string name="about_title">Σχετικά</string>
-  <string name="business_card_result_title">Επαγγελματική κάρτα</string>
+  <string name="business_card_result_title">Κάρτα</string>
   <string name="choose_pay_title">Επιλέξτε τρόπο πληρωμής</string>
   <string name="no_support_to_translate_type">"Αυτή η γλώσσα δεν υποστηρίζεται"</string>
   <string name="scan_support_type">WeChat, Alipay, QR codes, barcodes</string>

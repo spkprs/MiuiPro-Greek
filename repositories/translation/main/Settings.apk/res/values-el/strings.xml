@@ -5047,7 +5047,7 @@
   <string name="vpn_menu_edit">Επεξεργασία δικτύου</string>
   <string name="vpn_menu_lockdown">Πάντα ενεργό VPN</string>
   <string name="vpn_missing_cert">Λείπει ένα πιστοποιητικό Παρακαλώ επεξεργαστείτε το προφίλ</string>
-  <string name="vpn_mppe">PPP encryption MPPE</string>
+  <string name="vpn_mppe">Κρυπτογράφηση PPP (MPPE)</string>
   <string name="vpn_name">Όνομα</string>
   <string name="vpn_no_ca_cert">(να μη γίνει επαλήθευση διακομιστή)</string>
   <string name="vpn_no_network">Δεν υπάρχει σύνδεση με το δίκτυο Παρακαλώ δοκιμάστε αργότερα</string>

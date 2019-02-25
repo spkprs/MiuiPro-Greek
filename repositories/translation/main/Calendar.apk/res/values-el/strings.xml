@@ -371,4 +371,8 @@
   <string name="action_bar_date_button_title">Υπολογισμός ημερ.</string>
   <string name="talkback_festival_and">και</string>
   <string name="talkback_festival_is">Η γιορτή είναι</string>
+  <string name="notification_open_setting_button_exit">Όχι ευχαριστώ</string>
+  <string name="notification_open_setting_button_ok">Αποδοχή</string>
+  <string name="notification_open_setting_message">"Δεν θα μπορείτε να λαμβάνετε ειδοποιήσεις σχετικά με συμβάντα εκτός εάν επιτρέψετε στο Ημερολόγιο να σας στέλνει ειδοποιήσεις."</string>
+  <string name="notification_open_setting_title">Αποδοχή ειδοποιήσεων?</string>
 </resources>

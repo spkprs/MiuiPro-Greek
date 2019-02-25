@@ -40,7 +40,7 @@
   <string name="export_to_note">Εξαγωγή στις Σημειώσεις</string>
   <string name="head_set_tip_dialog_msg">Αποσυνδέστε τα ακουστικά για να μπορείτε να εγγράφετε ήχο με συγκεκριμένες προεπιλογές (π.χ. Μουσική, Φωνή).</string>
   <string name="head_set_tip_dialog_ok">Το κατάλαβα</string>
-  <string name="head_set_tip_dialog_title">Χρησιμοποιήστε το εσωτερικό μικρόφωνο</string>
+  <string name="head_set_tip_dialog_title">Χρήση εσωτ. μικροφώνου</string>
   <string name="invalid_argument">Μη έγκυρη παράμετρος</string>
   <string name="keywords_search_call_record">Εγγραφή κλήσεων, Εγγραφή κλήσης, Εγγραφή κλήσεων, Εγγραφές κλήσεων</string>
   <string name="keywords_search_record">Νέα εγγραφή, Προσθήκη εγγραφής, Εγγραφή, Εγγραφές, Μεταγραφή, Μεταγραφή, Εγγραφή, Ηχογράφηση, Ηχογράφηση, Εφαρμογή εγγραφής, Εγγραφή εφαρμογής, Πώς μπορώ να καταγράψω, Τρόπος εγγραφής ήχου, Πού είναι η συσκευή εγγραφής, Εγγραφή MIUI</string>

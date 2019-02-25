@@ -120,6 +120,7 @@
   <string name="current_version">Τρέχουσα έκδοση</string>
   <string name="data_usage_warning">Χρήση δεδομένων</string>
   <string name="data_usage_warning_summary">Η χρήση σύνδεσης δεδομένων κινητής τηλεφωνίας για την αναπαραγωγή μουσικής υψηλής ποιότητας μπορεί να επιφέρει επιπλέον χρεώσεις.</string>
+  <string name="data_use_desc">Νομικά έγγραφα</string>
   <string name="date_format_str">dd-MM-yyyy</string>
   <string name="delete">Διαγραφή</string>
   <string name="delete_download">Διαγραφή</string>

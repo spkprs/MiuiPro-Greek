@@ -264,5 +264,15 @@
     <string name="update_notification_info">Ενημέρωση δεδομένων στο παρασκήνιο…</string>
     <string name="weather_alert_channel_name">Ειδοποιήσεις</string>
     <string name="weather_service_channel_name">Υπηρεσίες παρασκηνίου</string>
-  <string name="activity_find_city_dialog_message_location_service">Για λήψη πληροφοριών καιρικών συνθηκών, επιτρέψτε στο Weather την πρόσβαση στην τοποθεσία σας.</string>
+	  <string name="activity_find_city_dialog_message_location_service">Για λήψη πληροφοριών καιρικών συνθηκών, επιτρέψτε στο Weather την πρόσβαση στην τοποθεσία σας.</string>
+	  <string name="permission_device_info">Πληροφορίες συσκευής</string>
+	  <string name="permission_device_introduce">Για την αναγνώριση της συσκευής με βάση το μοντέλο και ΙΜΕΙ, για την παροχή μεταφρασμένων υπηρεσιών με βάση τις προτιμήσεις γλώσσας</string>
+	  <string name="permission_exit">Έχοδος</string>
+	  <string name="permission_privacy">Πολιτική απορρήτου (υποχρεωτικό)</string>
+	  <string name="permission_select_all">Επιλογή όλων</string>
+	  <string name="permission_storage">Αποθ. Χώρος</string>
+	  <string name="permission_storage_introduce">Για την πρόσβαση σε στοιχεία στη συσκευή και αποθήκευση αρχείων</string>
+	  <string name="permission_user_protocol">User Agreement (mandatory)</string>
+	  <string name="weather_introduce">Πάντα μαζί σας, στην βροχή ή στον ήλιο.</string>
+	  <string name="weather_permission_agree">Αποδοχή</string>
 </resources>
