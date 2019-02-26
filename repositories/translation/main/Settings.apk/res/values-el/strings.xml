@@ -1077,7 +1077,7 @@
   <string name="color_unspecified">Προεπιλογή</string>
   <string name="color_white">Λευκό</string>
   <string name="color_yellow">Κίτρινο</string>
-  <string name="common_settings">Απλές ρυθμίσεις</string>
+  <string name="common_settings">Γρήγορες ρυθμίσεις</string>
   <string name="complete_parameters">Όλες οι προδιαγραφές</string>
   <string name="complete_settings">Πλήρεις ρυθμίσεις</string>
   <string name="computing_size">Υπολογισμός…</string>
@@ -2065,7 +2065,7 @@
   <string name="infinity_display_slogan">Καινοτομία σε πλήρη προβολή</string>
   <string name="infinity_display_title">Εμφάνιση Πλήρους οθόνης</string>
   <string name="information_dialog_button_text">Το κατάλαβα</string>
-  <string name="input_assistance">Βοήθεια εισόδου</string>
+  <string name="input_assistance">Βοηθός εισόδου</string>
   <string name="input_hint_prefix">Εισαγωγή %1$s</string>
   <string name="input_method">Μέθοδος εισαγωγής</string>
   <string name="input_method_selector">Επιλογή μεθόδου εισόδου</string>
@@ -3150,7 +3150,7 @@
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Κάμερα</string>
   <string name="power_cell">Σήμα κινητής</string>
-  <string name="power_center">Τροφοδοσία</string>
+  <string name="power_center">Βελτιστοποίηση μπαταρίας</string>
   <string name="power_charge_remaining">%1$s υπολειπόμενος χρόνος φόρτισης</string>
   <string name="power_charging_duration">%1$s - %2$s για πλήρη φόρτιση</string>
   <string name="power_checker">Έλεγχος ενέργειας</string>
@@ -3162,7 +3162,7 @@
   <string name="power_hide_mode_title">Διαχείρηση μπαταρίας εφαρμογών</string>
   <string name="power_idle">Τηλέφωνο σε αδράνεια</string>
   <string name="power_last_full_charge_summary">Πριν από ^1</string>
-  <string name="power_mgr">Ενέργεια</string>
+  <string name="power_mgr">Βελτιστοποίηση μπαταρίας</string>
   <string name="power_mode">Ενεργή Λειτουργία</string>
   <string name="power_mode_balanced_title">Ενεργοποίηση Ισορροπημένης Ισχύς</string>
   <string name="power_optimize">Εξοικονόμηση μπαταρίας</string>

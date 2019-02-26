@@ -449,4 +449,5 @@
   <string name="button_touch">Αγγίξτε το δάκτυλό σας στον αισθητήρα</string>
   <string name="dialog_verify">Επαλήθευση του δακτυλικού σας αποτυπώματος</string>
   <string name="dialog_verify_fingerprint_retry">"Αδυναμία επαλήθευσης αποτυπώματος. Δοκιμάστε ξανά."</string>
+  <string name="master_clear_not_available">Η Εργοστασιακή επαναφορά είναι απαγορευμένη απο την εταιρεία σας.</string>
 </resources>

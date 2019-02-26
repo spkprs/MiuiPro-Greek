@@ -263,7 +263,7 @@
   <string name="erase_esim_storage_description">Διαγραφή όλων των eSIMs στο τηλέφωνο. Αυτή η ενέργεια δεν θα ακυρώσει το πρόγραμμα υπηρεσίας κινητής τηλεφωνίας.</string>
   <string name="error_adding_apn_type">Η εταιρεία κινητής τηλεφωνίας δεν επιτρέπει την προσθήκη APN του τύπου %s.</string>
   <string name="expand_button_title">Σύνθετες</string>
-  <string name="feature_flags_dashboard_title">Χαρακτηριστικό σημαίες</string>
+  <string name="feature_flags_dashboard_title">Σημαίες λειτουργίών</string>
   <string name="fingerprint_delete_message">Θέλετε να διαγράψετε αυτό το δακτυλικό αποτύπωμα;</string>
   <string name="fingerprint_delete_title">Κατάργηση \'%1$s\'</string>
   <string name="fingerprint_gesture_screen_title">Ολίσθηση δακτυλ. αποτυπ.</string>
