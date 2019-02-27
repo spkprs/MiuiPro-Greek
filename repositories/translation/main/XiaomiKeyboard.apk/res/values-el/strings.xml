@@ -880,7 +880,7 @@
   <string name="show_language_switch_key">Πλήκτρο εναλλαγής γλώσσας</string>
   <string name="show_language_switch_key_summary">Εμφάνιση κατά την ενεργοποίηση πολλών γλωσσών εισόδου</string>
   <string name="show_setup_wizard_icon">Εμφάνιση εικονιδίου εφαρμογής</string>
-  <string name="show_setup_wizard_icon_summary">Εμφάνιση εικονιδίου εφαρμογής στο πρόγραμμα εκκίνησης</string>
+  <string name="show_setup_wizard_icon_summary">Εμφάνιση εικονιδίου εφαρμογής στον Εκκινητή</string>
   <string name="simeji_download_url">https://market.android.com/details?id=com.simejikeyboard</string>
   <string name="simeji_keyboard">Facemoji Πληκτρολόγιο Lite</string>
   <string name="simeji_keyboard_not_collect">Το Facemoji Keyboard Lite θα προστατεύει πάντα τις προσωπικές σας πληροφορίες και ΔΕΝ θα συλλέγει ΠΟΛΥ τα προσωπικά σας δεδομένα, όπως αριθμούς πιστωτικών καρτών ή κωδικούς πρόσβασης.</string>
