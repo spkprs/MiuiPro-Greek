@@ -162,6 +162,7 @@
         <item quantity="one">"Δεν χρησιμοποιήσατε μοτίβο σας τις τελευταίες %d ώρες. Σχεδιάστε το μοτίβο σας."</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s Ώρες %2$s"</item>
+        <item quantity="other">" %1$sώρες %2$s"</item>
+        <item quantity="one">" %1$sώρα %2$s"</item>
     </plurals>
 </resources>

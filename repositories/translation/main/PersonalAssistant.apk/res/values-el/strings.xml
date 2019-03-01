@@ -872,6 +872,7 @@
     <string name="settings_subtitle">Λάβετε ειδοποιήσεις αφού προσθέσετε κάτι στα αγαπημένα</string>
     <string name="settings_title">Ειδοποίηση για προσθήκη στα αγαπημένα</string>
     <string name="share_title">Μοιραστείτε τη διεύθυνση URL χρησιμοποιώντας</string>
+     <string name="shopping_source">Απο %s</string>
     <string name="shortcut">Συντομεύσεις</string>
     <string name="show_more">Δείτε περισσότερα</string>
      <string name="shopping_setting_mishop">Mi Store</string>
