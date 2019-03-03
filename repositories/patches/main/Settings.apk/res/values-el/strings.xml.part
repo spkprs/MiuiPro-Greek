@@ -32,8 +32,8 @@
   <string name="dim_advanced_title">Μείωση φωτισμού οθόνης</string>
   <string name="dim_advanced_title_seek">Χρονικό όριο φωτισμού</string>
   <string name="Disabled_set">Ανενεργό</string>
-  <string name="double_tap_app_title">Εφαρμογή για διπλό χτύπημα</string>
-  <string name="doubletap_home">Διπλό χτύπημα</string>
+  <string name="double_tap_app_title">Εφαρμογή για διπλό άγγιγμα</string>
+  <string name="doubletap_home">Διπλό άγγιγμα</string>
   <string name="enable_vertical_clock">Κατακόρυφο ρολόι</string>
   <string name="enable_vertical_clock_summary">Κάθετη εμφάνιση ώρας στην οθόνη κλειδώματος</string>
   <string name="endless_desktop_title">Συνεχής κύλιση επιφάνειας εργασίας</string>
