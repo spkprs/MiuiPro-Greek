@@ -32,7 +32,7 @@
   <string name="accelerometer_title">Αυτόματη περιστροφή</string>
   <string name="access_control_app_entry_multiple">Άνοιγμα %s</string>
   <string name="access_control_app_entry_single">Άνοιγμα εφαρμογής</string>
-  <string name="access_control_need_password">%s έχει προστατευτε\n</string>
+  <string name="access_control_need_password">%s έχει προστατευτεί\n</string>
   <string name="access_control_need_to_unlock">Απαιτείται κωδικός</string>
   <string name="access_control_no_back_footer">Πατήστε το εικονίδιο για έξοδο</string>
   <string name="access_control_password_title">Ενεργοποίηση κωδικού</string>
@@ -1444,7 +1444,7 @@
   <string name="device_screen_size">Μέγεθος οθόνης</string>
   <string name="device_screen_usage">Χρήση οθόνης από την πλήρη φόρτιση</string>
   <string name="device_sd_memory">Κάρτα SD</string>
-  <string name="device_share_loading">Δημιουργία εικόνας…</string>
+  <string name="device_share_loading">Δημιουργία εικόνας</string>
   <string name="device_status">Κατάσταση</string>
   <string name="device_status_activity_title">Κατάσταση</string>
   <string name="device_status_summary">Αριθμός Τηλεφώνου, Σήμα, Μπαταρία, IMEI κλπ</string>
