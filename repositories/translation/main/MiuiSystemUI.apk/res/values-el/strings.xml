@@ -1724,4 +1724,8 @@
   <string name="usb_port_overheated_notification_content">Αποσυνδέστε το φορτιστή από τη συσκευή σας και ελέγξτε αν η θύρα φόρτισης είναι καθαρή.</string>
   <string name="usb_port_overheated_title">Η θύρα φόρτισης έχει υπερθερμανθεί. Αποσυνδέστε το φορτιστή.</string>
   <string name="face_unlock_not_roi">Κρατήστε το πρόσωπό σας εντός πλαισίου</string>
+  <string name="face_unlock_fail">"Αδύνατη η επαλήθευση προσώπου"</string>
+  <string name="face_unlock_fail_retry">"Αδύνατη η επαλήθευση του προσώπου σας. Αγγίξτε το εικονίδιο και προσπαθήστε ξανά."</string>
+  <string name="face_unlock_success_stay_screen_msg">Παραμονή στην Οθόνη Κλειδώματος αφού επαληθευτεί το πρόσωπό σας. Σαρώστε προς τα πάνω για άνοιγμα της Αρχικής οθόνης.</string>
+  <string name="face_unlock_success_stay_screen_title">Παραμονή στην Οθόνη Κλειδώματος μετά το ξεκλείδωμα</string>
 </resources>
