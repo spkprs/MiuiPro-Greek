@@ -473,7 +473,7 @@
   <string name="standby_bucket_summary">Κατάσταση αναμονής εφαρμογής: %s</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_data_network_type">Τύπος δικτύου δεδομένων κινητής τηλεφωνίας</string>
-  <string name="status_min_number">ΛΕΠΤΟ</string>
+  <string name="status_min_number">MIN</string>
   <string name="status_number_sim_slot">Αριθμ. τηλ. (υποδοχή sim %1$d)</string>
   <string name="status_number_sim_status">Αριθμός τηλεφώνουν στη SIM</string>
   <string name="status_voice_network_type">Τύπος φωνητικού δικτύου κινητής τηλεφωνίας</string>

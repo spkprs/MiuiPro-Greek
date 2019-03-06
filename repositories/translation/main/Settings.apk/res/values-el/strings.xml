@@ -3270,7 +3270,7 @@
   <string name="priority_storage_settings_summary">Εάν δεν βρεθεί κάρτα SD, τα δεδομένα θα αποθηκευτούν αυτόματα στον εσωτερικό αποθηκευτικό χώρο της συσκευής</string>
   <string name="priority_storage_summary">Επιλέξτε τον προεπιλεγμένο χώρο για την αποθήκευση των δεδομένων σας</string>
   <string name="priority_storage_title">Ρυθμίσεις αποθήκευσης</string>
-  <string name="privacy_authorize_cloud_msg">Για να διασφαλίσετε την ασφάλεια του λογαριασμού σας, συνδεθείτε στο i.mi.com εάν θέλετε να ανακαλέσετε την εξουσιοδότηση για υπηρεσίες Mi Cloud (συμπεριλαμβανομένων των συγχρονισμού και των αντιγράφων ασφαλείας).</string>
+  <string name="privacy_authorize_cloud_msg">Για να διασφαλίσετε την ασφάλεια του λογαριασμού σας, συνδεθείτε στο i.mi.com εάν θέλετε να ανακαλέσετε την εξουσιοδότηση για υπηρεσίες Mi Cloud (συμπεριλαμβανομένων του συγχρονισμού και των αντιγράφων ασφαλείας).</string>
   <string name="privacy_authorize_dialog_agree">Συμφωνώ</string>
   <string name="privacy_authorize_dialog_exit">Έξοδος</string>
   <string name="privacy_authorize_dialog_message">" \"&lt;Data&gt;Για να χρησιμοποιήσετε τα βασικά χαρακτηριστικά αυτής της υπηρεσίας, πρέπει να συμφωνήσετε ότι η Xiaomi θα συλλέγει, επεξεργάζεται και χρησιμοποιεί τα προσωπικά σας δεδομένα. Ανατρέξτε στην πολιτική απορρήτου μας για να μάθετε πώς συλλέγουμε και επεξεργαζόμαστε προσωπικά δεδομένα. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και συμφωνήσει με την &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt; και &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt;.​&lt;/Data&gt;\" "</string>
@@ -4180,6 +4180,7 @@
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
   <string name="sim_slot_empty">Δεν υπάρχει κάρτα SIM</string>
   <string name="sim_status_title">Κατάσταση SIM</string>
+  <string name="sim_status_title_sim_slot">Κατάσταση SIM (υποδοχή sim %1$d)</string>
   <string name="simulate_color_space">Προσομοίωση χρώματος χώρου</string>
   <string name="single_key_use">Χρήση ενός πλήκτρου</string>
   <string name="single_key_use_summary">Το πλήκτρο Home αντί των άλλων δύο κουμπιών για κανονική λειτουργία</string>
@@ -5710,10 +5711,10 @@
   <string name="failed_to_erase_text">Απενεργοποιήστε τον κωδικό Oθόνης Kλειδώματος πριν εισάγετε τον κωδικό \"1217\".</string>
   <string name="failed_to_erase_title">"Αδύνατη η ολοκλήρωση αυτής της ενέργειας"</string>
   <string name="navigation_guide_appswitch_anim_summary">Σαρώστε κατά μήκος της οθόνης ξεκινώντας από την άκρη για να επιστρέψετε στην προηγούμενη εφαρμογή</string>
-  <string name="navigation_guide_appswitch_anim_title">Επιστροφή στην προηγούμενη εφαρμογή</string>
+  <string name="navigation_guide_appswitch_anim_title">Επιστροφή στην προηγούμ. εφαρμ</string>
   <string name="navigation_guide_appswitch_click">Ενεργοποιήστε πρώτα την \"Επιστροφή στην προηγούμενη εφαρμογή\"</string>
     <string name="check_importance_dialog_cancel">Ακύρωση</string>
-    <string name="handy_mode_tips_full_screen">"Όταν χρησιμοποιείτε Χειρονομίες πλήρους οθόνης, μπορείτε να ενεργοποιήσετε τη Λειτουργία με ένα χέρι χρησιμοποιώντας το Quick Ball. Μπορείτε επίσης να μεταβείτε στη χρήση Κουμπιών αντί για Χειρονομίες πλήρους οθόνης."</string>
+    <string name="handy_mode_tips_full_screen">"Όταν χρησιμοποιείτε Χειρονομίες πλήρους οθόνης, μπορείτε να ενεργοποιήσετε τη Λειτουργία με ένα χέρι χρησιμοποιώντας τον Βοηθό Αφής. Μπορείτε επίσης να μεταβείτε στη χρήση Κουμπιών αντί για Χειρονομίες πλήρους οθόνης."</string>
   <string name="close_aod">"Αυτή η λειτουργία δεν μπορεί να συνδυαστεί με την επιλογή \"Πάντα σε λειτουργία\". Απενεργοποιήστε πρώτα την επιλογή \"Πάντα σε λειτουργία\".</string>
   <string name="close_fod">"Δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή σας χρησιμοποιώντας το δακτυλικό σας αποτύπωμα όταν η οθόνη είναι ανενεργή. Θα λειτουργήσει μόνο όταν η οθόνη είναι ενεργοποιημένη."</string>
   <string name="close_fod_aod">"Δεν θα είστε σε θέση να ξεκλειδώσετε τη συσκευή σας με το δακτυλικό σας αποτύπωμα όταν η οθόνη είναι ανενεργή. Η \"Πάντα σε λειτουργία\" δεν θα είναι διαθέσιμη επίσης. Το ξεκλείδωμα μέσω δακτυλικών αποτ. θα λειτουργήσει μόνο όταν η οθόνη είναι ενεργή. "</string>
