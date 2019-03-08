@@ -45,9 +45,14 @@
   <string name="alaka_required">Πρέπει να πληρώσετε για να ακούσετε αυτό το τραγούδι</string>
   <string name="album_label">Εξώφυλλα άλμπουμ</string>
   <string name="album_name">Άλμπουμ</string>
+  <string name="all_albums">Όλα τα άλμπουμ</string>
   <string name="all_album_count">Όλα τα άλμπουμ (%d)</string>
+  <string name="all_artists">Όλοι οι καλλιτέχνες</string>
+  <string name="all_playlists">Όλες οι λίστες</string>
   <string name="all_playlist_count">Όλες οι λίστες (%d)</string>
+  <string name="all_songs">Ολα τα τραγούδια</string>
   <string name="all_tracks">Όλα τα τραγούδια</string>
+  <string name="all_videos">Όλα τα βίντεο</string>
   <string name="already_download">Λήψη…</string>
   <string name="already_download_btn">Λήψη…</string>
   <string name="already_favorited">Είναι ήδη ως αγαπημένο</string>
@@ -584,6 +589,8 @@
   <string name="search_empty">Αδυναμία εύρεσης αποτελεσμάτων</string>
   <string name="search_for_album">Άλμπουμ</string>
   <string name="search_for_artist">Καλλιτέχνης</string>
+  <string name="search_hint_local">Αναζήτηση τραγουδιών στη συσκευή</string>
+  <string name="search_hint_online">Αναζητήστε καλλιτέχνες, άλμπουμ, τραγούδια, λίστες και βίντεο στο διαδίκτυο</string>
   <string name="search_hint">Καλλιτέχνες Τραγούδια Άλμπουμ, κ.α.</string>
   <string name="search_history_clear_all">Εκκαθάριση</string>
   <string name="search_instant_online_music">Online</string>
@@ -658,8 +665,10 @@
   <string name="tab_artist">Καλλιτέχνες</string>
   <string name="tab_artist_list">Καλλιτέχνες</string>
   <string name="tab_folder">Φάκελοι</string>
+  <string name="tab_playlist">Λίστες</string>
   <string name="tab_track">Τραγούδια</string>
   <string name="tab_track_list">Τραγούδια</string>
+  <string name="tab_video">Βίντεο</string>
   <string name="take_effect_afater_restart">Επανεκκινήσετε την εφαρμογή για εφαρμογή της ρύθμισης.</string>
   <string name="talkback_back">Πίσω</string>
   <string name="talkback_batch_process">Πολλαπλά στοιχεία</string>
