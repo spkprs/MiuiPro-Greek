@@ -905,6 +905,7 @@
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Προτιμώμενος τύπος δικτύου</string>
   <string name="preferred_phone_account">Προτιμώμενος λογαριασμός κλήσης</string>
+  <string name="preferred_wificall_title">Προτιμήσεις δικτύου</string>
   <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
   <string name="private_num">Απόρρητος αριθμός</string>
   <string name="progress_dialog_exiting_ecm">Έξοδος από τη λειτουργία επιστροφής κλήσης έκτακτης ανάγκης</string>
@@ -1228,9 +1229,9 @@
   <string name="prompt_when_turnon_volte_without_lte">"Το δίκτυο VoLTE  δεν είναι διαθέσιμο τώρα. Η ενεργοποίησή του ενδέχεται να σας εμποδίσει να πραγματοποιείσετε κανονικές κλήσεις."</string>
   <string name="switch_dds_to_sub_alert">Ορίστε αυτήν την κάρτα ως προεπιλεγμένη κάρτα δεδομένων.</string>
   <string name="volte_tips_when_turn_on">Οι υπηρεσίες της China Telecom VoLTE παρέχονται μόνο στις περιοχές με κάλυψη δικτύου VoLTE. Οι υπηρεσίες VoLTE παρέχονται από τον φορέα.</string>
-   <string name="wfcmode_mobile_preferred">Κινητής προτίμηση</string>
+   <string name="wfcmode_mobile_preferred">Προτίμηση Δεδ. Κινητής</string>
    <string name="wfcmode_wifi_only">Wi-Fi μόνο</string>
-   <string name="wfcmode_wifi_preferred">Wi-Fi προτίμηση</string>
+   <string name="wfcmode_wifi_preferred">Προτίμηση Wi-Fi</string>
    <string name="wifi_call_setting">Wi-Fi κλήσεις</string>
    <string name="wificall_switch_summary">Χρησιμοποιήστε το Wi-Fi για πραγματοποίηση και λήψη κλήσεων, όποτε είναι δυνατόν</string>
    <string name="wificall_switch_title">Κάντε κλήσεις με χρήση Wi-Fi</string>
@@ -1253,5 +1254,5 @@
 Οι κλήσεις έκτακτης ανάγκης είναι δυνατές μόνο σε περιοχές με κυψελοειδή κάλυψη."</string>
    <string name="vowifi_emergency_warning_title">Επείγουσες κλήσεις μέσω WiFi</string>
    <string name="wifi_call_setting_vodafone_de">WiFi κλήσεις</string>
-   <string name="wifi_call_setting_vodafone_uk">WiFi καλεί</string>
+   <string name="wifi_call_setting_vodafone_uk">WiFi κλήσεις</string>
 </resources>
