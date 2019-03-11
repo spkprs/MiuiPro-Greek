@@ -400,7 +400,7 @@
   <string name="audio_files_title">Αρχεία ήχου</string>
   <string name="audio_profile_settings_title">Προφίλ ήχου</string>
   <string name="audio_record_proc_title">Ακύρωση θορύβου</string>
-  <string name="auto_brightness_default_title">Προεπιλογή</string>
+  <string name="auto_brightness_default_title">Κανονικό</string>
   <string name="auto_brightness_disclaimer">Βελτιστοποιήστε το επίπεδο φωτεινότητας για το διαθέσιμο φως. Όταν είναι ενεργή η εφαρμογή, μπορείτε να προσαρμόσετε τη φωτεινότητα προσωρινά.</string>
   <string name="auto_brightness_high_title">Υψηλή</string>
   <string name="auto_brightness_low_title">Χαμηλή</string>
@@ -1150,7 +1150,7 @@
   <string name="convert_to_file_encryption">Μετατροπή σε κρυπτογράφηση αρχείων</string>
   <string name="convert_to_file_encryption_done">Τα αρχεία κρυπτογραφούνται</string>
   <string name="convert_to_file_encryption_enabled">Μετατρέπω…</string>
-  <string name="cool_color">Κρύο</string>
+  <string name="cool_color">Ψυχρό</string>
   <string name="copyright_title">Πνευματικά δικαιώματα</string>
   <string name="country_name">%s (σύστημα)</string>
   <string name="create">Δημιουργία</string>
@@ -3129,7 +3129,7 @@
   <string name="person_hotpot">"Hotspots Κινητής "</string>
   <string name="personal_data_section_title">Προσωπικά δεδομένα</string>
   <string name="personal_device_admin_title">Προσωπικά</string>
-  <string name="personal_section_title">Προσωπικές Επιλογές</string>
+  <string name="personal_section_title">Εξατομίκευση</string>
   <string name="phone_call_noise_suppression">Καταστολή θορύβου των κλήσεων</string>
   <string name="phone_info_label">Πληροφορίες τηλεφώνου</string>
   <string name="phone_language">Γλώσσες</string>
@@ -4510,7 +4510,7 @@
   <string name="system_alert_window_on">Ναι</string>
   <string name="system_alert_window_settings">Σχεδίαση πάνω από άλλες εφαρμογές</string>
   <string name="system_alert_window_summary" formatted="false">%d από %d εφαρμογές επιτρέπεται να σχεδιάζουν πάνω από άλλες εφαρμογές</string>
-  <string name="system_and_device_section_title">Σύστημα και Συσκευή</string>
+  <string name="system_and_device_section_title">Ρυθμίσεις Συστήματος</string>
   <string name="system_app">(Σύστημα)</string>
   <string name="system_app_settings">Ρυθμίσεις εφαρμ. Συστήματος</string>
   <string name="system_apps_updater">Ενημέρωση εφαρμ. Συστήματος</string>
@@ -5951,5 +5951,11 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="settings_notify_new_version">Υπάρχει διαθέσιμη ενημέρωση. Αγγίξτε για προβολή λεπτομερειών.</string>
   <string name="crypt_keeper_switch_to_pattern">Χρήση Μοτίβου</string>
   <string name="crypt_keeper_switch_to_pin">Χρήση PIN</string>
+   <string name="login_account_summary">Διαχειριστείτε λογαριασμούς, υπηρεσίες cloud, πληρωμές και πολλά άλλα</string>
+   <string name="miui_more_special_feature">Εξερευνήστε νέα χαρακτηριστικά</string>
+   <string name="miui_special_feature">Ειδικά χαρακτηριστικά</string>
+   <string name="other_settings_sync_settings">Συγχρονισμός</string>
+   <string name="unlogin_account_summary">Όλες οι υπηρεσίες Mi. Ένας Λογαριασμός Mi</string>
+   <string name="unlogin_account_title">Συνδεθείτε στο Λογαριασμό Mi</string>
 </resources>
 
