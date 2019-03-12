@@ -255,4 +255,5 @@
   <string name="volume_boost_text">Ολοκληρώθηκε η ενίσχυση έντασης</string>
   <string name="supp_service_notification_call_waiting">Ο αριθμός που καλέσατε είναι απασχολημένος. Παρακαλώ περιμένετε…</string>   
   <string name="call_not_support_high_frequency_click">"Μην αγγίζετε αυτό το κουμπί τόσο συχνά"</string>
+  <string name="volte_call">Κλήσεις VoLTE</string>
 </resources>
