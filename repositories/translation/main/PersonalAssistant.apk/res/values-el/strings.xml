@@ -1138,5 +1138,15 @@
   <string name="notification_channel_shopping_description">Ειδοποιήσεις για τα προϊόντα που προστέθηκαν στα αγαπημένα ή το καλάθι αγορών σας</string>
   <string name="book_dep_city">Κανονικά</string>
   <string name="card_expand_note_add_checkbox">Προσθήκη πλαισίου ελέγχου</string>
+  <string name="clock_alarm">Αφύπνιση</string>
+  <string name="clock_parent">Ρολόι</string>
+  <string name="google_assistant">Βοηθός</string>
+  <string name="google_parent">Google</string>
+  <string name="midrop_parent">Mi Drop</string>
+  <string name="midrop_send">Αποστολή</string>
+  <string name="whatsapp_parent">WhatsApp</string>
+  <string name="whatsapp_photos">Φωτογραφίες</string>
+  <string name="disclaimer_content">Αυτή η λειτουργία παρέχεται από την %1$s. Η %1$s φέρει κάθε ευθύνη σχετικά με τις υπηρεσίες που παρέχει. Επικοινωνήσετε με την %1$s αν έχετε ερωτήσεις.</string>
+  <string name="disclaimer_title">Αποποίηση ευθυνών</string>
 </resources>
 
