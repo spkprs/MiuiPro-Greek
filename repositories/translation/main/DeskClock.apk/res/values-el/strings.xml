@@ -2,6 +2,7 @@
 <resources>
     <string name="add_alarm">Προσθήκη</string>
     <string name="add_clock">Προσθήκη Ρολογιού</string>
+    <string name="abc_action_mode_done">Τέλος</string>
     <string name="add_timezone_title">Προσθήκη ζώνη ώρας</string>
     <string name="alarm_alert_alert_silenced">Η αφύπνιση σταματά μετά από %1$s.</string>
     <string name="alarm_alert_snooze_set">Αναβολή για %d λεπ.</string>
@@ -107,7 +108,7 @@
     <string name="minutes">%d λεπ</string>
     <string name="module_download_cancel">Όχι ευχαριστώ</string>
     <string name="module_download_data_msg">"Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος και χρονομέτρου. 20MB δεδομένα κινητής τηλεφωνίας απαιτούνται. Αποδοχή?"</string>
-    <string name="module_download_data_msg_golbal">"Το ρολόι πρέπει να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος και χρονομέτρου. 20MB δεδομένα κινητής τηλεφωνίας απαιτούνται. Αποδοχή?"</string>
+    <string name="module_download_data_msg_golbal">"Το ρολόι πρέπει να κάνει λήψη πρόσθετους ήχους περιβάλλοντος και χρονομέτρου για το MIUI 10. Περίπου 20MB απαιτούνται. Αποδοχή?"</string>
     <string name="module_download_msg">Το ρολόι πρέπει να συνδεθεί στο διαδίκτυο προκειμένου να μεταφορτώσει αρχεία για το MIUI 10 ήχους περιβάλλοντος και χρονομέτρου. Αποδοχή?</string>
     <string name="module_download_msg_golbal">Το ρολόι πρέπει να μεταφορτώσει αρχεία ήχων περιβάλλοντος και χρονομέτρου για το MIUI 10. Αποδοχή?</string>
     <string name="module_download_ok">Αποδοχή</string>
@@ -215,5 +216,6 @@
 	  <string name="module_download_data_msg_replace">Διατίθεται ενημέρωση ήχου έξυπνων ειδοποιήσεων (≈ 20MB). Σύνδεση στο δίκτυο για λήψη χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας;</string>
 	  <string name="module_download_msg_replace">Διατίθεται ενημέρωση ήχου έξυπνων ειδοποιήσεων. Σύνδεση στο δίκτυο για λήψη τώρα?</string>
 	  <string name="search_menu_title">Αναζήτηση</string>
+     <string name="set_alarm_done">Τέλος</string>
 </resources>
 
