@@ -148,4 +148,8 @@
         <item quantity="other">%1$s προτάσεις αυτόματης συμπλήρωσης</item>
         <item quantity="one">Μία πρόταση αυτόματης συμπλήρωσης</item>
     </plurals>
+     <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Ξαναπροσπαθήστε σε %d δευτ.</item>
+        <item quantity="one">Ξαναπροσπαθήστε σε 1 δευτ.</item>
+     </plurals>
 </resources>
