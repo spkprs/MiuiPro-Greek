@@ -748,6 +748,5 @@
   <string name="app_permission_use_group_phone_desc">Για τις υπηρεσίες Google Push</string>
   <string name="app_permission_use_group_storage">Αποθ. χώρος</string>
   <string name="app_permission_use_group_storage_desc">Για εύρεση και αναπαραγωγή τραγουδιών αποθηκευμένων στη συσκευή</string>
-  <string name="data_use_desc">Νομικά έγγραφα</string>
   <string name="privacy_desc">Πολιτική απορρήτου (υποχρεωτική)</string>
 </resources>

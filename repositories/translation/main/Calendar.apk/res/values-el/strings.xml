@@ -388,9 +388,6 @@
 	 <string name="flight_check_in">Έλεγχος εισιτηρίου</string>
 	 <string name="flight_check_in_done">Εισιτήρ. Ελέχθηκε</string>
 	 <string name="flight_check_in_now">Έλεγχος εισιτηρ. τώρα</string>
-	 <string name="flight_check_in">Έλεγχος εισιτηρίου</string>
-	 <string name="flight_check_in_done">Εισιτήρ. Ελέχθηκε</string>
-	 <string name="flight_check_in_now">Έλεγχος εισιτηρ. τώρα</string>
 	 <string name="flight_detail_tips">Περισ. υπηρ. πτήσεων：%1$s</string>
 	 <string name="flight_detail_tips_url">VariFlight</string>
 	 <string name="flight_detail_title">Διαδρομή πτήσης</string>
