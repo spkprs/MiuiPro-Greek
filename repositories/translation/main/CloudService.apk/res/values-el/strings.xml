@@ -103,7 +103,7 @@
     <string name="user_agreement_link">"Mi Cloud's Όροι χρήσης"</string>
     <string name="user_agreement_content">Χρησιμοποιώντας αυτήν την υπηρεσία, συμφωνείτε με %s.</string>
     <string name="user_agreement_title">Όροι Παροχής Υπηρεσιών Mi Cloud</string>
-    <string name="privacy_policy">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
+    <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="loading">Φόρτωση…</string>
     <string name="license_host_unreachable">Αδυναμία σύνδεσης στο δίκτυο. Για να δείτε αυτή την πληροφορία, πηγαίνετε τώρα στο %s.</string>
     <string name="user_agreement">Συμφωνία χρήστη</string>
