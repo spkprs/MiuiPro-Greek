@@ -24,7 +24,7 @@
     <string name="activity_main_update_time">Έγινε ενημέρωση %1$s</string>
     <string name="activity_main_update_time_expire">Τα δεδομένα έληξαν</string>
     <string name="activity_main_update_time_right_now">μόλις τώρα</string>
-    <string name="activity_minute_rain_location_fail_msg">Αδυναμία εντοπισμού τοποθεσίας. Εμφάνιση Πεκίνου από προεπιλογή.</string>
+    <string name="activity_minute_rain_location_fail_msg">"Αδυναμία λήψης ακριβών πληροφοριών τοποθεσίας. Μετάβαση στην τρέχουσα πόλη."</string>
     <string name="add_city">Προσθήκη</string>
     <string name="alert_detail_title">Λεπτομέρειες προειδοποίησης</string>
     <string name="alert_warning">Ειδοποιήσεις καιρού</string>
@@ -194,7 +194,7 @@
     <string name="real_time_sunrise">Ανατολή ηλίου %1$s</string>
     <string name="real_time_sunset">Δύση ηλίου %1$s</string>
     <string name="realtime_aqi_title">Δείκτης Ποιότητας Αέρα</string>
-    <string name="realtime_humidity_title">Σχετική υγρασία</string>
+    <string name="realtime_humidity_title">Υγρασία</string>
     <string name="realtime_temperature_no_data">N/A</string>
     <string name="realtime_wind_default_title">Άνεμος</string>
     <string name="refresh_fail">Αδυναμία σύνδεσης σε δίκτυο</string>
@@ -264,15 +264,17 @@
     <string name="update_notification_info">Ενημέρωση δεδομένων στο παρασκήνιο…</string>
     <string name="weather_alert_channel_name">Ειδοποιήσεις</string>
     <string name="weather_service_channel_name">Υπηρεσίες παρασκηνίου</string>
-	  <string name="activity_find_city_dialog_message_location_service">Για λήψη πληροφοριών καιρικών συνθηκών, επιτρέψτε στο Weather την πρόσβαση στην τοποθεσία σας.</string>
-	  <string name="permission_device_info">Πληροφορίες συσκευής</string>
-	  <string name="permission_device_introduce">Για την αναγνώριση της συσκευής με βάση το μοντέλο και ΙΜΕΙ, για την παροχή μεταφρασμένων υπηρεσιών με βάση τις προτιμήσεις γλώσσας</string>
-	  <string name="permission_exit">Έχοδος</string>
-	  <string name="permission_privacy">Πολιτική απορρήτου (υποχρεωτικό)</string>
-	  <string name="permission_select_all">Επιλογή όλων</string>
-	  <string name="permission_storage">Αποθ. Χώρος</string>
-	  <string name="permission_storage_introduce">Για την πρόσβαση σε στοιχεία στη συσκευή και αποθήκευση αρχείων</string>
-	  <string name="permission_user_protocol">User Agreement (mandatory)</string>
-	  <string name="weather_introduce">Πάντα μαζί σας, στην βροχή ή στον ήλιο.</string>
-	  <string name="weather_permission_agree">Αποδοχή</string>
+	<string name="activity_find_city_dialog_message_location_service">Για λήψη πληροφοριών καιρικών συνθηκών, επιτρέψτε στο Weather την πρόσβαση στην τοποθεσία σας.</string>
+	<string name="permission_device_info">Πληροφορίες συσκευής</string>
+	<string name="permission_device_introduce">Για την αναγνώριση της συσκευής με βάση το μοντέλο και ΙΜΕΙ, για την παροχή μεταφρασμένων υπηρεσιών με βάση τις προτιμήσεις γλώσσας</string>
+	<string name="permission_exit">Έχοδος</string>
+	<string name="permission_privacy">Πολιτική απορρήτου (υποχρεωτικό)</string>
+	<string name="permission_select_all">Επιλογή όλων</string>
+	<string name="permission_storage">Αποθ. Χώρος</string>
+	<string name="permission_storage_introduce">Για την πρόσβαση σε στοιχεία στη συσκευή και αποθήκευση αρχείων</string>
+	<string name="permission_user_protocol">User Agreement (mandatory)</string>
+	<string name="weather_introduce">Πάντα μαζί σας, στην βροχή ή στον ήλιο.</string>
+	<string name="weather_permission_agree">Αποδοχή</string>
+	<string name="aqi_settings_summary">AQI προειδοποιησεις</string>
+	<string name="aqi_settings_title">AQI (Δείκτης Ποιοτ. Αέρα)</string>
 </resources>
