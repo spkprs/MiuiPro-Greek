@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_quick_title">Απόκρ. εικον. Γρήγορης φόρτισης</string>
+    <string name="ios_toggle_title">Εικον. Ειδοποίησης</string>
+    <string name="ios_toggle_on">Πάντα</string>
+    <string name="ios_toggle_off">Χρονόμετρο</string>
+    <string name="vpn_icon_title">Απόκρυψη εικονιδίου VPN</string>
+</resources>

@@ -56,8 +56,8 @@
   <string name="dialog_btn_ok_disabled_net">Ρυθμίσεις δικτύου</string>
   <string name="dialog_cannot_resume">Η λήψη σταμάτησε. Αδύνατη η συνέχιση λήψης.</string>
   <string name="dialog_confirm_delete_checkbox_message">Διαγραφή και των τοπικών αρχείων</string>
-  <string name="dialog_confirm_delete_downloads_message">Διαγραφή %d εργασιών;</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Διαγραφή αυτών των εργασιών</string>
+  <string name="dialog_confirm_delete_downloads_message">Διαγραφή %s στοιχείων;</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Διαγραφή αυτού του στοιχείου;</string>
   <string name="dialog_content_limit_max">Απεριόριστη</string>
   <string name="dialog_content_limit0">Περιορισμός λήψεων</string>
   <string name="dialog_failed_body">Θέλετε να ξαναπροσπαθήσετε την λήψη του αρχείου αργότερα ή να το αφαιρέσετε από την αναμονή λήψεων;</string>
