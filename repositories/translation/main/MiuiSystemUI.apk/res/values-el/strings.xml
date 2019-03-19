@@ -1733,4 +1733,6 @@
   <string name="usb_port_short_circuit_recovered_content">Μπορείτε να το χρησιμοποιήσετε για φόρτιση ή σύνδεση με άλλες συσκευές.</string>
   <string name="usb_port_short_circuit_recovered_title">Η θύρα φόρτισης λειτουργεί τώρα κανονικά</string>
   <string name="usb_port_short_circuit_title">"Υπάρχει υγρασία στη θύρα φόρτισης"</string>	 
+  <string name="face_unlock_success">Το πρόσωπο επαληθεύτηκε με επιτυχία</string>
+  <string name="rapid_charge_mode_tip">Γρήγορη φόρτιση</string>
 </resources>
