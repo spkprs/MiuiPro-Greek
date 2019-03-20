@@ -5952,7 +5952,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="crypt_keeper_switch_to_pattern">Χρήση Μοτίβου</string>
   <string name="crypt_keeper_switch_to_pin">Χρήση PIN</string>
    <string name="login_account_summary">Διαχειριστείτε λογαριασμούς, υπηρεσίες cloud, πληρωμές και πολλά άλλα</string>
-   <string name="miui_more_special_feature">Εξερευνήστε νέα χαρακτηριστικά</string>
+   <string name="miui_more_special_feature">Εξερευνήστε νέες λειτουργίες</string>
    <string name="miui_special_feature">Ειδικά χαρακτηριστικά</string>
    <string name="other_settings_sync_settings">Συγχρονισμός</string>
    <string name="unlogin_account_summary">Όλες οι υπηρεσίες Mi. Ένας Λογαριασμός Mi</string>

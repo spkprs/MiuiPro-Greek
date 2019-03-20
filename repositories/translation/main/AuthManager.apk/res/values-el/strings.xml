@@ -20,7 +20,7 @@
      <string name="HIPS_Perm_Call_Desc">να κάνει άμεσες κλήσεις τηλεφωνικών αριθμών</string>
      <string name="HIPS_Perm_Contact">Τροποποίηση επαφών</string>
      <string name="HIPS_Perm_Contact_Desc">να τροποποιήσει τις επαφές σας</string>
-     <string name="HIPS_Perm_External_Storage">Πρόσβαση Εσωτ. χώρου αποθ.</string>
+     <string name="HIPS_Perm_External_Storage">Πρόσβαση Εσωτ. χώρου αποθήκευσης</string>
      <string name="HIPS_Perm_External_Storage_Desc">"να προσθέτει και διαγράφει αρχεία στον εσωτερικό χώρο αποθήκευσης της συσκευής"</string>
      <string name="HIPS_Perm_Location">Εντοπισμός τοποθεσίας</string>
      <string name="HIPS_Perm_Location_Desc">να εντοπίσει την τοποθεσία σας (GPS ή/και μέσω δικτύου)</string>
@@ -54,7 +54,7 @@
      <string name="HIPS_Perm_background_start_activity_Desc">να ξεκινά στο παρασκήνιο</string>
      <string name="HIPS_Perm_get_accounts">Πρόσβαση λογαριασμών στη συσκευή</string>
      <string name="HIPS_Perm_get_accounts_Desc">πρόσβαση σε όλους τους λογαριασμούς που είναι αποθηκευμένοι στη συσκευή</string>
-     <string name="HIPS_Perm_get_installed_apps">Πληροφορίες εγκατεστημένων εφαρμογών</string>
+     <string name="HIPS_Perm_get_installed_apps">Πληροφ. εγκατ/μένων εφαρμογών</string>
      <string name="HIPS_Perm_get_installed_apps_Desc">πληροφορίες για τις εφαρμογές που εγκαταστάθηκαν στη συσκευή</string>
      <string name="HIPS_Perm_get_tasks">Προβολή εργασιών</string>
      <string name="HIPS_Perm_get_tasks_Desc">να εμφανίζει εργασίες</string>
@@ -96,4 +96,6 @@
      <string name="screen_overlay_title">Ανιχνεύτηκε επικάλυψη οθόνης</string>
      <string name="HIPS_Perm_service_foreground">Υπηρεσίες προσκηνίου</string>
      <string name="HIPS_Perm_service_foreground_Desc">υπηρεσίες προσκηνίου</string>
+     <string name="HIPS_Perm_UDevice_ID">Μοιραστείτε μέρη πληροφοριών της συσκευής με τους προγραμματιστές παιχνιδιών για να βελτιώσουν την εμπειρία παιχνιδιού σας. Συμφωνείτε?</string>
+     <string name="HIPS_Perm_UDevice_ID_DESC">μοιραστείτε μέρη πληροφοριών της συσκευής με τους προγραμματιστές παιχνιδιών για να βελτιώσουν την εμπειρία παιχνιδιού σας. Συμφωνείτε?</string>
 </resources>

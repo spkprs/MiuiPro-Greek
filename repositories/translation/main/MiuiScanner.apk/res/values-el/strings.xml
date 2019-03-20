@@ -107,7 +107,7 @@
  	<string name="miracast_message">Προβολή σε %s?</string>
     <string name="module_title_code">Κωδικός QR</string>
      <string name="module_title_document">Έγγραφο</string>
-     <string name="module_title_namecard">Επαγγελματική κάρτα</string>
+     <string name="module_title_namecard">Κάρτα</string>
      <string name="module_title_shopping">Ψώνια</string>
      <string name="module_title_study">Μελέτη</string>
      <string name="module_title_translation">Μετάφραση</string>
@@ -218,7 +218,7 @@
   <string name="miracast_details">Σάρωση QR κωδικού για Προβολή</string>  
   <string name="miracast_switch_off">Ανενεργή ασύρματη Οθόνη</string>
   <string name="miracast_switch_tip">Ενεργοποιήστε την ασύρματη οθόνη για χρήση της λειτουργίας</string>
-  <string name="module_title_business_card">Επαγγελματική Κάρτα</string>
+  <string name="module_title_business_card">Επαγγ. Κάρτα</string>
   <string name="new_schedule">Δημιουργία συμβάντος</string>
   <string name="open_url">Άνοιγμα URL</string>
   <string name="payment_text">Άνοιγμα με %s</string>
