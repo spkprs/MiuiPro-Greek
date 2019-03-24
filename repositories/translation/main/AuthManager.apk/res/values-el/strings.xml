@@ -23,7 +23,7 @@
      <string name="HIPS_Perm_External_Storage">Πρόσβαση Εσωτ. χώρου αποθήκευσης</string>
      <string name="HIPS_Perm_External_Storage_Desc">"να προσθέτει και διαγράφει αρχεία στον εσωτερικό χώρο αποθήκευσης της συσκευής"</string>
      <string name="HIPS_Perm_Location">Εντοπισμός τοποθεσίας</string>
-     <string name="HIPS_Perm_Location_Desc">να εντοπίσει την τοποθεσία σας (GPS ή/και μέσω δικτύου)</string>
+     <string name="HIPS_Perm_Location_Desc">να εντοπίσει την τοποθεσία σας (GPS ή μέσω δικτύου)</string>
      <string name="HIPS_Perm_PhoneID">Ταυτότητα συσκευής</string>
      <string name="HIPS_Perm_PhoneID_Desc">"πρόσβαση  στο IMEI και το IMSI της συσκευής"</string>
      <string name="HIPS_Perm_ROOT">Πρόσβαση root</string>
