@@ -200,8 +200,9 @@
     <item>Πάνω από 90 ημερών</item>
   </string-array>
   <string-array name="battery_indicator_style_entries">
-    <item>Γραφικά</item>
-    <item>Ποσοστό</item>
+        <item>Γραφικά</item>
+        <item>Ποσοστό (εντός εικονιδίου)</item>
+        <item>Ποσοστό (δίπλα στο εικονίδιο)</item>
     <item>Μπάρα στην Κορυφή</item>
   </string-array>
   <string-array name="bearer_entries">
@@ -340,12 +341,12 @@
     <item>Αριθμητικός Κωδικός</item>
     <item>Μικτός κωδικός</item>
   </string-array>
-  <string-array name="check_importance_entries">
+  <string-array name="fold_entries">
     <item>Προτεινόμενες</item>
     <item>Σημαντικές</item>
     <item>Ασήμαντες</item>
   </string-array>
-  <string-array name="check_importance_summary">
+  <string-array name="fold_summaries">
     <item>Το MIUI θα αποφασίζει ποιές θα εμφανίζονται άμεσα</item>
     <item>Θα εμφανίζονται άμεσα </item>
     <item>Όλες σε ξεχωριστό φάκελο</item>
@@ -1053,10 +1054,10 @@
     <item>8 ώρες</item>
   </string-array>
   <string-array name="startup_hips_action">
-    <item>Επέτρεψε</item>
+    <item>Αποδοχή</item>
     <item>Απόρριψη</item>
   </string-array>
-  <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+  <string-array name="notification_shade_shortcut_entries">
     <item>Αναζήτηση</item>
     <item>Ρυθμίσεις</item>
   </string-array>
@@ -1295,7 +1296,7 @@
         <item>Ενεργοποίηση λειτουργίας Ανάγνωσης</item>
         <item>Χωρίς</item>
     </string-array>
-    <string-array name="status_bar_settings_notification_style_entries">
+    <string-array name="notification_style_entries">
         <item>MIUI</item>
         <item>Android</item>
     </string-array>
@@ -1317,5 +1318,10 @@
     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
         <item>Λειτουργία Υψηλής Ποιότητας (Προεπιλογή)</item>
         <item>Λειτουργία Χαμηλής Αδράνειας</item>
+    </string-array>
+    <string-array name="time_format_entries">
+        <item>12-ωρη 1:00 PM</item>
+        <item>24-ωρη 13:00</item>
+        <item>Αυτόματα (βάσει γλώσσας συστήματος)</item>
     </string-array>
 </resources>

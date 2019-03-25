@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Υπηρεσία ασφαλείας Προσθέτων</string>
+  <string name="app_name">Υπηρ. Προσθέτων Συστήματος</string>
   <string name="app_not_installed_toast">Η εφαρμογή δεν είναι εγκατεστημένη στη συσκευή σας.</string>
   <string name="cancel_button">Ματαίωση</string>
   <string name="empty">" "</string>
@@ -52,4 +52,5 @@
   <string name="usage_sorted_loading_text">Μισό λεπτό…</string>
   <string name="xunyou_pay_webview">Υπηρεσίες Xunyou</string>
   <string name="gamebox_no_network_btn">Επαναφόρτωση</string>
+  <string name="ad_downloading">Λήψη…</string>
 </resources>

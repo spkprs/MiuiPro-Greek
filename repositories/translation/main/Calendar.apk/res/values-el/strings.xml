@@ -137,7 +137,7 @@
   <string name="event_reminder_value_zero">Πριν από την εκδήλωση</string>
   <string name="event_title">Τίτλος</string>
   <string name="event_view">Προβολή γεγονότος</string>
-  <string name="every_weekday">Κάθε εργάσιμη (Δευ-Παρ)</string>
+  <string name="every_weekday">Δευ έως Παρ</string>
   <string name="festival_detail_title">Φεστιβάλ</string>
   <string name="from_google_group_calendar">Ημερολόγιο Google</string>
   <string name="gadget_no_events">Χωρίς προσεχή ημερολογιακά γεγονότα</string>
@@ -255,12 +255,13 @@
   <string name="setting_others">Άλλα</string>
   <string name="setting_title_about">Σχετικά</string>
   <string name="setting_title_holiday_display">Εμφάνιση Αργιών</string>
+  <string name="setting_title_weather_card_desc">Πληροφορίες καιρού στη δεξιά πλευρά της σεληνιακής κάρτας</string>
   <string name="show_day_view">Εμφάνιση ημέρας</string>
   <string name="start_date_calculate">Υπολογισμός</string>
-    <string name="tab_title_agenda">Εκδηλώσεις</string>
-    <string name="tab_title_day">Ημέρα</string>
-    <string name="tab_title_month">Μήνας</string>
-    <string name="tab_title_week">Εβδομάδα</string>
+  <string name="tab_title_agenda">Εκδηλώσεις</string>
+  <string name="tab_title_day">Ημέρα</string>
+  <string name="tab_title_month">Μήνας</string>
+  <string name="tab_title_week">Εβδομάδα</string>
   <string name="taishen">παιδί του Θεού</string>
   <string name="talk_back_month">Μήνας</string>
   <string name="talk_back_setting">Ρυθμίσεις</string>
@@ -407,4 +408,11 @@
 	 <string name="reminder_overdue">'Εληξε</string>
 	 <string name="train_detail_title">Δρομολόγια τρένων</string>
 	 <string name="train_event_delete_successfully">Επιτυχής διαγραφή δρομολογίων τρένων</string>
+    <string name="feed_tips_got_it">Εντάξει</string>
+	<string name="feed_tips_primary_text">Ανανεωμένη έκδοση καναλιού συνδρομής Ημερολογίου</string>
+	<string name="feed_tips_secondary_text">Πλήρης ενσωμάτωση εμπλουτισμένων πληροφοριών και αποτελεσματικών υπηρεσιών</string>
+	<string name="feed_tips_see_details">Προβολή λεπτομερειών</string>
+	<string name="feed_tips_subscribe_more">Εγγραφή σε περισσότερα κανάλια</string>
+	<string name="weather_huangli_card_no_data_hint">Κάντε κλικ για να λάβετε πληροφορίες καιρού</string>
+	<string name="yiji_app_download_card_lebal">Πρέπει</string>
 </resources>
