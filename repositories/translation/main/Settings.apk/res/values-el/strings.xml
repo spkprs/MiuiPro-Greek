@@ -2770,7 +2770,7 @@
   <string name="my_device">Η Συσκευή μου</string>
   <string name="my_device_disclaimer">Σημείωση: Οι πληροφορίες υλικού, συμπεριλαμβανομένων της CPU, χωρητικότητας Μπαταρίας, Ανάλυση Οθόνης, και Κάμερας, παρέχονται από εργαστήρια, σχεδιαστών και προμηθευτών της Xiaomi.</string>
   <string name="n_cacrts">%d Πιστοποιητικά CA</string>
-  <string name="nature_color">Προεπιλογή</string>
+  <string name="nature_color">Κανονικό</string>
   <string name="navigation_guide_app_summary">Σύρετε αριστερά ή δεξιά από την άκρη της οθόνης στην κορυφή</string>
   <string name="navigation_guide_app_title">Ενέργειες της εφαρμογής</string>
   <string name="navigation_guide_appswitch_summary">Σύρετε αριστερά ή δεξιά από την άκρη της οθόνης και κρατήστε το για λίγο</string>
@@ -2933,7 +2933,7 @@
   <string name="notification_listener_disable_warning_cancel">Ακύρωση</string>
   <string name="notification_listener_disable_warning_confirm">Απενεργοποιήστε</string>
   <string name="notification_listener_disable_warning_summary">Εάν απενεργοποιήσετε την πρόσβαση ειδοποίησης για %1$s, η πρόσβαση Μην ενοχλείτε μπορεί να είναι αναενεργή.</string>
-  <string name="notification_listener_security_warning_summary">Το %1$s θα είναι σε θέση να διαβάσει όλες τις ειδοποιήσεις, συμπεριλαμβανομένων των προσωπικών πληροφοριών, όπως ονόματα επαφών και του κειμένου των μηνυμάτων που λαμβάνετε. Θα είναι επίσης σε θέση να απορρίψει τις ειδοποιήσεις ή να πατήσει τα κουμπιά ενεργειών που περιέχουν.</string>
+  <string name="notification_listener_security_warning_summary">Η εφαρμ. %1$s θα είναι σε θέση να διαβάσει όλες τις ειδοποιήσεις, συμπεριλαμβανομένων των προσωπικών πληροφοριών, όπως ονόματα επαφών και του κειμένου των μηνυμάτων που λαμβάνετε. Θα είναι επίσης σε θέση να απορρίψει τις ειδοποιήσεις ή να πατήσει τα κουμπιά ενεργειών που περιέχουν.</string>
   <string name="notification_listener_security_warning_title">Ενεργοποίηση %1$s;</string>
   <string name="notification_log_details_actions">ενέργειες</string>
   <string name="notification_log_details_badge">μπορεί να εμφανίσει το θέμα</string>
