@@ -229,5 +229,6 @@
   <string name="show_weather_city_title">Προβολή πόλης</string>
   <string name="show_weather_description_title">Προβολή περιγραφής</string>
   <string name="vpn_icon_title">Απόκρυψη εικονιδίου VPN</string>
+  <string name="ext_powermenu_title">Εκτεταμένο μενού Επανεκκίνησης</string>
 </resources>
 

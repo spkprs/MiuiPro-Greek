@@ -830,4 +830,7 @@
 	  <string name="request_document_permission">Για διαχείρηση αρχείων στην κάρτα SD, δώστε τις απαιτούμενες άδειες στην εφαρμογή.</string>
 	  <string name="request_document_permission_title">Απαιτούνται άδειες</string>
       <string name="menu_set_wallpaper">Ορισμός ως ταπετσαρία</string>
+	  <string name="ftp_anonymous_warning_msg">Η ανώνυμη λειτουργία ενδέχεται να ενέχει κινδύνους ασφαλείας. Χρησιμοποιήτε τη λειτουργία ούτως ή άλλως;</string>
+	  <string name="ftp_anonymous_warning_title">Προσοχή</string>
+	  <string name="home_action_up">Πίσω</string>
 </resources>

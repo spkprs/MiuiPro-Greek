@@ -494,4 +494,6 @@
   <string name="xunlei_speed_service">Επιτάχυνση λήψεων Xunlei</string>
   <string name="xunlei_switch">Μηχανή λήψεων Xunlei</string>
   <string name="ad">Διαφήμιση</string> 
+  <string name="close">Κλείστε</string>
+  <string name="close_ad">Κλείστε τις Διαφ/σεις</string>
 </resources>
