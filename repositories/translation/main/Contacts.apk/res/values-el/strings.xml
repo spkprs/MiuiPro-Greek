@@ -629,8 +629,8 @@
   <string name="menu_new_group_action_bar">Νέο</string>
   <string name="menu_newContact">Νέα επαφή</string>
   <string name="menu_newContactButton">Προσθήκη</string>
-  <string name="menu_not_redirect_calls_to_vm">Ο Αυτόματος τηλεφωνητής Ανενεργός</string>
-  <string name="menu_redirect_calls_to_vm">Όλες οι κλήσεις στον αυτόματο τηλεφωνητή</string>
+  <string name="menu_not_redirect_calls_to_vm">Ανενεργός Αυτόμ. τηλεφωνητής</string>
+  <string name="menu_redirect_calls_to_vm">Ενενεργός Αυτόμ. τηλεφωνητής</string>
   <string name="menu_removeStar">Αφαίρεση/Αγαπημένα</string>
   <string name="menu_search">Αναζήτηση</string>
   <string name="menu_select_all">Επιλογή όλων</string>
@@ -811,7 +811,7 @@
   <string name="photo_fragment">Φωτογραφία</string>
   <string name="photo_load_failed">Αδυναμία φόρτωσης φωτογραφίας</string>
   <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες εικόνες στο τηλέφωνο.</string>
-  <string name="pick_new_photo">Επιλέξτε νέα φωτογραφία από %s</string>
+  <string name="pick_new_photo">Επιλογή φωτογραφίας από την %s</string>
   <string name="pick_photo">Επιλέξτε φωτογραφία από %s</string>
   <string name="picker_all_list_empty">Δεν υπάρχουν επαφές</string>
   <string name="picker_contact_title">Επιλέξτε μια επαφή</string>
@@ -941,7 +941,7 @@
   <string name="recentCalls_shareVoicemail">Κοινή χρήση τηλεφωνητή</string>
   <string name="recentCalls_trashVoicemail">Διαγραφή τηλεφωνητή</string>
   <string name="recentCallsIconLabel">Αρχείο κλήσεων</string>
-  <string name="redirect_calls_to_vm_confirm_message">Πριν την δημιουργία του γραμματοκιβωτίου σας, ελέγξτε τους όρους και τις προϋποθέσεις του συμβολαίου σας με τον πάροχο δικτύου κινητής τηλεφωνίας σας.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Πριν την ρύθμιση του Αυτ. Τηλεφωνητή σας, ελέγξτε τους όρους και τις προϋποθέσεις του παρόχου δικτύου κινητής τηλεφωνίας σας.</string>
   <string name="redirect_calls_to_vm_confirm_text">ΟΚ</string>
   <string name="refresh">Ανανέωση</string>
   <string name="relationLabelsGroup">Σχέση</string>

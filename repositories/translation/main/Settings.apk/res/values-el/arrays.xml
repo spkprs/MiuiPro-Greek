@@ -200,10 +200,12 @@
     <item>Πάνω από 90 ημερών</item>
   </string-array>
   <string-array name="battery_indicator_style_entries">
-        <item>Γραφικά</item>
-        <item>Ποσοστό (εντός εικονιδίου)</item>
-        <item>Ποσοστό (δίπλα στο εικονίδιο)</item>
-    <item>Μπάρα στην Κορυφή</item>
+		<item>Γραφική</item>
+		<item>Ποσοστό (μέσα στο εικονίδιο)</item>
+		<item>Ποσοστό (δίπλα στο εικονίδιο)</item>
+		<item>Ποσοστό μόνο</item>
+		<item>Μπάρα στην κορυφή</item>
+		<item>Χωρίς ένδειξη</item>
   </string-array>
   <string-array name="bearer_entries">
     <item>Δεν έχει καθοριστεί</item>

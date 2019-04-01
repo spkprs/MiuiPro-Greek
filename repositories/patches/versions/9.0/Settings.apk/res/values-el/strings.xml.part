@@ -163,7 +163,7 @@
   <string name="carrier">Εταιρεία κινητής τηλεφωνίας</string>
   <string name="carrier_and_update_now_text">Ενημερώθηκε από ^1 μόλις τώρα</string>
   <string name="carrier_and_update_text">Ενημερώθηκε από ^1 πριν από ^2</string>
-  <string name="carrier_provisioning">Πληροφορίες παροχής εταιρείας κινητής τηλεφωνίας</string>
+  <string name="carrier_provisioning">Πληροφ. Παρόχου</string>
   <string name="cell_data_limit">Όριο ^1 δεδομένων</string>
   <string name="cell_data_warning">Προειδοποίηση ^1 δεδομένων</string>
   <string name="cell_data_warning_and_limit">Προειδοποίηση ^1 δεδομένων/Όριο ^2 δεδομένων</string>
@@ -175,8 +175,8 @@
   <string name="color_mode_option_boosted">Ενισχυμένο</string>
   <string name="color_mode_option_natural">Φυσικό</string>
   <string name="color_mode_option_saturated">Κορεσμένο</string>
-  <string name="color_mode_summary_automatic">Προσαρμογή μεταξύ ζωντανών και ακριβών χρωμάτων</string>
-  <string name="color_mode_summary_natural">Χρήση μόνο ακριβών χρωμάτων</string>
+  <string name="color_mode_summary_automatic">Προσαρμογή μεταξύ ζωντανών και ακριβή χρωμάτων</string>
+  <string name="color_mode_summary_natural">Χρήση μόνο ακριβή χρωμάτων</string>
   <string name="color_mode_title">Χρώματα</string>
   <string name="color_theme">Θέμα χρωμάτων</string>
   <string name="condition_device_muted_action_turn_on_sound">Ενεργοποίηση ήχου</string>
@@ -475,7 +475,7 @@
   <string name="status_data_network_type">Τύπος δικτύου δεδομένων κινητής τηλεφωνίας</string>
   <string name="status_min_number">MIN</string>
   <string name="status_number_sim_slot">Αριθμ. τηλ. (υποδοχή sim %1$d)</string>
-  <string name="status_number_sim_status">Αριθμός τηλεφώνουν στη SIM</string>
+  <string name="status_number_sim_status">Αριθμός τηλεφώνου SIM</string>
   <string name="status_voice_network_type">Τύπος φωνητικού δικτύου κινητής τηλεφωνίας</string>
   <string name="storage_wizard_format_confirm_v2_action">Μορφοποίηση ^1</string>
   <string name="storage_wizard_format_confirm_v2_body">Η συσκευή ^1 απαιτεί μορφοποίηση για να αποθηκεύσει εφαρμογές, αρχεία και μέσα. \n\nΗ μορφοποίηση θα διαγράψει το υπάρχον περιεχόμενο στο ^2. Για να μην χάσετε το περιεχόμενό σας, δημιουργήστε ένα αντίγραφο ασφαλείας σε ένα άλλο ^3 ή σε άλλη συσκευή.</string>
@@ -523,7 +523,7 @@
   <string name="tethering_hardware_offload_summary">Χρήση της σύνδεσης επιτάχυνσης υλικού εάν υπάρχει</string>
   <string name="time_spent_in_app_pref_title">Χρόνος αφιερωμένος στην εφαρμογή</string>
   <string name="time_unit_just_now">Μόλις τώρα</string>
-  <string name="trigger_carrier_provisioning">Ενεργοποίηση παροχής εταιρείας κινητής τηλεφωνίας</string>
+  <string name="trigger_carrier_provisioning">Ενεργ. Παρόχου</string>
   <string name="unknown_unavailability_setting_summary">Μη διαθέσιμη ρύθμιση</string>
   <string name="unsupported_setting_summary">Η ρύθμιση δεν υποστηρίζεται σε αυτό το τηλέφωνο</string>
   <string name="usb_control_device">Αυτή η συσκευή</string>
@@ -557,6 +557,7 @@
   <string name="wapi_password_length_is_min_to_max">Ο κωδικός πρόσβασης πρέπει να είναι: 8-64 χαρακτήρες</string>
   <string name="wifi_ap_band_select_one">Επιλέξτε τουλάχιστον μία ζώνη συχνοτήτων για το σημείο πρόσβασης Wi‑Fi:</string>
   <string name="wifi_ap_choose_auto">Αυτόματα</string>
+  <string name="wifi_ap_choose_dual">Και στις δύο</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Το σημείο πρόσβασης είναι προσωρινά πλήρες</string>
   <string name="wifi_auto_sel_wapi_cert">Επιλέξτε αυτόματα</string>
   <string name="wifi_calling_not_supported">Η Κλήση Wi‑Fi δεν υποστηρίζεται για την εταιρεία κινητής τηλεφωνίας %1$s</string>
