@@ -1735,4 +1735,5 @@
   <string name="usb_port_short_circuit_title">"Υπάρχει υγρασία στη θύρα φόρτισης"</string>	 
   <string name="face_unlock_success">Το πρόσωπο επαληθεύτηκε με επιτυχία</string>
   <string name="rapid_charge_mode_tip">Γρήγορη φόρτιση</string>
+  <string name="gxzw_area">Σαρωτής δακτ. αποτυπωμάτων</string>
 </resources>
