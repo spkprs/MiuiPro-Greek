@@ -3777,10 +3777,10 @@
   <string name="search_dndm_vip_call_setting_title">VIP, Εξαιρέσεις</string>
   <string name="search_dndm_wristband">Ενεργοποίηση Mi Band, Mi Band</string>
   <string name="search_do_not_disturb_mode">Μην Ενοχλείτε</string>
-  <string name="search_dtmf_tone_enable_title">Ενεργοποιήστε τους ήχους κλήσης του πληκτρολογίου κλήσης</string>
+  <string name="search_dtmf_tone_enable_title">Ενεργοποιήστε τους ήχους του πληκτρολογίου κλήσης</string>
   <string name="search_empty">Δεν βρέθηκαν αποτελέσματα</string>
   <string name="search_enable_adb">Εντοπισμός σφαλμάτων USB</string>
-  <string name="search_fluency_mode">Animation συστήματος</string>
+  <string name="search_fluency_mode">Κινήσεις συστήματος</string>
   <string name="search_font">Γραμματοσειρά συστήματος;Γραμματοσειρά;Γραμματοσειρές;Μέγεθος γραμματοσειρών;Μέγεθος γραμματοσειράς</string>
   <string name="search_force_touch">Αφή 3D</string>
   <string name="search_gesture_wakeup_title">Διπλό άγγιγμα στην οθόνη για αφύπνiση της συσκευής</string>
