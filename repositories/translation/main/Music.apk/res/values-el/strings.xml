@@ -750,4 +750,6 @@
   <string name="app_permission_use_group_storage_desc">Για εύρεση και αναπαραγωγή τραγουδιών αποθηκευμένων στη συσκευή</string>
   <string name="privacy_desc">Πολιτική απορρήτου (υποχρεωτική)</string>
   <string name="voice_search_first_hint">Δοκιμάστε Φωνητική αναζήτηση!</string>
+  <string name="accessibility_video_btn_play">Αναπ. Βίντεο</string>
+  <string name="beauty_body_whole">Body</string>
 </resources>

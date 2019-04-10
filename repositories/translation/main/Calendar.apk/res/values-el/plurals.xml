@@ -104,4 +104,8 @@
         <item quantity="other">Μπορεί να οριστούν %d υπενθυμίσεις</item>
         <item quantity="one">Μπορεί να οριστεί %d υπενθύμιση</item>
     </plurals>
+	 <plurals name="reminder_later_toast">
+        <item quantity="other">Επόμενη υπενθύμιση σε %1$d λεπτά</item>
+        <item quantity="one">Επόμενη υπενθύμιση σε %1$d λεπτό</item>
+    </plurals>
 </resources>
