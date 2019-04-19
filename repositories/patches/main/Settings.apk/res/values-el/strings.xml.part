@@ -2,12 +2,13 @@
 <resources>
   <string name="2G_E_off_title">Τύπος 2G/E</string>
   <string name="2G_E_title">Εμφάνιση 2G αντί E</string>
+  <string name="3G_title">Εμφάνιση 3G</string>
   <string name="4G_LTE_off_title">Τύπος 4G/LTE</string>
   <string name="4G_LTE_title">Εμφάνιση LTE αντί 4G</string>
   <string name="airplane_icon_title">Απόκρυψη εικονιδίου Αεροπλάνου</string>
   <string name="alarm_icon_title">Απόκρυψη εικονιδίου Aφύπνισης</string>
   <string name="allowed_set">Επιτρέπεται</string>
-  <string name="alpha_build">\n\nΑλφα</string>
+  <string name="alpha_build">\nΑλφα</string>
   <string name="animation_framing_title">Συχνότητα κίνησης Πλαισίων</string>
   <string name="app_assistant_title">Πλήκτρο Φωνητικού Βοηθού</string>
   <string name="bar_name_title">Απόκρυψη ετικετών εικονιδίων στη γραμμή Γρήγορης πρόσβασης</string>
@@ -26,13 +27,17 @@
   <string name="close_folder_title">Αυτόματο κλείσιμο φακέλων</string>
   <string name="critical_battery_title">Κρίσιμο επίπεδο</string>
   <string name="crt_animation_title">Κατά το κλείδωμα οθόνης</string>
+  <string name="Data_set">"\nΔεδομένα: "</string>
   <string name="def_audio_title">Ρύθμιση κουμπιών έντασης</string>
-  <string name="developer_build">\n\nΒήτα</string>
+  <string name="developer_build">\nΒήτα</string>
   <string name="dim_advanced_summary">%s /100 του χρόνου πριν την αδρανοποίηση</string>
   <string name="dim_advanced_title">Μείωση φωτισμού οθόνης</string>
   <string name="dim_advanced_title_seek">Χρονικό όριο φωτισμού</string>
   <string name="Disabled_set">Ανενεργό</string>
+  <string name="dnd_icon_title">Απόκρυψη εικον. \"Μην Ενοχλείτε\"</string>
+  <string name="dnd_notification_title">Ήχος ειδοπ. λειτ. \"Μην Ενοχλείτε\"</string>
   <string name="double_tap_app_title">Εφαρμογή για διπλό άγγιγμα</string>
+  <string name="double_tap_lock_keyguard_title">Διπλό άγγιγμα για κλείδωμα</string>
   <string name="doubletap_home">Διπλό άγγιγμα</string>
   <string name="enable_vertical_clock">Κατακόρυφο ρολόι</string>
   <string name="enable_vertical_clock_summary">Κάθετη εμφάνιση ώρας στην οθόνη κλειδώματος</string>
@@ -63,6 +68,7 @@
   <string name="gps_icon_title">Απόκρυψη εικονιδίου GPS</string>
   <string name="GSM_auto">GSM αυτόματα (PRL)</string>
   <string name="GSM_only">GSM μόνο</string>
+  <string name="H_title">Εμφάνιση H/H+</string>
   <string name="haptic_off">Δόνηση κατά τη φόρτιση</string>
   <string name="headset_icon_title">Απόκρυψη εικονιδίου Ακουστικών</string>
   <string name="hide_app">Απόκρυψη εφαρμογών</string>
@@ -105,6 +111,9 @@
   <string name="notification_icon_title">Εικονίδια στις ειδοποιήσεις</string>
   <string name="numberpicker_change_summary">Ημερολόγια, Αφυπνίσεις, κ.τ.λ.</string>
   <string name="numberpicker_change_title">Ήχος κατά την ρύθμιση Αφύπνισης</string>
+  <string name="other_icon_title">Εικονίδια σε ανοιχτό Πίνακα</string>
+  <string name="other_size_title">Ρύθμιση μεγέθους γραμ/σειράς</string>
+  <string name="other_weather_title">Ρυθμίσεις προβολής καιρού</string>
   <string name="picker_activities">Ενέργεια</string>
   <string name="policy_control_title">Λειτουργία πλήρους οθόνης</string>
   <string name="policy_title">Λειτουργίες οθόνης</string>
@@ -115,8 +124,14 @@
   <string name="runapp_notifications_title">Ειδοποιήσεις  για εκτελούμενες εφαρμογές</string>
   <string name="search_menu_summary">Σύρετε προς τα επάνω για Αναζήτηση ρυθμίσεων</string>
   <string name="select_custom_app_title">Λίστα διαθέσιμων ενεργειών</string>
+  <string name="set_battery_size_title">Ποσοστού Μπαταρίας</string>
+  <string name="set_clock_size_title">Μεγέθους Ρολογιού</string>
+  <string name="set_in_aod_title">Μετάβαση σε λειτ. AOD</string>
   <string name="set_peeking_duration_title">Προβολή εικονιδίων</string>
   <string name="show_search_title">Απόκρυψη γραμμής αναζήτησης</string>
+  <string name="show_weather_city_title">Προβολή πόλης</string>
+  <string name="show_weather_description_title">Προβολή περιγραφής</string>
+  <string name="show_weather_title">Προβολή καιρού</string>
   <string name="sim_select_title">Ρύθμιση τύπου για:</string>
   <string name="smart_mobile_data_transfer">Απενεργοποίηση δεδομένων κινητής κατά την κλήση</string>
   <string name="smart_mobile_network_settings_title">Κατάσταση μεταφοράς Κινητής και Δικτύου</string>
@@ -138,7 +153,9 @@
   <string name="smartscreen_on">Το χρονόμετρο είναι ενεργό μόνο όταν η οθόνη είναι απενεργοποιημένη</string>
   <string name="smarttimer">Χρονομετρητής σύνδεσης</string>
   <string name="sound_icon_title">Απόκρυψη εικονιδίου Ήχου</string>
-  <string name="stable_build">\n\nΣταθερή</string>
+  <string name="speed_dual_summary">Προβολή σε λειτουργία διπλής γραμής κατάστασης</string>
+  <string name="speed_dual_title">Ταχύτητα δικτύου στην γραμμή κατάστασης</string>
+  <string name="stable_build">\nΣταθερή</string>
   <string name="status_bar_network_speed_title">Ενημέρωση ταχύτητας σύνδεσης</string>
   <string name="status_bar_screen_button_key">Πλήκτρα Οθόνης</string>
   <string name="status_bar_settings_show_network_speed_zero_hide">Απόκρυψη ταχύτητας σύνδεσης με μηδενική τιμή</string>
@@ -193,6 +210,7 @@
   <string name="type_name_on_title">Τύπος δικτύου στη γραμμή κατάστασης</string>
   <string name="Unknown_set">Άγνωστο</string>
   <string name="vibrate_on">Δόνηση κατά το ξεκλείδωμα</string>
+  <string name="Voice_set">"Φωνή: "</string>
   <string name="vol_sounds_title">Σίγαση ήχου επαναφοράς από την Αθόρυβη λειτουργία</string>
   <string name="volbtn_timeout_summary">Κάθε %s ms</string>
   <string name="volbtn_timeout_title">Χρονοκαθυστέρηση</string>
@@ -206,6 +224,7 @@
   <string name="volume_panel_summary">Διάρκεια: %s δευτ.</string>
   <string name="volume_panel_title">Πίνακας έντασης</string>
   <string name="volume_ring_description">Ήχος</string>
+  <string name="vpn_icon_title">Απόκρυψη εικονιδίου VPN</string>
   <string name="WCDMA_only">WCDMA μόνο</string>
   <string name="WCDMA_preferred">WCDMA προτιμώμενο</string>
   <string name="weather_panel_title">Απόκρυψη καιρού</string>
@@ -215,20 +234,4 @@
   <string name="wifi_type_approval_title">Σχετικά με το MiuiPro</string>
   <string name="wifiact_icon_title">Απόκρυψη βελών ένδειξης Wi-Fi</string>
   <string name="WiFiOn_mobile_title">Με το Wi-Fi ενεργό</string>
-  <string name="set_in_aod_title">Μετάβαση σε λειτ. AOD</string>
-  <string name="type_name_connected_title">Μόνο με ενεργό internet</string>
-  <string name="double_tap_lock_keyguard_title">Διπλό άγγιγμα για κλείδωμα</string>
-  <string name="dnd_icon_title">Απόκρυψη εικον. \"Μην Ενοχλείτε\"</string>
-  <string name="other_icon_title">Εικονίδια σε ανοιχτό Πίνακα</string>
-  <string name="dnd_notification_title">Ήχος ειδοπ. λειτ. \"Μην Ενοχλείτε\"</string>
-  <string name="other_size_title">Ρύθμιση μεγέθους γραμ/σειράς</string>
-  <string name="set_clock_size_title">Μεγέθους Ρολογιού</string>
-  <string name="set_battery_size_title">Ποσοστού Μπαταρίας</string>
-  <string name="other_weather_title">Ρυθμίσεις προβολής καιρού</string>
-  <string name="show_weather_title">Προβολή καιρού</string>
-  <string name="show_weather_city_title">Προβολή πόλης</string>
-  <string name="show_weather_description_title">Προβολή περιγραφής</string>
-  <string name="vpn_icon_title">Απόκρυψη εικονιδίου VPN</string>
-  <string name="ext_powermenu_title">Εκτεταμένο μενού Επανεκκίνησης</string>
 </resources>
-

@@ -10,4 +10,13 @@
     <string name="cat_6">Ανενεργό Wi-Fi</string>
     <string name="cat_7">Ενεργό Wi-Fi</string>	
     <string name="not_setup_app">Η εφαρμ. Φων. Βοηθού δεν έχει ρυθμιστεί.</string>
+	<string name="mcat_1">Κοινοποίηση</string> 
+    <string name="mcat_2">Κοινοποίηση:</string>
+    <string name="mcat_3">Αποθηκεύτηκε</string>
+    <string name="mcat_4">Αποθήκευση</string>
+    <string name="mcat_5">Επεξεργασία Βίντεο...</string>
+    <string name="mcat_6">Επεξεργασία Ήχου...</string>
+    <string name="mcat_7">Ξαναπατήστε για Έξοδο</string>
+    <string name="mcat_8">Πολιτική Απορρήτου</string>
+    <string name="mcat_9">Απαιτούνται Άδειες</string>
 </resources>

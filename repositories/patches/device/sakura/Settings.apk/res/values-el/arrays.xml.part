@@ -6,4 +6,18 @@
         <item>Εικονίδια δίπλα στο ρολόι</item> 
         <item>Δεύτερη σειρά στα εικονίδια</item> 
   </string-array>
+  <string-array name="battery_indicator_style_entries">
+        <item>Γραφική</item>
+        <item>Ποσοστό (μέσα στο εικονίδιο)</item>
+        <item>Ποσοστό (δίπλα στο εικονίδιο)</item>
+        <item>Ποσοστό μόνο</item>
+        <item>Χωρίς ένδειξη</item>
+    </string-array>
+	<string-array name="notch_battery_indicator_style_entries">
+        <item>Γραφική</item>
+        <item>Ποσοστό (μέσα στο εικονίδιο)</item>
+        <item>Ποσοστό (δίπλα στο εικονίδιο)</item>
+        <item>Ποσοστό μόνο</item>
+        <item>Χωρίς ένδειξη</item>
+    </string-array>
 </resources>

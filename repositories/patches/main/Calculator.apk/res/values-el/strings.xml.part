@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="currency_update_connect_to_get_data">Οι συναλλαγματικές ισοτιμίες παρέχονται από το Apilayer. Συνδεθείτε στο δίκτυο για να λάβετε τις πιο πρόσφατες πληροφορίες.</string>
+  <string name="currency_update_support">Οι συναλλαγματικές ισοτιμίες παρέχονται από το Apilayer.</string>
+  <string name="currency_update_time_format">Οι συναλλαγματικές ισοτιμίες παρέχονται από Apilayer (%s)</string>
+</resources>
