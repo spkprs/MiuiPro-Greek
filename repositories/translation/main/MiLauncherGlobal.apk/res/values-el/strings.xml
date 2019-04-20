@@ -53,11 +53,7 @@
     <string name="apply_action">Ορισμός</string>
     <string name="apply_as_lock_screen">Ορισμός ως Οθόνη κλειδώματος</string>
     <string name="apply_as_wallpaper">Ορισμός ως Αρχική Οθόνη</string>
-<<<<<<< HEAD
     <string name="apply_both">Ορισμός και στις δύο</string>
-=======
-    <string name="apply_both">Ορισμός και για τα δύο</string>
->>>>>>> master
     <string name="apply_for_notification_access_permission">Επιτρέψτε στον Εκκινητή POCO να έχει πρόσβαση στις ειδοποιήσεις για να μπορείτε να βλέπετε τις σημάνσεις ειδοποιήσεων.</string>
     <string name="apply_for_permission">Απαιτούνται άδειες</string>
     <string name="apply_text">ΕΦΑΡΜΟΓΗ</string>
