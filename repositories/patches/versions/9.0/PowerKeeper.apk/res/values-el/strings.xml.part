@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="set_gsmcore_title">Απενεργοποίηση Google Play</string>
+	<string name="set_gsmcore_summary">Απενεργοποίηση υπηρεσιών Google Play σε λειτουργία Υπέρ Εξοικονόμισης Ενέργειας</string>
+</resources>
