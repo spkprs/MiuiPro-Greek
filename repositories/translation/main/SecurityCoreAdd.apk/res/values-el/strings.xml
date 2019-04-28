@@ -450,4 +450,6 @@
   <string name="dialog_verify">Επαλήθευση του δακτυλικού σας αποτυπώματος</string>
   <string name="dialog_verify_fingerprint_retry">"Αδυναμία επαλήθευσης αποτυπώματος. Δοκιμάστε ξανά."</string>
   <string name="master_clear_not_available">Η Εργοστασιακή επαναφορά είναι απαγορευμένη απο την εταιρεία σας.</string>
+	<string name="kid_mode_label">Παιδικός Χώρος</string>
+	<string name="close_kid_space_success">Διαγραφή Παιδικού Χώρου</string>
 </resources>
