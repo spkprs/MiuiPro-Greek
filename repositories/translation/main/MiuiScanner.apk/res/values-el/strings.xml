@@ -260,5 +260,6 @@
   <string name="setting_use_last_choose">Ενθύμιση προηγούμενης επιλογής</string>
   <string name="setting_wechat">WeChat</string>
   <string name="to_pay">Ολοκλήρωση πληρωμής</string>
+  <string name="business_card_with_qr_code">Τοποθετήστε την κάρτα ή τον κωδικό QR μέσα στο πλαίσιο</string>
 </resources>
 
