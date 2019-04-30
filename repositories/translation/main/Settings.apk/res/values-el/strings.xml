@@ -6087,8 +6087,8 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="usage_state_app_usage_list_week_title">"Χρόνος οθόνης εφαρμογών"</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Χρόνος οθόνης μεταξύ %d:00 και %d:00</string>
   <string name="usage_state_app_use_time">Χρόνος οθόνης εφαρμογής</string>
-  <string name="usage_state_channel_mouth">Τελευταίες 30 ημέρες</string>
-  <string name="usage_state_channel_week">Τελευταίες 7 ημέρες</string>
+  <string name="usage_state_channel_mouth">30 ημερών</string>
+  <string name="usage_state_channel_week">7 ημερών</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Ειδοποιήσεις μεταξύ %d:00 και %d:00</string>
   <string name="usage_state_device_unlock_today_tip_title" formatted="false">Ξεκλείδωτη συσκευή μεταξύ %d:00 και %d:00</string>
   <string name="usage_state_friday">Παρ</string>
@@ -6108,7 +6108,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="usage_state_sunday">Κυρ</string>
   <string name="usage_state_thursday">Πέμ</string>
   <string name="usage_state_today">Σήμερα</string>
-  <string name="usage_state_today_total_text">Χρόνος οθόνης σήμερα</string>
+  <string name="usage_state_today_total_text">Ενεργή Σήμερα</string>
   <string name="usage_state_tuesday">Τρι</string>
   <string name="usage_state_unlock_mourth_day">"'Ξεκλείδωτο %s"</string>
   <string name="usage_state_usage_time">Χρόνος οθόνης</string>

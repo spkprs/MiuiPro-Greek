@@ -1753,4 +1753,11 @@
 	<string name="choose_clock_title_left_top">Στοιχισμένο αριστερά</string>
 	<string name="choose_clock_title_middle">Κεντρικά</string>
 	<string name="choose_clock_title_vertical">Κάθετα</string>
+	<string name="face_unlock_success_show_message_dialog_msg">Να επιτρέπεται στις ειδοποιήσεις να μπορούν να εμφανίζονται στην Οθόνη Κλειδώματος?</string>
+	<string name="face_unlock_success_show_message_dialog_negative_btn">Όχι ευχαριστώ</string>
+	<string name="face_unlock_success_show_message_dialog_positive_btn">Αποδοχή</string>
+	<string name="face_unlock_success_show_message_dialog_title">Ειδοποιήσεις Οθόνης Κλειδώματος</string>
+	<string name="face_unlock_success_show_message_msg">Προβολή μόνο της πηγής ειδοποίησης όταν η συσκευή είναι κλειδωμένη και εμφάνιση λεπτομερειών μετά την επαλήθευση των Δεδομένων Προσώπου.</string>
+	<string name="face_unlock_success_show_message_title">Εμφάνιση λεπτομερειών ειδοποίησης μετά την επαλήθευση Δεδομένων Προσώπου</string>
+	<string name="face_unlock_success_show_message_toast">Οι ειδοποιήσεις θα εμφανίζονται στην Οθόνη Κλειδώματος</string>
 </resources>
