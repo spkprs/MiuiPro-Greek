@@ -1324,4 +1324,9 @@
         <item>24-ωρη 13:00</item>
         <item>Αυτόματα (βάσει γλώσσας συστήματος)</item>
     </string-array>
+    <string-array name="drip_battery_indicator_style_entries">
+        <item>Γραφική</item>
+        <item>Ποσοστό (εντός εικονιδίου)</item>
+        <item>Ποσοστό (δίπλα στο εικονίδιο)</item>
+    </string-array>
 </resources>
