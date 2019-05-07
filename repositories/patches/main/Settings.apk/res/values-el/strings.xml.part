@@ -234,4 +234,5 @@
   <string name="wifi_type_approval_title">Σχετικά με το MiuiPro</string>
   <string name="wifiact_icon_title">Απόκρυψη βελών ένδειξης Wi-Fi</string>
   <string name="WiFiOn_mobile_title">Με το Wi-Fi ενεργό</string>
+  <string name="battery_percent_title">Θέση ποσοστού</string>
 </resources>
