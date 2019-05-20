@@ -606,4 +606,6 @@
   <string name="allow_gpu_maxfreq_summary">Η πειραματική λειτουργία GPU overfreq θα μπορούσε να δημιουργήσει προβλήματα ενέργειας ή ακόμα σοβαρότερα. Ωστόσο, θα επανέλθουν μόλις απενεργοποιήσετε αυτήν τη λειτουργία. Ενεργοποίηση λειτουργίας maxfreq GPU;</string>
   <string name="gpu_maxfreq_title">GPU πειραματική λειτουργία Overfreq</string>
     <string name="title_frr_far_refer_to_report">Αποτελέσματα</string>
+  <string name="close_third_color_led">κλείσιμο τριών χρωμάτων LED</string>
+  <string name="open_third_color_led">άνοιγμα τριών χρωμάτων LED</string>
 </resources>

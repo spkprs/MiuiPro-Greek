@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="denoise_entries">
-        <item>Προεπιλογή</item>
-        <item>Ενεργό</item>
-        <item>Ανενεργό</item>
-  </string-array>
-  <string-array name="ai_scene_names">
+    <string-array name="ai_scene_names">
         <item>Δεν υπάρχει</item>
         <item>Έγγραφα</item>
         <item>Λουλούδια</item>
@@ -41,5 +36,10 @@
         <item>Παραλία</item>
         <item>Υποβρύχιο</item>
         <item>Αγαλμα</item>
-  </string-array>
+    </string-array>
+    <string-array name="denoise_entries">
+        <item>Προεπιλογή</item>
+        <item>Ενεργό</item>
+        <item>Ανενεργό</item>
+    </string-array>
 </resources>
