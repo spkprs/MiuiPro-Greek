@@ -684,5 +684,5 @@
       <string name="provision_sync_items_loading">Προετοιμασία συγχρονισμού στοιχείων</string>
 	  <string name="user_detail_agreement">Συμφωνία χρήστη</string>
 	  <string name="user_detail_privacy_policy">Πολιτική απορρήτου</string>
-      <string name="find_device_gdpr_prompt">Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την<u><a href="app://com.miui.cloudservice.gdpr.license">Πολιτική Απορρήτου</a></u> μας. Εάν χρειάζεται να ανακαλέσετε την εξουσιοδότηση, απενεργοποιήστε αυτήν τη λειτουργία.</string>
+      <string name="find_device_gdpr_prompt">Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Πολιτική Απορρήτου&lt;/a&gt;&lt;/u&gt; μας. Εάν χρειάζεται να ανακαλέσετε την εξουσιοδότηση, απενεργοποιήστε αυτήν τη λειτουργία.</string>
 </resources>
