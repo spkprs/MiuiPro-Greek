@@ -1058,7 +1058,7 @@
   <string name="clear_instant_app_confirmation">Θέλετε να καταργήσετε αυτήν την στιγμιαία Εφαρμογή;</string>
   <string name="clear_instant_app_data">Διαγραφή δεδομένων εφαρμογής</string>
   <string name="clear_uri_btn_text">Καθαρή πρόσβαση</string>
-  <string name="clear_user_data_text">Καθαρισμός δεδομένων</string>
+  <string name="clear_user_data_text">Καθαρισμός δεδομ</string>
   <string name="close_app">Κλείσιμο τρέχουσας εφαρμογής</string>
   <string name="close_demo_mode">Ακύρωση</string>
   <string name="close_gesture">Κλείσιμο με χρήση χειρονομίας</string>
