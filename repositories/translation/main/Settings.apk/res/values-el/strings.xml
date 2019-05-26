@@ -2666,7 +2666,8 @@
   <string name="miui_lab_taplus_desc">Πατήστε και κρατήστε πατημένα τα στοιχεία για ενεργοποίηση ενεργειών</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Διαγράφει όλα τα δεδομένα στο τηλέφωνο</string>
-  <string name="miui_touch_filtered_warning">Εάν μια εφαρμογή μπλοκάρει το πλαίσιο διαλόγου αδειών. σύρετε το αντικείμενο μακριά ή κλείστε την εφαρμογή.</string>
+  <string name="miui_touch_filtered_touchassistant_warning">Το παράθυρο διαλόγου αδειών καλύπτεται από τον Βοηθό Αφής. Μετακινήστε τον ή απενεργοποιήστε την λειτουργία του.</string>
+  <string name="miui_touch_filtered_warning">Εάν μια εφαρμογή καλύπτει το πλαίσιο διαλόγου αδειών. Σύρετε το αντικείμενο μακριά ή κλείστε την εφαρμογή.</string>
   <string name="miui_updater">Ενημέρωση συστήματος</string>
   <string name="miui_userguide">Οδηγός χρήστη</string>
   <string name="mms_breathing_light_color_title">Χρωματισμός LED μηνυμάτων</string>
