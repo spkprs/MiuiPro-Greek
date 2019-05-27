@@ -118,7 +118,7 @@
   <string name="converting_to_picture_message">Μετατροπή σε μήνυμα πολυμέσων…</string>
   <string name="converting_to_text_message">Μετατροπή σε μήνυμα κειμένου…</string>
   <string name="converting_vcard_failed">Δεν ήταν δυνατή η μετατροπή της επαφής</string>
-  <string name="copy_message_text">Αντιγραφή κειμένου</string>
+  <string name="copy_message_text">Αντιγραφή</string>
   <string name="copy_message_text_success">Αντιγράφηκε επιτυχώς</string>
   <string name="copy_to_sdcard">Αποθήκευση συνημμένου</string>
   <string name="copy_to_sdcard_fail">Αδυναμία αποθήκευσης συνημμένου</string>
@@ -263,7 +263,7 @@
   <string name="menu_delete_messages">Διαγραφή μηνυμάτων</string>
   <string name="menu_edit">Επεξεργασία</string>
   <string name="menu_forward">Προώθηση</string>
-  <string name="menu_lock">Αγαπημένο</string>
+  <string name="menu_lock">Προσθήκη στα Αγαπημένα</string>
   <string name="menu_mark">Μαρκάρισμα</string>
   <string name="menu_more">Περισσότερα</string>
   <string name="menu_new_contact">Νέα επαφή</string>
@@ -713,6 +713,7 @@
   <string name="to_address_label">"Προς: "</string>
   <string name="to_label">"Προς "</string>
   <string name="to_send_wrapper">Θα σταλεί στις %s</string>
+  <string name="toast_pending_hangup_msg">Το μήνυμα θα σταλεί μετά το τέλος της κλήσης</string>
   <string name="today">Σήμερα</string>
   <string name="too_many_attachments">Υπάρχει ένα όριο %1$s συνημμένων. Μόνο τα πρώτα %2$s θα προστεθούν.</string>
   <string name="too_many_recipients">Αυτό το μήνυμα έχει πολλούς παραλήπτες (%1$s). Υπάρχει ένα όριο %2$s παραληπτών.</string>
@@ -743,7 +744,7 @@
   <string name="verification_code_list_title">Κωδικοί επαλήθευσης</string>
   <string name="view">Προβολή</string>
   <string name="view_bookmark">Προβολή αρχικού μηνύματος</string>
-  <string name="view_message_details">Δείτε λεπτομέρειες</string>
+  <string name="view_message_details">Προβολή λεπτομερειών</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Αποστολή σε %ds</string>
   <string name="wild_msg_processing">επεξεργασία…</string>
@@ -751,7 +752,7 @@
   <string name="yellowpage_recommend_msg">Δοκιμάστε τις δυνατότητες των μηνυμάτων SMS της MIUI</string>
   <string name="yes">OK</string>
   <string name="yesterday">Χθές</string>
-  <string name="cmcc_privacy">Συμφωνία απορρήτου μεταφορέα της China Mobile</string>
+  <string name="cmcc_privacy">Συμφωνία απορρήτου φορέα της China Mobile</string>
   <string name="mark_number_by_own_dialog_subtitle">Επισημαίνεται ως %1$s</string>
   <string name="rcs_dspt_unavailable">"Δεν είναι δυνατή η χρήση αυτής της λειτουργίας τώρα. Η κάρτα China Mobile SIM δεν είναι η προεπιλεγμένη κάρτα δεδομένων σας."</string>
   <string name="rcs_service_agreement">Συμφωνία παροχής υπηρεσιών</string>

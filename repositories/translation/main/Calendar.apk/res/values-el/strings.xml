@@ -216,7 +216,9 @@
   <string name="preferences_use_home_tz_title">Χρήση τοπικής ζώνης ώρας</string>
   <string name="preferences_week_start_day_dialog">Η εβδομάδα ξεκινάει την</string>
   <string name="preferences_week_start_day_title">Η εβδομάδα ξεκινάει την</string>
+  <string name="pull_to_refresh_hint">Τραβήξτε για ανανέωση συμβάντων του %1$d</string>
   <string name="refresh">Ανανέωση</string>
+  <string name="refreshing_hint">Μισό λεπτό…</string>
   <string name="repeat_activity_label">Επανάληψη</string>
   <string name="repeat_custom_activity_label">Προσαρμογή</string>
   <string name="repeat_custom_prompt">κάθε %1$s την %2$s</string>
