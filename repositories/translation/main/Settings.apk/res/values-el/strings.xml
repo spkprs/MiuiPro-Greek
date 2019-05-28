@@ -5866,13 +5866,13 @@
   <string name="status_bar_settings_notification_style">Τύπος προβολής ειδοποίησης</string>
   <string name="enable_atrace">Ενεργοποίηση ATrace</string>
   <string name="enable_atrace_summary">Καταγραφή συμβάντων πυρήνα με χρήση ATrace</string>
-  <string name="allow_device_id_access">Εφαρμογές με πρόσβαση στο ID συσκευής</string>
-  <string name="device_id">ID συσκευής</string>
+  <string name="allow_device_id_access">Επιλέξτε εφαρμ. για χρήση του ID συσκευής</string>
+  <string name="device_id">ID συσκευής για εξατομικευμένες συστάσεις</string>
   <string name="pref_show_lunar_calendar_title">Εμφάνιση παραδοσιακού Κινεζικού ημερολογίου στην οθόνη κλειδώματος</string>
-  <string name="restore_device_id_content">Επαναφορά εξατομικευμένων συστάσεων</string>
-  <string name="restore_device_id_title">Επαναφορά ID συσκευής</string>
-  <string name="restore_dialog_content">Η επαναφορά του ID συσκευής θα επαναφέρει τις εξατομικευμένες προτάσεις σας.</string>
-  <string name="restore_dialog_positive">Επαναφορά</string>
+  <string name="restore_device_id_content">Οι εξατομικευμένες συστάσεις θα διαγραφούν</string>
+  <string name="restore_device_id_title">Διαγραφή ID συσκευής</string>
+  <string name="restore_dialog_content">Η διαγραφή του τρέχοντος ID συσκευής θα διαγράψει τις εξατομικευμένες προτάσεις. Διαγραφή τώρα;</string>
+  <string name="restore_dialog_positive">Διαγραφή</string>
   <string name="restore_dialog_title">Προσοχή</string>
   <string name="status_bar_settings_expandable_under_keyguard">Εμφάνιση στην οθόνη κλειδώματος</string>
   <string name="call_records_name_1">Debbie Smith</string>
@@ -6199,5 +6199,11 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
 	<string name="color_led_title">Φωτισμός LED</string>
 	<string name="toggle_auto_speaker_preference_title">Αυτόματη μετάβαση στο ηχείο</string>
 	<string name="toggle_auto_speaker_preference_summary">Ο ήχος θα μεταβεί στο ηχείο όταν μετακινήσετε τη συσκευή μακριά από το αυτί σας κατά την κλήση. Αυτό λειτουργεί μόνο με ενεργό το TalkBack.</string>
+    <string name="allow_oaid_used">Επιτρέπεται η χρήση ID συσκευής</string>
+    <string name="device_oaid">ID συσκευής</string>
+    <string name="restore_oaid_content">Η διαγραφή του τρέχοντος ID συσκευής σας θα δημιουργήσει ένα νέο. Διαγραφή τώρα;</string>
+    <string name="restore_oaid_positive">Διαγραφή</string>
+    <string name="restore_oaid_title">Διαγραφή ID συσκευής</string>
+    <string name="no_sim_title">Απόκρυψη εικονιδίου Χωρίς SIM</string>
 </resources>
 
