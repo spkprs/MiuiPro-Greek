@@ -2225,7 +2225,7 @@
   <string name="keywords_wifi">wifi;wi-fi;Wi-Fi;WiFi;wlan;Wi-Fi</string>
   <string name="keywords_wifi_calling">"wifi κλήση "</string>
   <string name="keywords_write_settings">γράψει τροποποιήσει τις ρυθμίσεις του συστήματος</string>
-  <string name="kilobyte_per_second">K/s</string>
+  <string name="kilobyte_per_second">KB/δ</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_mi_stats">Mi αναλύσεις</string>
   <string name="language_keyboard_settings_title">Γλώσσα καιΕισαγωγή</string>
@@ -2565,7 +2565,7 @@
   <string name="media_volume_option_title">Ένταση πολυμέσων</string>
   <string name="media_volume_summary">Ορισμός έντασης για μουσική και βίντεο</string>
   <string name="media_volume_title">Πολυμέσα</string>
-  <string name="megabyte_per_second">M/s</string>
+  <string name="megabyte_per_second">MB/δ</string>
   <string name="megabyteShort">MB</string>
   <string name="mem_details_title">Λεπτομέρειες μνήμης</string>
   <string name="mem_state_subtitle">Καταστάσεις μνήμης</string>
@@ -6019,7 +6019,7 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικοποίησης
   <string name="allow_sound_title">Να επιτρέπεται ο ήχος</string>
   <string name="allow_vibrate_title">Να επιτρέπεται η δόνηση</string>
   <string name="app_link_title">Πρόσθετες ρυθμίσεις στην εφαρμογή</string>
-  <string name="badge_title">Εμφάνιση ένδειξης στην εφαρμογή στην επιφάνεια εργασίας</string>
+  <string name="badge_title">Εμφάνιση ενδείξεων εικονιδίου εφαρμογής</string>
   <string name="battery_indicator_title">Ένδειξη μπαταρίας</string>
   <string name="block_title">Εμφάνιση ειδοποιήσεων</string>
   <string name="custom_carrier_title">Επεξεργασία ονόματος φορέα</string>
