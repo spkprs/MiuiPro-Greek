@@ -459,7 +459,7 @@
   <string name="vpn_settings_not_available">Οι ρυθμίσεις VPN δεν είναι διαθέσιμες γι\' αυτόν το χρήστη</string>
   <string name="wait_for_debugger">Περιμένετε το εργαλείο εντοπισμού σφαλμάτων</string>
   <string name="wait_for_debugger_summary">Αναμονή εφαρμογής για να συνδεθεί ο εντοπισμός σφαλμάτων</string>
-  <string name="wapi_all_sel_mode">Επιλέξτε κατάσταση λειτουργίας</string>
+  <string name="wapi_all_sel_mode">Επιλέξτε</string>
   <string name="wapi_auto_sel_cert_fail">Δεν είναι δυνατή η αυτόματη επιλογή του πιστοποιητικού. Επιλέξτε ένα πιστοποιητικό από τη λίστα και, στη συνέχεια, δοκιμάστε να συνδεθείτε.</string>
   <string name="wapi_cert_is_not_exist">Δεν υπάρχει διαθέσιμο πιστοποιητικό, εγκαταστήστε πρώτα το πιστοποιητικό</string>
   <string name="wapi_cert_is_not_selected">Επιλέξτε πρώτα το πιστοποιητικό</string>

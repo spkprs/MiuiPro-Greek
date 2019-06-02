@@ -545,7 +545,8 @@
   <string name="use_open_wifi_automatically_summary_scoring_disabled">Για να χρησιμοποιήσετε τη λειτουργία, επιλέξτε έναν πάροχο αξιολόγησης δικτύου</string>
   <string name="vibrate_on_touch_summary">Ανάδραση αφής για πάτημα, πληκτρολόγιο και άλλα</string>
   <string name="vision_settings_suggestion_title">Αλλαγή μεγέθους γραμματοσειράς</string>
-  <string name="wapi_all_sel_mode">Επιλογή λειτουργίας</string>
+  <string name="wapi_all_sel_mode">Επιλογή</string>
+  <string name="wapi_auto_sel_cert_fail">Δεν είναι δυνατή η αυτόματη επιλογή του πιστοποιητικού. Επιλέξτε ένα πιστοποιητικό από τη λίστα και, στη συνέχεια, δοκιμάστε να συνδεθείτε.</string>
   <string name="wapi_cert_is_not_exist">Δεν υπάρχει διαθέσιμο πιστοποιητικό, εγκαταστήστε πρώτα το πιστοποιητικό</string>
   <string name="wapi_cert_manage_error">Προσπαθήστε να ορίσετε το πιστοποιητικό WAPI.</string>
   <string name="wapi_cert_roaming">Σύνδεση…</string>
@@ -555,6 +556,7 @@
   <string name="wapi_password_length_is_max">Ο κωδικός πρόσβασης δεν μπορεί να υπερβαίνει τους 64 χαρακτήρες</string>
   <string name="wapi_password_length_is_min">Ο κωδικός πρόσβασης δεν μπορεί να έχει μήκος μικρότερο των 8 χαρακτήρων</string>
   <string name="wapi_password_length_is_min_to_max">Ο κωδικός πρόσβασης πρέπει να είναι: 8-64 χαρακτήρες</string>
+  <string name="wapi_psk_type">Τύπος κωδικού πρόσβασης</string>
   <string name="wifi_ap_band_select_one">Επιλέξτε τουλάχιστον μία ζώνη συχνοτήτων για το σημείο πρόσβασης Wi‑Fi:</string>
   <string name="wifi_ap_choose_auto">Αυτόματα</string>
   <string name="wifi_ap_choose_dual">Και στις δύο</string>

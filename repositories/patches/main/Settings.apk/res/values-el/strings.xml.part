@@ -132,11 +132,11 @@
   <string name="show_weather_city_title">Προβολή πόλης</string>
   <string name="show_weather_description_title">Προβολή περιγραφής</string>
   <string name="show_weather_title">Προβολή καιρού</string>
-  <string name="sim_select_title">Ρύθμιση τύπου για:</string>
   <string name="smart_mobile_data_transfer">Απενεργοποίηση δεδομένων κινητής κατά την κλήση</string>
   <string name="smart_mobile_network_settings_title">Κατάσταση μεταφοράς Κινητής και Δικτύου</string>
   <string name="smart_mobile_network_title">Έξυπνο κινητό δίκτυο</string>
-  <string name="smart_mobile_title">Ρυθμίσεις έξυπνου δικτύου</string>
+  <string name="smart_mobile_one_title">Έξυπνο δίκτυο για SIM 1</string> 
+  <string name="smart_mobile_two_title">Έξυπνο δίκτυο για SIM 2</string>
   <string name="smart_mobiledata_off">Με Δεδομένα ανενεργά</string>
   <string name="smart_mobiledata_on">Με Δεδομένα ενεργά</string>
   <string name="smart_timer">Χρονομετρητής μεταφοράς δικτύου στο 2G</string>
