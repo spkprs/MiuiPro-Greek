@@ -508,7 +508,7 @@
     <string name="micloud_find_device_guide_alert_negtive">Οχι ευχαριστώ</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Οχι ευχαριστώ</string>
     <string name="micloud_find_device_close_alert_title">Απενεργοποίηση Εύρεση συσκευής;</string>
-    <string name="micloud_find_device_close_alert_content">Εάν απενεργοποιήσετε αυτήν τη λειτουργία, δεν θα μπορείτε να εντοπίσετε τη συσκευή σας σε περίπτωση που χαθεί.</string>
+    <string name="micloud_find_device_close_alert_content">"Εάν απενεργοποιήσετε τη λειτουργία Εύρεση Συσκευής, δεν θα μπορείτε να εντοπίσετε το τηλέφωνό σας όταν χαθεί. Εάν υποστηρίζει τη λειτουργία NFC, όλες οι τραπεζικές και άλλες κάρτες σας θα διαγραφούν από τη Mi Pay."</string>
     <string name="micloud_find_device_close_alert_positive">Διατήρηση</string>
     <string name="micloud_find_device_close_alert_negtive">Απενεργοποίηση</string>
     <string name="activate_finddevice">Συνδεθείτε στο δίκτυο για να ενεργοποιήσετε τη συσκευή</string>
