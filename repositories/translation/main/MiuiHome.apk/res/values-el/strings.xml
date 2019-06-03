@@ -349,6 +349,10 @@
   <string name="announce_for_app_move_in_folder">Μετακινήθηκε στη θέση %1$d στο φάκελο</string> 
   <string name="announce_for_create_folder_with_app">Δημιουργήθηκε ένας φάκελος με %1$s</string>   
   <string name="announce_for_widget_span">Πλάτος %1$d, Ύψος %2$d</string> 
+  <string name="announce_for_search_bar">Μπάρα Αναζήτησης</string>
+  <string name="announce_for_xiaoai">Mi AI</string>
+  <string name="privacy_thumbnail_blur_summary">Θολή προεπισκόπηση εφαρμογών στα Πρόσφατα</string>
+  <string name="privacy_thumbnail_blur_title">Θολή προεπισκόπηση εφαρμογών</string>
   <string name="recommend_apps_no_data_toast">Δεν υπάρχουν συστάσεις για τώρα.</string> 
   <string name="recommend_xout">"Χωρίς εμφάνιση"</string>  
   <string name="show_recents_recommend_title">Εμφάνιση συστάσεων</string>
