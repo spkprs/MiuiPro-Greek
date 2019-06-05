@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="add_frequent_phrases">Προσθήκη συχνών φράσεων</string>
   <string name="android_ringtone_default_with_actual">Προεπιλ. ήχος κλήσης (%1$s)</string>
   <string name="android_ringtone_silent">Χωρίς</string>
   <string name="android_ringtone_unknown">Άγνωστος ήχος κλήσης</string>
@@ -16,18 +15,12 @@
   <string name="cta_permission_and">" και "</string>
   <string name="cta_permission_delimiter">", "</string>
   <string name="cta_title">Όροι Χρήσης</string>
-  <string name="delete_frequent_phrases">Διαγραφή συχνών φράσεων</string>
-  <string name="delete_frequent_phrases_confirm">Διαγραφή επιλεγμένων συχνών φράσεων;</string>
   <string name="device_hongmi">Redmi</string>
+  <string name="device_poco_global">POCOPHONE</string>
+  <string name="device_poco_india">POCO PHONE</string>
   <string name="device_xiaomi">Mi Phone</string>
   <string name="dewdrops">Δροσοσταλιά</string>
-  <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
-  <string name="frequent_phrases_des">Εισάγετε συχνές φράσεις με λίγα μόνο πατήματα κατά την επεξεργασία κειμένου</string>
-  <string name="frequent_phrases_size_exceeded">Μπορείτε να προσθέσετε μέχρι %1$d συχνές φράσεις. Διαγράψτε τις περιττές, για να προσθέσετε νέες</string>
   <string name="icelatte">Ice latte</string>
-  <string name="menu_add_frequent_phrases">Προσθήκη</string>
-  <string name="menu_delete">Διαγραφή</string>
-  <string name="menu_edit">Επεξεργασία</string>
   <string name="miui_device_name">Android</string>
   <string name="no_notification_tips">Δεν υπάρχουν ειδοποιήσεις.</string>
   <string name="presentation_payphone">Καρτοτηλέφωνο</string>
