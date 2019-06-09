@@ -575,7 +575,7 @@
   <string name="xiaomi_update_dialog_message_diff">Σας παρουσιάζουμε την έκδοση %1$s \u000d\nΜέγεθος ενημέρωσης Delta: %2$s</string>
   <string name="xiaomi_update_dialog_title">Μια νέα έκδοση είναι διαθέσιμη!</string>
   <string name="button_got_it">OK</string>
-  <string name="comma_seperator">", "</string>
+  <string name="comma_seperator">" - "</string>
   <string name="digit_percent">%</string>
   <string name="total_size">, %s</string>
   <string name="trans_cancel_dialog_survey_title">Γιατί διακόψατε τη μεταφορά;</string>

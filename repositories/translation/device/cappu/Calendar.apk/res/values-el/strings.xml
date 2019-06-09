@@ -212,8 +212,8 @@
   <string name="preferences_title">Ρυθμίσεις</string>
   <string name="preferences_use_home_tz_descrip">Εμφανίζει ώρες σε ημερολόγια και γεγονότα στην τοπική ζώνη ώρας όταν ταξιδεύετε</string>
   <string name="preferences_use_home_tz_title">Χρήση τοπικής ζώνης ώρας</string>
-  <string name="preferences_week_start_day_dialog">Η εβδομάδα ξεκινάει την</string>
-  <string name="preferences_week_start_day_title">Η εβδομάδα ξεκινάει την</string>
+  <string name="preferences_week_start_day_dialog">Έναρξη εβδομάδος</string>
+  <string name="preferences_week_start_day_title">Έναρξη εβδομάδος</string>
   <string name="refresh">Ανανέωση</string>
   <string name="repeat_activity_label">Επανάληψη</string>
   <string name="repeat_custom_activity_label">Προσαρμογή</string>
