@@ -67,9 +67,7 @@
     <string name="sync_dspt_provision">"Το Mi Cloud συγχρονίζει τις φωτογραφίες σας, μηνύματα SMS, σημειώσεις, επαφές, μητρώο κλήσεων και πολλά άλλα μεταξύ των συσκευών σας. Μπορείτε επίσης να έχετε πρόσβαση σε αυτά από οποιοδήποτε πρόγραμμα περιήγησης στο "</string>
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision2_int">mi.com/micloud</string>
-    <string name="sync_dspt_provision3">".
-
-Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσει
+    <string name="sync_dspt_provision3">". Μπορείτε να ενεργοποιείτε ή απενεργοποιείτε αυτή την λειτουργία απο τις Ρυθμίσεις.
 "</string>
     <string name="sync_dspt_entrance_provision">Συγχρονίσετε φωτογραφίες, επαφές, ιστορικό κλήσεων και μηνύματα, μεταξύ όλων των συσκευών σας. Δείτε τα πράγματα που έχετε συγχρονίσει, από οποιοδήποτε πρόγραμμα περιήγησης στο %s</string>
     <string name="sync_dspt_entrance_provision_2">Μάθετε περισσότερα</string>
@@ -87,8 +85,8 @@
     <string name="find_device_send_sms_alert">Εάν αλλάξετε κάρτα SIM, ένα άλλο SMS θα σταλεί αυτόματα για να ενεργοποιήσετε ξανά αυτήν την υπηρεσία.</string>
     <string name="mx_dspt_provision">"Το Mi Message σας επιτρέπει να στείλετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβάρυνση SMS.
 
-Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις."</string>
-    <string name="mx_dspt_provision_with_voip">Καλέστε άλλους χρήστες MIUI δωρεάν, με χρήση της σύνδεσής σας στο Internet. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.</string>
+Μπορείτε να ενεργ-απενεργοποιήσετε αυτή την λειτουργία οποιαδήποτε στιγμή από τις Ρυθμίσεις."</string>
+    <string name="mx_dspt_provision_with_voip">Καλέστε άλλους χρήστες MIUI δωρεάν, με χρήση της σύνδεσής σας στο Internet. Μπορείτε να ενεργοποιήστε ή να απενεργοποιήστε την λειτουργία αυτή οποιαδήποτε στιγμή στις Ρυθμίσεις.</string>
     <string name="mx_dspt_provision_with_voip2">Πολιτική Απορρήτου</string>
     <string name="mx_dspt_provision_privacy">"Αυτή η υπηρεσία μπορεί να ζητήσει τον αριθμό του τηλεφώνου σας. Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση της υπηρεσίας.
 Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές ΜΙ."</string>
@@ -135,7 +133,7 @@
     <string name="find_device_disabled_title">Η εύρεση συσκευής είναι απενεργοποιημένη</string>
     <string name="find_device_disabled_notice">Μπορείτε να αλλάξετε τη λειτουργία εύρεσης συσκευής στις Ρυθμίσεις - Λογαριασμοί &amp; συγχρονισμός - Mi Cloud</string>
     <string name="button_cancel">Ακύρωση</string>
-    <string name="enable_micloud">Είσοδος για χρήση του Mi Cloud</string>
+    <string name="enable_micloud">Συνδεθείτε για χρήση του Mi Cloud</string>
     <string name="micloud_more">Μάθετε περισσότερα</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Όλα τα σημαντικά σε ένα μέρος</string>
@@ -172,7 +170,7 @@
     <string name="micloud_space_soundrecorder_detail">Διαχείριση των ηχογραφήσεων που είναι αποθηκευμένες στη συσκευή σας</string>
     <string name="micloud_space_full_influence">Τι συμβαίνει όταν έχω ξεμείνει από χώρο;</string>
     <string name="micloud_storage_usage" formatted="false">Σε χρήση %s / Συνολικός χώρος %s</string>
-    <string name="micloud_storage_full">Ο χώρος αποθήκευσης cloud είναι πλήρης</string>
+    <string name="micloud_storage_full">Ο χώρος του Cloud είναι πλήρης</string>
     <string name="micloud_title_dspt_remain">%s απομένουν</string>
     <string name="micloud_title_full_dspt">Έχετε φτάσει το όριο αποθήκευσής σας!</string>
     <string name="micloud_user_space_usage">Χώρος αποθήκευσης</string>
@@ -207,15 +205,15 @@
     <string name="sync_sub_2_sms">Ο φορέας σας μπορεί να χρεώσει για 2 μηνύματα SMS που χρησιμοποιούνται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
     <string name="sync_sub_2_intl_sms">Ο φορέας σας μπορεί να χρεώσει για 2 διεθνή μηνύματα SMS που χρησιμοποιούνται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
     <string name="sync_sub_1_sms_1_intl_sms">Ο φορέας σας μπορεί να χρεώσει για 1 εγχώριο και 1 διεθνές μήνυμα SMS που χρησιμοποιούνται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
-    <string name="micloud_all_sub_1_sms">Ένα κανονικό SMS θα σταλεί για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την Εύρεση συσκευής, ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM.</string>
-    <string name="micloud_all_sub_1_intl_sms">Ένα διεθνές SMS θα σταλεί για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την Εύρεση συσκευής, ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM.</string>
-    <string name="micloud_all_sub_2_sms">2 κανονικά μηνύματα κειμένου θα σταλούν για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την Εύρεση συσκευής, ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM.</string>
-    <string name="micloud_all_sub_2_intl_sms">2 διεθνή μηνύματα κειμένου θα σταλούν για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την Εύρεση συσκευής, ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM.</string>
-    <string name="micloud_all_sub_1_sms_1_intl_sms">2 μηνύματα κειμένου (κανονικό και διεθνές) θα σταλούν για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας. Όταν ενεργοποιείτε την Εύρεση συσκευής, ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM.</string>
-    <string name="micloud_all_sub_resend_sms">Όταν ενεργοποιείτε την Εύρεση συσκευής, ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM.</string>
+    <string name="micloud_all_sub_1_sms">Ένα κανονικό SMS θα σταλεί για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας.</string>
+    <string name="micloud_all_sub_1_intl_sms">Ένα διεθνές SMS θα σταλεί για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας.</string>
+    <string name="micloud_all_sub_2_sms">2 κανονικά μηνύματα κειμένου θα σταλούν για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας.</string>
+    <string name="micloud_all_sub_2_intl_sms">2 διεθνή μηνύματα κειμένου θα σταλούν για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας.</string>
+    <string name="micloud_all_sub_1_sms_1_intl_sms">2 μηνύματα κειμένου (κανονικό και διεθνές) θα σταλούν για να ενεργοποιήσετε την κάρτα SIM. Θα χρεωθείτε από τον φορέα σας.</string>
+    <string name="micloud_all_sub_resend_sms">Όταν ενεργοποιήσετε την Εύρεση συσκευής, ένα SMS ενεργοποίησης μπορεί να αποσταλεί μετά την εναλλαγή καρτών SIM.</string>
     <string name="micloud_sync_prompt_for_no_gallery_sync">Οι επαφές, το ημερολόγιο και οι σημειώσεις συγχρονίζονται αυτόματα. Μεταβείτε στις ρυθμίσεις Mi Cloud για συγχρονισμό περισσότερων στοιχείων.</string>
-    <string name="sync_item_calllog_title">Συγχρονισμός αρχείων καταγραφής κλήσεων</string>
-    <string name="sync_item_calllog_summary">Συγχρονισμός αρχείων κλήσεων που έγιναν και ελήφθησαν σε αυτό το τηλέφωνο</string>
+    <string name="sync_item_calllog_title">Συγχρονισμός ιστορικού κλήσεων</string>
+    <string name="sync_item_calllog_summary">Συγχρονισμός εξερχόμενων και εισερχόμενων κλήσεων σε αυτό το τηλέφωνο</string>
     <string name="view_storage_title">Χώρος αποθήκευσης</string>
     <string name="storage">Αποθήκευση</string>
     <string name="setting">Ρυθμίσεις</string>
