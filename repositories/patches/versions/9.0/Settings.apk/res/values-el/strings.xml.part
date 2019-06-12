@@ -477,9 +477,9 @@
   <string name="status_number_sim_slot">Αριθμ. τηλ. (υποδοχή sim %1$d)</string>
   <string name="status_number_sim_status">Αριθμός τηλεφώνου SIM</string>
   <string name="status_voice_network_type">Τύπος φωνητικού δικτύου κινητής τηλεφωνίας</string>
-  <string name="storage_wizard_format_confirm_v2_action">Μορφοποίηση ^1</string>
-  <string name="storage_wizard_format_confirm_v2_body">Η συσκευή ^1 απαιτεί μορφοποίηση για να αποθηκεύσει εφαρμογές, αρχεία και μέσα. \n\nΗ μορφοποίηση θα διαγράψει το υπάρχον περιεχόμενο στο ^2. Για να μην χάσετε το περιεχόμενό σας, δημιουργήστε ένα αντίγραφο ασφαλείας σε ένα άλλο ^3 ή σε άλλη συσκευή.</string>
-  <string name="storage_wizard_format_confirm_v2_title">Μορφοποίηση του ^1;</string>
+  <string name="storage_wizard_format_confirm_v2_action">Διαμόρφωση ^1</string>
+  <string name="storage_wizard_format_confirm_v2_body">Η ^1 απαιτεί Διαμόρφωση για να αποθηκεύσει εφαρμογές, αρχεία και πολυμέσα. \n\nΗ Διαμόρφωση θα διαγράψει το υπάρχον περιεχόμενο στη ^2. Για να μην το χάσετε, δημιουργήστε ένα αντίγραφο ασφαλείας σε μια άλλη ^3 ή σε άλλη συσκευή.</string>
+  <string name="storage_wizard_format_confirm_v2_title">Διαμόρφωση της ^1;</string>
   <string name="storage_wizard_init_v2_external_action">Φορητός αποθηκευτικός χώρος</string>
   <string name="storage_wizard_init_v2_external_summary">Για τη μεταφορά αρχείων και μέσων μεταξύ συσκευών</string>
   <string name="storage_wizard_init_v2_external_title">Χρήση για φορητό αποθηκευτ. χώρο</string>

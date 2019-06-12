@@ -136,6 +136,7 @@
   <string name="delivery_report_activity">Αναφορά παράδοσης</string>
   <string name="delivery_toast_body">Μήνυμα ελήφθη από %s</string>
   <string name="delivery_toast_body_more">Μήνυμα παραλήφθηκε από %1$s, και %2$d άλλα άτομα</string>
+  <string name="dialog_complain_tips">Να επιτρέπεται η σύνδεση των Μηνυμάτων στο δίκτυο για να είναι δυνατή η αναφορά στοιχείων.</string>
   <string name="dialog_message_fake_cell_detect_error">Διορθώστε τις πληροφορίες σχετικά με αυτό το μήνυμα; Για να γίνει αυτό, το MIUI πρέπει να φορτώσει τον αριθμό τηλεφώνου (%1$s), το περιεχόμενο του μηνύματος και τις πληροφορίες σχετικά με την κοντινή τοποθεσία στους διακομιστές του.</string>
   <string name="dialog_message_mx">Το Mi Message σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβαρύνσεις. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση της υπηρεσίας. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνείτε με τις \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το Mi μήνυμα.</string>
   <string name="dialog_message_mx_rcs">Το Mi Message σάς επιτρέπει να στέλνετε μηνύματα σε άλλες συσκευές MIUI και χρήστες της China Mobile χωρίς να χρεώνεστε. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση του μηνύματος Mi. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνείτε με μας \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το μήνυμα Mi. Συμφωνώ?</string>
@@ -370,7 +371,7 @@
   <string name="networking_allow_desc_without_mx">Το Mi Message πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά. Για να αναγνωρίζει άγνωστους αριθμούς, να φιλτράρει τα ανεπιθύμητα μηνύματα και να ενεργοποιεί άλλες λειτουργίες, το Mi Message πρέπει να χρησιμοποιεί το Χρυσό Οδηγό. Να επιτρέπεται στο Χρυσό Οδηγό η πρόσβαση στο Internet, να λαμβάνει πληροφορίες για την τοποθεσία σας και να διαβάζει τις επαφές σας;</string>
   <string name="networking_allow_title">Προσοχή</string>
   <string name="new_message">Νέο μήνυμα</string>
-  <string name="new_message_arrived">Νέο μήνυμα ελήφθη</string>
+  <string name="new_message_arrived">Αγγίξτε για προβολή</string>
   <string name="new_phrase">Νέα απάντηση</string>
   <string name="new_phrase_hint">Εισάγετε νέα απάντηση</string>
   <string name="no">Άκυρο</string>
@@ -606,7 +607,7 @@
   <string name="security_alert_dialog_title">Αναφορά</string>
   <string name="select_audio">Επιλογή ήχου</string>
   <string name="select_bottom_text">Κείμενο στο κάτω μέρος</string>
-  <string name="select_copy_text">Επιλέξτε και αντιγράψτε το κείμενο του μηνύματος</string>
+  <string name="select_copy_text">Επιλέξτε και αντιγράψτε το κείμενο</string>
   <string name="select_different_media">Επιλέξτε ένα διαφορετικό %1$s.</string>
   <string name="select_link_title">Επιλέξτε ενέργεια</string>
   <string name="select_local_audio">Επιλέξτε ήχο</string>
@@ -728,7 +729,7 @@
   <string name="undelivered_msg_dialog_title">Ανεπίδοτο μήνυμα</string>
   <string name="undelivered_sms_dialog_body">Δεν είναι δυνατή η αποστολή αυτού του μηνύματος.</string>
   <string name="unknown_num">Άγνωστος αριθμός</string>
-  <string name="unknown_sender">Άγνωστος αποστολέας</string>
+  <string name="unknown_sender">Έχετε ένα νέο μήνυμα</string>
   <string name="unstick">Ξεκαρφίτσωμα</string>
   <string name="unstick_conversation">Ξεκαρφίτσωμα τρέχουσας συνομιλίας</string>
   <string name="unsticked_conversation">Η συνομιλία έχει ήδη ξεκαρφιτσωθεί</string>
@@ -776,7 +777,7 @@
   <string name="cm_privacy_dialog_spannable_tips">Πολιτική Απορρήτου</string>
   <string name="cm_privacy_dialog_tips">"Οι υπηρεσίες έξυπνων μηνυμάτων παρέχονται από τον φορέα σας. Η υπηρεσία πρέπει να συνδεθεί στο Internet και πρόσβαση στην τοποθεσία σας για να παρέχουν αυτές τις υπηρεσίες. Πρέπει να συμφωνείσετε με τη %1s του φορέα σας πριν ξεκινήσετε. Συμφωνείτε?"</string>
   <string name="cm_privacy_dialog_title">Προσοχή</string>
-  <string name="current_data_version">Έκδοση Mi Μηνύματα</string>
+  <string name="current_data_version">Έκδοση Mi Μήνυμα</string>
   <string name="imageview_ad">Διαφήμιση</string>
   <string name="messaging">Μηνύματα</string>
   <string name="more">Περισσότερα</string>
