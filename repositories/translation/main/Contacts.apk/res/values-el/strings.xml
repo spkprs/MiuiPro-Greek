@@ -201,6 +201,7 @@
   <string name="confirm_export_title">Εξαγωγή επαφών</string>
   <string name="connections">Συνδέσεις</string>
   <string name="contact_clear_search_history">Καθαρισμός ιστορικού</string>
+  <string name="contact_is_deleted">Η Επαφή ήταν διεγραμένη</string>
   <string name="contact_delete_toast">Η επαφή διαγράφηκε</string>
   <string name="contact_detail_action_item_calllog">Ιστορικό κλήσεων</string>
   <string name="contact_detail_action_item_nocalllog">Δεν υπάρχει ιστορικό</string>
