@@ -478,7 +478,7 @@
   <string name="description_target_search">Αναζήτηση</string>
   <string name="dev_logpersist_clear_warning_message">Όταν δεν παρακολουθείται πλέον η χρήση συνεχιζόμενου καταγραφέα, θα πρέπει να διαγραφούνε τα δεδομένα καταγραφής που παραμένουν στη συσκευή σας.</string>
   <string name="dev_logpersist_clear_warning_title">Διαγραφή αποθήκευσης του καταγραφέα;</string>
-  <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται μόνο για προγραμματιστές. Εάν ενεργοποιήσετε αυτές τις λειτουργίες, η συσκευή και οι εφαρμογές ενδέχεται να δυσλειτουργούν ή να προκαλούν σφάλματα.</string>
+  <string name="dev_settings_warning_message">Αυτές οι ρυθμίσεις προορίζονται μόνο για προγραμματιστές. Εάν ενεργοποιηθούν, μπορεί να προκληθούν δυσλειτουργίες  συσκευής και εφαρμογών.</string>
   <string name="dev_settings_warning_title">Να επιτρέπονται οι ρυθμίσεις ανάπτυξης;</string>
   <string name="development_settings_enable">Ενεργοποίηση επιλογών προγραμματιστή</string>
   <string name="development_settings_not_available">Οι επιλογές για προγραμματιστές δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
