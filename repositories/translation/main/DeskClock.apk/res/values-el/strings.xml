@@ -56,6 +56,7 @@
     <string name="dynamic_alarm_speech">Έξυπνη αφύπνιση</string>
     <string name="edit_alarm">Επεξεργασία αφύπνισης</string>
     <string name="edit_systemtime">Ρύθμιση ώρας συστήματος</string>
+    <string name="edit_systemtime_setting_summary">Ημέρα, ώρα, και Διπλό Ρολόι</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="every_day">Καθημερινά</string>
     <string name="expired_timers_dismissed">Ο χρονομετρητής απορρίφθηκε</string>
@@ -135,8 +136,9 @@
 	<string name="shortcut_new_alarm">Νέο Ξυπνητήρι</string>
 	<string name="shortcut_start_timer">Έναρξη χρονομέτρου</string>
 	<string name="shortcut_stop_watch">Έναρξη χρονομέτρου</string>
+    <string name="shut_down_keep_screen">Η οθόνη δεν θα παραμείνει ενεργή</string>
     <string name="shutdown_alarm_disable_summary">Η αφύπνιση δεν θα κλείσει μετά την απενεργοποίηση της συσκευής</string>
-    <string name="shutdown_alarm_enable_summary">"Η αφύπνιση δεν θα ηχήσει  εάν έχει ρυθμιστεί για τουλάχιστον 5 λεπτά μετά την απενεργοποίηση της συσκευής"</string>
+    <string name="shutdown_alarm_enable_summary">"Η αφύπνιση δεν θα ηχήσει  εάν έχει ρυθμιστεί για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής"</string>
     <string name="shutdown_alarm_title">Παύση αφύπνισης</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>
     <string name="skip_alarm_once_hint">Για μία φορά την %s</string>
@@ -204,7 +206,10 @@
     <string name="alarm_clock_more_setting">Πρόσθετες ρυθμίσεις</string>
     <string name="check_theme_app_install">Βεβαιωθείτε ότι η εφαρμογή Θέματα είναι εγκατεστημένη στη συσκευή σας.</string>
     <string name="check_voice_assist_app_version">Ενημερώστε το Mi AI στην τελευταία του έκδοση.</string>
-     <string name="worldclock_search_city">Επιλογή πόλης</string>
+    <string name="worldcolock_date_display_prefix">Τρέχουσα: </string>
+    <string name="worldclock_resident_city_text">Δεύτερο ρολόι: %s</string>
+    <string name="worldclock_resident_city_text_detail">Δεύτερο ρολόι είναι ενεργό</string>
+    <string name="worldclock_search_city">Επιλογή πόλης</string>
      <string name="worldclock_world_time">Ζώνες Ώρας</string>
      <string name="worldcolock_timezone_current">Τρέχουσα: %1$s</string>
      <string name="worldcolock_timezone_date">MMM dd</string>
