@@ -517,7 +517,7 @@
      <string name="rlv_loading_more">Μισό λεπτό…</string>
      <string name="rlv_pull_to_close">Σύρετε προς τα κάτω για κλείσιμο</string>
      <string name="rlv_pull_to_refresh">Σύρετε για ανανέωση</string>
-     <string name="rlv_refreshing">…</string>
+     <string name="rlv_refreshing">Ανανέωση…</string>
      <string name="rlv_release_to_close">Αφήστε για κλείσιμο</string>
      <string name="rlv_release_to_refresh">Αφήστε για ανανέωση</string>
      <string name="save">Αποθήκευση</string>

@@ -17,6 +17,7 @@
      <string name="bluetooth_search_for_devices">Αναζήτηση για συσκευές</string>
      <string name="device_picker">Ρυθμίσεις συσκευής Bluetooth</string>
      <string name="disconnect">Αποσύνδεση</string>
+     <string name="expand_button_title">Προηγμένες</string>
      <string name="goto_package">Άνοιγμα %1$s</string>
      <string name="install_package">Εγκατάσταση %1$s για περισσότερες λειτουργίες</string>
      <string name="mi_band_vibrate_alarm">Δόνηση κατά την αφύπνιση</string>
@@ -68,5 +69,5 @@
 	<string name="notify_fast_connect_device_group">Αυτόματη σύνδεση ακουστικών</string>
 	<string name="notify_fast_connect_device_text">Ξεκλειδώστε την οθόνη και προσπαθήστε να συνδεθείτε</string>
 	<string name="notify_fast_connect_device_title">Βρέθηκαν ακουστικά %1$s</string>
-    <string name="fast_connect_headset_reset">Πατήστε παρατεταμένα το κουμπί στο Box για %1$d δευτ</string>
+    <string name="fast_connect_headset_reset">Πατήστε παρατεταμένα το κουμπί στα Ακουστικά για %1$d δευτ</string>
 </resources>
