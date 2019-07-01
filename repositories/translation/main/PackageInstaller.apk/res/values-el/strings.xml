@@ -78,7 +78,7 @@
      <string name="install_failed_system_incompatible">Αυτή η εφαρμογή δεν είναι συμβατή με την MIUI ROM!</string>
      <string name="install_failed_verify_failed">Το πακέτο δεν πέρασε τον έλεγχο και δεν μπορεί να εγκατασταθεί.</string>
      <string name="install_failed_verify_timeout">Προέκυψε λήξη χρόνου, ενώ προσπαθούσε να ελέγξει αυτό το πακέτο. Παρακαλώ δοκιμάστε να εγκαταστήσετε ξανά αργότερα.</string>
-     <string name="install_from_appstore_hint">Σας προτείνουμε να εγκαταστήσετε την εφαρμογή από το &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
+     <string name="install_from_appstore_hint">Σας προτείνουμε να εγκαταστήσετε την εφαρμογή από το &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
      <string name="installing">Εγκατάσταση…</string>
      <string name="launch">Άνοιγμα</string>
      <string name="lb_playback_controls_closed_captioning_disable">Απενεργοποίηση Υπότιτλων</string>
