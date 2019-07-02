@@ -1502,6 +1502,7 @@
   <string name="disabled_by_policy_title_screen_capture">Δεν επιτρέπεται η λήψη στιγμιότυπων οθόνης</string>
   <string name="disabled_by_policy_title_sms">Δεν επιτρέπεται η αποστολή SMS</string>
   <string name="disabled_low_ram_device">Αυτή η λειτουργία δεν είναι διαθέσιμη στην συσκευή αυτή</string>
+  <string name="disallow_lock_screen_summary">Επιτρέψτε πρώτα τις ειδοποιήσεις στις \"Ειδοποιήσεις εφαρμογών\"</string>
   <string name="disableNetwork">Απενεργ-Δικτύου</string>
   <string name="disconnect">Αποσύνδεση</string>
   <string name="disconnected">Αποσυνδέθηκε</string>
@@ -5911,8 +5912,11 @@
   <string name="page_layout_35">Σημειώσεις</string>
   <string name="switch_access_service_on">Εναλλαγή Πρόσβασης</string>
   <string name="words_title">Κείμενο</string>
-  <string name="bootloader_tips">"Αφού προσθέσετε το λογαριασμό Mi, μην αποσυνδεθείτε, εκτελέστε επαναφορά εργοστασιακών ρυθμίσεων ή καταργήστε τα δεδομένα των εφαρμογών συστήματος. Αν κάνετε οποιοδήποτε από τα παραπάνω, προσθέστε ξανά το λογαριασμό σας ή διαφορετικά δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή σας."</string>
+  <string name="bootloader_tips">"%s
+
+Αν έχετε ήδη κάνει κάποιο από τα παραπάνω, προσθέστε ξανά το Λογαριασμό Mi. διαφορετικά, δεν θα μπορείτε να ξεκλειδώσετε τη συσκευή σας. "</string>
   <string name="bootloader_tips_ok">Κατανοητό</string>
+  <string name="bootloader_tips_warning">"Μην αποσυνδεθείτε από το δίκτυο, αποσυνδεθείτε από τον λογαριασμό σας mi, εκτελέστε επαναφορά εργοστασιακών ρυθμίσεων ή διαγράψτε τα δεδομένα του συστήματος."</string>
   <string name="keyguard_notification_status_title">Όταν λαμβάνονται Ειδοποιήσεις και η οθόνη είναι σβηστή</string>	
   <string name="others">Άλλα</string>
   <string name="slider_vocie_online_theme">Σύρετε για online ήχο</string>

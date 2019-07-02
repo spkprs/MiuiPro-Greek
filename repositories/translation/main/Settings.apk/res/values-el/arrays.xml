@@ -677,12 +677,12 @@
     <item>Ορισμός κύκλου χρήσης…</item>
   </string-array>
   <string-array name="date_of_app_all">
-    <item>Σήμερα (κινητής)</item>
-    <item>Αυτόν τον μήνα (κινητής)</item>
-    <item>Τελευταίο μήνα (κινητής)</item>
-    <item>Σήμερα Wi-Fi</item>
-    <item>Αυτόν τον μήνα Wi-Fi</item>
-    <item>Τελευταίο μήνα Wi-Fi</item>
+    <item>"Σήμερα (κινητής) "</item>
+    <item>"Αυτόν τον μήνα (κινητής) "</item>
+    <item>"Τελευταίο μήνα (κινητής) </item>
+    <item>"Σήμερα Wi-Fi "</item>
+    <item>"Αυτόν τον μήνα Wi-Fi "</item>
+    <item>"Τελευταίο μήνα Wi-Fi "</item>
   </string-array>
   <string-array name="date_of_traffic">
     <item>"Σήμερα "</item>
