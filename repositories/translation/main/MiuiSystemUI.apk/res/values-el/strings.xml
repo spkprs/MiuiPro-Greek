@@ -1109,8 +1109,8 @@
   <string name="prompt_detecting">Εντοπισμός</string>
   <string name="prompt_safe">Ασφαλές</string>
   <string name="prompt_unknown">Αγνωστο</string>
-  <string name="rgb_face_data_introduction_title">Προσθήκη 2D δεδομένων προσώπου</string>
-  <string name="rgb_face_data_manage_delete_msg">Διαγραφή 2D δεδομένων προσώπου</string>
+  <string name="rgb_face_data_introduction_title">Προσθ. 2D δεδ. Προσώπου</string>
+  <string name="rgb_face_data_manage_delete_msg">Διαγρ. 2D δεδ. Προσώπου</string>
   <string name="qs_customize">Επιτρέπει παρατεταμένο πάτημα και προσαρμογή Γρήγορων Ρυθμίσεων</string>
   <string name="qs_customize_info">Πληροφορίες</string>
   <string name="qs_customize_remove">Αφαίρεση</string>
@@ -1427,7 +1427,7 @@
   <string name="structure_face_data_input_up">Κοιτάξτε επάνω</string>
   <string name="structure_face_data_introduction_back">Πίσω</string>
   <string name="structure_face_data_introduction_msg">Τα Δεδομένα Προσώπου 3D σας επιτρέπει να ξεκλειδώσετε τη συσκευή σας και να επαληθεύσετε την ταυτότητά σας. Πρέπει να ορίσετε έναν κωδικό πρόσβασης πριν από τη χρήση αυτής της λειτουργίας.</string>
-  <string name="structure_face_data_introduction_next">Συνεχίστε</string>
+  <string name="structure_face_data_introduction_next">Συνέχεια</string>
   <string name="structure_face_data_introduction_settingpassword">Ρύθμιση</string>
   <string name="structure_face_data_introduction_title">Προσθήκη δεδομένων προσώπου 3D </string>
   <string name="structure_face_data_ir_input_face">Μετακινήστε το κεφάλι σας ελαφρώς</string>
