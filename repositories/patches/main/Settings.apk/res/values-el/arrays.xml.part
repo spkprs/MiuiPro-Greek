@@ -215,4 +215,10 @@
     <item>Αναπαραγωγή/Παύση</item>
     <item>Προηγούμενο</item>
   </string-array>
+  <string-array name="text_lines_entries">
+      <item>Προεπιλογή</item>
+        <item>Σε 1 γραμμή</item>
+        <item>Σε 2 γραμμές</item>
+        <item>Κύληση</item>
+    </string-array>
 </resources>

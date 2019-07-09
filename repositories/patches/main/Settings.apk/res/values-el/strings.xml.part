@@ -238,4 +238,5 @@
   <string name="no_sim_title">Απόκρυψη εικονιδίου Χωρίς SIM</string>
   <string name="percent_mi9_title">Μικρή ένδειξη ποσοστού</string>
   <string name="percent_show_size_title">Μέγεθος εικονιδίου ποσοστού</string>
+  <string name="set_text_lines_title">Ονόματα εφαρμ. κάτω από τα εικονίδια</string>
 </resources>
