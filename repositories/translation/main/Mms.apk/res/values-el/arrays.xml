@@ -64,4 +64,24 @@
         <item>Άλλο</item>
         <item>Ακύρωση</item>
   </string-array>
+    <string-array name="message_sending_method">
+        <item>Προτεινόμενη υπηρεσία μηνυμάτων</item>
+        <item>SMS, MMS</item>
+        <item>RCS chat, RCS Μεταφορά αρχείων</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>Χωρίς ερώτηση και πάντα αποστολή ως σύνδεση SMS</item>
+        <item>Χωρίς ερώτηση και χωρίς αποστολή ως σύνδεση SMS</item>
+        <item>Ερώτηση πάντα</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>Χωρίς ερώτηση και πάντα αποστολή ως SMS</item>
+        <item>Χωρίς ερώτηση και χωρίς αποστολή ως SMS</item>
+        <item>Ερώτηση πάντα</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>Ερώτηση πάντα</item>
+        <item>ποτέ αλλαγή μεγέθους</item>
+        <item>πάντα να αλλάξετε το μέγεθος μιας επιλεγμένης επιλογής η οποία στη συνέχεια αποθηκεύεται ως προεπιλεγμένη τιμή</item>
+    </string-array>
 </resources>
