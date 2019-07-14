@@ -306,7 +306,7 @@
   <string name="settings_shortcut">Ρυθμίσεις</string>
   <string name="shake_to_align_icons">Ανακινήστε τη συσκευή για συμπλήρωση κενών κελιών με εικονίδια</string>
   <string name="shake_to_align_icons_summary">Ανακινήστε τη συσκευή σας κατά τη διάρκεια της λειτουργίας επεξεργασίας για αυτόματη συμπλήρωση κενών κελιών με εικονίδια</string>
-  <string name="shake_to_align_icons_title">Ανακινήστε για συμπλήρωση κενών κελιών</string>
+  <string name="shake_to_align_icons_title">Συμπλήρωση κενών κελιών</string>
   <string name="share">Κοινή χρήση</string>
   <string name="show_all">Εμφάνιση όλων</string>
   <string name="show_mem_info_title">Εμφάνιση κατάστασης μνήμης</string>
