@@ -108,7 +108,7 @@
     <string name="minute">1 λεπ</string>
     <string name="minutes">%d λεπ</string>
     <string name="module_download_cancel">Όχι ευχαριστώ</string>
-    <string name="module_download_data_msg">"Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Οι έξυπνες αφυπνίσεις περιέχουν ειδικούς ήχους για τρέχουσες πληροφορίες καιρού. Για αυτό την λήψη απαιτούνται 20MB δεδομένων κινητής τηλεφωνίας. Λήψη τώρα?"</string>
+    <string name="module_download_data_msg">"Το ρολόι χρειάζεται να λάβει αρχεία ήχου που απαιτούνται για έξυπνες αφυπνίσεις MIUI. Οι έξυπνες αφυπνίσεις περιέχουν ειδικούς ήχους για τρέχουσες πληροφορίες καιρού. Για αυτό την λήψη απαιτούνται 20MB δεδομένων κινητής τηλεφωνίας. Λήψη τώρα?"</string>
     <string name="module_download_data_msg_golbal">"Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Περίπου 20MB απαιτούνται. Λήψη?"</string>
     <string name="module_download_msg">Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Οι έξυπνες αφυπνίσεις περιέχουν ειδικούς ήχους για τρέχουσες πληροφορίες καιρού. Λήψη τώρα?</string>
     <string name="module_download_msg_golbal">Το ρολόι χρειάζεται να λάβει αρχεία ήχου για έξυπνες αφυπνίσεις MIUI. Αποδοχή?</string>
@@ -243,5 +243,9 @@
 	  <string name="personal_recommend">Εξατομικευμένες προτάσεις περιεχομένου</string>
 	  <string name="user_agreement">Συμφωνία χρήστη</string>
      <string name="update_notification_info">Ενημέρωση δεδομένων στο παρασκήνιο…</string>
+     <string name="module_update_success">Η ενημέρωση για έξυπνους ήχους MIUI λήφθηκε με επιτυχία. Μπορείτε να ορίσετε έξυπνους ήχους MIUI στις ρυθμίσεις Ρολογιού.</string>
+     <string name="module_update_success_control">Κατανοητό</string>
+     <string name="no_alarm_setting">Δεν υπάρχουν αφυπνίσεις εδώ.</string>
+     <string name="no_worldclock">Δεν υπάρχουν ρολόγια εδώ</string>
 </resources>
 

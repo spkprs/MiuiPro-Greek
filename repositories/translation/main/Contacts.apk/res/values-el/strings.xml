@@ -1021,6 +1021,8 @@
   <string name="shortcutContact">Επαφή</string>
   <string name="shortcutDialContact">Απευθείας κλήση</string>
   <string name="shortcutMessageContact">Άμεσο μήνυμα</string>
+  <string name="shortcut_new_contact_label">Νέα επαφή</string>
+  <string name="shortcut_scan_label">Σάρωση επαγγελματικής κάρτας</string>
   <string name="showAllContactsJoinItem">Εμφάνιση όλων των επαφών</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Προβολή χωρητικότητας κάρτας SIM</string>

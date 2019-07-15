@@ -114,9 +114,11 @@
     </plurals>
     <plurals name="people">
         <item quantity="other">Έχει ληφθεί από %1$d άτομα</item>
+        <item quantity="one">Έχει ληφθεί από %1$d άτομο</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Έχει ληφθεί από %1$d άτομα</item>
+        <item quantity="one">Έχει ληφθεί από %1$d άτομο</item>
     </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d άτομα παίζουν</item>
