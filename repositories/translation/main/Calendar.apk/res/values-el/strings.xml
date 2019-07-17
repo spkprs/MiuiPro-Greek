@@ -415,7 +415,7 @@
 	 <string name="movie_event_delete_successfully">Διαγράφηκε επιτυχώς το εισιτήριο ταινίας</string>
 	 <string name="passenger">Επιβάτης</string>
 	 <string name="phone_num">Τηλέφωνο</string>
-	 <string name="reminder_overdue">'Εληξε</string>
+	 <string name="reminder_overdue">Εληξε</string>
 	 <string name="train_detail_title">Δρομολόγια τρένων</string>
 	 <string name="train_event_delete_successfully">Επιτυχής διαγραφή δρομολογίων τρένων</string>
     <string name="feed_tips_got_it">Εντάξει</string>
@@ -450,7 +450,7 @@
 	<string name="repeat_alarm_changed_hotel_event">Υπενθύμιση πάντα για ξενοδοχεία</string>
 	<string name="repeat_alarm_changed_loan_event">Υπενθύμιση πάντα για επιστροφές δανείων</string>
 	<string name="repeat_alarm_changed_movie_event">Υπενθύμιση πάντα για ταινίες</string>
-	<string name="repeat_alarm_changed_ony_selected">Μόνο γι ' αυτή τη φορά</string>
+	<string name="repeat_alarm_changed_ony_selected">Μόνο αυτή τη φορά</string>
 	<string name="repeat_alarm_changed_title">Αυτό είναι ένα επαναλαμβανόμενο γεγονός. Ορισμός υπενθύμισης;</string>
 	<string name="repeat_alarm_changed_train_event">Υπενθύμιση πάντα για τρένα</string>
 	<string name="repeat_alarm_close_title">Αυτό είναι ένα επαναλαμβανόμενο γεγονός. Απενεργοποίηση της υπενθύμισης συναγερμού;</string>
