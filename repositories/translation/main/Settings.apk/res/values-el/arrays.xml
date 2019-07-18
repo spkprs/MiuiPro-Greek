@@ -1330,9 +1330,9 @@
         <item>Ποσοστό (εντός εικονιδίου)</item>
         <item>Ποσοστό (δίπλα στο εικονίδιο)</item>
     </string-array>
-<    <string-array name="wide_notch_battery_indicator_style_entries">
+    <string-array name="wide_notch_battery_indicator_style_entries">
         <item>Γραφική</item>
         <item>Ποσοστό (εντός εικονιδίου)</item>
         <item>Ποσοστό (δίπλα στο εικονίδιο στον Πίνακα)</item>
     </string-array>
-/resources>
+</resources>
