@@ -59,6 +59,7 @@
     <string name="backing_up_to_micloud">Δημιουργία αντιγράφου…</string>
     <string name="restore_from_cloud">Επαναφορά αντ.ασφαλείας Mi Cloud</string>
     <string name="restore_cloud_backup_to_phone">Επαναφορά στοιχείων από Mi Cloud</string>
+    <string name="restoring_data">Επαναφορά δεδομένων…</string>
     <string name="backup_to_cloud">Αντίγραφο εφαρμογής</string>
     <string name="menu_item_sort">Ταξινόμηση κατά</string>
     <string name="menu_item_sort_name">Όνομα</string>

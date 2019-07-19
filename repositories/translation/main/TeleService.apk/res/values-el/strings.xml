@@ -1214,8 +1214,8 @@
   <string name="volte_provision_title">Ενεργοποίηση κλήσεων VoLTE</string>
   <string name="volte_switch_not_support_summary">Οι κλήσεις VoLTE δεν υποστηρίζονται για την κάρτα SIM δεδομένων.</string>
   <string name="volte_switch_not_support_summary2">Οι κλήσεις VoLTE δεν υποστηρίζονται απο τον πάροχο σας.</string>
-  <string name="volte_switch_summary">Χρησιμοποιείστε VoLTE για βελτίωση της ποιότητας ομιλίας και βίντεο</string>
-  <string name="volte_switch_title">Ενεργοποίηση VoLTE</string>
+  <string name="volte_switch_summary">Χρήση VoLTE για βελτίωση της ποιότητας ομιλίας</string>
+  <string name="volte_switch_title">Χρήση VoLTE</string>
   <string name="wait_prompt_str">Αποστολή των παρακάτω τόνων;\n</string>
   <string name="wifi_calling">Κλήση Wi‑Fi</string>
   <string name="wild_prompt_str">Αντικατάσταση χαρακτήρα μπαλαντέρ με</string>
@@ -1225,7 +1225,7 @@
   <string name="quick_dial_setting_title">Ταχεία Κλήση</string>
   <string name="msim_cmcc_dds_switch_not_support">"Αδύνατη η εναλλαγή των καρτών SIM λόγω περιορισμού φορέα."</string>
   <string name="vice_card_data_in_use_alert">Μπορεί να υπάρξουν πρόσθετα τέλη δεδομένων.</string>
-  <string name="volte_switch_title_ct">VoLTE ενεργό</string>
+  <string name="volte_switch_title_ct">VoLTE</string>
   <string name="prompt_when_turnon_volte_without_lte">"Το δίκτυο VoLTE  δεν είναι διαθέσιμο τώρα. Η ενεργοποίησή του ενδέχεται να σας εμποδίσει να πραγματοποιείσετε κανονικές κλήσεις."</string>
   <string name="switch_dds_to_sub_alert">Ορίστε αυτήν την κάρτα ως προεπιλεγμένη κάρτα δεδομένων.</string>
   <string name="volte_tips_when_turn_on">Οι υπηρεσίες της China Telecom VoLTE παρέχονται μόνο στις περιοχές με κάλυψη δικτύου VoLTE. Οι υπηρεσίες VoLTE παρέχονται από τον φορέα.</string>
