@@ -15,7 +15,7 @@
   <string name="bar_shadow_title">Απόκρυψη αντανάκλασης εικονιδίου</string>
   <string name="battery_level">Ρύθμιση επιπέδου φόρτισης</string>
   <string name="battery_off_title">Όταν φορτιστεί πλήρως</string>
-  <string name="bluetooth_icon_title">Απόκρυψη εικονιδίου ακουστικών B/T</string>
+  <string name="bluetooth_icon_title">Απόκρυψη εικον. ακουστικών B/T</string>
   <string name="brightness_panel_title">Απόκρυψη πίνακα φωτεινότητας</string>
   <string name="CDMA_auto">CDMA αυτόματα (PRL)</string>
   <string name="CDMA_only">CDMA μόνο</string>
