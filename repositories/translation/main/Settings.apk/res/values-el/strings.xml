@@ -235,6 +235,7 @@
   <string name="always_running">Συνεχόμενη λειτουργία (%s)</string>
   <string name="amber_alerts_summary">Λήψη ενημερωτικών δελτίων σχετικά με απαγωγές παιδιών</string>
   <string name="amber_alerts_title">AMBER alerts</string>
+  <string name="ambient_display_category_triggers">Όταν εμφανιστεί</string>
   <string name="ambient_display_pickup_summary">Για να ελέγξετε γρήγορα τις ειδοποιήσεις σας, σηκώστε το τηλέφωνο.</string>
   <string name="ambient_display_pickup_title">Σηκώστε το για να δείτε</string>
   <string name="ambient_display_summary">Για να ελέγξετε γρήγορα τις ειδοποιήσεις σας, κάντε διπλό πάτημα στην οθόνη.</string>
@@ -1260,8 +1261,8 @@
   <string name="data_usage_app_restricted">περιορισμένα</string>
   <string name="data_usage_app_settings">Προβολή ρυθμίσεων εφαρμογών</string>
   <string name="data_usage_app_summary_title">Χρήση δεδομένων εφαρμογών</string>
-  <string name="data_usage_auto_sync_off_dialog">Αυτό θα διατηρήσει τα δεδομένα και τη χρήση της μπαταρίας, αλλά θα πρέπει να συγχρονίζετε κάθε λογαριασμό χέρι για να συλλέξει πρόσφατες πληροφορίες. Και δεν θα λαμβάνετε ειδοποιήσεις όταν συμβαίνουν ενημερώσεις.</string>
-  <string name="data_usage_auto_sync_off_dialog_title">Απενεργοποίηση των δεδομένων αυτόματου συγχρονισμού;</string>
+  <string name="data_usage_auto_sync_off_dialog">Αυτό θα εξοικονομήσει δεδομένα και μπαταρία, αλλά θα πρέπει να συγχρονίσετε κάθε λογαριασμό χειροκίνητα για να συλλέξετε πρόσφατες πληροφορίες. Και δεν θα λαμβάνετε ειδοποιήσεις όταν πραγματοποιούνται ενημερώσεις.</string>
+  <string name="data_usage_auto_sync_off_dialog_title">Απενεργ/ση αυτόμ. συγχρ/μού;</string>
   <string name="data_usage_auto_sync_on_dialog">Όποιες αλλαγές κάνετε στους λογαριασμούς σας στο διαδίκτυο θα αντιγραφούν αυτόματα στο τηλέφωνό σας.\n\nΟρισμένοι λογαριασμοί μπορούν επίσης να αντιγράψουν αυτόματα όποιες αλλαγές κάνετε στο τηλέφωνο με το διαδίκτυο. Ένας Λογαριασμός Google λειτουργεί με αυτόν τον τρόπο.\n\nΓια να επιλέξετε ποια είδη πληροφοριών, να συγχρονίζεται σε κάθε λογαριασμό, μεταβείτε στις Ρυθμίσεις &gt; Λογαριασμοί.</string>
   <string name="data_usage_auto_sync_on_dialog_title">Ενεργοποίηση δεδομένων αυτόματου συγχρονισμού;</string>
   <string name="data_usage_background_label">Παρασκήνιο:</string>
