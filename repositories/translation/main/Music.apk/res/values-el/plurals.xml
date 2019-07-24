@@ -177,4 +177,8 @@
     <item quantity="other">Εδώ είναι %1$d ενημερώσεις για εσάς:</item>
     <item quantity="one">Εδώ είναι. %1$d ενημέρωση για εσάς:</item>
   </plurals>
+  <plurals name="dialog_remove_favorite_song_descript">
+     <item quantity="other">Αφαίρεση %d τραγουδιών από τα αγαπημένα?</item>
+     <item quantity="one">Αφαίρεση %d τραγουδιού από τα αγαπημένα?</item>
+  </plurals>
 </resources>

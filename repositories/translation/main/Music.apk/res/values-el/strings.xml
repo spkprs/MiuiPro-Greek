@@ -145,7 +145,7 @@
   <string name="button_sort_by_date">Κατά ημερομηνία</string>
   <string name="button_sort_by_size">Κατά μέγεθος</string>
   <string name="button_wait_for_wifi">Περιμένετε</string>
-  <string name="can_heard_not_download">Τα τραγούδια μπορούν να ακουστούν μόνο και δεν είναι δυνατή η λήψη…</string>
+  <string name="can_heard_not_download">"Δεν είναι δυνατή η λήψη αυτού του τραγουδιού λόγω περιορισμών της υπηρεσίας παροχής περιεχομένου"</string>
   <string name="can_not_find_resource">Δεν είναι δυνατή η εύρεση πόρων</string>
   <string name="cancel">Ακύρωση</string>
   <string name="cancel_running_download">Ακύρωση</string>
@@ -1345,4 +1345,19 @@
   <string name="xiaoai_install_title">Εγκαταστήστε τον βοηθό φωνητικής τηλεφωνίας Mi AI</string>
   <string name="xiaoai_update_message">Φαίνεται ότι η φωνητική μηχανή Mi AI είναι πολύ παλιά. Μπορείτε να το ενημερώσετε τώρα.</string>
   <string name="xiaoai_update_title">Ενημερώστε το Mi AI</string>
+    <string name="add_to_favorite">Προσθήκη στα Αγαπημένα</string>
+    <string name="cp_other_error">"Αυτό το στοιχείο δεν είναι διαθέσιμο λόγω περιορισμών πνευματικών δικαιωμάτων"</string>
+    <string name="detail">Λεπτομέρειες</string>
+    <string name="dialog_song_sort_type_add_time">Παλιό σε νέο</string>
+    <string name="dialog_song_sort_type_add_time_desc">Νέο σε παλιό</string>
+    <string name="dialog_song_sort_type_name_from_a2z">A σε Ω</string>
+    <string name="dialog_song_sort_type_name_from_z2a">Ω σε A</string>
+    <string name="live_stream_error">"Αυτό το στοιχείο δεν είναι διαθέσιμο λόγω περιορισμών πνευματικών δικαιωμάτων"</string>
+    <string name="network_no_available_and_check">"Δεν είναι δυνατή η σύνδεση στο δίκτυο"</string>
+    <string name="spammy_contents">Ανεπιθύμητο</string>
+    <string name="talkback_change_skin">Αλλαγή θέματος</string>
+    <string name="thanks_for_feedback">Ευχαριστώ για τα σχόλιά σας!</string>
+    <string name="unable_to_play">"Αδυναμία αναπαραγωγής"</string>
+    <string name="view_all_news">Προβολή όλων των ειδήσεων</string>
+    <string name="widget_title">Βρείτε τα αγαπημένα σας τραγούδια στο Mi Mουσική</string>
 </resources>
