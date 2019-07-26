@@ -74,4 +74,8 @@
         <item quantity="other">Αναχωρεί σε %d ημέρες</item>
         <item quantity="one">Αναχωρεί σε %d ημέρα</item>
      </plurals>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Σε %d λεπ.</item>
+        <item quantity="one">Σε %d λεπ.</item>
+    </plurals>
 </resources>

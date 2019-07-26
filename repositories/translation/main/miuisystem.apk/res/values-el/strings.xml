@@ -3,9 +3,9 @@
 	<string name="android_ringtone_default_with_actual">Προεπιλ. ήχος κλήσης (%1$s)</string>
 	<string name="android_ringtone_silent">Χωρίς</string>
 	<string name="android_ringtone_unknown">Άγνωστος ήχος κλήσης</string>
-	<string name="cloud_state_disabled">Ο συγχρονισμός με το Mi Cloud είναι ανενεργός</string>
-	<string name="cloud_state_finished">Συγχρονισμένο με Mi Cloud</string>
-	<string name="cloud_state_syncing">Συγχρονίζεται με Mi Cloud</string>
+	<string name="cloud_state_disabled">Ο συγχρονισμός με το Cloud είναι ανενεργός</string>
+	<string name="cloud_state_finished">Συγχρονισμένο με Cloud</string>
+	<string name="cloud_state_syncing">Συγχρονίζεται με Cloud</string>
 	<string name="cowboy">Cowboy</string>
 	<string name="cta_button_continue">Συμφωνώ</string>
 	<string name="cta_button_quit">Έξοδος</string>
