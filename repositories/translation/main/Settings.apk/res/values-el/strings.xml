@@ -3211,8 +3211,8 @@
   <string name="power_overcounted">Υπερβολικό ποσό</string>
   <string name="power_phone">Φωνητικές κλήσεις</string>
   <string name="power_remaining_charging_duration_only">Απομένουν %1$s έως την πλήρη φόρτιση</string>
-  <string name="power_remaining_duration_only">Περίπου. %1$s υπόλοιπο</string>
-  <string name="power_remaining_duration_only_short">%1$s υπόλοιπο</string>
+  <string name="power_remaining_duration_only">Περίπου. %1$s απομένει</string>
+  <string name="power_remaining_duration_only_short">%1$s απομένει</string>
   <string name="power_screen">Οθόνη</string>
   <string name="power_service">Υπηρεσίες</string>
   <string name="power_settings_title">Απόδοση συστήματος</string>
@@ -4323,6 +4323,7 @@
   <string name="status_bar_settings_show_notification_icon">Προβολή εικονιδίων ειδοποίησης</string>
   <string name="status_bar_settings_show_wifi_name">Προβολή Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Γραμμή κατάστασης</string>
+  <string name="status_bar_settings_show_weather">Προβολή Καιρού στον Πίνακα Ειδοπ/σης</string>
   <string name="status_bar_settings_style">Διάταξη ειδοποιήσεων και διακοπτών</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Σύμπτυξη μετά το άγγιγμα</string>
   <string name="status_bar_settings_toggle_position">Οργάνωση διακοπτών</string>
@@ -4416,9 +4417,9 @@
   <string name="storage_size_large">^1 ^2</string>
   <string name="storage_summary">%1$s του %2$s σε χρήση</string>
   <string name="storage_summary_format">%1$s σε χρήση στο %2$s</string>
-  <string name="storage_summary_with_sdcard">Εσωτερικός αποθηκευτικός χώρος: %1$s χρησιμοποιείται - %2$s ελεύθερος</string>
+  <string name="storage_summary_with_sdcard">Εσωτερικός χώρος: %1$s χρησιμοποιείται - %2$s ελεύθερος</string>
   <string name="storage_title_usb">Σύνδεση USB με υπολογιστή</string>
-  <string name="storage_type_external">Εξωτερική μνήμη</string>
+  <string name="storage_type_external">Εξωτερικός Χώρος</string>
   <string name="storage_type_internal">Εσωτερικός Χώρος</string>
   <string name="storage_unmount_failure">Αδυναμία ασφαλούς αποσύνδεσης του %1$s</string>
   <string name="storage_unmount_success">Η %1$s αποσυνδέθηκε με ασφάλεια</string>

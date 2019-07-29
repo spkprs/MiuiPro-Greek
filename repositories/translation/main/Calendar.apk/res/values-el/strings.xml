@@ -199,7 +199,7 @@
   <string name="no_title_label">(Χωρίς τίτλο)</string>
   <string name="no_visiable_calendar_message">Θα πρέπει να επιλέξετε ένα λογαριασμό ημερολογίου. Πατήστε Επιλογή λογαριασμού για να συνεχίσετε.</string>
   <string name="no_visiable_calendar_select_account">Επιλογή λογαριασμού</string>
-  <string name="no_visiable_calendar_title">Επιλέξτε ένα λογαριασμό ημερολογίου</string>
+  <string name="no_visiable_calendar_title">Προσθήκη λογαριασμού</string>
   <string name="online_reminder_header_text">υπενθύμιση</string>
   <string name="pref_reminder_time">Ώρα υπενθύμισης</string>
   <string name="pref_title_alarm_remind">Ήχος υπενθύμισης</string>

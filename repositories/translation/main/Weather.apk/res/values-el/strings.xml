@@ -128,7 +128,7 @@
     <string name="index_item_installing">Γίνεται εγκατάσταση</string>
     <string name="index_item_installing2">Γίνεται εγκατάσταση</string>
     <string name="indices_desc_humidity">Υγρασία %1$s%%</string>
-    <string name="indices_title_feel">Πραγματική αίσθηση</string>
+    <string name="indices_title_feel">Αίσθηση</string>
     <string name="indices_title_pressure">Πίεση</string>
     <string name="install">Εγκατάσταση</string>
     <string name="install_progress">%1$s%%</string>
