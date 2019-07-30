@@ -1062,7 +1062,7 @@
   <string name="oldman_incall_text">Κλήση</string>
   <string name="open_camera_hint_text">Σύρετε το εικονίδιο για να ανοίξετε την Κάμερα</string>
   <string name="open_extreme_power_save_mode_title">Ενεργοποίηση Μέγιστης εξοικονόμησης μπαταρίας</string>
-  <string name="open_remote_center_hint_text">Σύρετε το εικονίδιο για προβολή στοιχείων ελέγχου</string>
+  <string name="open_remote_center_hint_text">Σύρετε το εικονίδιο για προβολή συντομεύσεων</string>
   <string name="other">Άλλα</string>
   <string name="overlay_display_devices_title">Προσομοίωση δευτερευουσών οθονών</string>
   <string name="overview">Επισκόπηση</string>
