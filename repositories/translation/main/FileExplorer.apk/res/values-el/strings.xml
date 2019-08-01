@@ -420,9 +420,6 @@
      <string name="original_user_signal">Ομάδα Ταλέντων</string>
      <string name="original_user_title">Συγχαρητήρια για την ένταξή σας στην ομάδα Ταλέντων!</string>
      <string name="original_user_verify">• Ευχαριστούμε για την παραμονή σας εδώ!</string>
-  <string name="otg_file_security_confirm">αντιγράψτε στο τηλέφωνο</string>
-  <string name="otg_file_security_details">Παρακαλώ αντιγράψτε στο τηλέφωνο</string>
-  <string name="otg_file_security_note">OGTSecurity</string>
      <string name="other_user_follow_tab">Ακολουθείτε</string>
      <string name="other_user_liked_topic_tip">Δεν ακολουθείτε κάποιο από τα θέματα τώρα</string>
      <string name="other_user_no_follow_tip">Δεν ακολουθείτε κάποιον ακόμα.</string>
