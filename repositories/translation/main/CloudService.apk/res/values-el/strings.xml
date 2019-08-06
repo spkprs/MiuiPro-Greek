@@ -80,7 +80,7 @@
     <string name="sync_dspt_entrance_provision_network">Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Η συγχρονισμός δεδομένων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής τηλεφωνίας και ενεργοποίηση του Wi-Fi.</string>
     <string name="find_device_dspt_provision">Εάν χάσετε τη συσκευή σας, μπορείτε να μεταβείτε στο &lt;font color=#ff0000>%s&lt;/font> να εντοπίσετε, να κλειδώσετε ή να την επαναφέρετε. Μπορείτε να αλλάξετε αυτήν τη λειτουργία οποτεδήποτε στις Ρυθμίσεις.</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις</string>
     <string name="find_device_dspt_provision_4">Εάν αλλάξετε κάρτα SIM, ένα SMS θα σταλεί αυτόματα για να ενεργοποιήσετε ξανά αυτήν την υπηρεσία.</string>
     <string name="find_device_send_sms_alert">Εάν αλλάξετε κάρτα SIM, ένα άλλο SMS θα σταλεί αυτόματα για να ενεργοποιήσετε ξανά αυτήν την υπηρεσία.</string>
