@@ -1215,7 +1215,7 @@
     <string name="setting_sticky_canceled">Ξεκαρφίτσωμα</string>
     <string name="setting_sticky_done">Καρφίτσωμα στην κορυφή</string>
     <string name="sport_headline">"Η σημερινή δραστηριότητα"</string>
-    <string name="timeline_headline">Επερχόμενη</string>
+    <string name="timeline_headline">Επερχόμενα</string>
     <string name="vertical_separator">|</string>
 </resources>
 

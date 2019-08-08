@@ -313,7 +313,7 @@
   <string name="app_invisible">Κρυφές εφαρμογές</string>
   <string name="app_launch_domain_links_title">Σύνδεσμοι εφαρμογής</string>
   <string name="app_launch_open_domain_urls_summary">Άνοιγμα χωρίς ερώτηση</string>
-  <string name="app_launch_open_domain_urls_title">Άνοιγμα υποστηριζόμενων συνδέσεων</string>
+  <string name="app_launch_open_domain_urls_title">Άνοιγμα υποστηρ. συνδέσμων</string>
   <string name="app_launch_other_defaults_title">Άλλες προεπιλογές</string>
   <string name="app_launch_supported_domain_urls_title">Υποστηριζόμενες συνδέσεις</string>
   <string name="app_link_open_always">Άνοιγμα σε αυτή την εφαρμογή</string>
@@ -5937,13 +5937,13 @@
   <string name="accessibility_summary_default_combination">%1$s / %2$s</string> 
   <string name="long_press_power_key_half_of_second">Παρατ το πλήκτ Power 0,5δ για ενεργ Βοηθoύ Google</string> 
   <string name="power_key_how_power_force_off">Πώς να εξαναγκάσετε την επανεκκίνηση της συσκευής σας</string>
-  <string name="power_key_how_power_force_off_detail">Παρατ το πλήκτ Τροφοδοσίας μέχρι να γίνει επανεκκίνηση της συσκευής σας</string>
+  <string name="power_key_how_power_force_off_detail">Παρατ το πλήκτ Power μέχρι να γίνει επανεκκίνηση της συσκευής σας</string>
   <string name="power_key_how_power_off">Πώς να ανοίξετε τη σελίδα τερματισμού</string>
-  <string name="power_key_how_power_off_detail">Παρατ το πλήκτ Τροφοδοσίας για 3 δευτ</string>
+  <string name="power_key_how_power_off_detail">Παρατ το πλήκτ Power για 3 δευτ</string>
   <string name="power_key_how_start">Πώς να ανοίξετε το Βοηθό Google</string>
-  <string name="power_key_how_start_detail">Παρατ το πλήκτ Τροφοδοσίας 0,5δ. Αφήστε και μιλήστε.</string>
+  <string name="power_key_how_start_detail">Παρατ το πλήκτ Power 0,5δ. Αφήστε και μιλήστε.</string>
   <string name="power_key_start_enjoy">Μάθετε περισσότερα για το Βοηθό Google</string>
-  <string name="power_key_start_guide">Αφύπνιση του Βοηθού Google χρησιμοποιώντας το κουμπί Τροφοδοσίας σε συσκευές πλήρους προβολής</string>  
+  <string name="power_key_start_guide">Αφύπνιση του Βοηθού Google χρησιμοποιώντας το κουμπί Power σε συσκευές πλήρους προβολής</string>  
   <string name="the_way_of_wakeup_voice_assistant_summary">Έναρξη Βοηθού φωνής σε λειτουργία πλήρους οθόνης (χωρίς εικονικά πλήκτρα)</string>   
   <string name="summary_font_size_v2">Ρύθμιση μεγέθους, κειμένου εικόνων και εικονιδίων</string>
   <string name="title_font_v2">Κειμένο και στοιχεία UI</string>
