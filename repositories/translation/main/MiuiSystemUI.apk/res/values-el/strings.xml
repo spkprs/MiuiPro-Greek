@@ -299,8 +299,6 @@
   <string name="block_notification_content_text">Οι ειδοποιήσεις του %1$s δεν θα εμφανιστούν ξανά. Μπορείτε να το αλλάξετε αυτό στις Ρυθμίσεις</string>
   <string name="block_notification_desc">Οι ειδοποιήσεις της εφαρμογής δεν θα εμφανίζονται ξανά. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</string>
   <string name="block_notification_text">Απόκρυψη</string>
-  <string name="block_record_notification_text">Απόκρυψη ειδοποιήσεων από %1$s.</string>
-  <string name="block_record_notification_title">Κρυφές ειδοποιήσεις</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Συνδεδεμένο με ήχο πολυμέσων</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Χρήση για ήχο πολυμέσων</string>
   <string name="bluetooth_connected">Συνδεδεμένο %1$s</string>
@@ -485,7 +483,6 @@
   <string name="development_settings_summary">Ορίστε επιλογές για την ανάπτυξη εφαρμογών</string>
   <string name="development_settings_title">Επιλογές προγραμματιστή</string>
   <string name="direct_boot_unaware_dialog_message">"Σημείωση: Μετά από μια επανεκκίνηση, αυτή η εφαρμογή δεν μπορεί να ξεκινήσει μέχρι να ξεκλειδώσετε το τηλέφωνό σας."</string>
-  <string name="disable_notification_summary">Να μην εμφανίζονται ποτέ ειδοποιήσεις από τις επιλεγμένες εφαρμογές</string>
   <string name="disable_notification_title">Απόκρυψη ειδοποιήσεων</string>
   <string name="disable_overlays">Απενεργοποίηση επικάλυψης HW</string>
   <string name="disable_overlays_summary">Χρήση πάντα GPU για απόδοση οθόνης</string>
@@ -539,7 +536,6 @@
   <string name="enable_terminal_summary">Ενεργοποίηση εφαρμογής Τερματικού για πρόσβαση τοπικού κελύφους</string>
   <string name="enable_terminal_title">Τοπικό τερματικό</string>
   <string name="enabled_by_admin">Ενεργό από τον διαχειριστή</string>
-  <string name="expanded_confirm_disable_notification">Απόκρυψη</string>
   <string name="expanded_header_battery_charged">Φορτισμένο</string>
   <string name="expanded_header_battery_charging">Φορτίζεται</string>
   <string name="expanded_header_battery_charging_with_time">%s έως την πλήρη φόρτιση</string>
