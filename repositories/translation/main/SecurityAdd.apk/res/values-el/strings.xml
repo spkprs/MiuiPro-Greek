@@ -83,7 +83,7 @@
 	<string name="superpower_date">EEEE, MMMM dd</string>
 	<string name="superpower_dialog_app_select_content">Οι εφαρμογές τρίτων χρησιμοποιούν συνήθως περισσότερη ισχύ από τις εφαρμογές του συστήματος. Προσθήκη ούτως ή άλλως;</string>
 	<string name="superpower_dialog_app_select_title">Προσοχή</string>
-    <string name="superpower_exit_hint">Απενεργοποίηση Υπέρ εξοικονόμησης μπαταρίας…</string>
+    <string name="superpower_exit_hint">Απενεργοποίηση Υπέρ εξοικ/σης…</string>
 	<string name="superpower_incharging">Φορτίζεται</string>
 	<string name="superpower_progress_battery_last">%s απομένει</string>
 	<string name="superpower_progress_left_time">%1$dω %2$dλ</string>
