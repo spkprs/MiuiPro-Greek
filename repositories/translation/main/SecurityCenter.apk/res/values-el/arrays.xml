@@ -100,4 +100,12 @@
         <item>Ημερήσιο πρόγραμμα δεδομένων</item>
         <item>Απεριόριστο πρόγραμμα δεδομένων</item>
     </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Προεπιλογή</item>
+        <item>Προτεραιότητα σε απόδοση</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Χρήση προεπιλεγμένης λειτουργίας ελέγχου θερμοκρασίας</item>
+        <item>Προτεραιότητα σε απόδοση</item>
+    </string-array>
 </resources>
