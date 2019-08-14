@@ -138,15 +138,15 @@
     <string name="micloud_more">Μάθετε περισσότερα</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Όλα τα σημαντικά σε ένα μέρος</string>
-    <string name="micloud_dspt">Χρησιμοποιήστε το Xiaomi Cloud για να συγχρονίσετε τα δεδομένα, να εντοπίσετε τη συσκευή σας,</string>
+    <string name="micloud_dspt">"Συγχρονίστε τις επαφές, τα μηνύματα, το ιστορικό κλήσεων και άλλα στοιχεία σε όλες τις συσκευές.
+Εντοπίστε και κλειδώστε τη συσκευή σας σε περίπτωση απώλειας."</string>
     <string name="cmcc_micloud_dspt">"Χρησιμοποιήστε το Xiaomi Cloud για να συγχρονίσετε δεδομένα, να εντοπίσετε τη συσκευή σας και να μοιραστείτε πράγματα  με φίλους σας."</string>
-    <string name="micloud_sec_dspt">και να μοιραστείτε πράγματα με φίλους.</string>
     <string name="micloud_dspt_provision">Χρησιμοποιήστε το Xiaomi Cloud για να συγχρονίσετε τα δεδομένα, να εντοπίσετε τη συσκευή σας και να μοιραστείτε πράγματα με φίλους.</string>
     <string name="start_micloud">Εκκίνηση</string>
     <string name="micloud_single_dspt">Χρησιμοποιήστε το Xiaomi Cloud για συγχρονισμό δεδομένων, εντοπισμό της συσκευή σας και για να μοιραστείτε πράγματα με τους φίλους σας.</string>
     <string name="micloud_proceed">Συνέχεια</string>
     <string name="master_alert_notif_title">Ενεργοποίηση MiCloud</string>
-    <string name="master_alert_notif_content">Τα δεδομένα δεν συγχρονίστηκαν.</string>
+    <string name="master_alert_notif_content">Δημιουργείτε αντίγραφα ασφαλείας τακτικά για να μην χάνετε τίποτα σημαντικό.</string>
     <string name="sub_alert_notif_title">Χωρίς συγχρονισμό</string>
     <string name="sub_alert_notif_content">Ενεργοποίηση MiCloud</string>
     <string name="noRemind">Μην μου το θυμίζεις</string>

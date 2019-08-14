@@ -50,8 +50,8 @@
      <string name="HIPS_Perm_WIFI_Connectivity_Desc">να ενεργοποιεί/απενεργοποιεί το Wi‑Fi</string>
      <string name="HIPS_Perm_add_voicemail">Φωνητικά μηνύματα</string>
      <string name="HIPS_Perm_add_voicemail_Desc">να προσθέτει φωνητικά μηνύματα συστήματος</string>
-     <string name="HIPS_Perm_background_start_activity">Έναρξη στο παρασκήνιο</string>
-     <string name="HIPS_Perm_background_start_activity_Desc">να ξεκινά στο παρασκήνιο</string>
+     <string name="HIPS_Perm_background_start_activity">Προβολή αναδυόμενων παραθύρων</string>
+     <string name="HIPS_Perm_background_start_activity_Desc">προβάλει αναδυόμενα παραθύρα ενώ εκτελείται στο παρασκήνιο</string>
      <string name="HIPS_Perm_get_accounts">Πρόσβαση λογαριασμών στη συσκευή</string>
      <string name="HIPS_Perm_get_accounts_Desc">πρόσβαση σε όλους τους λογαριασμούς που είναι αποθηκευμένοι στη συσκευή</string>
      <string name="HIPS_Perm_get_installed_apps">Πληροφ. εγκατ/μένων εφαρμογών</string>

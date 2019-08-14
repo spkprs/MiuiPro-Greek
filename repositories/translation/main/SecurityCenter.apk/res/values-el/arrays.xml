@@ -108,4 +108,8 @@
         <item>Χρήση προεπιλεγμένης λειτουργίας ελέγχου θερμοκρασίας</item>
         <item>Προτεραιότητα σε απόδοση</item>
     </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Ναί</item>
+        <item>Όχι</item>
+    </string-array>
 </resources>
