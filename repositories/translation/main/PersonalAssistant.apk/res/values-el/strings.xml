@@ -618,6 +618,7 @@
 	<string name="locating_fail">Δεν ήταν δυνατή η λήψη τοποθεσίας</string>
 	<string name="locations">Συχνές θέσεις</string>
 	<string name="locations_preferences">Διευθύνσεις</string>
+    <string name="login_dialog_body">Ενεργοποιήστε τον συγχρονισμό με το cloud για πρόσβαση στα στοιχεία σας από πολλές συσκευές. Σύνδεση και ενεργ/ση τώρα;</string>
 	<string name="login_before_use">Θα πρέπει να συνδεθείτε πρώτα</string>
 	<string name="login_ok">Συνδεθείτε</string>
 	<string name="look_more">Δείτε περισσότερα</string>

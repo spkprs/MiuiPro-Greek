@@ -962,6 +962,7 @@
   <string name="scan">Σάρωση</string>
   <string name="scan_duplicate_message">%1$d επαφές με ταυτόσημες πληροφορίες</string>
   <string name="scan_merge">Αναζήτηση για διπλές επαφές…</string>
+  <string name="scan_not_installed">Εγκατάσταση Σαρωτή πρώτα</string>
   <string name="scan_qrcode_card_hint1">Σάρωση κωδικού QR</string>
   <string name="scanning_sdcard_failed_message">Αιτία: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Ο αποθηκευτικός χώρος δεν μπορεί να σαρωθεί</string>
