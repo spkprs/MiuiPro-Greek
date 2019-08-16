@@ -57,7 +57,7 @@
     <string name="latest_backup_time_loading">Φόρτωση…</string>
     <string name="start_backup_to_micloud">Αντίγραφα εφαρμογών στο Xiaomi Cloud</string>
     <string name="backing_up_to_micloud">Δημιουργία αντιγράφου…</string>
-    <string name="restore_from_cloud">Επαναφορά αντ.ασφαλείας Xiaomi Cloud</string>
+    <string name="restore_from_cloud">Επαναφορά αντιγράφων ασφαλείας από το Xiaomi Cloud</string>
     <string name="restore_cloud_backup_to_phone">Επαναφορά στοιχείων από Xiaomi Cloud</string>
     <string name="restoring_data">Επαναφορά δεδομένων…</string>
     <string name="backup_to_cloud">Αντίγραφο εφαρμογής</string>
