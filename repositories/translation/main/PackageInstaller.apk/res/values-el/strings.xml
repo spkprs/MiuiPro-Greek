@@ -59,6 +59,7 @@
      <string name="grant_confirm_question">Θέλετε να χορηγηθούν τα ακόλουθα δικαιώματα; Θα έχει πρόσβαση σε:</string>
      <string name="grant_dialog_button_allow">Αποδοχή</string>
      <string name="grant_dialog_button_deny">Απόρριψη</string>
+     <string name="grant_dialog_button_deny_anyway">Άρνηση</string>
      <string name="high_risk_perms">Άδειες υψηλού κινδύνου</string>
      <string name="install">Εγκατάσταση</string>
      <string name="install_confirm_question">Θέλετε να εγκαταστήσετε αυτή την εφαρμογή;</string>

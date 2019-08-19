@@ -28,7 +28,6 @@
   <string name="balance_inquiry_send_sms_summmary">Έλεγχος υπολοίπου</string>
   <string name="balance_inquiry_title">Ερώτηση υπολοίπου</string>
   <string name="call">Κλήση</string>
-  <string name="callNoAnswerTimeFormat">Ήχησε %s φορές</string>
   <string name="callrecordview_item_newcontact">Νέα επαφή</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d λεπτά %2$d δευτ.</string>
   <string name="callrecordview_item_op_time_missed">Χωρίς σύνδεση</string>
@@ -343,6 +342,11 @@
   <string name="turn_off_hint_title">Σημείωση</string>
   <string name="turn_off_phone_event_hint">Εάν απενεργοποιήσετε αυτή τη λειτουργία, δεν θα είστε σε θέση να την χρησιμοποιήσετε αφού τερματίσετε την κλήση.</string>
   <string name="turn_off_smart_antispam_hint">Απενεργοποίηση προστασίας κλήσεων από αγνώστους;</string>
+  <string name="turn_on_auto_update_antispam_data_summary">Ενημερώθηκε %s</string>
+  <string name="turn_on_auto_update_antispam_data_title">Αυτόματη ενημέρωση ορισμών</string>
+  <string name="turn_on_online_antispam_enable">Ενεργοποίηση</string>
+  <string name="turn_on_online_antispam_summary">Ενεργοποιήστε την αναγνώριση καλούντος για να αναγνωρίσετε άγνωστους αριθμούς.</string>
+  <string name="turn_on_online_antispam_title">Ενεργοποίηση αναγνωριστικού καλούντος</string>
   <string name="turn_on_phone_event_dialog_title">Ενημέρωση βάσης δεδομένων αναγνώρισης αριθμών</string>
   <string name="turn_on_phone_event_summary">Αποστολή κατάστασης τηλεφώνου και αριθμών υπηρεσιών</string>
   <string name="turn_on_phone_event_title">Λήψη πληροφοριών υπηρεσίας</string>
@@ -378,5 +382,6 @@
   <string name="antispam_network_remind_summary">Λήψη ενημερώσεων με χρήση δεδομένων κινητής?</string>
   <string name="antispam_network_remind_title">Προειδοποίηση χρήσης δεδομένων</string>
   <string name="antispam_pull_newest">Ενημερώθηκε σε έκδοση %d επιτυχώς</string>
-  <string name="antispam_update_version">Έλεγχος ενημερώσεων</string>
+  <string name="antispam_update_low_storage">"Δεν ήταν δυνατή η ενημέρωση. Δεν υπάρχει αρκετός χώρος αποθήκευσης."</string>
+  <string name="antispam_update_version">Ενημέρωση τώρα</string>
 </resources>
