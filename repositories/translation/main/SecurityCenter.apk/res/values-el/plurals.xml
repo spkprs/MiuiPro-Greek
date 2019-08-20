@@ -321,21 +321,21 @@
         <item quantity="other">Έλεγχος %d ημέρες στη σειρά</item>
         <item quantity="one">Έλεγχος %d ημέρα</item>
     </plurals>
-    <plurals name="menu_text_antivirus_2">
-        <item quantity="other">%d στοιχεία</item>
-        <item quantity="one">%d στοιχείο</item>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d εφαρμ. περιέχουν ιούς ή κακόβουλο λογισμικό</item>
+        <item quantity="one">%d εφαρμ. περιέχουν ιούς ή κακόβουλο λογισμικό</item>
     </plurals>
-    <plurals name="menu_text_antivirus_3">
-        <item quantity="other">%d ημέρες</item>
-        <item quantity="one">%d ημέρα</item>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">"Δεν έχει γίνει σάρωση της συσκευής %d ημ."</item>
+        <item quantity="one">"Δεν έχει γίνει σάρωση της συσκευής %d ημ."</item>
     </plurals>
-    <plurals name="menu_text_antispam_2">
-        <item quantity="other">%d στοιχεία</item>
-        <item quantity="one">%d στοιχείο</item>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d μηνύματα και κλήσεις μπλοκαρίστηκαν</item>
+        <item quantity="one">%d μηνύμα και κλήση μπλοκαρίστηκε</item>
     </plurals>
-    <plurals name="menu_text_app_manager_2">
-        <item quantity="other">%d εφαρμογές</item>
-        <item quantity="one">%d εφαρμογή</item>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d διαθέσιμες ενημερώσεις</item>
+        <item quantity="one">%d διαθέσιμη ενημερώση</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Εργοστασιακές ρυθμίσεις (%ds)</item>
