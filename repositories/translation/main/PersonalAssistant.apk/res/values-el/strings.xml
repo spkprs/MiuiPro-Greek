@@ -252,7 +252,7 @@
 	<string name="didi_trip_content_detail">Εκτιμήστε τον κατά προσέγγιση φόρο ταξί και καλέστε ένα ταξί.</string>
 	<string name="disclaimer_content">Αυτή η λειτουργία παρέχεται από την %1$s. Η %1$s φέρει κάθε ευθύνη σχετικά με τις υπηρεσίες που παρέχει. Επικοινωνήσετε με την %1$s αν έχετε ερωτήσεις.</string>
 	<string name="disclaimer_title">Αποποίηση ευθυνών</string>
-	<string name="display_weather_default">Πατήστε για να λάβετε πληροφορίες καιρού</string>
+	<string name="display_weather_default">Αγγίξτε για ενημέρωση καιρού</string>
 	<string name="drive">Drive</string>
 	<string name="duokan_open">Add Duokan card</string>
 	<string name="duokan_setting_brief">Συνεχίστε να διαβάζετε από το σημείο που αφήσατε.</string>
