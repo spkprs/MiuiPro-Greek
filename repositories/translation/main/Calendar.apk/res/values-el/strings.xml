@@ -310,7 +310,7 @@
   <string name="view_event_calendar_label">Ημερολόγιο:</string>
   <string name="view_event_organizer_label">Organizer:</string>
   <string name="view_event_response_label">Συμμετέχετε;</string>
-  <string name="view_in_month_view">Προβολή μήνα</string>
+  <string name="view_in_month_view">Μηνιαία προβολή</string>
   <string name="weekly">Εβδομαδιαία (κάθε %s)</string>
   <string name="when_label">Πότε</string>
   <string name="widget_events">Τα επόμενα γεγονότα</string>

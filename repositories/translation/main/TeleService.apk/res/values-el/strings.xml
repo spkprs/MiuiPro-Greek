@@ -1249,7 +1249,7 @@
   <string name="wifi_verbose_logging">Ενεργοποιήστε τη λεπτομερή καταγραφή Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Αύξηση του επιπέδου καταγραφής Wi-Fi, εμφάνιση ανά SSID RSSI σε Wi-Fi Picker</string>
    <string name="wificall_switch_summary">Χρησιμοποιήστε το Wi-Fi για πραγματοποίηση και λήψη κλήσεων, όποτε είναι δυνατόν</string>
-   <string name="wificall_switch_title">Κάντε κλήσεις με χρήση Wi-Fi</string>
+   <string name="wificall_switch_title">Κλήσεις μέσω Wi-Fi</string>
    <string name="button_color_title">Χρώμα Πλήκτρου</string>
    <string name="text_color_title">Χρώμα ετικέτας Πλήκτρου</string>
    <string name="name_color_title">Χρώμα ονόματος, διάρκειας, κτλ.</string>
