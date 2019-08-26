@@ -239,4 +239,5 @@
   <string name="percent_mi9_title">Μικρή ένδειξη ποσοστού</string>
   <string name="percent_show_size_title">Μέγεθος εικονιδίου ποσοστού</string>
   <string name="set_text_lines_title">Ονόματα εφαρμ. κάτω από τα εικονίδια</string>
+  <string name="set_font_type_title">Απενεργ/ση γραμ/σειρας MiLanPro</string>
 </resources>
