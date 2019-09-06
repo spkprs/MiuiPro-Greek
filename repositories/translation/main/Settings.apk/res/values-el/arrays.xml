@@ -1301,11 +1301,11 @@
         <item>MIUI</item>
         <item>Android</item>
     </string-array>
-    <string-array name="keyguard_notification_status_entries">
-        <item>Ενεργοποίηση οθόνης</item>
-        <item>Αναδυόμενη προβολή</item>
-        <item>"Χωρίς ενεργοποίηση οθόνης"</item>
-    </string-array>
+     <string-array name="keyguard_notification_status_entries">
+        <item>"Χωρίς αφύπνιση οθόνης"</item>
+        <item>Αφύπνιση οθόνης</item>
+        <item>Εμφάνιση κίνησης</item>
+     </string-array>
    <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>" | Ενεργό"</item>

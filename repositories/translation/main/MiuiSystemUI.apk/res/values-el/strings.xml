@@ -1721,7 +1721,7 @@
   <string name="aspect_message">Αυτή η εφαρμογή θα εκκινηθεί ξανά σε λειτουργία πλήρους οθόνης. Αν αντιμετωπίσετε τυχόν προβλήματα, μπορείτε να απενεργοποιήσετε τη λειτουργία πλήρους οθόνης για αυτήν την εφαρμογή στις Ρυθμίσεις &gt; Προβολή Πλήρους Οθόνης &gt; Λειτ. Πλήρους Οθόνης.</string>
   <string name="aspect_ok">OK</string>
   <string name="aspect_title">Λειτ. Πλήρους Οθόνης</string>
-  <string name="description_image_icon_sim_card">SIM Κάρτα %1$d</string>
+  <string name="description_image_icon_sim_card">Κάρτα SIM %1$d</string>
   <string name="stream_voice_assist">Φωνητικός Βοηθός</string>
   <string name="usb_port_overheated_dialog_content">Η θύρα φόρτισης έχει υπερθερμανθεί. Αποσυνδέστε το φορτιστή από τη συσκευή σας και ελέγξτε αν η θύρα φόρτισης είναι καθαρή. Επικοινωνήστε με την υποστήριξη πελατών εάν έχετε οποιεσδήποτε ερωτήσεις.</string>
   <string name="usb_port_overheated_notification_content">Αποσυνδέστε το φορτιστή από τη συσκευή σας και ελέγξτε αν η θύρα φόρτισης είναι καθαρή.</string>
