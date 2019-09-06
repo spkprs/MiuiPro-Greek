@@ -315,4 +315,9 @@
         <item>" | Ενεργό (Πολυμέσα)"</item>
         <item>" | Ενεργό (Τηλέφωνο)"</item>
     </string-array>
+    <string-array name="keyguard_notification_status_entries">
+        <item>"Χωρίς αφύπνιση οθόνης"</item>
+        <item>Αφύπνιση οθόνης</item>
+        <item>Εμφάνιση κίνησης</item>
+    </string-array>
 </resources>
