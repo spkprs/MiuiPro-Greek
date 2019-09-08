@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="action_folder_description">Προβολή φακέλων</string>
-     <string name="action_mode_switcher_grid_description">Προβολή πλέγματος</string>
+     <string name="action_mode_switcher_grid_description">Προβ πλέγματος</string>
      <string name="action_mode_switcher_list_description">Προβολή λίστας</string>
      <string name="action_settings_description">Ρυθμίσεις</string>
      <string name="actionbar_close_description">Κλείστε</string>
@@ -104,7 +104,7 @@
      <string name="menu_restore">Επαναφορά</string>
      <string name="menu_send_as_image">Αποστολή ως εικόνα</string>
      <string name="menu_send_as_text">Αποστολή ως κείμενο</string>
-     <string name="menu_send_to_desktop">Αποστολή στην αρχική οθόνη</string>
+     <string name="menu_send_to_desktop">Αποστολή στην αρχ. οθόνη</string>
      <string name="menu_send_wechat">Αποστολή στο WeChat</string>
      <string name="menu_send_weibo">Αποστολή στο Weibo</string>
      <string name="menu_source">Από: %1$s</string>
@@ -244,7 +244,7 @@
      <string name="undo">Αναίρεση</string>
      <string name="unknown_source">Άγνωστη πηγή</string>
      <string name="widget_content_loading">Φόρτωση…</string>
-     <string name="widget_havenot_content">Χωρίς περιεχόμενο. Πατήστε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, πατήστε &amp; σύρετε μία άκρη.</string>
+     <string name="widget_havenot_content">Χωρίς περιεχόμενο. Αγγίξτε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, αγγίξτε παρατεταμένα &amp; σύρετε μία άκρη.</string>
      <string name="widget_under_privacy_mode">Δεν μπορείτε να δείτε τις σημειώσεις σε λειτουργία επισκέπτη</string>
      <string name="cta_reminder">Οι σημειώσεις χρειάζονται δικαιώματα για σύνδεση στο διαδίκτυο, εγγραφή ήχου και πρόσβαση στις επαφές σας για να λειτουργήσει κανονικά. Επιτρέπετε?</string>
      <string name="cta_confirm_cancel">"Μην επιτρέπεται"</string>

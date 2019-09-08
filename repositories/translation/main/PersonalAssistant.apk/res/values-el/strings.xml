@@ -620,6 +620,9 @@
 	<string name="locations_preferences">Διευθύνσεις</string>
     <string name="login_dialog_body">Ενεργοποιήστε τον συγχρονισμό με το cloud για πρόσβαση στα στοιχεία σας από πολλές συσκευές. Σύνδεση και ενεργ/ση τώρα;</string>
 	<string name="login_before_use">Θα πρέπει να συνδεθείτε πρώτα</string>
+    <string name="login_dialog_negative">Όχι τώρα</string>
+    <string name="login_dialog_positive">Σύνδεση και ενεργ/ση</string>
+    <string name="login_dialog_title">Ενεργ/ση συγχρονισμού</string>
 	<string name="login_ok">Συνδεθείτε</string>
 	<string name="look_more">Δείτε περισσότερα</string>
 	<string name="main_add">Προσθήκη</string>
