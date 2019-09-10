@@ -70,12 +70,12 @@
     <string name="sync_dspt_provision2_int">mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Μπορείτε να ενεργοποιείτε ή απενεργοποιείτε αυτή την λειτουργία απο τις Ρυθμίσεις.
 "</string>
-    <string name="sync_dspt_entrance_provision">Συγχρονίσετε φωτογραφίες, επαφές, ιστορικό κλήσεων και μηνύματα, μεταξύ όλων των συσκευών σας. Δείτε τα στοιχεία που έχετε συγχρονίσει, από οποιοδήποτε πρόγραμμα περιήγησης στο %s</string>
+    <string name="sync_dspt_entrance_provision">Συγχρονίστε τις φωτογραφίες, τις σημειώσεις και τα άλλα στοιχεία σε όλες τις συσκευές σας. Αποκτήστε πρόσβαση στα στοιχεία που συγχρονίζετε από οποιοδήποτε πρόγραμμα περιήγησης στο %s</string>
     <string name="sync_dspt_entrance_provision_2">Μάθετε περισσότερα</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Χωρίς χρήση</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Χρήση του Xiaomi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Χωρίς χρήση του Xiaomi Cloud?</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">Οι ενσωματωμένες εφαρμογές MIUI, χρησιμοποιούν το Xiaomi Cloud για να κρατάνε αντίγραφα ασφαλείας φωτογραφιών, επαφών, σημειώσεων, καθώς και πολλά άλλα. Το Xiaomi Cloud είναι δωρεάν και έτοιμο για χρήση άμεσα.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Οι ενσωματωμένες εφαρμογές MIUI, χρησιμοποιούν το Xiaomi Cloud για να κρατάνε αντίγραφα ασφαλείας φωτογραφιών, μηνυμάτων, σημειώσεων, καθώς και πολλά άλλα. Το Xiaomi Cloud είναι δωρεάν και έτοιμο για χρήση άμεσα.</string>
     <string name="sync_dspt_entrance_provision_skip">Παραλείψτε αυτό το βήμα</string>
     <string name="sync_dspt_entrance_provision_network">Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Ο συγχρονισμός δεδομένων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής τηλεφωνίας και ενεργοποίηση του Wi-Fi.</string>
     <string name="find_device_dspt_provision">Εάν χάσετε τη συσκευή σας, μπορείτε να μεταβείτε στο &lt;font color=#ff0000&gt;%s&lt;/font&gt; να εντοπίσετε, να κλειδώσετε ή να την επαναφέρετε. Μπορείτε να αλλάξετε αυτήν τη λειτουργία οποτεδήποτε στις Ρυθμίσεις.</string>

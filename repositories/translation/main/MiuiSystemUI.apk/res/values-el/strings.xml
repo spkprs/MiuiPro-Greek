@@ -1707,12 +1707,15 @@
   <string name="lock_screen_magazine_default_entry_title">Λεπτομέρειες ταπετσαριών</string>
   <string name="lock_screen_magazine_default_title">Ταπετσαρίες Καρουζέλ</string>
   <string name="open_lock_screen_magazine_hint_text">Σύρετε δεξιά για περισσότερες επιλογές</string>
-  <string name="recents_title_app_manager">Διαχείριση Εφαρμογών</string>
+  <string name="recents_title_app_manager">"Διαχείριση
+Εφαρμογών"</string>
   <string name="recents_title_game">Παιχνίδια</string>
   <string name="recents_title_garbage_cleanup">Καθαρισμός</string>
-  <string name="recents_title_garbage_deepclean">Υπέρ Καθαρισμός</string>
+  <string name="recents_title_garbage_deepclean">"Υπέρ
+Καθαρισμός"</string>
   <string name="recents_title_market">Αναζήτ.Εφαρμ</string>
-  <string name="recents_title_security_scan">Σάρωση Ασφαλείας</string>
+  <string name="recents_title_security_scan">"Σάρωση
+Ασφαλείας"</string>
   <string name="lock_screen_magazine_global_button_text">Περισσότερα</string>
   <string name="keyguard_left_music">Μουσική</string>
   <string name="keyguard_left_notes">Σημειώσεις</string>
