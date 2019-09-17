@@ -609,6 +609,9 @@
   <string name="face_unlock_rotated_left">Γυρίστε το κεφάλι σας προς τα δεξιά</string>
   <string name="face_unlock_rotated_right">Γυρίστε το κεφάλι σας προς τα αριστερά</string>
   <string name="face_unlock_stay_away_screen">Μείνετε 25 έως 40 εκατοστά μακριά από την οθόνη</string>
+  <string name="face_data_apply_for_category_title">Ξεκλείδωμα με χρήση δεδομένων Προσώπου</string>
+  <string name="face_data_apply_for_keyguard_title">Κλείδωμα οθόνης</string>
+  <string name="face_unlock_category_title">Επιλογές Κλειδώματος οθόνης</string>
   <string name="failed_to_open_app_settings_toast">Αδύνατο άνοιγμα ρυθμίσεων για %1$s</string>
   <string name="fingerprint_add_text">Η διεπαφή Δακτυλικού αποτυπώματος ενημερώθηκε. Προσθέστε ξανά το Δακτυλικό σας αποτύπωμα.</string>
   <string name="fingerprint_add_title">Προσθήκη Δακτ.αποτυπώματος</string>
