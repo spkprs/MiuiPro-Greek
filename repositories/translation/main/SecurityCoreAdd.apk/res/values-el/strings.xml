@@ -2,7 +2,7 @@
 <resources>
   <string name="about_ent_mode">Σχετικά με την Λειτουργία Επιχείρησης</string>
   <string name="Active">Ενεργό</string>
-  <string name="activate_ent_mode">Ενεργοποίηση Λειτουργία Επιχείρησης</string>
+  <string name="activate_ent_mode">Ενεργοποίηση Λειτουργίας Επιχείρησης</string>
   <string name="add_finger_print">Προσθήκη Δακτ.αποτυπώματος</string>
   <string name="agree">Συμφωνώ</string>
   <string name="air_space_created">Δημιουργήθηκε χώρος Εργασίας με επιτυχία</string>
@@ -432,7 +432,7 @@
   <string name="button_text_next_step">Επόμενο</string>
   <string name="button_text_next_step_timer">Επόμενο βήμα (%d)</string>
   <string name="cta_declaration_agree_and_continue">Συμφωνώ</string>
-  <string name="cta_declaration_message_format" formatted="false">Θα πρέπει να συμφωνήστε με  &lt;font color=%s>&lt;a href=%s>%s &lt;/a>&lt;/font> πριν χρησιμοποιήσετε τη λειτουργία Επιχείρησης. Η συσκευή σας πρέπει να συνδεθεί στο διαδίκτυο για να ενεργοποιήσει τη λειτουργία Επιχείρησης. Συμφωνείτε?</string>
+  <string name="cta_declaration_message_format" formatted="false">Θα πρέπει να συμφωνήστε με την &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; πριν χρησιμοποιήσετε τη λειτουργία Επιχείρησης. Η συσκευή σας πρέπει να συνδεθεί στο διαδίκτυο για να ενεργοποιήσει τη λειτουργία Επιχείρησης. Συμφωνείτε?</string>
   <string name="cta_declaration_title">Οροι και Προϋποθέσεις</string>  
   <string name="dialog_message_service_error">"Δεν ήταν δυνατή η ανάκληση εξουσιοδότησης και η επαναφορά εργοστασιακών δεδομένων. Προσπάθησε ξανά.​"</string>
   <string name="dialog_tip_need_network">Η συσκευή σας πρέπει να συνδεθεί στο διαδίκτυο για να ανακαλέσει την εξουσιοδότηση.</string>
