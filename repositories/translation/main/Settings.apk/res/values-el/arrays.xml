@@ -1288,8 +1288,8 @@
         <item>Βοηθός Yandex</item> 
    </string-array>
    <string-array name="ai_key_item_name">
+     	<item>Μιλήστε στο βοηθό φωνής Google</item>
         <item>Άνοιγμα Αναζήτηση Google</item>
-    	<item>Μιλήστε στο βοηθό φωνής Google</item>
         <item>Ενεργοποίηση Πίσω κάμερας</item>
         <item>Ενεργοποίηση Εμπρός κάμερας</item>
         <item>Άνοιγμα προηγούμενης εφαρμογής</item>
