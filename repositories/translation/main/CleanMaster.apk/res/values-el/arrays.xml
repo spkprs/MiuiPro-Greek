@@ -8,6 +8,9 @@
         <item>Μέγεθος</item>
         <item>Όνομα</item>
     </string-array>
+     <string-array name="wechat_sort">
+        <item>Ημέρα</item>
+        <item>Μέγεθος</item>
     <string-array name="installed_app_sort_type">
         <item>Συχνή χρήση</item>
         <item>Μέγεθος</item>

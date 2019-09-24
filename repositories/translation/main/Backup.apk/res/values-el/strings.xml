@@ -194,7 +194,6 @@
   <string name="import_from_xiaomi_account_hint_title">Χρησιμοποιήστε το MiTalk για να κάνετε αντίγραφο των επαφών σας σε όλες τις συσκευές</string>
   <string name="import_from_xiaomi_account_hint1">1. Εγκαταστήστε το MiTalk και συνδεθείτε.\u000d\n2. http://www.miliao.com\u000d\n\u000d\n3. Πηγαίνετε στις ρυθμίσεις MiTalk και επιλέξτε Αντίγραφο επαφών στο λογαριασμό Mi</string>
   <string name="import_from_xiaomi_account_hint2">Σημείωση Μεταβείτε στο επόμενο βήμα εάν υπάρχει ήδη αντίγραφο</string>
-  <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
   <string name="import_tip_summary">Λόγω προβλημάτων συμβατότητας, μπορείτε να μεταφέρετε μόνο μερικά δεδομένα από συσκευές iOS. Βεβαιωθείτε ότι έχετε δημιουργήσει ένα αντίγραφο ασφαλείας iCloud πριν ξεκινήσετε τη μεταφορά.</string>
   <string name="lack_perm_msg">Το Mi Mover χρειάζεται τα ακόλουθα δικαιώματα:&lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Απαιτούνται δικαιώματα</string>
@@ -270,7 +269,6 @@
   <string name="perm_read_phone_state">Διαβάσει την κατάσταση του τηλεφώνου</string>
   <string name="perm_read_sms">Διαβάσει SMS</string>
   <string name="perm_storage">Διαβάσει και εγγράψει σε εξωτερικό αποθηκευτικό χώρο</string>
-  <string name="platform_chooser_item_android">Εισαγωγή από συσκευή Android</string>
   <string name="platform_chooser_item_android_mi">Mi phone</string>
   <string name="platform_chooser_item_android_others">Άλλα εμπορικά σήματα</string>
   <string name="platform_chooser_item_ios">Εισαγωγή από μια συσκευή iOS</string>
@@ -386,8 +384,6 @@
   <string name="trans_button_stay">Παρομονή</string>
   <string name="trans_calculating">Υπολογισμός…</string>
   <string name="trans_calculating_app_sd_description">Δεδομένα στην κάρτα SD</string>
-  <string name="trans_calculating_app_sd_size">Υπολογισμός μεγέθους: %s</string>
-  <string name="trans_calculating_base_size">Υπολογισμός μεγέθους εφαρμογών</string>
   <string name="trans_calculating_media_description">Αρχεία πολυμέσων</string>
   <string name="trans_calculating_tip">Υπολογισμός %s…</string>
   <string name="trans_cancel_confirm">Μεταφορά σε εξέλιξη. Ακύρωση τώρα;</string>
@@ -579,7 +575,6 @@
   <string name="comma_seperator">" - "</string>
   <string name="digit_percent">%</string>
   <string name="total_size">, %s</string>
-  <string name="trans_cancel_dialog_survey_title">Γιατί διακόψατε τη μεταφορά;</string>
   <string name="trans_dialog_survey_finish">Αποστολή</string>
   <string name="trans_success_dialog_button_market_comment">Σχόλια</string>
   <string name="trans_success_dialog_button_survey">Έρευνα</string>
