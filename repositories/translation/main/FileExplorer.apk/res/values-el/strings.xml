@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="app_function">Διαχείριση αρχείων στη συσκευή σας</string>
+     <string name="doc_all">'Ολα</string>
 		<string name="a_week_share_rank">Εβδομαδιαίες βαθμολογίες</string>
 		<string name="action_mode_deselect_all">Αποεπιλογή όλων</string>
 		<string name="action_mode_select_all">Επιλογή όλων</string>
@@ -848,4 +850,9 @@
 		<string name="you_liao_xunlei_desc">Υπογράψτε συμβόλαιο μαζί μας για να αποκτήσετε την κατάσταση Host</string>
 		<string name="you_liao_xunlei_str">Xunlei host</string>
 		<string name="youliao_master_rank">Κορυφαία του Youliao</string>
+     <string name="error_file_already_exists">Αυτό το αρχείο υπάρχει ήδη</string>
+     <string name="fileSizeSuffix">%1$s %2$s</string>
+     <string name="function_file_operation">"Για πρόσβαση και άνοιγμα αρχείων; "</string>
+     <string name="function_set_private">"Για προβολή και κρυπτογράφηση αρχείων; "</string>
+     <string name="function_use_imei">"Για πρόσβαση σε IMEI και κρυπτογράφηση αρχείων; "</string>
 </resources>
