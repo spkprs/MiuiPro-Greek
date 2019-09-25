@@ -273,5 +273,8 @@
   <string name="once">Μόνο μια φορά</string>
   <string name="to_install_title">Αυτός ο κώδικας QR σας ανακατευθύνει σε μια μη εγκατεστημένη εφαρμογή. Άμεση λήψη αυτής της εφαρμογής?</string>
   <string name="toinstall">Λήψη</string>
+    <string name="permission_microphone_desc">Χρήση μικροφώνου ως πηγή ήχου για εγγραφές οθόνης</string>
+    <string name="settings_other">Άλλα</string>
+    <string name="settings_privacy">Πολιτική Απορρήτου</string>
 </resources>
 

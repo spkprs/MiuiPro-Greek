@@ -62,4 +62,6 @@
   <string name="using_camera_confirm_cancel">Έξοδος</string>
   <string name="using_camera_confirm_ok">Συμφωνώ</string>
   <string name="compass_settings">Ρυθμίσεις</string>
+    <string name="permission_camera_desc">Χρήση επιπέδου spirit</string>
+    <string name="permission_location_desc">Εμφάνιση συντεταγμένων και ατμοσφαιρική πίεση</string>
 </resources>
