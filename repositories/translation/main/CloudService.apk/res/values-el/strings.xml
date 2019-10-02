@@ -78,7 +78,7 @@
     <string name="sync_dspt_entrance_provision_confirm_content">Οι ενσωματωμένες εφαρμογές MIUI, χρησιμοποιούν το Xiaomi Cloud για να κρατάνε αντίγραφα ασφαλείας φωτογραφιών, μηνυμάτων, σημειώσεων, καθώς και πολλά άλλα. Το Xiaomi Cloud είναι δωρεάν και έτοιμο για χρήση άμεσα.</string>
     <string name="sync_dspt_entrance_provision_skip">Παραλείψτε αυτό το βήμα</string>
     <string name="sync_dspt_entrance_provision_network">Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργεί κανονικά. Ο συγχρονισμός δεδομένων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής τηλεφωνίας και ενεργοποίηση του Wi-Fi.</string>
-    <string name="find_device_dspt_provision">Εάν χάσετε τη συσκευή σας, μπορείτε να μεταβείτε στο &lt;font color=#ff0000&gt;%s&lt;/font&gt; να εντοπίσετε, να κλειδώσετε ή να την επαναφέρετε. Μπορείτε να αλλάξετε αυτήν τη λειτουργία οποτεδήποτε στις Ρυθμίσεις.</string>
+    <string name="find_device_dspt_provision">Εάν χάσετε τη συσκευή σας, μπορείτε να μεταβείτε στο &lt;font color=#ff0000>%s&lt;/font> να εντοπίσετε, να κλειδώσετε ή να την επαναφέρετε. Μπορείτε να αλλάξετε αυτήν τη λειτουργία οποτεδήποτε στις Ρυθμίσεις.</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις</string>
@@ -170,7 +170,6 @@
     <string name="micloud_space_soundrecorder_title">Ηχογραφήσεις</string>
     <string name="micloud_space_soundrecorder_detail">Διαχείριση των ηχογραφήσεων που είναι αποθηκευμένες στη συσκευή σας</string>
     <string name="micloud_space_full_influence">Τι συμβαίνει όταν έχω ξεμείνει από χώρο;</string>
-    <string name="micloud_storage_usage" formatted="false">Σε χρήση %s / Συνολικός χώρος %s</string>
     <string name="micloud_storage_full">Ο χώρος του Cloud είναι πλήρης</string>
     <string name="micloud_title_dspt_remain">%s απομένουν</string>
     <string name="micloud_title_full_dspt">Έχετε φτάσει το όριο αποθήκευσής σας!</string>
@@ -472,7 +471,7 @@
     <string name="micloud_notif_title_dirty_data">Έχετε μη συγχρονισμένα στοιχεία</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Προβολή λεπτομερειών</string>
     <string name="micloud_notif_content_dirty_data">Λεπτομέρειες</string>
-    <string name="micloud_find_device_guide_title">"Συνδεθείτε στο &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; για να εντοπίσετε, κλειδώσετε ή να διαγράψετε τη συσκευή σας. Αυτό μπορεί να σας βοηθήσει να τη βρείτε σε περίπτωση που χαθεί.&lt;br/&gt; Αν τη χάσετε, μπορείτε να επικοινωνήσετε με τις υπηρεσίες ασφαλείας των εφαρμογών που χρησιμοποιείτε συχνά (π.χ. Alipay, WeChat, QQ) για να προστατεύσετε τους λογαριασμούς σας στο &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;."</string>
+    <string name="micloud_find_device_guide_title">"Συνδεθείτε στο &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> για να εντοπίσετε, κλειδώσετε ή να διαγράψετε τη συσκευή σας. Αυτό μπορεί να σας βοηθήσει να τη βρείτε σε περίπτωση που χαθεί.&lt;br /> Αν τη χάσετε, μπορείτε να επικοινωνήσετε με τις υπηρεσίες ασφαλείας των εφαρμογών που χρησιμοποιείτε συχνά (π.χ. Alipay, WeChat, QQ) για να προστατεύσετε τους λογαριασμούς σας στο &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>."</string>
     <string name="micloud_find_device_guide_content">Όταν αλλάζετε την κάρτα SIM, ένα μήνυμα SMS θα σταλεί αυτόματα για επανενεργοποίηση αυτής της λειτουργίας.</string>
     <string name="micloud_find_device_guide_button">Ενεργοποίηση του Εύρεση συσκευής</string>
     <string name="micloud_find_device_guide_progress">Ενεργοποίηση του Εύρεση συσκευής…</string>
@@ -576,7 +575,6 @@
     <string name="ks_update_fail_request_timeout">Η αίτηση σύνδεσης έκλεισε. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
     <string name="ks_update_fail_code">Δεν ήταν δυνατή η λήψη του πιστοποιητικού. Κωδικός λάθους: %d</string>
     <string name="title_back">Πίσω</string>
-    <string name="micloud_title_dspt" formatted="false">Σε χρήση %s/Συνολικός χώρος %s,</string>
     <string name="micloud_main_memory_low_title">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
     <string name="micloud_notif_title_memory_low">Αδυναμία συγχρονισμού με Xiaomi Cloud</string>
     <string name="find_device_service_title">Εύρεση συσκευής</string>
@@ -723,7 +721,7 @@
   <string name="priv_dialog_finddevice_all_purpose_pad">"Καλώς ορίσατε στη Εύρεση συσκευής! Μπορείτε να χρησιμοποιήσετε αυτήν την υπηρεσία για να εντοπίσετε, να κλειδώσετε ή να διαγράψετε δεδομένα στη συσκευή σας, αν χαθεί."</string>
   <string name="priv_dialog_finddevice_all_purpose_phone">"Καλώς ορίσατε στη Εύρεση συσκευής! Μπορείτε να χρησιμοποιήσετε αυτήν την υπηρεσία για να εντοπίσετε, να κλειδώσετε ή να διαγράψετε δεδομένα στη συσκευή σας, αν χαθεί."</string>
   <string name="priv_dialog_sync_all_purpose">Καλώς ήρθατε στο Xiaomi cloud υπηρεσίες! Μπορείτε να χρησιμοποιήσετε το Xiaomi cloud για να συγχρονίσετε τα μηνύματά , ιστορικό κλήσεων, επαφές, σημειώσεις, ρυθμίσεις του προγράμματος περιήγησης, τραγούδια, φωτογραφίες, βίντεο, ρυθμίσεις WLAN, ηχογραφήσεις, διάταξη της αρχικής οθόνης, εφαρμογές, συμβάντα ημερολογίου, στοιχεία BlockList και τον Προσωπικο βοηθό σε όλες τις συνδεδεμένες συσκευές</string>
-  <string name="priv_doc_cloudservice">Καλώς ήρθατε στο Xiaomi cloud υπηρεσίες! Μπορείτε να χρησιμοποιήσετε το Xiaomi cloud για να συγχρονίσετε τα μηνύματά , ιστορικό κλήσεων, επαφές, σημειώσεις, ρυθμίσεις του προγράμματος περιήγησης, τραγούδια, φωτογραφίες, βίντεο, ρυθμίσεις WLAN, ηχογραφήσεις, διάταξη της αρχικής οθόνης, εφαρμογές, συμβάντα ημερολογίου, στοιχεία BlockList και τον Προσωπικο βοηθό σε όλες τις συνδεδεμένες συσκευές. Αποκτήστε πρόσβαση στα στοιχεία που συγχρονίζετε στο i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;"
+  <string name="priv_doc_cloudservice">Καλώς ήρθατε στο Xiaomi cloud υπηρεσίες! Μπορείτε να χρησιμοποιήσετε το Xiaomi cloud για να συγχρονίσετε τα μηνύματά , ιστορικό κλήσεων, επαφές, σημειώσεις, ρυθμίσεις του προγράμματος περιήγησης, τραγούδια, φωτογραφίες, βίντεο, ρυθμίσεις WLAN, ηχογραφήσεις, διάταξη της αρχικής οθόνης, εφαρμογές, συμβάντα ημερολογίου, στοιχεία BlockList και τον Προσωπικο βοηθό σε όλες τις συνδεδεμένες συσκευές. Αποκτήστε πρόσβαση στα στοιχεία που συγχρονίζετε στο &lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com.&lt;/font&gt;&lt;/b&gt;"
 
 Ενδέχεται να απαιτείται εξερχόμενο μήνυμα SMS για την ενεργοποίηση αυτής της υπηρεσίας. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Όταν αλλάζετε την κάρτα SIM, μπορεί να αποσταλεί αυτόματα ένα μήνυμα για την επανενεργοποίηση αυτής της λειτουργίας.
 
@@ -778,7 +776,7 @@
 &amp;#8226; Τοποθεσία:
 Για τον εντοπισμό της συσκευής σας και μετάβαση σε λειτουργία Εύρεση συσκευής
 Εάν δεν συμφωνείτε να παραχωρήσετε τέτοια δικαιώματα ή να μοιραστείτε και να ανεβάσετε τα προσωπικά σας στοιχεία, δεν θα μπορείτε να χρησιμοποιήσετε αυτές τις υπηρεσίες. Μπορείτε να επιλέξετε να απεγκαταστήσετε αυτήν την εφαρμογή, να αποσυνδεθείτε ή να περιορίσετε τα δικαιώματα στις ρυθμίσεις σε τέτοιες περιπτώσεις.
-Διαβάστε και αποδεχτείτε την "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;Συμφωνία χρήστη a&lt;/a&gt;&lt;/u&gt; και &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Πολιτική απορρήτου b&lt;/a&gt;&lt;/u&gt;".
+Διαβάστε και αποδεχτείτε την "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Συμφωνία χρήστη &lt;/a&gt;&lt;/u&gt; και &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Πολιτική απορρήτου &lt;/a&gt;&lt;/u&gt;".
 "</string>
   <string name="priv_doc_finddevice_with_telephony_feature_phone">"Καλώς ορίσατε στη συσκευή εύρεσης! Μπορείτε να χρησιμοποιήσετε αυτήν την υπηρεσία για να εντοπίσετε, να κλειδώσετε ή να διαγράψετε δεδομένα στη συσκευή σας, αν έχει χαθεί. Μπορείς να πάτε στο "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" για να την εντοπίσετε, κλειδώσετε ή επαναφέρετε.
 
@@ -792,6 +790,6 @@
 &amp;#8226; Τοποθεσία:
 Για τον εντοπισμό της συσκευής σας και μετάβαση σε λειτουργία Εύρεση συσκευής
 Εάν δεν συμφωνείτε να παραχωρήσετε τέτοια δικαιώματα ή να μοιραστείτε και να ανεβάσετε τα προσωπικά σας στοιχεία, δεν θα μπορείτε να χρησιμοποιήσετε αυτές τις υπηρεσίες. Μπορείτε να επιλέξετε να απεγκαταστήσετε αυτήν την εφαρμογή, να αποσυνδεθείτε ή να περιορίσετε τα δικαιώματα στις ρυθμίσεις σε τέτοιες περιπτώσεις.
-Διαβάστε και αποδεχτείτε την "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;Συμφωνία χρήστη a&lt;/a&gt;&lt;/u&gt; και &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Πολιτική απορρήτου b&lt;/a&gt;&lt;/u&gt;".
+Διαβάστε και αποδεχτείτε την "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Συμφωνία χρήστη &lt;/a&gt;&lt;/u&gt; και &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Πολιτική απορρήτου &lt;/a&gt;&lt;/u&gt;".
 "</string>
 </resources>

@@ -18,13 +18,8 @@
     <string name="cloud_backup_detail_title">Αρχική οθόνη, εφαρμογές και ρυθμίσεις.</string>	
     <string name="cloud_backup_detail_state_summary">Εφαρμογές, Αρχική οθόνη και ρυθμίσεις συστήματος</string>
     <string name="cloud_backup_detail_frequence">Χρονοδιάγραμμα αντιγράφων</string>
-    <string name="cloud_back_up_interval_long">7 ημέρες</string>
-    <string name="cloud_back_up_interval_short">Καθημερινά</string>
-    <string name="cloud_backup_detail_frequence_day">%1$s αντίγραφο μια φορά</string>
     <string name="cloud_backup_detail_time">Τελευταίο αντίγραφο: %1$s</string>
     <string name="cloud_backup_detail_manage">"Διαχείριση αντιγράφων "</string>
-    <string name="cloud_backup_detail_manage_summary">%1$s αντίγραφα. Μέγεθος:%2$s</string>
-    <string name="backup_size_summary">Μέγεθος: %1$s</string>
     <string name="cloud_back_up_opening">Μισό λεπτό…</string>
     <string name="cloud_back_up_no_network_warn">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="cloud_back_up_ok_btn">OK</string>
@@ -48,9 +43,7 @@
     <string name="cloud_app_no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="button_delete">Διαγραφή</string>
     <string name="customization"><u>Προσαρμογή</u></string>
-    <string name="self_phone">Αυτό το τηλέφωνο</string>
     <string name="process_whole_recovery">Επαναφορά του \"%s\"</string>
-    <string name="device_xiaomi">Mi Phone</string>
     <string name="miui_device_name">Android</string>
     <string name="recovering">Επαναφορά %s</string>
     <string name="start_recover">Επαναφορά %s</string>
@@ -73,12 +66,10 @@
     <string name="desktop_downloading">Λήψη…</string>
     <string name="desktop_installing">Εγκατάσταση…</string>
      <string name="desktop_wait_network">Αναμονή...</string>
-    <string name="recover_from_micloud">"Επαναφορά από αντίγραφο  Xiaomi Cloud"</string>
     <string name="click_try_to_restore_again">Πατήστε για να δοκιμάσετε ξανά</string>
     <string name="open_wifi">Ενεργοποίηση Wi‑Fi τώρα</string>
     <string name="open_wifi_description">Συνδεθείτε σε ένα δίκτυο Wi‑Fi για να επαναφέρετε την εφαρμογή</string>
     <string name="open_wifi_setting">Ρυθμίσεις Wi‑Fi</string>
-    <string name="name_model">"%1$s's %2$s"</string>
     <string name="download_settings">Λήψη ρυθμίσεων Αρχικής οθόνης %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">Επαναφορά ρυθμίσεων Αρχικής οθόνης</string>
@@ -129,7 +120,6 @@
    <string name="home_restore_error">Η επαναφορά αρχικής οθόνης απέτυχε</string>
     <string name="restore_data_title">Επαναφορά δεδομένων</string>
     <string name="total_space">Συνολικά: %s</string>
-    <string name="self_phone_home">Αυτό το τηλέφωνο: %s</string>
    <string name="btn_restore_abort">Ακύρωση</string>
    <string name="btn_restore_cancel">Ακύρωση</string>
    <string name="btn_restore_resume">Συνέχεια</string>
@@ -183,10 +173,7 @@
   <string name="unsupported_home">Ενημερώστε στην τελευταία έκδοση το MIUI.</string>
   <string name="load_backup_failed">"Αδυναμία φόρτωσης Αντιγράφων"</string>
   <string name="loading_user_backup">Φόρτωση Αντιγράφων χρήστη…</string>
-  <string name="main_space">Πρώτος Χώρος</string>
   <string name="try_continue">Αγγίξτε για συνέχεια</string>
-  <string name="second_space">Δεύτερος Χώρος</string>
-  <string name="self_device">"Αυτό το τηλέφωνο"</string>
   <string name="backup_stopped_msg">Το τρέχον αντίγραφο θα διαγράψει το προηγούμενο. Αγγίξτε για προβολή.</string>
   <string name="backup_stopped_title">Το αντίγραφο σταμάτησε</string>
   <string name="dialog_btn_cancel_backup">Ακύρωση</string>
