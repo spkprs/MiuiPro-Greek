@@ -792,4 +792,7 @@
 Εάν δεν συμφωνείτε στην παραχώρηση αυτών των αδειών ή να μοιράσετε τα προσωπικά σας στοιχεία, δεν θα μπορέσετε να χρησιμοποιήσετε αυτές τις υπηρεσίες. Μπορείτε να επιλέξετε την απεγκατάσταση αυτής της εφαρμογής, την αποσύνδεση ή περιορισμό αδειών στις Ρυθμίσεις σε αυτές τις περιπτώσεις.
 Διαβάστε και αποδεχτείτε την "<a href="app://com.miui.cloudservice.user_agreement.license"><u> Συμφωνία χρήστη </u></a> και <a href="app://com.miui.cloudservice.gdpr.license"><u> Πολιτική απορρήτου </u></a>".
 "</string>
+    <string name="cloud_storage_already_full">Πλήρης η αποθ. Cloud: %1$s/%2$s</string>
+    <string name="cloud_storage_default_title">Αποθήκευση Cloud</string>
+    <string name="cloud_storage_loading_data">Μισό λεπτό…</string>
 </resources>

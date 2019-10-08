@@ -1657,7 +1657,7 @@
   <string name="wifi_no_internet_no_reconnect">Δεν είναι δυνατή η σύνδεση στο διαδίκτυο</string>
   <string name="wifi_not_in_range">Εκτός εμβέλειας</string>
   <string name="wifi_remembered">Αποθηκεύτηκε</string>
-  <string name="wifi_security_none">Κανένα</string>
+  <string name="wifi_security_none">Χωρίς</string>
   <string name="wifi_verbose_logging">Ενεργοποίηση λεπτομερής καταγραφής Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Αύξηση του επιπέδου καταγραφής Wi-Fi, εμφάνιση του RSSI για κάθε SSID στη λίστα των δικτύων Wi-Fi.</string>
   <string name="window_animation_scale_title">Κλίμακα κίνησης παραθύρων</string>
@@ -1777,4 +1777,6 @@
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Είσοδος</string>
     <string name="long_screenshot_guide_text">"Κύληση"</string>
 	<string name="gxzw_add_fingerprint_area">Σαρωτής δακτυλικών αποτυπ/των</string>
+    <string name="gxzw_quick_close">Κλείστε</string>
+    <string name="gxzw_quick_open_title">Άνοιγμα μενού συντόμευσης</string>
 </resources>

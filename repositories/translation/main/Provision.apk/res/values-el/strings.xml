@@ -104,7 +104,7 @@
   <string name="voice_assist_condition">"Θα μπορείτε τη χρήση του Mi AI στις ακόλουθες περιπτώσεις:
 1. Όταν η οθόνη είναι ενεργή.
 2. Όταν ακούτε μουσική με την οθόνη σας ανενεργή."</string>
-  <string name="ai_button_desc">Χρησιμοποιήστε αυτό το κουμπί για ενεργοποίηση το Mi AI για ολοκλήρωση εργασιών στο τηλέφωνό σας χρησιμοποιώντας τη φωνή σας</string>
+  <string name="ai_button_desc">Το κουμπί AI σάς επιτρέπει να ενεργοποιήσετε το Mi AI και να χρησιμοποιήσετε συντομεύσεις Mi AI.</string>
   <string name="ai_button_double_press">Διπλό πάτημα</string>
   <string name="ai_button_double_press_desc">Ρυθμίσεις χαρακτηριστικών του Mi AI</string>
   <string name="ai_button_long_press">Πατήστε και κρατήστε</string>

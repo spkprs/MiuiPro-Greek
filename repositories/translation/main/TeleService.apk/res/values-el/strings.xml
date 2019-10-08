@@ -1324,4 +1324,5 @@
     <string name="wifi_call_help">Βοήθεια</string>
     <string name="wifi_call_help_title">Βοήθεια κλήσης Wi-Fi</string>
     <string name="wifi_call_help_message">Εάν επιλέξετε να προτιμάτε δίκτυα κινητής τηλεφωνίας, αυτά θα χρησιμοποιούνται για κλήσεις από προεπιλογή. Σε περίπτωση που δεν υπάρχει σήμα δικτύου κινητής τηλεφωνίας ή είναι πολύ ασθενές, θα χρησιμοποιηθεί αντί αυτού, το δίκτυο Wi-Fi.</string>
+    <string name="fiveg_power_secret_code_tip">λειτουργήστε το μέσω της εφαρμ. Ασφάλεια - Μπαταρία - 5G Εξοικονόμιση</string>
 </resources>
