@@ -243,4 +243,6 @@
   <string name="vibrate_skip_title">Δόνηση στην εναλλαγή</string>
   <string name="miuipro_anim_title">Απενεργοποίηση κίνησης εικονιδίου</string>
   <string name="miuipro_anim_summary">Ανενεργή κίνηση εικονιδίου επιφάνειας μετά το ξεκλείδωμα</string>
+  <string name="show_powermenu_title">Απενεργοποίηση μενού επανεκκίνησης</string>
+  <string name="show_powermenu_summary">Απενεργοποίηση του μενού επανεκκίνησης όταν η οθόνη είναι κλειδωμένη</string>
 </resources>
