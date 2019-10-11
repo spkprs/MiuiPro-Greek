@@ -427,6 +427,8 @@
   <string name="xspace_remove">"Διαγραφή λογαριασμών Διπλών εφαρμογών"</string>
   <string name="greenguard_child_des">Διαχειριστείτε τις συσκευές των φίλων και της οικογένειάς σας​</string>
   <string name="greenguard_child_des_title">Σαρώστε τον κωδικό QR για να προσθέσετε συσκευή</string>
+  <string name="greenguard_functional_description">"Απομακρυσμένη διαχείριση συσκευών, προβολή πληροφοριών θέσης,
+έλεγχος εγκατεστημένων εφαρμογών και περιορισμός χρήσης"</string>
   <string name="greenguard_parent_des">Διαχειριστείτε τις συσκευές των φίλων και της οικογένειάς σας​</string>
   <string name="greenguard_parent_des_title">Χρησιμοποιήστε το Kite Guard για να προσθέσετε συσκευές</string>
   <string name="button_text_next_step">Επόμενο</string>

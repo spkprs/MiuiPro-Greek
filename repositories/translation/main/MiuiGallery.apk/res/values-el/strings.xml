@@ -234,12 +234,6 @@
 	<string name="choose_owner_relation">Σχέση</string>
 	<string name="choose_people">Επιλέξτε το άλμπουμ ενός ατόμου</string>
 	<string name="choose_some_people">Επιλέξτε το άλμπουμ με %s</string>
-	<string name="cityname_1">Νεολαία</string>
-	<string name="cityname_2">Δροσερά</string>
-	<string name="cityname_3">Ωδικώς</string>
-	<string name="cityname_4">Έντονα</string>
-	<string name="cityname_5">Γοητευτικά</string>
-	<string name="cityname_6">Γκαλερί μόδας</string>
 	<string name="cleaner_empty_value_description">Όλα φαίνονται εντάξει</string>
 	<string name="cleaner_photo_pick_delete_selected">Διαγραφή επιλεγμένων φωτογραφιών</string>
 	<string name="cleaner_scan_description">Η βελτιστοποίηση στοιχείων απελευθερώνει χώρο αποθήκευσης στην συσκευή σας</string>
@@ -302,6 +296,9 @@
 	<string name="collaps_people">Απόκρυψη</string>
 	<string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Στιγμές</string>
 	<string name="confirm">ΟΚ</string>
+    <string name="chooser_fragment_mishare_title">Κοινή χρήση με</string>
+    <string name="confirm_cancel_task_files">Ακύρωση αποστολής αρχείου σε %1$s?</string>
+    <string name="confirm_cancel_task_images">Ακύρωση αποστολής εικόνας σε %1$s?</string>
 	<string name="confirm_download_video_message">Το βίντεο απαιτεί λήψη! Η λήψη θα συνεχίσει όταν βρεθεί διαθέσιμο δίκτυο Wi‑Fi.</string>
 	<string name="confirm_download_video_title">Λήψη βίντεο</string>
 	<string name="confirm_face">Ταυτοποίηση</string>
@@ -367,7 +364,15 @@
 	<string name="disable_auto_upload_tip">Απενεργ. συγχρ. στο Xiaomi Cloud για αυτό το άλμπουμ;</string>
 	<string name="disable_auto_upload_title">Απενεργοποιήστε το συγχρονισμό στο Xiaomi Cloud</string>
 	<string name="do_not_remind_me">Να μην εμφανιστεί ξανά</string>
-	<string name="double_tap_to_higher_definition">Κάντε διπλό άγγιγμα ξανά για την προεπισκόπηση HD</string>
+    <string name="default_device_name">Άγνωστη συσκευή</string>
+    <string name="device_name_with_ellipsize">%1$s…</string>
+    <string name="device_offline">Η άλλη συσκευή είναι εκτός σύνδεσης. Ξεκινήστε από την αρχή.</string>
+    <string name="device_type_pc">Computer</string>
+    <string name="double_tap_for_hr_preview_108m">Διπλό άγγιγμα για μετάβαση σε προεπισκόπηση 108MP</string>
+	<string name="double_tap_to_higher_definition">Διπλό άγγιγμα για μετάβαση σε προεπισκόπηση HD</string>
+    <string name="empty_album_cloud_list_title">Δεν υπάρχουν άλμπουμ για συγχρονισμό</string>
+    <string name="empty_album_hidden_list_title">Δεν υπάρχουν κρυφά άλμπουμ</string>
+    <string name="enable_midrop">Ενεργοποίηση</string>
 	<string name="download_canceled">Η λήψη ακυρώθηκε</string>
 	<string name="download_error_format">Δεν ήταν δυνατή η λήψη %s</string>
 	<string name="download_error_tip">. Οι λήψεις διακόπηκαν.</string>
@@ -1158,6 +1163,7 @@
 	<string name="tip_not_download">Δεν έχει ληφθεί. Αυτό θα γίνει αυτόματα κατά τη διάρκεια της αναπαραγωγής.</string>
 	<string name="tip_screenshot_package_info">Όνομα εφαρμογής:</string>
 	<string name="title_set_name">Ορισμός ονόματος</string>
+    <string name="tips_prompt_enable_midrop">Κοινή χρήση αρχείων σε κοντινές συσκευές</string>
 	<string name="title_tip">Προσοχή</string>
 	<string name="title_warn">Προειδοποίηση</string>
 	<string name="to_count">%d σύνολο</string>

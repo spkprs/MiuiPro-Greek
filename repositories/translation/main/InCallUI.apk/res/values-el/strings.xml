@@ -245,7 +245,8 @@
   <string name="video_conference_caller_info_name">%1$s\'s τηλεδιάσκεψη</string>
   <string name="video_switch_to_voice_call_prompt">Εναλλαγή σε φωνητική κλήση</string>
   <string name="voicemail">Τηλεφωνητής</string>
-  <string name="wait_prompt_str">Αποστολή των παρακάτω τόνων\n</string>
+  <string name="wait_prompt_str">"Αποστολή των παρακάτω τόνων?
+"</string>
   <string name="waiting_close_airplane_mode">Μισό λεπτό…</string>
   <string name="video_crbt_title">"Ο ήχος βίντεο του άλλου μέρους παίζει"</string>
   <string name="crbt_second_hold_prompt">%s είναι σε αναμονή…</string>
