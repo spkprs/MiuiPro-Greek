@@ -54,6 +54,8 @@
   <string name="nonui_mode_config_description">Δεν ενεργοποιεί την οθόνη για ειδοποιήσεις, απενεργοποιεί το LED, αισθητήρα δακτυλικών αποτυπωμάτων και τα χειριστήρια αφής για εξοικονόμιση μπαταρίας όταν το MIUI εντοπίσει ότι δεν χρησιμοποιείτε τη συσκευή σας.</string>
   <string name="nonui_mode_config_title">Μη Διαδραστική λειτουργία</string>
   <string name="performance_category">Απόδοση</string>
+  <string name="permstep_label">Πρόσβαση μέτρησης βημάτων</string>
+  <string name="permstep_description">"Επιτρέψτε στην εφαρμογή να αποκτήσει πρόσβαση στον αριθμό των βημάτων σας"</string>
   <string name="power_center">Βελτιστοποίηση μπαταρίας</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s λειτουργεί ασυνήθιστα</string>
   <string name="power_checker_background_cpu_title">%1$s λειτουργεί ασυνήθιστα</string>
