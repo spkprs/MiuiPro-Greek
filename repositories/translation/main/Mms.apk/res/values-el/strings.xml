@@ -71,6 +71,7 @@
   <string name="check_all">Επιλογή όλων</string>
   <string name="class_0_message_activity">Κατηγορία 0 μηνύματος</string>
   <string name="close">Κλείσιμο</string>
+  <string name="cloud_recommend_view_tip">Ενεργοποιήστε το συγχρονισμό με το cloud για να επαναφέρετε σημαντικά μηνύματα οποιαδήποτε στιγμή</string>
   <string name="cloud_state_disabled">Ο συγχρονισμός με το Xiaomi Cloud είναι ανενεργός</string>
   <string name="cloud_state_sync_finished">Συγχρονισμένο με Xiaomi Cloud</string>
   <string name="cloud_state_syncing">Συγχρονισμός με Mi Cloud…</string>
