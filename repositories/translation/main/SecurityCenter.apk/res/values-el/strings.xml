@@ -1874,6 +1874,8 @@
   <string name="shield_keyboard_detail">Πατήστε δύο φορές τα κουμπιά για να τα ενεργοποιήσετε ξανά</string>
   <string name="shield_keyboard_summary">σε πλήρη οθόνη κατά τη διάρκεια των παιχνιδιών</string>
   <string name="shield_keyboard_title">Περιορισμός πλήκτρων και χειρονομιών</string>
+  <string name="shortcut_title_scan">Σάρωση</string>
+  <string name="shortcut_title_whatsapp_clean">WhatsApp καθαρισμός</string>
   <string name="show_system_app">Εμφάνιση εφαρμογών συστήματος</string>
   <string name="show_traffic_dialog_message">Οι πληροφορίες χρήσης δεδομένων θα εμφανίζονται στον πίνακα ειδοποιήσεων. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή από τη Χρήση Δεδομένων &gt; Ρυθμίσεις</string>
   <string name="show_traffic_dialog_title">Εμφάνιση χρήσης στον πίνακα ειδοποιήσεων</string>

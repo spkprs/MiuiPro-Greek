@@ -1375,4 +1375,5 @@
     <string name="unable_to_play">"Αδυναμία αναπαραγωγής"</string>
     <string name="view_all_news">Προβολή όλων των ειδήσεων</string>
     <string name="widget_title">Βρείτε τα αγαπημένα σας τραγούδια στο Mi Mουσική</string>
+    <string name="you_can_switch_mode_in_settings">Μπορείτε να μεταβείτε μεταξύ των λειτουργιών στις Ρυθμίσεις</string>
 </resources>
