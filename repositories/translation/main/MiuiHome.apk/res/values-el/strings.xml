@@ -7,6 +7,9 @@
 	<string name="additional_settings">Πρόσθετες ρυθμίσεις</string>
 	<string name="all_apps">Όλες οι εφαρμογές</string>
 	<string name="all_apps_no_search_results">"Χωρίς αποτελέσματα"</string>
+    <string name="all_apps_setting_original_scrollbar">Αρχική διάταξη</string>
+    <string name="all_apps_setting_scroll_bar">Μπάρα κύλισης</string>
+    <string name="icon_size">Μέγεθος εικονιδίου</string>
 	<string name="all_apps_search_app">Αναζήτηση τοπικών εφαρμογών</string>
 	<string name="all_apps_search_market_message">Αναζήτηση online</string>
 	<string name="all_apps_setting_desktop_desc">"Τοποθέτηση όλων των εγκατεστημένων εφαρμογών στο Συρτάρι  που μπορείτε να ανοίξετε σύρωντας το πάνω στην Αρχική οθόνη. Θα εξακολουθήσετε να βρίσκετε τις εφαρμογές που μετακινήσατε στην Αρχική οθόνη στο συρτάρι εφαρμογών."</string>
