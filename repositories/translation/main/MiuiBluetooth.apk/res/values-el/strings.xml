@@ -66,8 +66,8 @@
 	<string name="fast_connect_device_headset_reset">Παρατετ. πάτημα κουμπιού στο box</string>
 	<string name="fast_connect_device_title_connect_fail">"Αποτυχία σύνδεσης του %1$s"</string>
 	<string name="fast_connect_device_title_connecting">Σύνδεση...</string>
-     <string name="fast_connect_device_title_find_headset">Βρέθηκαν %1$s ακουστικά</string>
-     <string name="fast_connect_device_title_find_headset_others">Βρέθηκαν άλλα %1$s ακουστικά</string>
+     <string name="fast_connect_device_title_find_headset">Βρέθηκαν %1$s</string>
+     <string name="fast_connect_device_title_find_headset_others">"Φαίνεται ότι αυτή η συσκευή δεν είναι δική σας: %1$s"</string>
 	<string name="notify_fast_connect_device_group">Αυτόματη σύνδεση ακουστικών</string>
 	<string name="notify_fast_connect_device_text">Ξεκλειδώστε την οθόνη και προσπαθήστε να συνδεθείτε</string>
 	<string name="notify_fast_connect_device_title">Βρέθηκαν ακουστικά %1$s</string>
