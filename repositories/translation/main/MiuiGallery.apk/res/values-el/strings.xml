@@ -5,6 +5,7 @@
 	<string name="actionbar_overflow_item_desc">Περισσότερες επιλογές</string>
 	<string name="add_automatically_alert_msg">Προσθήκη φωτογραφιών από \"%1$s\" σε αυτό το άλμπουμ αυτόματα;</string>
 	<string name="add_automatically_alert_title">Προσθέστε αυτόματα φωτογραφίες</string>
+    <string name="app_summary">Διαχείριση και επεξεργασία των φωτογραφιών και βίντεό στη συσκευή σας και στο Xiaomi Cloud</string>
 	<string name="add_secret_ensure_title">Απόκρυψη</string>
 	<string name="add_sharer">Προσθήκη μέλους</string>
 	<string name="add_to_album">Προσθήκη σε άλμπουμ</string>
@@ -1599,4 +1600,11 @@
     <string name="month_september">Σεπτέμβριος</string>
     <string name="month_september_short">Σεπ</string>
     <string name="month_september_shortest">Σ</string>
+     <string name="btn_cancel">Ακύρωση</string>
+     <string name="cloud_privacy_with_ai_album">Δήλωση απορρήτου σχετικά με τα αυτόματα αντίγραφα ασφαλείας και την επεξεργασία εικόνων</string>
+     <string name="cloud_privacy_with_face">Δήλωση απορρήτου σχετικά με τα αυτόματα αντίγραφα ασφαλείας και την αναγνώριση προσώπου</string>
+     <string name="file_cannot_print">"Δεν είναι δυνατή η εκτύπωση αυτού του στοιχείου."</string>
+     <string name="file_cannot_screen_throw">"Δεν είναι δυνατή η μετάδοση αυτού του στοιχείου."</string>
+     <string name="file_sending">Μεταφορά αρχείων…</string>
+     <string name="functions_are_being_developed">Αυτή η δυνατότητα θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>
 </resources>

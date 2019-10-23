@@ -38,9 +38,11 @@
     </plurals>
     <plurals name="people">
         <item quantity="other">Ελήφθη από %1$d άτομα</item>
+        <item quantity="one">Ελήφθη από %1$d άτομο</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Ελήφθη από %1$d άτομα</item>
+        <item quantity="one">Ελήφθη από %1$d άτομο</item>
     </plurals>
     <plurals name="million">
         <item quantity="other">Ελήφθη από %1$d άτομα</item>

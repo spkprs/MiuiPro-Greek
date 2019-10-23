@@ -26,6 +26,7 @@
      <string name="allow_check_website_security">Show website security check notifications</string>
      <string name="app_details">Εφαρμογή:</string>
      <string name="app_name">Σαρωτής</string>
+     <string name="back">Πίσω</string>
      <string name="barcode_into_rectangle">Βάλτε τον κωδικό μέσα στο πλαίσιο</string>
      <string name="birthday">Γενέθλια:</string>
      <string name="camera_error_title">Σφάλμα κάμερας</string>
@@ -279,5 +280,14 @@
     <string name="permission_microphone_desc">Χρήση μικροφώνου ως πηγή ήχου για εγγραφές οθόνης</string>
     <string name="settings_other">Άλλα</string>
     <string name="settings_privacy">Πολιτική Απορρήτου</string>
+     <string name="close_hotspot_when_connecting_to_wifi">Hotspot είναι ενεργοποιημένο. Ενεργοποίηση Wi-Fi.</string>
+     <string name="confirm">OK</string>
+     <string name="document_recognize_null_tip">"Δεν ήταν δυνατή η αναγνώριση του εγγράφου"</string>
+     <string name="drag_barcode_into_frame">Σύρετε το πλαίσιο για να ταιριάζει στον κώδικα</string>
+     <string name="error_get_image">"Δεν ήταν δυνατή η λήψη εικόνας"</string>
+     <string name="pay_no_tip">"Να μην εμφανιστεί ξανά"</string>
+     <string name="pay_save_this_choose">Απομνημόνευση της επιλογής μου</string>
+     <string name="setting_function_sort">Αναδιάταξη δυνατοτήτων</string>
+     <string name="translate_parallel_2_lines">Βεβαιωθείτε ότι το κείμενο είναι παράλληλο με τις γραμμές στην οθόνη</string>
 </resources>
 

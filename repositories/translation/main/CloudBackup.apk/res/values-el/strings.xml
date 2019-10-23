@@ -91,6 +91,7 @@
     <string name="success_open_cloudbackup">Ενεργοποίηση αντ.ασφαλείας εφαρμογών Αρχικής οθόνης</string>
     <string name="as_new_device">Αντικατάσταση προηγούμενης Αρχικής οθόνης και ρυθμίσεων</string>
     <string name="as_new_device_summary">Διαγραφή προηγούμενων αντιγράφων Xiaomi Cloud</string>
+    <string name="restoring_home_screen_apps">Επαναφορά από το Xiaomi Cloud…</string>
     <string name="restore_data_summary">Αυτή η λειτουργία απαιτεί μια σύνδεση στο Internet.</string>
     <string name="query_restore_summary">Βρέθηκε ένα αντίγραφο ασφαλείας Xiaomi Cloud για αυτή τη συσκευή. Επαναφορά εφαρμογών Αρχικής οθόνης και ρυθμίσεων ή θα την χρησιμοποιήσετε ως μια νέα συσκευή και θα διαγράψετε τα προηγούμενα αντίγραφα ασφαλείας Xiaomi Cloud;</string>
     <string name="restore_home_screen_apps">Επαναφορά από αντίγραφο Xiaomi Cloud</string>
@@ -172,6 +173,7 @@
   <string name="home_hint_other_launcher">Άλλος Εκκινητής</string>
   <string name="unsupported_home">Ενημερώστε στην τελευταία έκδοση το MIUI.</string>
   <string name="load_backup_failed">"Αδυναμία φόρτωσης Αντιγράφων"</string>
+  <string name="loading_progress_num">Φόρτωση %s%%</string>
   <string name="loading_user_backup">Φόρτωση Αντιγράφων χρήστη…</string>
   <string name="try_continue">Αγγίξτε για συνέχεια</string>
   <string name="backup_stopped_msg">Το τρέχον αντίγραφο θα διαγράψει το προηγούμενο. Αγγίξτε για προβολή.</string>
