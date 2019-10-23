@@ -73,7 +73,7 @@
     <string name="download_settings">Λήψη ρυθμίσεων Αρχικής οθόνης %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">Επαναφορά ρυθμίσεων Αρχικής οθόνης</string>
-    <string name="cancel_recover_settings"><u>Ακύρωση</u></string>
+    <string name="cancel_recover_settings">Ακύρωση</string>
     <string name="recover_settings_description">Κρατήστε τη συσκευή σας σε λειτουργία</string>
     <string name="recover_miui_settings">Επαναφορά ρυθμίσεων συστήματος</string>
     <string name="wait_icon_download">Λήψη εικονιδίων εφαρμογών…</string>
