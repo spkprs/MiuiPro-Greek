@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="show_keyguard_key_title">Εμφάνιση Ειδοποιήσεων</string> 
+  <string name="show_keyguard_key_summary">Δυνατότητα επέκτασης εισερχόμενου Μηνύματος στην Οθόνη Κλειδώματος</string> 
+  <string name="answer_keyguard_key_title">Απάντηση στο Μήνυμα</string>
+  <string name="answer_keyguard_key_summary">Δυνατότητα απάντησης σε εισερχόμενο Μήνυμα από την Οθόνη Κλειδώματος</string>
+</resources>
