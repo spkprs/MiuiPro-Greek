@@ -174,6 +174,8 @@
   <string name="cancle_sync_cloud_tabs">Ακύρωση συγχρονισμού</string>
   <string name="cannot_download">Δυνατότητα λήψης μόνο \"http\" ή \"https\" URLs.</string>
   <string name="cast_video">Cast βίντεο</string>
+  <string name="character_counter_content_description">Υπέρβαση ορίου χαρακτήρων κατά %1$d από %2$d</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_security_tip_privacy_policy">Πολιτική Απορρήτου</string>
   <string name="check_security_tip_user_agreement">Συμφωνία Χρήστη</string>
   <string name="checking_now">Έλεγχος...</string>
@@ -489,6 +491,7 @@
   <string name="mw_abc_shareactionprovider_share_with">Μοιραστείτε το με</string>
   <string name="mw_abc_shareactionprovider_share_with_application">Μοιραστείτε το με %s</string>
   <string name="mw_abc_toolbar_collapse_description">Σύμπτυξη</string>
+  <string name="mtrl_chip_close_icon_content_description">Αφαίρεση %1$s</string>
   <string name="mw_accessibility_date_picker_month">Μήνας</string>
   <string name="mw_accessibility_date_picker_week">Εβδομάδα</string>
   <string name="mw_accessibility_date_picker_year">Έτος</string>
@@ -884,6 +887,7 @@
   <string name="page_info_address">Διεύθυνση:</string>
   <string name="page_info_view">Προβολή πληροφοριών σελίδας</string>
   <string name="password">Κωδικός</string>
+  <string name="password_toggle_content_description">Εμφάνιση κωδικού</string>
   <string name="pause_download">Σε παύση</string>
   <string name="paused_queued_for_wifi">Αναμονή για σύνδεση…</string>
   <string name="paused_unknown">Σε παύση</string>
