@@ -301,7 +301,7 @@
     <string name="micloud_detail_pause">Παύση συγχρονισμού</string>
     <string name="micloud_detail_need_charge_or_sleep">Συνδέστε το φορτιστή και απενεργοποιήστε την οθόνη για συγχρονισμό</string>
     <string name="micloud_privacy_cloud_off">Συγχρονισμός Ανενεργός</string>
-    <string name="micloud_privacy_licence_agreed">Συμφωνείτε με του Xiaomi Cloud &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u> Πολιτική Απορρήτου &lt;/u>&lt;/a>.</string>
+    <string name="micloud_privacy_licence_agreed">Συμφωνείτε με του Xiaomi Cloud &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt; Πολιτική Απορρήτου &lt;/u&gt;&lt;/a&gt;.</string>
     <string name="micloud_privacy_licence_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="micloud_privacy_explanation">Χορήγηση άδειας για την ενεργοποίηση των υπηρεσιών Xiaomi Cloud</string>
     <string name="micloud_privacy_cloud_sync">Ενεργοποιήστε τις υπηρεσίες Xiaomi Cloud</string>
@@ -452,8 +452,8 @@
     <string name="micloud_battery_low_notification_message">Συνδέστε τον φορτιστή για συγχρονισμό</string>
     <string name="micloud_upgrade_member">Αποκτήστε περισσότερο χώρο αποθήκευσης</string>
     <string name="micloud_notif_content_depend_wifi">Συνδεθείτε σε Wi‑Fi για να συγχρονίσετε.</string>
-    <string name="micloud_notif_title_master_depend_wifi">Αδυναμία συγχρονισμού με Xiaomi Cloud</string>
-    <string name="micloud_notif_content_master_depend_wifi">Συνδεθείτε πρώτα σε Wi‑Fi.</string>
+    <string name="micloud_notif_title_master_depend_wifi">Συγχρονισμός σε παύση ενώ χρησιμοποιείτε δεδομένα κινητής</string>
+    <string name="micloud_notif_content_master_depend_wifi">Συνδεθείτε σε Wi‑Fi, ή αλλαγή ρυθμίσεων συγχρ. Αγγίξτε για αλλαγή.</string>
     <string name="micloud_notif_content_memory_low">Δεν υπάρχει αρκετός χώρος αποθήκευσης.</string>
     <string name="micloud_notif_title_battery_low">Αδυναμία συγχρονισμού με Xiaomi Cloud</string>
     <string name="micloud_notif_content_battery_low">Χαμηλή μπαταρία.</string>

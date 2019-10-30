@@ -185,7 +185,7 @@
   <string name="menu_title_pick_rom_file">Επιλογή πακέτου ενημέρωσης</string>
   <string name="menu_title_privacy">Σχετικά με MiuiPro OTA</string>
   <string name="menu_title_recovery">Επανεκ. σε Λειτ. ανάκτησης</string>
-  <string name="miui_BBS">" "<a href=\"http://bbs.miui.com\">Μεταβείτε στο MIUI Φόρουμ</a>" "</string>
+  <string name="miui_BBS">" "<a href="http://bbs.miui.com">Μεταβείτε στο MIUI Φόρουμ</a>" "</string>
   <string name="miui_summary_has_new_version">"  Διαθέσιμη ενημέρωση  "</string>
   <string name="miui_summary_no_new_version">Δεν υπάρχουν διαθέσιμες ενημερώσεις</string>
   <string name="miui_summary_now_version">Αδυναμία σύνδεσης στο δίκτυο</string>
