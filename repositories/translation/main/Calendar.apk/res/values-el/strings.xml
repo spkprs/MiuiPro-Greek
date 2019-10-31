@@ -490,4 +490,12 @@
 	<string name="permission_contacts">Για συγχρονισμό των γενεθλίων των επαφών σας και αποστολή υπενθυμίσεων</string>
 	<string name="permission_main_purpose">Προβολή και διαχείριση συμβάντων ημερολογίου, ταξίδια σχεδιασμού, λήψη υπενθυμίσεων και εγγραφή σε υπηρεσίες</string>
 	<string name="permission_storage">Για αποθήκευση υπενθυμίσεων και ήχων κουδουνίσματος</string>
+     <string name="edit_event_title_create_agenda">Προσθήκη συμβάντος</string>
+     <string name="edit_event_title_create_anniversary">Προσθήκη επετείου</string>
+     <string name="edit_event_title_create_birthday">Προσθήκη γενεθλίων</string>
+     <string name="edit_event_title_create_countdown">Προσθ. αντίστρ. μέτρησης</string>
+     <string name="edit_event_title_edit_agenda">Επεξεργασία συμβάντος</string>
+     <string name="edit_event_title_edit_anniversary">Επεξεργασία επετείου</string>
+     <string name="edit_event_title_edit_birthday">Επεξεργασία γενεθλίων</string>
+     <string name="edit_event_title_edit_countdown">Επεξ. αντίστρ. μέτρησης</string>
 </resources>
