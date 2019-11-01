@@ -60,12 +60,12 @@
   <string name="creating_event">H Εκδήλωση Δημιουργήθηκε</string>
   <string name="creating_event_with_guest">Θα αποσταλούν προσκλήσεις</string>
   <string name="daily">Καθημερινά</string>
-  <string name="date_calculate">Υπολογισμός ημερομηνίας</string>
+  <string name="date_calculate">Ημερομηνία</string>
   <string name="date_calculate_days">Εισάγετε τον αριθμό των ημερών</string>
   <string name="date_calculate_description">Μάθετε την ημερομηνία πριν ή μετά από συγκεκριμένη ημέρα</string>
   <string name="date_calculate_direction">Κατεύθυνση</string>
   <string name="date_calculate_direction_content_description">Τρέχουσα κατεύθυνση είναι %1s</string>
-  <string name="date_calculate_tab">Υπολογίστε την ημερομηνία</string>
+  <string name="date_calculate_tab">Υπολογισμός ημερομηνίας</string>
   <string name="date_calculate_when">Έναρξη</string>
   <string name="date_interval_tab">Διάστημα</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>

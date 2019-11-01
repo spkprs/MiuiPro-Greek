@@ -371,7 +371,7 @@
   <string name="select_logd_size_title">Τα μεγέθη του buffer καταγραφής</string>
   <string name="select_logpersist_dialog_title">Επιλέξτε αποθηκευτικά ημερολόγια για να αποθηκεύσετε επίμονα στη συσκευή</string>
   <string name="select_logpersist_title">Αποθηκεύστε τα δεδομένα καταγραφής σε συσκευή συνεχώς</string>
-  <string name="select_private_dns_configuration_dialog_title">Επιλέξτε Ιδιωτική λειτουργία DNS</string>
+  <string name="select_private_dns_configuration_dialog_title">Επιλογή λειτ.  ιδιωτικού DNS</string>
   <string name="select_private_dns_configuration_title">Ιδιωτικό DNS</string>
   <string name="select_usb_configuration_dialog_title">Επιλέξτε Διαμόρφωση USB</string>
   <string name="select_usb_configuration_title">Επιλέξτε Διαμόρφωση USB</string>
