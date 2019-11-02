@@ -127,7 +127,7 @@
   <string name="bluetooth_connected_no_map">Σε σύνδεση (χωρίς πρόσβαση σε μηνύματα)%1$s</string>
   <string name="bluetooth_device_mac_address">Διεύθυνση Bluetooth συσκευής: %1$s</string>
   <string name="bluetooth_device_name_summary">Ορατή ως \"^1\" σε άλλες συσκευές</string>
-  <string name="bluetooth_disable_a2dp_hw_offload">Απεν. μείωσ. φόρτ. εξοπλ. Bluetooth A2DP</string>
+  <string name="bluetooth_disable_a2dp_hw_offload">Απενεργοποίηση μείωσης φόρτου υλικού B/T A2DP</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Ακύρωση</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Επανεκ.</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Πρέπει να επανεκκινηθεί η συσκευή για να αλλάξει η ρύθμιση.</string>
@@ -253,7 +253,7 @@
   <string name="eab_provisioned_switch_string">Παρέχεται EAB/παρουσία</string>
   <string name="enable_gnss_raw_meas_full_tracking">Αναγκαστικές πλήρεις μετρήσεις GNSS</string>
   <string name="enable_gnss_raw_meas_full_tracking_summary">Παρακολούθηση όλων των πανοραμικών συνθέσεων και των συχνοτήτων GNSS χωρίς κύκλο λειτουργιών</string>
-  <string name="enable_gpu_debug_layers">Ενεργ. επιπ. εντοπ. σφαλμάτων GPU</string>
+  <string name="enable_gpu_debug_layers">Ενεργοποίηση επιπέδων αποσφαλμάτωσης GPU</string>
   <string name="enable_gpu_debug_layers_summary">Φόρτωση επιπέδου σφαλμάτων GPU για εφαρμ. εντοπισμού σφαλμάτων</string>
   <string name="enterprise_privacy_backups_enabled">Δημιουργούνται αντίγραφα ασφαλείας για τα δεδομένα αυτής της συσκευής</string>
   <string name="enterprise_privacy_ca_certs_device">Αξιόπιστα διαπιστευτήρια</string>
