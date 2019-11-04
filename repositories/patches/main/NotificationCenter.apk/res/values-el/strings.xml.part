@@ -4,4 +4,6 @@
   <string name="show_keyguard_key_summary">Δυνατότητα επέκτασης εισερχόμενου Μηνύματος στην Οθόνη Κλειδώματος</string> 
   <string name="answer_keyguard_key_title">Απάντηση στο Μήνυμα</string>
   <string name="answer_keyguard_key_summary">Δυνατότητα απάντησης σε εισερχόμενο Μήνυμα από την Οθόνη Κλειδώματος</string>
+  <string name="new_keyguard_key_title">Αδιάβαστα Μηνύματα</string>
+  <string name="new_keyguard_key_summary">Προβολή πάντα ενός Αδιάβαστου Μηνύματος στην Οθόνη Κλειδώματος</string>
 </resources>
