@@ -4323,7 +4323,7 @@
   <string name="sound_settings_summary_silent">Η ειδοποίηση ήχου τέθηκε σε σίγαση</string>
   <string name="sound_settings_summary_vibrate">Η ειδοποίηση ήχου ορίστηκε σε δόνηση</string>
   <string name="sound_stereo_mode_title">Στερεοφωνικός ήχος</string>
-  <string name="sound_vibrate_settings">Ήχος και δόνηση</string>
+  <string name="sound_vibrate_settings">Ήχος &amp; δόνηση</string>
   <string name="sound_work_settings">Ήχοι προφίλ εργασίας</string>
   <string name="special_access">Ειδική πρόσβαση στην εφαρμογή</string>
   <string name="speaker">Ηχείο</string>
