@@ -76,4 +76,5 @@
      <string name="not_set">Δεν έχει οριστεί</string>
      <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
      <string name="search_menu_title">Αναζήτηση</string>
+    <string name="fast_connect_nzbt_reset">Κρατήστε πατημένο το επάνω κουμπί για %1$s δευτ. κατά την απενεργοποίηση</string>
 </resources>
