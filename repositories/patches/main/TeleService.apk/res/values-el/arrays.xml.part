@@ -63,4 +63,8 @@
     <item>Εμφάνιση στην οθόνη κλήσης</item>
     <item>Απόκρυψη</item>
   </string-array>
+  <string-array name="call_key_show_entries"> 
+     <item>Ως Εικονίδια</item> 
+     <item>Ως Κείμενο</item> 
+  </string-array>
 </resources>
