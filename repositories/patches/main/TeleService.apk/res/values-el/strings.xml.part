@@ -55,4 +55,14 @@
   <string name="call_key_show_title">Προβολή Ηχείου/Πληκτρολογίου</string>
   <string name="confirm_call_title">Επιβεβαίωση κλήσης</string>
   <string name="confirm_call_summary">Ενεργοποιήση  επιβεβαίωσης κλήσης από το αρχείο καταγραφής κλήσεων για  αποτροπή τυχαίων κλήσεων</string>
+  <string name="show_btn_settings">Ρυθμίσεις πλήκτρων κατά τη διάρκεια μιας κλήσης</string>
+  <string name="tools_panel_in_one_row">Πλήκτρα σε μία γραμμή</string>
+  <string name="onscreen_contacts_text">Απόκρυψη \"Επαφές\"</string>
+  <string name="onscreen_add_call_text">Απόκρυψη \"Προσθήκη Κλήσης\"</string>
+  <string name="onscreen_note_calls_text">Απόκρυψη \"Σημειώσεις\"</string>
+  <string name="onscreen_mute_text">Απόκρυψη \"Σίγασης\"</string>
+  <string name="onscreen_hold_text">Απόκρυψη \"Αναμονής\"</string>
+  <string name="onscreen_call_record">Απόκρυψη \"Εγγραφής\"</string>
+  <string name="category_button_title">Εμφάνιση στοιχείων</string>
+  <string name="category_color_title">Χρώμα στοιχείων</string>
 </resources>
