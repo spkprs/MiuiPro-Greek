@@ -25,7 +25,7 @@
   <string name="accessibility_hearingaid_title">Ακουστικά βοηθήματα</string>
   <string name="accessibility_manual_zen_less_time">Λιγότερη ώρα.</string>
   <string name="accessibility_manual_zen_more_time">Περισσότερη ώρα.</string>
-  <string name="accessibility_notification_vibration_title">Δόνηση κλήσης και ειδοποιήσεων</string>
+  <string name="accessibility_notification_vibration_title">Δόνηση ειδοποιήσεων</string>
   <string name="accessibility_service_master_switch_title">Χρήση υπηρεσίας</string>
   <string name="accessibility_summary_state_stopped">Δεν λειτουργεί. Πατήστε για πληροφορίες.</string>
   <string name="accessibility_touch_vibration_title">Δόνηση αφής</string>
