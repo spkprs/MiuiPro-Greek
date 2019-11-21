@@ -6538,5 +6538,9 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="xiaomi_cloud_find_device">Εύρεση συσκευής</string>
     <string name="multi_network_acceleration_app_settings">Επιτάχυνση δικτύου για εφαρμογές</string>
     <string name="wifi_multi_network_acceleration">Έξυπνη επιτάχυνση δικτύου</string>
+    <string name="usb_headset_not_support_cancel">Κατανοητό</string>
+    <string name="usb_headset_not_support_message">"Αδύνατη η αναπαραγωγή ήχου μέσω προσαρμογέα. Χρήση ψηφιακών 
+ακουστικών ή ακουστικά με βύσμα 3,5 χιλ.."</string>
+    <string name="usb_headset_not_support_tile">"Αδυναμία αναπαραγωγής ήχου"</string>
 </resources>
 
