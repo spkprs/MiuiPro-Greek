@@ -247,4 +247,6 @@
   <string name="show_powermenu_summary">Απενεργοποίηση του μενού επανεκκίνησης όταν η οθόνη είναι κλειδωμένη</string>
   <string name="default_search_title">Προεπιλεγμένος Βοηθός</string>
   <string name="icon_notification_style_title">Εικονίδια Ειδοποίησης</string> 
+  <string name="fingerprint_wakeup_title">Άγγιγμα αισθητήρα Δακτ. Αποτυπώματος για αφύπνιση</string>
+  <string name="fingerprint_wakeup_summary">Αφυπνίζει την οθόνη όταν δεν έχουν εγγραφεί δακτυλικά αποτυπώματα.</string>	
 </resources>
