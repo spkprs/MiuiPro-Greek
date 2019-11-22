@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="icon_quick_title">Απόκρ. εικον. Γρήγορης φόρτισης</string>
+    <string name="fingerprint_wakeup_title">Άγγιγμα αισθητήρα Δακτ. Αποτυπώματος για αφύπνιση</string>
+    <string name="fingerprint_wakeup_summary">Αφυπνίζει την οθόνη όταν δεν έχουν εγγραφεί δακτυλικά αποτυπώματα.</string>	
 </resources>
