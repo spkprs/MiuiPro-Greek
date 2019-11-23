@@ -6542,5 +6542,10 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="usb_headset_not_support_message">"Αδύνατη η αναπαραγωγή ήχου μέσω προσαρμογέα. Χρήση ψηφιακών 
 ακουστικών ή ακουστικά με βύσμα 3,5 χιλ.."</string>
     <string name="usb_headset_not_support_tile">"Αδυναμία αναπαραγωγής ήχου"</string>
+    <string name="mtp_connection_failed">"Δεν είναι δυνατή η μεταφορά αρχείων στον συνδεδεμένο υπολογιστή. Δοκιμάστε την αντιμετώπιση προβλημάτων."</string>
+    <string name="mtp_connection_failed_title">Σύνδεση USB</string>
+    <string name="mtp_connection_not_remind">"Χωρίς επανεμφάνιση"</string>
+    <string name="mtp_solution_button_cancel">Κατανοητό</string>
+    <string name="mtp_solution_button_ok">Αντιμετώπιση προβλημάτων</string>
 </resources>
 
