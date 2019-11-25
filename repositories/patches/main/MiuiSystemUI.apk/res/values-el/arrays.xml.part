@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miui_volume_timer_segments_title">
+        <item>Ανενεργό</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>20 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>2 ώρες</item>
+        <item>4 ώρες</item>
+        <item>6 ώρες</item>
+        <item>8 ώρες</item>
+    </string-array>
+</resources>

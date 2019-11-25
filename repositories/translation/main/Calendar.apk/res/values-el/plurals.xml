@@ -120,4 +120,8 @@
         <item quantity="other">" λεπτά"</item>
         <item quantity="one">" λεπτό"</item>
     </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d περισ. εκδηλώσεις</item>
+        <item quantity="one">%d περισ. εκδήλωση</item>
+    </plurals>
 </resources>
