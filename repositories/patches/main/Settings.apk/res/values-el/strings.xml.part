@@ -249,4 +249,6 @@
   <string name="icon_notification_style_title">Εικονίδια Ειδοποίησης</string> 
   <string name="fingerprint_wakeup_title">Άγγιγμα αισθητήρα Δακτ. Αποτυπώματος για αφύπνιση</string>
   <string name="fingerprint_wakeup_summary">Αφυπνίζει την οθόνη όταν δεν έχουν εγγραφεί δακτυλικά αποτυπώματα.</string>	
+  <string name="set_pip_size_title">Μέγεθος PiP (Εικόνα στην Εικόνα)</string>
 </resources>
+
