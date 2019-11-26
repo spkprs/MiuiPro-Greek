@@ -225,4 +225,9 @@
         <item>Από το θέμα (έγχρωμα)</item> 
         <item>Προεπιλογή (μονόχρωμα)</item> 
      </string-array>
+     <string-array name="pip_size_entries">
+        <item>Προεπιλογή</item>
+        <item>Μεσαίο</item>
+        <item>Μεγάλο</item>
+     </string-array>
 </resources>
