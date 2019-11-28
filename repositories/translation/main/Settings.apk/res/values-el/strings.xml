@@ -5394,7 +5394,7 @@
   <string name="wifi_eap_domain">Τομέας</string>
   <string name="wifi_eap_identity">Ταυτότητα</string>
   <string name="wifi_eap_method">Μέθοδος EAP</string>
-  <string name="wifi_eap_options_advanced">Προχωρημένες επιλογές</string>
+  <string name="wifi_eap_options_advanced">Προχωρ. επιλογές</string>
   <string name="wifi_eap_options_simple">Απλές επιλογές</string>
   <string name="wifi_eap_sim_simcard">Επιλέξτε SIM</string>
   <string name="wifi_eap_user_cert">Πιστοποιητικό χρήστη</string>
@@ -5585,7 +5585,7 @@
   <string name="wifi_share_upload_finish">Κοινό</string>
   <string name="wifi_share_uploading">Κοινή χρήση…</string>
   <string name="wifi_shared">Κοινή χρήση με άλλους χρήστες της συσκευής</string>
-  <string name="wifi_show_advanced">Προχωρημένες επιλογές</string>
+  <string name="wifi_show_advanced">Προχωρ. επιλογές</string>
   <string name="wifi_show_password">Εμφάνιση κωδικού</string>
   <string name="wifi_signal">Ένταση σήματος</string>
   <string name="wifi_signal_found_msg">Σύνδεση σε Wi-Fi AP;</string>
