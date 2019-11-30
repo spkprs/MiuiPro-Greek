@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_function">Διαχείριση αρχείων στη συσκευή σας</string>
-     <string name="doc_all">'Ολα</string>
+     <string name="doc_all">\'Ολα</string>
 		<string name="a_week_share_rank">Εβδομαδιαίες βαθμολογίες</string>
 		<string name="action_mode_deselect_all">Αποεπιλογή όλων</string>
 		<string name="action_mode_select_all">Επιλογή όλων</string>
