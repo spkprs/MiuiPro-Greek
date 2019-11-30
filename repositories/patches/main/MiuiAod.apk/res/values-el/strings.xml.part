@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="time_aod_show_title">Ενεργή λειτουργία</string>
+	<string name="time_aod_show_summary">Διάρκεια: %s δευτ</string>
+	<string name="temporary_style">Κατά τη διάρκεια της επιλεγμένης ώρας</string>
+</resources>
