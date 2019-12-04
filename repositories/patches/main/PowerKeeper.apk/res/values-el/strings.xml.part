@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="low_sounds_title">Ήχος ειδοποίησης χαμηλής μπαταρίας</string>
+	<string name="low_dialog_title">Μήνυμα ειδοποίησης χαμηλής μπαταρίας</string>
+</resources>
+
