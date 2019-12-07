@@ -65,4 +65,5 @@
   <string name="onscreen_call_record">Απόκρυψη \"Εγγραφής\"</string>
   <string name="category_button_title">Εμφάνιση στοιχείων</string>
   <string name="category_color_title">Χρώμα στοιχείων</string>
+  <string name="set_bright_level_title">Επίπεδο Φωτεινότητας</string>
 </resources>
