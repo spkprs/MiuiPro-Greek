@@ -72,8 +72,4 @@
   <string-array name="wfcOperatorErrorNotificationMessages">
     <item>Εγγραφείτε με τον φορέα σας</item>
   </string-array>
-  <string-array name="wfcSpnFormats">
-    <item>%s</item>
-    <item>%s Wi-Fi Κλήση</item>
-  </string-array>
 </resources>

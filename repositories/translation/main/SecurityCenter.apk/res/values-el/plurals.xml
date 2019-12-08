@@ -479,4 +479,8 @@
         <item quantity="other">%s λεπ.</item>
         <item quantity="one">%s λεπ.</item>
     </plurals>
+     <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d περισ. χαρακτήρες</item>
+        <item quantity="one">    +%1$d περισ. χαρακτήρα</item>
+     </plurals>
 </resources>
