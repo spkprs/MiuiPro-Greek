@@ -230,4 +230,10 @@
         <item>Μεσαίο</item>
         <item>Μεγάλο</item>
      </string-array>
+     <string-array name="fingerprint_setup_entries"> 
+        <item>Ανενεργός</item> 
+        <item>Ενεργοπ. Οθόνης</item> 
+        <item>Αποδοχή Κλήσης</item> 
+        <item>Απόρριψη Κλήσης</item> 
+    </string-array>
 </resources>
