@@ -780,7 +780,7 @@
   <string name="option_view_contact">Προβολή</string>
   <string name="option_view_group">Προβολή</string>
   <string name="organization_company_and_title">%1$s, %2$s</string>
-  <string name="organizationLabelsGroup">Οργανισμός</string>
+  <string name="organizationLabelsGroup">Τοποθεσία</string>
   <string name="other_contacts">Άλλες επαφές</string>
   <string name="other_phone">Άλλα τηλέφωνα</string>
   <string name="path_batch_delete">Εφαρμογές συστήματος/Επαφές/Οργάνωση επαφών/Ομαδική διαγραφή</string>
