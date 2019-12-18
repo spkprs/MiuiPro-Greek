@@ -251,5 +251,7 @@
   <string name="fingerprint_wakeup_summary">Αφυπνίζει την οθόνη όταν δεν έχουν εγγραφεί δακτυλικά αποτυπώματα.</string>	
   <string name="set_pip_size_title">Μέγεθος PiP (Εικόνα στην Εικόνα)</string>
   <string name="fingerprint_setup_title">Λειτουργίες Σαρωτή</string>
+  <string name="miuipro_select_app_title">Προσθήκη συντόμευσης στην Οθόνη Κλειδώματος</string>
+  <string name="miuipro_select_aod_app_title">Ρύθμιση ειδοποίησης εφαρμογών</string>
 </resources>
 
