@@ -253,5 +253,6 @@
   <string name="fingerprint_setup_title">Λειτουργίες Σαρωτή</string>
   <string name="miuipro_select_app_title">Προσθήκη συντόμευσης στην Οθόνη Κλειδώματος</string>
   <string name="miuipro_select_aod_app_title">Ρύθμιση ειδοποίησης εφαρμογών</string>
+  <string name="miuipro_select_quick_app_title">Ορισμός συντόμευσης εφαρμογών</string>
 </resources>
 

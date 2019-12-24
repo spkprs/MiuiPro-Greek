@@ -19,4 +19,5 @@
     <string name="mcat_7">Ξαναπατήστε για Έξοδο</string>
     <string name="mcat_8">Πολιτική Απορρήτου</string>
     <string name="mcat_9">Απαιτούνται Άδειες</string>
+    <string name="miuipro_select_app_off">Εφαρμογές χωρίς εκχώρηση</string>
 </resources>
