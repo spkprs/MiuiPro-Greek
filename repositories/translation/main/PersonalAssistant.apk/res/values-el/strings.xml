@@ -198,7 +198,7 @@
 	<string name="cta_dialog_miot_text_all">Για να διασφαλιστεί η κανονική λειτουργία, το Mi Home μπορεί να χρειαστεί να αποκτήσει πρόσβαση στο Wi-Fi σας, στην Τοποθεσία σας, στο Bluetooth, στο Δίκτυο κινητής, στο Μικρόφωνο και στις Επαφές σας. Συμφωνείτε;</string>
 	<string name="cta_dialog_negative">Έξοδος</string>
 	<string name="cta_dialog_positive">Συμφωνώ</string>
-	<string name="cta_dialog_text_all">Για να χρησιμοποιήσετε τον Προσωπικό Βοηθό, θα πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s\"Συμφωνία χρήστη&amp;quot; %2$s και %3$s &amp;quot;Πολιτική απορρήτου&amp;quot; %4$s. Η υπηρεσία απαιτεί επίσης σύνδεση στο διαδίκτυο και πρόσβαση στις υπηρεσίες τοποθεσίας. Συμφωνείτε?</string>
+	<string name="cta_dialog_text_all">Για να χρησιμοποιήσετε τον Προσωπικό Βοηθό, θα πρέπει να διαβάσετε και να συμφωνήσετε με την %1$s\"Συμφωνία χρήστη\" %2$s και %3$s \"Πολιτική απορρήτου\" %4$s. Η υπηρεσία απαιτεί επίσης σύνδεση στο διαδίκτυο και πρόσβαση στις υπηρεσίες τοποθεσίας. Συμφωνείτε?</string>
 	<string name="cta_dialog_text_new_user">Διαβάστε και συμφωνήστε με την %1$sΣυμφωνία Χρήστη%2$s και %3$sΠολιτική Απορρήτου%4$s.</string>
 	<string name="cta_dialog_text_old_user">Πριν χρησιμοποιήσετε τον Προσωπικό βοηθό, θα πρέπει να συμφωνήσετε με την %1$s\"Πολιτική Απορρήτου του Προσ. Βοηθού\"%2$s. Πατήστε \"Έναρξη\" για αποδοχή.</string>
 	<string name="cta_dialog_title">Οροι και Προϋποθέσεις</string>
@@ -768,9 +768,9 @@
 	<string name="msp_symbol_t">t</string>
 	<string name="msp_symbol_u">u</string>
 	<string name="msp_symbol_v">v</string>
-	<string name="music">Μουσική &amp;amp; ραδιόφωνο</string>
+	<string name="music">Μουσική &amp; ραδιόφωνο</string>
 	<string name="music_card_error_str">Παρουσιάστηκε σφάλμα, ανοίξτε την εφαρμογή Μουσική για αναπαραγωγή</string>
-	<string name="music_open">Εμφάνιση μουσικής &amp;amp; ραδιοφωνικής κάρτας</string>
+	<string name="music_open">Εμφάνιση μουσικής &amp; ραδιοφωνικής κάρτας</string>
 	<string name="music_setting_brief">Συνδέστε τα ακουστικά για να συνεχίσετε να ακούτε μουσική ή ραδιόφωνο από τη θέση που έχετε αφήσει.</string>
 	<string name="navigation_network_location_enable">Συμφωνώ</string>
 	<string name="navigation_network_location_enable_later">Ακύρωση</string>

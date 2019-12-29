@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="android_ringtone_default_with_actual">Προεπιλ. ήχος κλήσης (%1$s)</string>
+	<string name="android_ringtone_default_with_actual">Προεπιλ. ήχος (%1$s)</string>
 	<string name="android_ringtone_silent">Χωρίς</string>
 	<string name="android_ringtone_unknown">Άγνωστος ήχος κλήσης</string>
 	<string name="cloud_state_disabled">Ο συγχρονισμός με το Cloud είναι ανενεργός</string>
