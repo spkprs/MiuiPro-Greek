@@ -195,6 +195,8 @@
 	<string name="channel_header_title">Το κανάλι μου</string>
 	<string name="channel_more_description">Κάντε κλικ για να προσθέσετε κανάλι</string>
 	<string name="channel_more_title">Περισσότερα κανάλια</string>
+	<string name="channel_network_error">Παρουσιάστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά.</string>
+	<string name="channel_no_data">"Αυτά για την ώρα. Δείτε άλλα κανάλια!"</string>
 	<string name="character_counter_content_description">Υπέρβαση ορίου χαρακτήρων κατά %1$d από %2$d</string>
 	<string name="character_counter_pattern">%1$d / %2$d</string>
 	<string name="check_security_tip_privacy_policy">Πολιτική Απορρήτου</string>
@@ -225,11 +227,13 @@
 	<string name="collect_video">Συλλογή βίντεο</string>
 	<string name="comment_app_menu">Σχόλιο</string>
 	<string name="comment_description">Σχόλιο</string>
+	<string name="comment_fail">"Δεν ήταν δυνατή η προσθήκη σχολίου. Δοκιμάστε ξανά."</string>
 	<string name="comment_hint">Σχόλιο</string>
 	<string name="comment_max_length">Συγνώμη, το πλαίσιο εισαγωγής είναι γεμάτο.</string>
 	<string name="comment_menu">Σχόλιο</string>
 	<string name="comment_num_description">Αριθμός σχολίου</string>
 	<string name="comment_publish_to_topic">Τα σχόλια συγχρονίζονται με</string>
+	<string name="comment_success">Η προσθήκη σχολίου ολοκληρώθηκε με επιτυχία</string>
 	<string name="common_use_phrase_bottom_bar_cn_txt">.gr</string>
 	<string name="common_use_phrase_bottom_bar_text_next">Επόμενο</string>
 	<string name="common_use_phrase_bottom_bar_text_previous">Προηγούμενο</string>
@@ -298,7 +302,7 @@
 	<string name="dialog_media_not_found">Αδυναμία λήψης: Δεν βρέθηκε αφαιρούμενη συσκευή αποθήκευσης</string>
 	<string name="dialog_nps_comment_cancel_text">Όχι ευχαριστώ</string>
 	<string name="dialog_nps_comment_confirm_text">Βαθμολογία</string>
-	<string name="dialog_nps_comment_slogan_text">"Βαθμολογήστε μας για την 
+	<string name="dialog_nps_comment_slogan_text">"Βαθμολογήστε μας για την
 υποστήριξη της εργασίας μας"</string>
 	<string name="dialog_queued_body">Αυτό το αρχείο είναι στην ουρά για μελλοντική λήψη.</string>
 	<string name="dialog_recovery_tabs_action">Κλίκ για επαναφορά</string>
@@ -389,6 +393,7 @@
 	<string name="exit_fullscreen">Έξοδος Πλήρους οθόνης</string>
 	<string name="expand_button_title">Προηγμένες</string>
 	<string name="favorite">Αγαπημένα</string>
+	<string name="feedback_not_interested_response">"Θα δείτε λιγότερα αντικείμενα αυτού του είδους"</string>
 	<string name="file_dir">Αλλαγή φακέλου</string>
 	<string name="file_name">Ονομα:</string>
 	<string name="file_picker">Επιλογή τοποθεσίας</string>
@@ -1172,7 +1177,7 @@
 	<string name="search_sm">SM</string>
 	<string name="search_sogou">Sogou</string>
 	<string name="search_taobao">Taobao</string>
-	<string name="search_title_browser">Πλοηγός</string>
+	<string name="search_title_browser">Internet</string>
 	<string name="search_tupian">Image</string>
 	<string name="search_yahoo">Yahoo</string>
 	<string name="search_yicha">Yicha</string>
@@ -1206,6 +1211,7 @@
 	<string name="short_video_gesture_hint">Σαρώστε για να παρακολουθήσετε το επόμενο βίντεο</string>
 	<string name="short_video_net_dialog_continue">Αναπαραγωγή</string>
 	<string name="short_video_net_dialog_title">"Χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας τώρα. Η χρήση κινητού ενδέχεται να δημιουργήσει πρόσθετα τέλη φορέα."</string>
+	<string name="short_video_network_error">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά."</string>
 	<string name="short_video_tip">Κοιτάξτε! Διασκεδαστικό βίντεο</string>
 	<string name="show_check_security_url_check_tip_dialog_description">Θα συλλέγουμε και θα χρησιμοποιούμε τα προσωπικά σας δεδομένα αν επιλέξετε να χρησιμοποιήσετε τις υπηρεσίες μας.\nΕδώ είναι τα δεδομένα που θα συλλέξουμε:\n1. Ασφαλείς διευθύνσεις URL: Θα συλλέξουμε τις διευθύνσεις URL των ιστότοπων που επισκέπτεστε κατά τη χρήση των υπηρεσιών μας.\n2. Δεδομένα τοποθεσίας: Θα μεταβούμε στις πληροφορίες της τοποθεσίας σας.\nΈτσι χρησιμοποιούμε τα δεδομένα που συλλέγουμε:\n1. Ασφάλεια: Χρησιμοποιούμε τα δεδομένα σας όταν προστατεύουμε τη συσκευή σας από απάτες και ιούς, καθώς και από λόγους αποθήκευσης και δημιουργίας αντιγράφων ασφαλείας.\n2. Περιεχόμενο: Τα δεδομένα σας βοηθούν να παρέχουμε σχετικό τοπικό περιεχόμενο ειδήσεων.\nΟ περιηγητής πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά. Πρέπει να συμφωνείτε με μας %2$s και %1$s για να μπορέσετε να χρησιμοποιήσετε το πρόγραμμα περιήγησης.</string>
 	<string name="show_security_tip_dialog_title">Όροι Παροχής Υπηρεσιών</string>
@@ -1323,6 +1329,7 @@
 	<string name="translation_query_error">Χωρίς νόημα</string>
 	<string name="translation_query_error_network">Το ερώτημα απέτυχε, ελέγξτε τη σύνδεση δικτύου</string>
 	<string name="translation_result_copy">Τα αποτελέσματα μετάφρασης έχουν αναπαραχθεί</string>
+	<string name="tt_ad">Διαφήμιση</string>
 	<string name="unSwitchText">ΟΧΙ</string>
 	<string name="undo">Αναίρεση</string>
 	<string name="unknown_title">Άγνωστο</string>
