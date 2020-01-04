@@ -4963,6 +4963,11 @@
   <string name="use_location_title">Τοποθεσία και αναζήτηση Google</string>
   <string name="use_open_wifi_automatically_summary">Αυτόματη σύνδεση σε δημόσια δίκτυα υψηλής ποιότητας</string>
   <string name="use_open_wifi_automatically_title">Σύνδεση σε ανοικτά δίκτυα</string>
+  <string name="use_otg_charge_only">Αντίστροφη φόρτιση</string>
+  <string name="use_otg_charge_only_summary">Ταχύτερη φόρτιση 1A</string>
+  <string name="use_otg_file_transfers">Αντίστροφη φόρτιση &amp; μεταφορά αρχείων</string>
+  <string name="use_otg_file_transfers_summary">Πιο αργή φόρτιση 500mA και μεταφορές αρχείων</string>
+  <string name="use_otg_title">USB On-The-Go</string>
   <string name="use_personalized_ad_service">Χρήση αναγνωριστικού διαφήμισης</string>
   <string name="use_personalized_ad_service_summary">Όταν η λειτουργία συστάσεων είναι απενεργοποιημένη, θα εξακολουθείτε να βλέπετε την ίδια ποσότητα διαφημίσεων σαν να ήταν ενεργοποιημένη, αλλά όχι με βάση τα δεδομένα συμπεριφοράς ή τα προσωπικά σας στοιχεία.</string>
   <string name="use_privacy_password_immediate">Χρήση</string>
