@@ -3,4 +3,8 @@
   <string name="pref_camera_denoise_title">Μείωση θορύβου</string>
   <string name="pref_camerasound_music_title">Επιτρέψτε την μουσική παρασκηνίου</string>
   <string name="pref_camerasound_music_summary">Απενεργοποίηση  περιορισμού μουσικής παρασκηνίου κατά την εκκίνηση εγγραφής βίντεο</string>
+  <string name="pref_cameracard_mimoji_title">MiMoji</string>
+  <string name="pref_cameracard_mimoji_summary">Εμφάνιση καρτέλας MiMoji στην εκκίνηση της κάμερας</string>
+  <string name="pref_cameracard_stikers_title">Αυτοκόλλητα</string>
+  <string name="pref_cameracard_stikers_summary">Εμφάνιση αυτοκόλλητων σε σύντομο βίντεο</string>
 </resources>
