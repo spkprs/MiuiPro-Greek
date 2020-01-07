@@ -323,6 +323,7 @@
 	<string name="notification_reset_description">%1$s%1$s Μπορείτε να επαναφέρετε το πρόγραμμα εκκίνησης %2$s</string>
 	<string name="notification_reset_duration">Δύο ώρες αργότερα,</string>
 	<string name="notification_reset_title">Τακτοποιήθηκαν με επιτυχία</string>
+    <string name="one_key_call_title">Πατήστε για κλήση</string>
 	<string name="online_wallpaper">Online</string>
 	<string name="open_personal_assistant_dialog_btn_cancel">Ακύρωση</string>
 	<string name="open_personal_assistant_dialog_btn_confirm">Κλείσιμο</string>
