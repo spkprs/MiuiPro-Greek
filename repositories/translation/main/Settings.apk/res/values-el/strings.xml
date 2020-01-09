@@ -3233,6 +3233,8 @@
   <string name="play_pause_description">Πλήκτρο Αναπαραγωγής/Παύσης</string>
   <string name="please_select_phase2">Φάση 2 ταυτοποίησης</string>
   <string name="please_type_passphrase">Εισάγετε κωδικό</string>
+  <string name="poco_launcher_privacy_policy">Πολιτική Απορρήτου Εκκινητή POCO</string>
+  <string name="poco_launcher_user_agreement">Συμφωνία χρήστη Εκκινητή POCO</string>
   <string name="pointer_location">Θέση του δείκτη</string>
   <string name="pointer_location_summary">Εμφάνιση συντεταγμένων αφής</string>
   <string name="pointer_settings_category">Ποντίκι/Δείκτης</string>
@@ -4965,7 +4967,7 @@
   <string name="use_open_wifi_automatically_summary">Αυτόματη σύνδεση σε δημόσια δίκτυα υψηλής ποιότητας</string>
   <string name="use_open_wifi_automatically_title">Σύνδεση σε ανοικτά δίκτυα</string>
   <string name="use_otg_charge_only">Αντίστροφη φόρτιση</string>
-  <string name="use_otg_charge_only_summary">Ταχύτερη φόρτιση 1A</string>
+  <string name="use_otg_charge_only_summary">Ταχύτερη φόρτιση 1.8A</string>
   <string name="use_otg_file_transfers">Αντίστροφη φόρτιση &amp; μεταφορά αρχείων</string>
   <string name="use_otg_file_transfers_summary">Πιο αργή φόρτιση 500mA και μεταφορές αρχείων</string>
   <string name="use_otg_title">USB On-The-Go</string>
