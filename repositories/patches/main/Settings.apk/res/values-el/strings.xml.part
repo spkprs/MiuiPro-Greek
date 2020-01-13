@@ -11,6 +11,7 @@
   <string name="alpha_build">\nΑλφα</string>
   <string name="animation_framing_title">Συχνότητα κίνησης Πλαισίων</string>
   <string name="app_assistant_title">Πλήκτρο Φωνητικού Βοηθού</string>
+  <string name="default_search_up_title">Εφαρμογή για αναζήτηση μέσω σάρωσης</string>
   <string name="bar_name_title">Απόκρυψη ετικετών εικονιδίων στη γραμμή Γρήγορης πρόσβασης</string>
   <string name="bar_shadow_title">Απόκρυψη αντανάκλασης εικονιδίου</string>
   <string name="battery_level">Ρύθμιση επιπέδου φόρτισης</string>

@@ -193,6 +193,7 @@
 		<string name="error_delete_failed">Αδυναμία διαγραφής αρχείου</string>
 		<string name="error_filename_too_long">Πολύ μεγάλο όνομα αρχείου.</string>
 		<string name="error_folder_already_exists">Αυτό το αρχείο υπάρχει ήδη</string>
+        <string name="error_hint_copy_folder_to_self_or_sub">"Δεν είναι δυνατή η μετακίνηση ή η αντιγραφή φακέλων στους ίδιους ή στους υποφακέλους τους"</string>
 		<string name="error_info_cant_send_folder">Αδυναμία αποστολής αυτού του τύπου αρχείου.</string>
 		<string name="error_invalid_path">Λανθασμένη διαδρομή</string>
 		<string name="error_not_support">Δεν υποστηρίζεται</string>

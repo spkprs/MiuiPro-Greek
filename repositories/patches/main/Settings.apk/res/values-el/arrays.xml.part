@@ -236,4 +236,8 @@
         <item>Αποδοχή Κλήσης</item> 
         <item>Απόρριψη Κλήσης</item> 
     </string-array>
+    <string-array name="default_search_up_entries"> 
+       <item>Προεπιλογή</item> 
+       <item>Browser</item> 
+    </string-array>
 </resources>
