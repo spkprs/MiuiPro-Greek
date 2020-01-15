@@ -59,8 +59,8 @@
   </string-array>
   <string-array name="show_search_entries">
     <item>Εμφάνιση</item>
-    <item>Εμφάνιση σε επαφές</item>
-    <item>Εμφάνιση στην οθόνη κλήσης</item>
+    <item>Στις επαφές</item>
+    <item>Στην οθόνη κλήσης</item>
     <item>Απόκρυψη</item>
   </string-array>
 </resources>

@@ -52,7 +52,7 @@
   <string name="sim_time_title">Αναμονή για επιλογή SIM</string>
   <string name="text_color_title">Χρώμα ετικέτας Πλήκτρου</string>
   <string name="set_call_end_title">Ενέργειες κατά την κλήση</string>
-  <string name="call_key_show_title">Προβολή Ηχείου/Πληκτρολογίου</string>
+  <string name="call_key_show_title">Προβολή Ηχείου/Πληκτρ</string>
   <string name="confirm_call_title">Επιβεβαίωση κλήσης</string>
   <string name="confirm_call_summary">Ενεργοποιήση  επιβεβαίωσης κλήσης από το αρχείο καταγραφής κλήσεων για  αποτροπή τυχαίων κλήσεων</string>
   <string name="show_btn_settings">Ρυθμίσεις πλήκτρων κατά τη διάρκεια μιας κλήσης</string>
