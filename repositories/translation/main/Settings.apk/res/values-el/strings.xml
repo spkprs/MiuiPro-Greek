@@ -1175,9 +1175,11 @@
   <string name="convert_to_fbe_warning">Μετατρέψτε το διαμέρισμα δεδομένων σε αρχεία με κρυπτογράφηση.\n Προειδοποίηση: Αυτό θα διαγράψει όλα τα δεδομένα σας.\n Αυτή η δυνατότητα αναπτύσσεται και μπορεί να μην λειτουργεί σωστά.\n Πατήστε &amp;quot;Καθαρισμός και μετατροπή ...&amp;quot; για να συνεχίσετε.</string>
   <string name="convert_to_file_encryption">Μετατροπή σε κρυπτογράφηση αρχείων</string>
   <string name="convert_to_file_encryption_done">Τα αρχεία κρυπτογραφούνται</string>
-  <string name="convert_to_file_encryption_enabled">Μετατρέπω…</string>
+  <string name="convert_to_file_encryption_enabled">Μετατροπή……</string>
   <string name="cool_color">Ψυχρό</string>
   <string name="copyright_title">Πνευματικά δικαιώματα</string>
+  <string name="corner_assistant_gesture_summary">Σαρώστε προς τα επάνω από την κάτω αριστερή ή δεξιά γωνία για να αφυπνίσετε τον Βοηθό Google</string>
+  <string name="corner_assistant_gesture_title">Σάρωση από την κάτω γωνία για τον Βοηθό Google</string>
   <string name="country_name">%s (σύστημα)</string>
   <string name="create">Δημιουργία</string>
   <string name="credential_contains">Αυτή η καταχώριση περιέχει:</string>
