@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="file_received_successfully">
+        <item quantity="other">Ελήφθησαν %2$d αρχεία απο %1$s επιτυχώς</item>
+        <item quantity="one">Ελήφθη %2$d αρχείο απο %1$s επιτυχώς</item>
+     </plurals>
   <plurals name="file_type_detail_count">
     <item quantity="other">%1$d αρχεία</item>
     <item quantity="one">%1$d αρχείο</item>
   </plurals>
+     <plurals name="image_received_successfully">
+        <item quantity="other">Ελήφθησαν %2$d εικόνες απο %1$s επιτυχώς</item>
+        <item quantity="one">Ελήφθη %2$d εικόνα απο %1$s επιτυχώς</item>
+     </plurals>
   <plurals name="send_file_success_detail_files">
     <item quantity="other">Στάλθηκαν %1$s αρχεία με επιτυχία</item>
     <item quantity="one">Στάλθηκε %1$s αρχείο με επιτυχία</item>
@@ -68,4 +76,12 @@
         <item quantity="other">Μεταφορά %1$d εικόνων στο %2$s</item>
         <item quantity="one">Μεταφορά %1$d εικόνας στο %2$s</item>
     </plurals>
+     <plurals name="successfully_sent_files">
+        <item quantity="other">Στάλθηκαν %2$d αρχεία σε %1$s επιτυχώς</item>
+        <item quantity="one">Στάλθηκε %2$d αρχείο σε %1$s επιτυχώς</item>
+     </plurals>
+     <plurals name="successfully_sent_images">
+        <item quantity="other">Στάλθηκαν %2$d εικόνες σε %1$s επιτυχώς</item>
+        <item quantity="one">Στάλθηκε %2$d εικόνα σε %1$s επιτυχώς</item>
+     </plurals>
 </resources>
