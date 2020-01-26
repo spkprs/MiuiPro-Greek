@@ -210,7 +210,7 @@
      <string name="virus_scan_is_risk">Η εφαρμογή αυτή παρουσιάζει κίνδυνο!</string>
      <string name="virus_scan_is_virus">Η εφαρμογή αυτή περιέχει έναν ιό, παρακαλώ αφαιρέστε την αμέσως!</string>
      <string name="waiting_tip">Αυτό μπορεί να πάρει λίγο χρόνο, αλλά αξίζει τον κόπο</string>
-	<string name="application_detail_tips">Λεπτομέρειες εφαρμογής και ρυθμίσεις δικαιωμάτων</string>
+	<string name="application_detail_tips">Πληροφορίες &amp; ρυθμίσεις αδειών</string>
 	<string name="install_finished_notification_summary">Κάντε κλικ για Εκκαθάριση τώρα</string>
 	<string name="install_finished_notification_title">Η εγκατάσταση της %1$s ολοκληρώθηκε. Μεταβείτε για εκκαθάριση %2$s απορριμμάτων</string>
 	<string name="miui_install_version_3">Έκδοση %1$s -> %2$s | Μέγεθος %3$s</string>

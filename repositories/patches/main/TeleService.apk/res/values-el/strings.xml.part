@@ -55,7 +55,7 @@
   <string name="call_key_show_title">Προβολή Ηχείου/Πληκτρ</string>
   <string name="confirm_call_title">Επιβεβαίωση κλήσης</string>
   <string name="confirm_call_summary">Ενεργοποιήση  επιβεβαίωσης κλήσης από το αρχείο καταγραφής κλήσεων για  αποτροπή τυχαίων κλήσεων</string>
-  <string name="show_btn_settings">Ρυθμίσεις πλήκτρων κατά τη διάρκεια μιας κλήσης</string>
+  <string name="show_btn_settings">Ρυθμίσεις πλήκτρων κατά την Κλήση</string>
   <string name="tools_panel_in_one_row">Πλήκτρα σε μία γραμμή</string>
   <string name="onscreen_contacts_text">Απόκρυψη \"Επαφές\"</string>
   <string name="onscreen_add_call_text">Απόκρυψη \"Προσθήκη Κλήσης\"</string>
