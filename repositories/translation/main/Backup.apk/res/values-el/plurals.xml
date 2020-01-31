@@ -52,12 +52,12 @@
         <item quantity="other">Εισαγωγή %d στοιχείων ξανά.</item>
         <item quantity="one">Εισαγωγή %d στοιχείου ξανά.</item>
     </plurals>
-  <plurals name="trans_failed_summary">
-    <item quantity="other">"Αδύνατη η μεταφορά %d στοιχείων. Πατήστε για λεπτομέρειες."</item>
-    <item quantity="one">"Αδύνατη η μεταφορά %d στοιχείου. Πατήστε για λεπτομέρειες."</item>
- </plurals>
- <plurals name="trans_item_failed_summary">
-    <item quantity="other">"Αδύνατη η μεταφορά %d στοιχείων."</item>
-    <item quantity="one">"Αδύνατη η μεταφορά %d στοιχείου."</item>
- </plurals>
+    <plurals name="trans_failed_summary">
+		<item quantity="other">"Αδύνατη η μεταφορά %d στοιχείων. Πατήστε για λεπτομέρειες."</item>
+		<item quantity="one">"Αδύνατη η μεταφορά %d στοιχείου. Πατήστε για λεπτομέρειες."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+		<item quantity="other">"Αδύνατη η μεταφορά %d στοιχείων."</item>
+		<item quantity="one">"Αδύνατη η μεταφορά %d στοιχείου."</item>
+    </plurals>
 </resources>

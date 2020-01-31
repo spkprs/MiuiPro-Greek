@@ -31,6 +31,7 @@
      <string name="download_apk_desktop_pending">Σε αναμονή</string>
      <string name="download_apk_desktop_running">Λήψη…</string>
      <string name="download_error">Ανεπιτυχής</string>
+	 <string name="download_filesize_unknown">Άγνωστο</string>
      <string name="download_no_application_title">"Αδυναμία ανοίγματος αρχείου"</string>
      <string name="download_percent">%d%%</string>
      <string name="download_queued">Σε αναμονή</string>
@@ -46,6 +47,7 @@
      <string name="notif_title_file_size">%1$d συνολικά</string>
      <string name="notif_title_multiple_downloading">Λήψη %1$d αρχείων</string>
      <string name="notif_title_single_downloading">Λήψη %1$s</string>
+	 <string name="notification_dld_msg">Διαχείριση εφαρμογών που έχουν ληφθεί</string>
      <string name="notification_download_complete">Η λήψη ολοκληρώθηκε.</string>
      <string name="notification_download_failed">Αποτυχία λήψης.</string>
      <string name="notification_download_failed_more">"Αποτυχία λήψης %1$d στοιχείων"</string>
@@ -88,7 +90,7 @@
      <string name="warning_tip_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="wifi_recommended_body" formatted="false">"Αν ξεκινήσετε τη λήψη του %s τώρα μπορεί να οδηγήσει σε υπερβολική χρήση της σύνδεσης δεδομένων κινητής τηλεφωνίας σας, η οποία μπορεί να οδηγήσει σε χρεώσεις από την εταιρεία κινητής τηλεφωνίας σας, ανάλογα με το πρόγραμμα δεδομένων σας.
 
- Πατήστε %s για να ξεκινήσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi."</string>
+Πατήστε %s για να ξεκινήσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi."</string>
      <string name="wifi_recommended_title">Σειρά αναμονής για λήψη αργότερα;</string>
      <string name="wifi_required_body" formatted="false">"Θα πρέπει να χρησιμοποιήσετε το Wi‑Fi για να ολοκληρωθεί αυτή η %s λήψη. 
 
@@ -98,6 +100,4 @@
      <string name="xl_speedup_experience_notify_title">Προνόμια μελών Xunlei</string>
      <string name="xl_speedup_notify_button_experience">Δωρεάν δοκιμή</string>
      <string name="xl_speedup_notify_button_member">Γίνετε μέλος</string>
-	 <string name="download_filesize_unknown">Άγνωστο</string>
-	 <string name="notification_dld_msg">Διαχείριση εφαρμογών που έχουν ληφθεί</string>
 </resources>

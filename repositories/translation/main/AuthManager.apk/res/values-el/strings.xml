@@ -26,6 +26,7 @@
 	<string name="HIPS_Perm_Location_Desc">να εντοπίσει την τοποθεσία σας (GPS ή μέσω δικτύου)</string>
 	<string name="HIPS_Perm_PhoneID">Ταυτότητα συσκευής</string>
 	<string name="HIPS_Perm_PhoneID_Desc">"πρόσβαση  στο IMEI και το IMSI της συσκευής"</string>
+	<string name="HIPS_Perm_PhoneID_Desc_Q">Πρόσβαση στον αριθμό και κατάστασης τηλεφώνου</string>
 	<string name="HIPS_Perm_ROOT">Πρόσβαση root</string>
 	<string name="HIPS_Perm_ROOT_Desc">πρόσβαση root</string>
 	<string name="HIPS_Perm_Read_Call_Log">Ανάγνωση μητρώου κλήσεων</string>
@@ -98,6 +99,18 @@
 	<string name="location_warning">Ο %1$s είναι ο πάροχος των υπηρεσιών τοποθεσίας για τη συγκεκριμένη συσκευή. Η πρόσβαση στην τοποθεσία μπορεί να τροποποιηθεί από τις ρυθμίσεις της τοποθεσίας.</string>
 	<string name="never_ask_again">"Να μην ερωτηθώ ξανά μετά τον περιορισμό"</string>
 	<string name="ok">OK</string>
+	<string name="permdesc_camera">Λήψη φωτογραφιών και βίντεο</string>
+	<string name="permdesc_in_calls">Παρακολούθηση εισερχόμενων κλήσεων</string>
+	<string name="permdesc_location">Πρόσβαση σε πληροφορίες τοποθεσίας</string>
+	<string name="permdesc_location_background">Πρόσβαση τοποθεσίας στο παρασκήνιο</string>
+	<string name="permdesc_microphone">Εγγραφή κλήσεων και ήχου</string>
+	<string name="permdesc_out_calls">Παρακολούθηση εξερχόμενων κλήσεων</string>
+	<string name="permdesc_read_calendar">Πρόσβαση σε συμβάντα ημερολογίου</string>
+	<string name="permdesc_read_storage">Πρόσβαση σε φωτογραφίες και αποθηκευμένα αρχεία στη συσκευή</string>
+	<string name="permdesc_recognition">Πρόσβαση στην Υγεία &amp; Δεδομένα δραστηριότητας</string>
+	<string name="permdesc_sensors">Πρόσβαση δεδομένων αισθητήρα σώματος</string>
+	<string name="permdesc_write_calendar">Πρόσβαση και προσθήκη συμβάντων ημερολογίου</string>
+	<string name="permdesc_write_storage">Πρόσβαση και αποθήκευση φωτογραφιών και αρχείων στη συσκευή</string>
 	<string name="permgroupdesc_calendar">Πρόσβαση σε συμβάντα ημερολογίου</string>
 	<string name="permgroupdesc_calllog">Πρόσβαση και αποθήκευση στοιχείων στο ιστορικό κλήσεων</string>
 	<string name="permgroupdesc_camera">Λήψη φωτογραφιών και βίντεο</string>
@@ -133,17 +146,4 @@
 	<string name="screen_overlay_button">Άνοιγμα ρυθμίσεων</string>
 	<string name="screen_overlay_message">Για να αλλάξετε αυτή τη ρύθμιση της άδειας, πρέπει πρώτα να απενεργοποιήσετε την επικάλυψη της οθόνης από το Ρυθμίσεις>Εφαρμογές</string>
 	<string name="screen_overlay_title">Ανιχνεύτηκε επικάλυψη οθόνης</string>
-     <string name="HIPS_Perm_PhoneID_Desc_Q">Πρόσβαση στον αριθμό και κατάστασης τηλεφώνου</string>
-     <string name="permdesc_camera">Λήψη φωτογραφιών και βίντεο</string>
-     <string name="permdesc_in_calls">Παρακολούθηση εισερχόμενων κλήσεων</string>
-     <string name="permdesc_location">Πρόσβαση σε πληροφορίες τοποθεσίας</string>
-     <string name="permdesc_location_background">Πρόσβαση τοποθεσίας στο παρασκήνιο</string>
-     <string name="permdesc_microphone">Εγγραφή κλήσεων και ήχου</string>
-     <string name="permdesc_out_calls">Παρακολούθηση εξερχόμενων κλήσεων</string>
-     <string name="permdesc_read_calendar">Πρόσβαση σε συμβάντα ημερολογίου</string>
-     <string name="permdesc_read_storage">Πρόσβαση σε φωτογραφίες και αποθηκευμένα αρχεία στη συσκευή</string>
-     <string name="permdesc_recognition">Πρόσβαση στην Υγεία &amp; Δεδομένα δραστηριότητας</string>
-     <string name="permdesc_sensors">Πρόσβαση δεδομένων αισθητήρα σώματος</string>
-     <string name="permdesc_write_calendar">Πρόσβαση και προσθήκη συμβάντων ημερολογίου</string>
-     <string name="permdesc_write_storage">Πρόσβαση και αποθήκευση φωτογραφιών και αρχείων στη συσκευή</string>
 </resources>
