@@ -255,5 +255,7 @@
   <string name="miuipro_select_app_title">Προσθήκη συντόμευσης στην Οθόνη Κλειδώματος</string>
   <string name="miuipro_select_aod_app_title">Ρύθμιση ειδοποίησης εφαρμογών</string>
   <string name="miuipro_select_quick_app_title">Ορισμός συντόμευσης εφαρμογών</string>
+  <string name="wifi_network_set_5Gh">Υποχρεωτικά 5Ghz</string>
+  <string name="wifi_network_set_5Gh_summary">Για ενεργοποίηση σε ορισμένες χώρες (απαιτείται επανεκκίνηση)</string>
 </resources>
 
