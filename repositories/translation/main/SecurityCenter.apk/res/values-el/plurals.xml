@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-<resources>
-	<plurals name="app_behavior_desc_allow">
+    <plurals name="app_behavior_desc_allow">
          <item quantity="other">Επιτράπηκε %3$d φορές μεταξύ %1$s και %2$s</item>
          <item quantity="one">Επιτράπηκε %3$d φορά μεταξύ %1$s και %2$s</item>
     </plurals>
@@ -513,3 +513,4 @@
         <item quantity="one">%d εφαρμ.</item>
     </plurals>
 </resources>
+
