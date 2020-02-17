@@ -257,5 +257,6 @@
   <string name="miuipro_select_quick_app_title">Ορισμός συντόμευσης εφαρμογών</string>
   <string name="wifi_network_set_5Gh">Υποχρεωτικά 5Ghz</string>
   <string name="wifi_network_set_5Gh_summary">Για ενεργοποίηση σε ορισμένες χώρες (απαιτείται επανεκκίνηση)</string>
+  <string name="folder_blur_title">Εφε θόλωσης στους φακέλους</string>
 </resources>
 
