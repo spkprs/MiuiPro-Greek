@@ -76,6 +76,7 @@
   <string name="unlock_error_wrong_vcode">Ο κωδικός που πληκτρολογήσατε είναι λανθασμένος</string>
   <string name="unlock_help">Μείνετε συνδεδεμένοι στο Δίκτυο\u000d\u000d\nΒεβαιωθείτε ότι έχετε εγκαταστήσει μια κάρτα SIM που λειτουργεί (αν η συσκευή σας το υποστηρίζει) και η συσκευή σας δεν είναι συνδεδεμένη σε ένα ασταθές δίκτυο Wi‑Fi\u000d\u000d\n\u000d\u000d\nΞεχάσατε τον κωδικό;\u000d\u000d\nΠηγαίνετε στο id.mi.com για επαναφορά του κωδικού σας\u000d\u000d\n\u000d\u000d\nΆλλοι λόγοι\u000d\u000d\nΣυνδεθείτε στο i.mi.com και δοκιμάστε να ξεκλειδώσετε τη συσκευής σας από εκεί</string>
   <string name="unlock_help_title">Βοήθεια ξεκλειδώματος:</string>
+  <string name="unlock_number">Κωδικός ξεκλειδώματος: %s</string>
   <string name="unlock_wrong_captcha">Ο κωδικός που δώσατε είναι λάθος</string>
   <string name="unlocking">Ενεργοποίηση…</string>
   <string name="verifing_account">Επαλήθευση κωδικού…</string>

@@ -85,11 +85,6 @@
 	<string name="crop_done_description">Ολοκληρώθηκε</string>
 	<string name="crop_title_study">Περικοπή φωτογραφίας</string>
 	<string name="crop_title_translation">Επιλέξτε κείμενο για μετάφραση</string>
-    <string name="crop__cancel">ΑΚΥΡΩΣΗ</string>
-    <string name="crop__done">ΟΚ</string>
-    <string name="crop__pick_error">Δεν υπάρχουν διαθέσιμες πηγές εικόνων</string>
-    <string name="crop__saving">Αποθήκευση εικόνας…</string>
-    <string name="crop__wait">Περιμένετε…</string>
 	<string name="dialog_dismiss">Απόρριψη</string>
 	<string name="dialog_report">Αναφορά</string>
 	<string name="document_color_picture">Χρώμα</string>
