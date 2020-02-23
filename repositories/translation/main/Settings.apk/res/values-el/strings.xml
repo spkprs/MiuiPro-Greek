@@ -1261,6 +1261,7 @@
   <string name="daltonizer_mode_tritanomaly">Ανώμαλη τριτοχρωματοψία (μπλε-κίτρινο)</string>
   <string name="daltonizer_type">Λειτουργία διόρθωσης</string>
   <string name="daltonizer_type_overridden">Παρακάμφθηκε από %1$s</string>
+  <string name="dark_wallpaper_mode">Προσαρμογή ταπετσαρίας σε "Σκοτεινή Οθόνη"</string>
   <string name="dashboard_title">Ρυθμίσεις</string>
   <string name="data_limit">Όριο δεδομένων</string>
   <string name="data_saver_off">Απενεργοποιημένη</string>
@@ -4708,6 +4709,8 @@ Bluetooth"</string>
   <string name="tether_settings_title_usb_bluetooth">Πρόσδεση</string>
   <string name="tether_settings_title_wifi">Φορητό Hotspot</string>
   <string name="tether_share_qrcode_title">Κοινή χρήση κωδικού QR</string>
+  <string name="tether_use_wifi6_summary">Ορισμένες συσκευές ενδέχεται να μην είναι συμβατές με το πρότυπο 802.11ax. Απενεργοποιήστε αυτήν τη δυνατότητα εάν αντιμετωπίσετε προβλήματα.</string>
+  <string name="tether_use_wifi6_title">Υποστήριξη προτύπου έκτης γενιάς</string>
   <string name="tethering_footer_info">Χρήση σημείου πρόσβασης Wi-Fi και σύνδεσης για την παροχή σύνδεσης στο διαδίκτυο σε άλλες συσκευές μέσω σύνδεσης δεδομένων κινητών.</string>
   <string name="tethering_help_button_text">Βοήθεια</string>
   <string name="tethering_settings_not_available">Αλλαγή ρυθμίσεων tethering στο Πρώτο προφίλ</string>
