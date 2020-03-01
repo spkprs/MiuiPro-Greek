@@ -855,4 +855,11 @@
 	<string name="yesterday">Χθες</string>
 	<string name="younger_brother">νεώτερος αδελφός</string>
 	<string name="younger_sister">νεώτερη αδελφή</string>
+     <string name="dob_selection_error">"Η ημερομηνία γέννησης πρέπει να είναι προγενέστερη της σημερινής ημερομηνίας"</string>
+     <string name="history_delete_confirmation">Απαλοιφή ιστορικού τώρα;</string>
+     <string name="label_about">Σχετικά</string>
+     <string name="label_clear_history">Απαλοιφή όλων</string>
+     <string name="label_delete">Απαλοιφή</string>
+     <string name="label_history">Ιστορικό</string>
+     <string name="label_no_history">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
 </resources>
