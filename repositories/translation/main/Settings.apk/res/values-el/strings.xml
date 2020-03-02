@@ -6605,7 +6605,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
 	<string name="ime_security_warning_global">Οι μέθοδοι εισόδου μπορεί να είναι σε θέση να συλλέξουν όλο το κείμενο που πληκτρολογείτε, συμπεριλαμβανομένων των προσωπικών δεδομένων, όπως κωδικό πρόσβασης και αριθμούς πιστωτικών καρτών. Να χρησιμοποιηθεί το %1$s;</string>
 	<string name="ime_security_warning_title_global">Ενεργοποίηση πληκτρολογίου</string>
 	<string name="open_haptic_feedback">Απτικά σχόλια</string>
-    <string name="video_tool_box_title">Εργαλειοθήκη Βίντεο</string>
     <string name="gps_description">Υποστηρίζονται πολλαπλά δορυφορικά συστήματα πλοήγησης (GPS, BeiDou, GLONASS, Galileo)</string>
     <string name="default_suppression_title">Προεπιλογή (συνιστάται)</string>
     <string name="diy_suppression_summary">Ρύθμιση του μεγέθους της περιοχής κοντά στα άκρα όπου θα παραβλεφθεί η τυχαία αφή</string>
@@ -6703,5 +6702,8 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="wifi_link_turbo_list">Εφαρμογές</string>
     <string name="wifi_link_turbo_recommendation">Προτεινόμενες εφαρμογές</string>
     <string name="wifi_link_turbo_recommendation_summary">Λήψη προτάσεων με βάση στατιστικά στοιχεία χρήσης δεδομένων</string>
+	<string name="easymode_hint">Άγγιγμα για απενεργοποίηση λειτουργίας Lite</string>
+	<string name="oldman_mode_settings">Λειτουργία Lite</string>
+	<string name="video_tool_box_title">Εργαλεία Video</string>
 </resources>
 
