@@ -591,4 +591,5 @@ ID:%s
   <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
   <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
   <string name="passport_ticket_login_select_sim_card_cancel">Ακύρωση</string>
+  <string name="password_toggle_content_description">Εναλλαγή προβολής κωδικού</string>
 </resources>
