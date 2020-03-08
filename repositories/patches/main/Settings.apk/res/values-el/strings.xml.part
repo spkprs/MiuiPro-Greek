@@ -258,5 +258,7 @@
   <string name="wifi_network_set_5Gh">Υποχρεωτικά 5Ghz</string>
   <string name="wifi_network_set_5Gh_summary">Για ενεργοποίηση σε ορισμένες χώρες (απαιτείται επανεκκίνηση)</string>
   <string name="folder_blur_title">Εφε θόλωσης στους φακέλους</string>
+  <string name="volbtn_toggle_summary">Δυνατότητα αλλαγής τραγουδιών σε ανενεργή οθόνη</string>
+  <string name="set_in_aod_summary">Δυνατότητα αλλαγής τραγουδιών με ενεργό AOD</string>
 </resources>
 
