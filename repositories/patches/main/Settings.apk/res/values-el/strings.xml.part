@@ -260,5 +260,7 @@
   <string name="folder_blur_title">Εφε θόλωσης στους φακέλους</string>
   <string name="volbtn_toggle_summary">Δυνατότητα αλλαγής τραγουδιών σε ανενεργή οθόνη</string>
   <string name="set_in_aod_summary">Δυνατότητα αλλαγής τραγουδιών με ενεργό AOD</string>
+  <string name="battery_meter_legacy_title">Εικονίδιο Μπαταρίας</string>
+  <string name="network_speed_splitter_title">Οριοθέτης</string>
 </resources>
 
