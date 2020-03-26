@@ -338,7 +338,7 @@
   <string name="app_manager_powerkeeper_no_restrict">Χωρίς περιορισμούς</string>
   <string name="app_manager_powerkeeper_restrict_bg">Περιορισμός εφαρμογών παρασκηνίου</string>
   <string name="app_manager_pref_ads">Συστάσεις</string>
-  <string name="app_manager_reset_app_preferences">Επαναφορά προτιμήσεων εφαρμ.</string>
+  <string name="app_manager_reset_app_preferences">Επαναφορά ιδιοτήτων εφαρμ</string>
   <string name="app_manager_reset_app_preferences_button">Επαναφορά εφαρμογών</string>
   <string name="app_manager_reset_app_preferences_desc">"Αυτό θα επαναφέρει όλες τις προτιμήσεις για:
 
@@ -348,7 +348,7 @@
 "<li>Περιορισμοί εφαρμ. δεδ. παρασκ.</li>"
 
 Δεν θα χάσετε δεδομένα εφαρμογής."</string>
-  <string name="app_manager_reset_app_preferences_title">Επαναφορά προτιμήσεων εφαρμ;</string>
+  <string name="app_manager_reset_app_preferences_title">Επαναφορά ιδιοτήτων εφαρμ;</string>
   <string name="app_manager_search_prompt">Αδύνατη η εύρεση αποτελεσμάτων; Δοκιμάστε την εμφάνιση αποτελεσμάτων από όλες τις εφαρμογές.</string>
   <string name="app_manager_show_all_apps">Εμφάνιση όλων των εφαρμογών</string>
   <string name="app_manager_show_all_apps_opened">Εμφάνιση αποτελεσμάτων από όλες τις εφαρμογές…</string>
@@ -1757,7 +1757,7 @@
     <string name="permission_upgrade_virtual">"Εάν δεν θέλετε να επιτρέψετε στις εφαρμογές να έχουν πρόσβαση στις επαφές ή το ιστορικό κλήσεων, μπορείτε να επιλέξετε \"Επιστροφή κενών μηνυμάτων\" όταν εκχωρείτε αντίστοιχα δικαιώματα."</string>
   <string name="person_hotpot">Hotspot κινητής</string>
   <string name="phone">Τηλέφωνο</string>
-  <string name="phone_manage">Χρήσιμα</string>
+  <string name="phone_manage">Εργαλεία</string>
   <string name="phone_manage_app_manager_summary">Διαχείριση των εφαρμογών σας</string>
   <string name="phone_manage_clean_summary">Απελευθερώστε αποθ. χώρο</string>
   <string name="phone_manage_clean_title">Καθαριστής</string>
