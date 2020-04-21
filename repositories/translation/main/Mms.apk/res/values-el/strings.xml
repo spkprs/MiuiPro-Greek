@@ -472,8 +472,8 @@
 	<string name="nosend_message">Να μην αποσταλεί</string>
 	<string name="not_prepare_for_send">Δεν υπάρχει μήνυμα προς αποστολή</string>
 	<string name="not_set">Δεν έχει οριστεί</string>
-    <string name="notification_add_todo">Υπενθύμιση</string>
-    <string name="notification_add_todo_content">Κωδικός παραλαβής: %s</string>
+        <string name="notification_add_todo">Υπενθύμιση</string>
+        <string name="notification_add_todo_content">Κωδικός παραλαβής: %s</string>
 	<string name="notification_channel_msg_description">Ειδοποιήσεις περί Μηνυμάτων</string>
 	<string name="notification_channel_msg_name">Μηνύματα</string>
 	<string name="notification_channel_other_description">Άλλες ειδοποιήσεις</string>
@@ -798,7 +798,7 @@
 	<string name="service_network_problem">Αδυναμία αποστολής λόγω σφάλματος δικτύου</string>
 	<string name="service_not_activated">Η υπηρεσία δεν είναι ενεργοποιημένη στο δίκτυο</string>
 	<string name="set">Ορισμός</string>
-    <string name="share">Κοινή χρήση</string>
+        <string name="share">Κοινή χρήση</string>
 	<string name="share_img">Κοινή χρήση</string>
 	<string name="shortcut_new_msg">Νέο μήνυμα</string>
 	<string name="shortcut_setting">Ρυθμίσεις</string>
@@ -821,11 +821,11 @@
 	<string name="slide_show_part">Μέρος %1$d/%2$d</string>
 	<string name="slide_up_to_cancel">Σύρετε πάνω για ακύρωση</string>
 	<string name="slideshow_activity">Παρουσίαση</string>
-    <string name="smart_message_title">Έξυπνα Μηνύματα</string>
+        <string name="smart_message_title">Έξυπνα Μηνύματα</string>
 	<string name="smart_messages_network_allow_message">Το Mi Μηνύματα πρέπει να συνδεθεί στο Διαδίκτυο, προκειμένου οι υπηρεσίες του να λειτουργούν κανονικά. Αποδοχή τωρα?</string>
 	<string name="smart_messages_network_allow_title">Απαιτείται σύνδεση στο Internet</string>
-    <string name="smart_msg_main_purpose">Το Έξυπνο μήνυμα παρέχει ID αποστολέα και υπηρεσίες έξυπνων μενού.</string>
-    <string name="smart_msg_privacy_policy">Πολιτική Απορρήτου Έξυπνων Μηνυμάτων</string>
+        <string name="smart_msg_main_purpose">Το Έξυπνο μήνυμα παρέχει ID αποστολέα και υπηρεσίες έξυπνων μενού.</string>
+        <string name="smart_msg_privacy_policy">Πολιτική Απορρήτου Έξυπνων Μηνυμάτων</string>
 	<string name="sms_card_partner_label">"Συνεργάτης καρτών SMS: "</string>
 	<string name="sms_card_teddy_mobile">Teddy Mobile</string>
 	<string name="sms_content">Περιεχόμενο:</string>
@@ -885,7 +885,7 @@
 	<string name="system_permission_declare_no_say_no">"Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και τις πολιτικές απορρήτου.
 Εάν δεν συμφωνείτε να εκχωρήσετε τέτοια δικαιώματα ή να κάνετε κοινή χρήση και να αποστείλετε τα προσωπικά σας στοιχεία, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή."</string>
 	<string name="system_permission_declare_privacy_declare">Η εφαρμ. %1s πρέπει να συλλέξει τα δεδομένα σας και απαιτεί τα ακόλουθα δικαιώματα για να λειτουργήσει κανονικά:</string>
-    <string name="system_permission_declare_privacy_declare_new">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τα ακόλουθα δικαιώματα για να μπορεί να λειτουργεί κανονικά:</string>
+        <string name="system_permission_declare_privacy_declare_new">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τα ακόλουθα δικαιώματα για να μπορεί να λειτουργεί κανονικά:</string>
 	<string name="system_permission_declare_revoke_path">Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας και να απενεργοποιήσετε τις υπηρεσίες στις ρυθμίσεις.</string>
 	<string name="system_permission_declare_single_link">Διαβάστε και συμφωνήστε με την %1s πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
 	<string name="system_permission_declare_triple_link" formatted="false">Διαβάστε και συμφωνήστε με την %1s, %2s, και %3s πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
@@ -902,11 +902,7 @@
 	<string name="title_activity_rcs_maps">Τοποθεσία</string>
 	<string name="title_allow_network_access">Αυτόματη ενημέρωση πληροφοριών</string>
 	<string name="title_collapse_sp_messages">Ομαδοποίηση μηνυμάτων παρόχου</string>
-<<<<<<< HEAD
 	<string name="title_hide_verification_code">Αυτόματη απόκρυψη ΚΜΧ στην οθόνη κλειδώματος</string>
-=======
-	<string name="title_hide_verification_code">Αυτόματη απόκρυψη του ΚΜΧ στην οθόνη κλειδώματος</string>
->>>>>>> master
 	<string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
 	<string name="title_show_blocked_messages">Εμφάνιση αποκλεισμένων SMS</string>
 	<string name="title_show_list_avatar">Προβολή φωτογραφιών προφίλ</string>
