@@ -902,7 +902,11 @@
 	<string name="title_activity_rcs_maps">Τοποθεσία</string>
 	<string name="title_allow_network_access">Αυτόματη ενημέρωση πληροφοριών</string>
 	<string name="title_collapse_sp_messages">Ομαδοποίηση μηνυμάτων παρόχου</string>
+<<<<<<< HEAD
 	<string name="title_hide_verification_code">Αυτόματη απόκρυψη ΚΜΧ στην οθόνη κλειδώματος</string>
+=======
+	<string name="title_hide_verification_code">Αυτόματη απόκρυψη του ΚΜΧ στην οθόνη κλειδώματος</string>
+>>>>>>> master
 	<string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
 	<string name="title_show_blocked_messages">Εμφάνιση αποκλεισμένων SMS</string>
 	<string name="title_show_list_avatar">Προβολή φωτογραφιών προφίλ</string>
